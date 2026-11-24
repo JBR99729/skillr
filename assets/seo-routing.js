@@ -4,8 +4,8 @@
   const path = window.location.pathname.endsWith("/") ? window.location.pathname : window.location.pathname + "/";
   const authoredRobots = document.querySelector('meta[name="robots"]')?.content || '';
   const authoredCanonical = document.querySelector('link[rel="canonical"]')?.href;
-  const currentActivity = /^\/quiz\/(?:grade-k|year-(?:[1-9]|10))\/(?:math|english|science)\/ac9[a-z0-9]+\/(?:practice|test|quiz)\/$/i.test(path);
-  if (currentActivity && /(?:^|[,\s])index(?:$|[,\s])/i.test(authoredRobots)
+  const currentResource = /^\/quiz\/(?:grade-k|year-(?:[1-9]|10))\/(?:math|english|science)\/ac9[a-z0-9]+\/(?:practice|test|quiz|worksheet)\/$/i.test(path);
+  if (currentResource && /(?:^|[,\s])index(?:$|[,\s])/i.test(authoredRobots)
       && authoredCanonical && new URL(authoredCanonical, location.href).pathname === path) return;
   const target = canonicalByQuizPath[path];
   if (!target) return;

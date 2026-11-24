@@ -1,0 +1,221 @@
+{
+  "reviewer": "/root/year1_english_batch2_review",
+  "reviewer_type": "Independent AI content/source reviewer, separate from author",
+  "date": "2026-11-10 Australia/Sydney",
+  "status": "PASS all authored and retained educational content/source; browser/model pixel gate pending",
+  "reviewed_head": "e8071f86c273a628a70c9693bf588bf4826a5320",
+  "baseline": "309dfaed2ade55de7e45dbd2f98ff37e6a6a3b85",
+  "scope": {
+    "codes": 10,
+    "authored_scalar_strings_read": 440,
+    "front_focuses": 30,
+    "retained_sections_read": 121,
+    "material_packets_read": 12,
+    "bounded_retained_or_earlier_wording_repairs_read": 7,
+    "earlier_inline_svg_models": 10,
+    "native_model_source_instances": 34,
+    "external_asset_identities": 20,
+    "distinct_paid_links": 18,
+    "available_cover_assets": 1
+  },
+  "source_hashes": {
+    "page-content.json": "81742f9d72e399ac3a1d89a4b24ecf585449a3970ed80f6b25cfd8840d8024ea",
+    "retained-additions.json": "bafa89b8f501040c2b3ea8624bc9c091cfb0ca4a39a3b27412af5e2c643a0047",
+    "retained-corrections.json": "f1c2b7f5f02d935ee6bbac0c4921564bf94fa485f81fc16a96b12780e8aef3bb",
+    "retained-section-identities.json": "1636bc749c9ab696ecba958ff819524c0404c69f74226f45ff873be9cdcd3c52",
+    "artwork-and-evidence.json": "faa8c8574f182d620c89adff6e0403f04ee7c60c42be5e3c9d04bafced765527",
+    "inventory.json": "66de93caf60ffaf0230b3be7dd0874208eb8bb06d298eb388c354fe6a2c653c5",
+    "resource-preservation.json": "655f26371fa1dc7007f2b0e2c96a97de00316b91b6d0553900f6109a1569f4d9"
+  },
+  "codes": [
+    {
+      "code": "AC9E1LE01",
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "page_sha256": "3738ab94449ee81018d88f092515729f76b2a8b76280b7083606bd8190188e16",
+      "retained_section_count": 9,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Bookshelves suggest library and plant adds unstated detail; no thoughts/book title inferred.",
+        "Pip offers/lends scarf: supported helpful moment and human-like speaking/clothing; dusk is time, no place supplied.",
+        "Actual word/image evidence from lawful book pages, all3creator contexts over time; differing supported interpretations accepted.",
+        "One creator can perform both jobs; moon does not prove exact time; character interpretations need clues."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LE02",
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "page_sha256": "316d4a5c33eed5fe5b7705228da4e1f5dc2d956a9171d232325ce712003eaa12",
+      "retained_section_count": 9,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Ada lends Tom a pencil: direct helping evidence; smile may suggest feeling, exact thoughts/colour unknown.",
+        "Lena continuing after tower falls and puzzle perseverance share persistence, with different contexts; personal link is voluntary.",
+        "Rain-poem drawing/roleplay plus linked experience and actual partner exchange; speaker I is not author identity proof.",
+        "Surface pencil ownership requires a meaningful explained link; similar experiences need not match; safe imagined fallback not called own-experience evidence."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LE03",
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "page_sha256": "444300d2f535788fba7a93d953c191edbe41ce840f0445c21821941315d43730",
+      "retained_section_count": 16,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Bo/librarian characters; library/Saturday morning setting; return/thanks are events, book an object.",
+        "Rolling out ball makes it reachable; flower/jar sequence has no stated obstacle.",
+        "Both shelter/thanks, different characters/places/actions; talking tree imagined, no season/exactyear stated.",
+        "Lee loosens caught kite ribbon to enable flying; accurate causal map, accessible discussion distinct from writing."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LE04",
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "page_sha256": "d98bf55fe0840cf5c722576b6db73cb660322844f4333ef4c71693cb5a859f1a",
+      "retained_section_count": 17,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Big/bears/bounce begin /b/; cat/hat rhyme while cat/cup only share beginning.",
+        "Adult model echo actually performed; song play/way rhyme, chant repeats; deliberate calm/lively choice accepted.",
+        "Different meaningful rhyming/alliterative creations accepted; copy=imitation, new meaningful choice=invention.",
+        "No perfectpitch/accent/musicnotation demand; authorised cultural listening and haiku contexts remain distinct from neutral invented verse."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LE05",
+      "path": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "page_sha256": "3176f2802fba589ebd78a7d9ef196eb8ba258a692fd30ef062f7db212c6bc6b0",
+      "retained_section_count": 14,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Nell seed/water/shoot order retained for this supplied version; learner must tell it.",
+        "Jo action supports helpful description; thanks roleplay accepts coherent wording/access modes.",
+        "Classroom adaptation may replace bench/stick with desk/ruler; other coherent announced versions accepted.",
+        "Model Sam/Jo story familiarised before actual retell; main problem/help/result preserved without every exactword/minordetail."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LY01",
+      "path": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "page_sha256": "26df55ab479a2b5ae8c39ab070c2e5090957dbf1c1024d4866b0bf88f2626193",
+      "retained_section_count": 14,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Come/classshow/time/place invites; yesterdayclassshow reports event despite sharedtopic.",
+        "Materials list names needed objects, numbered imperative actions guide making; numbers alone not proof.",
+        "Library notice gives Monday reopening; stall request invites and encourages with reason, mixedpurpose acceptable.",
+        "Actual complete procedure and3complete sortcards now replace missinggivens; choice among formats remains conceptual, not absentpicture evidence."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LY02",
+      "path": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "page_sha256": "cf11cae2f02000ea53a8c21bc1a08de2240dc3bb4358166ace7706fb1275a2f1",
+      "retained_section_count": 14,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Fairturn repair waits and gives connectedreply; pause may be thinking, pass/access supported.",
+        "Actual directions/restatement/drawing check size/position; recorded speech-specific criteria can remain unobserved under AAC/sign.",
+        "Beans followup depends on reply; yes/no checksdetail, openquestion invites explanation; nofirstword taxonomy trap.",
+        "Quiet/together plan considers both needs; disagreement can be respectful; noforcedgaze/stillness/accent/commandedspeech scoring."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LY03",
+      "path": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "page_sha256": "43ddf89c98d9b04182756846a6837ca7222ba6a3e635683afe96e7bab76ce767",
+      "retained_section_count": 14,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Explicitly invented plausible hat story remains imaginative; hat-shade text gives information.",
+        "Plant texts share topic; Brequestswaterwithreason, Ainformation; identical actual supplied images confirmsharedpicture.",
+        "WombatburrowAanswershomequestion, WallyadventureBstory, Cprotectionrequest; animal alone notclassification.",
+        "Actual fox/picnic/fur/bin cards supportpurposecomparison; mixedpurposes and fact-supported persuasion allowed; can-definition avoids excluding imaginativepoems."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LY04",
+      "path": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "page_sha256": "3f845bdb0c7c07694d6b7bd3c149a125693890cc483ed98a21b9d15384b94591",
+      "retained_section_count": 8,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "fish has sh digraph, /f/i/sh/; readwhole actualsentence with taughtpatterns/help.",
+        "Questionjump checkedagainstprintedj andremainingletters afterbump error; notplausibility/pictureguess.",
+        "Supported notice asksclosegate; actualread/corrections/phrases/meaningobserved, notadultcomprehensionproxy.",
+        "frog /f/r/o/g/ thenphrase; accuracy/meaning/suitablepace notspeed; highfrequency spellingparts+helpstrategies preserved."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    },
+    {
+      "code": "AC9E1LY05",
+      "path": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "page_sha256": "2907e5886eb214254b4f9f2a3d8333b0d3356f96af888a45b4d05fabd7c86324",
+      "retained_section_count": 6,
+      "front_focus_count": 3,
+      "worked_activity_tricky_faq_review": "All reviewed for source agreement, ambiguity, alternatives, reading load, age boundary, differentiation and actual response demand.",
+      "checked_outcomes": [
+        "Keep2kittens/sitting/underbench/dogpath; recordpredictionbeforecollapsednextpart revealsdogwalkspast/kittensstay. Differentjustifiedpredictionvalid untilchecked.",
+        "slick=slippery fromrain/easytoslip; Mia may feelpleased fromsmile, notcertainprivatefeeling.",
+        "Summaryretainsdrysoil/watering/firmerleaves; whywater=drystatedsoil, exactplantage notgiven.",
+        "Beetle adultspoken text recalls6legs andprotectivewingcovers; summary/questionfaithfultotext, actualresponse route/helpnoted."
+      ],
+      "status": "PASS educational/source; actual browser gate pending"
+    }
+  ],
+  "independent_mechanical_checks": [
+    "Separately compared all121baseline sections+exactdeclared material additions/wordingrepairs withactualfinalsource.",
+    "Separately compared alltitle/meta/canonical/JSONLD andall18distinctbaselinepaidURLidentities.",
+    "Actualfixedsamecodeteacherslides/index.html andworksheet/index.html filesexist;onepublishedsamecodeappreturnpersource.",
+    "All20externalassetbytes/SHA256exactlymatchbaselineGitblobs;all10earlierinlineSVGgeometrypreserved,onlyoneexplicitLY03earliertakeawaycanwordingexception.",
+    "All10currentpagebytesindependentlyequalactualcommittedreviewhead;pagefingerprintsagreewithinventory."
+  ],
+  "author_source_validator": {
+    "actually_executed": true,
+    "command": "python scripts/qa_year1_english_topic_pages_batch2.py 309dfaed2ade55de7e45dbd2f98ff37e6a6a3b85",
+    "result": "PASS10pages/440fields/121retainedsections/354nativedisclosures; author validator execution is separate from independent semantic reasoning."
+  },
+  "actual_raster_inspection": [
+    "LE01library,sharingcrayons,beachatnight",
+    "LY01magpie",
+    "LY03actualreal/fantasywombatplateandactualrepeatedgrowingplantimage",
+    "LY04frogmeaningimage",
+    "LY05library,leavesandfeederillustrations",
+    "ExistingLY05paidcover;contentquantities/labelmatchpreservedsource,notfreshlinkedproductcertification."
+  ],
+  "findings_closed": [
+    "LE02Nia/poemcompleteinstancerepetition.",
+    "LE04refrain+adulttunerepeatedininventionsection.",
+    "LE01actual3bookprogrammeaddedwithlawfulcopy/creator/culturalguidanceandactualword-imageeffectcriteria.",
+    "LY03sameactualimageandfullA/Bmessagesrepeatedinthesamesection.",
+    "LE03actual3eventcardsandfreshcompletequickcheckstorysupplied.",
+    "LY01actual3textcardsandsuppliedwrittenprocedureavoidabsentpage/imageclaim.",
+    "LY03actual3textcardsnowavailableinsortandquickchecksections.",
+    "3process-onlyIXLsentencesremoved,LY02openreplyinstructionclarified,LY03can-definitioncorrectedinbothretainedandearliertext.",
+    "LY03frontwordingcanandfamiliarfoxesfuravoidmisleadingdefinitionandunnecessaryscienceterm."
+  ],
+  "high_risk_specific_recheck": "LY05predictionnextpart isinside thecollapsednativeTryanswer,whileopening/modelinstructionsremainvisible;rootwilltestactualnativecontrols inhostedbrowser.",
+  "unresolved_confirmed_content_defects": [],
+  "limits": [
+    "This isall-contentreviewofunscoredpublicTopicGuides,notablindscored-bankexamination,six-passappbankcertification,humanapprovalorpupilattainmentevidence.",
+    "ActualnativeHTML/SVGpixelandresponsiveinteractionreviewremainsaseparategate;sourcegeometryandhashesdonotprovevisualcorrectness.",
+    "Noactualbookspreads,culturalperformances,audio/pupilresponsesorlinkedworksheet/TeacherSlidescontentwerecertified;adultmaterialandactualperformancerequirementsremainexplicit.",
+    "Preservedcommercialcounts/linksarebaselineidentities;nocurrentprice/inclusionclaimwasnewlyverifiedbyopeningexternalmarketplaceproducts."
+  ]
+}

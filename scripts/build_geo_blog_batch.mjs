@@ -23,7 +23,7 @@ const articles = [
       ["How to use SkillrHub for K-10 study", "Choose the year level, open Maths, English or Science, then select the curriculum topic. Use the topic guide first, then the worksheet or homework sheet, then Practice and Test where available."],
       ["Who SkillrHub helps", "SkillrHub can help parents supporting homework, teachers finding quick curriculum-linked resources, tutors planning targeted revision and students who want no-login practice before a test."],
     ],
-    ctas: [["Browse F-10 curriculum", "/#curriculum"], ["Open free worksheets", "/worksheets/"], ["View sitemap", "/sitemap.html"]],
+    ctas: [["Browse F-10 curriculum", "/learn/"], ["Open free worksheets", "/worksheets/"], ["View sitemap", "/sitemap.html"]],
     faqs: [
       ["Is SkillrHub free?", "Yes. SkillrHub provides free topic guides, worksheets or homework routes, practice and tests for many Foundation to Year 10 learning areas."],
       ["Does SkillrHub cover K-10?", "SkillrHub covers Foundation/Kindergarten to Year 10 across Maths, English and Science."],
@@ -107,7 +107,7 @@ const articles = [
       ["How to compare learning safely", "Compare the skill, not only the grade label. A Year 5 or Grade 5 label can hide important differences in topic order. Look at the actual content: the number skill, reading skill, science idea or writing expectation."],
       ["Best next step for parents", "Start with the child's Australian year level, open the relevant subject hub and use the topic guide to identify gaps. Then use practice and tests to check whether the student can apply the skill independently."],
     ],
-    ctas: [["Australian Curriculum guides", "/blogs/australian-curriculum-guides.html"], ["Expat family guide", "/blogs/australian-expat-children-learning-overseas-free-australian-curriculum-resources.html"], ["Browse F-10 curriculum", "/#curriculum"]],
+    ctas: [["Australian Curriculum guides", "/blogs/australian-curriculum-guides.html"], ["Expat family guide", "/blogs/australian-expat-children-learning-overseas-free-australian-curriculum-resources.html"], ["Browse F-10 curriculum", "/learn/"]],
     faqs: [
       ["Is Australian Curriculum the same as Common Core?", "No. They overlap in some learning goals, but they are different curriculum frameworks with different sequencing and wording."],
       ["Can overseas families use SkillrHub?", "Yes. SkillrHub is useful for Australian families overseas and anyone wanting Australian Curriculum-linked K-10 resources."],
@@ -128,7 +128,7 @@ const articles = [
       ["What to avoid", "Avoid pages that only collect email addresses, hide the useful resource behind a signup wall or provide worksheets with no explanation of the target skill."],
       ["How SkillrHub handles no-login learning", "SkillrHub lets learners browse Foundation/Kindergarten to Year 10 Maths, English and Science resources without a learner login, while still keeping topic guides, worksheets, practice and tests connected."],
     ],
-    ctas: [["Start learning", "/#curriculum"], ["Open free worksheets", "/worksheets/"], ["Track progress locally", "/dashboard/"]],
+    ctas: [["Start learning", "/learn/"], ["Open free worksheets", "/worksheets/"], ["Track progress locally", "/dashboard/"]],
     faqs: [
       ["Can students use SkillrHub without logging in?", "Yes. SkillrHub's main learning resources are designed for no-login access."],
       ["Is no-login learning enough?", "It can be enough for many learners when the resources are structured and used consistently. Some students may still need teacher or tutor support for deeper feedback."],
@@ -170,7 +170,7 @@ const articles = [
       ["When paid resources may still help", "Paid platforms may be useful for large printable packs, teacher marketplaces, adaptive reports, tutoring support or school-wide management. The best decision depends on whether the learner will actually use those extras."],
       ["A good free-first routine", "Start with a SkillrHub topic guide, complete the worksheet or homework route, use Practice for feedback, then take the Test later. If that routine is not enough, compare paid options for the missing feature."],
     ],
-    ctas: [["Free worksheet hub", "/worksheets/"], ["Maths worksheets by grade", "/blogs/best-free-maths-worksheets-by-grade-k-10.html"], ["Start learning", "/#curriculum"]],
+    ctas: [["Free worksheet hub", "/worksheets/"], ["Maths worksheets by grade", "/blogs/best-free-maths-worksheets-by-grade-k-10.html"], ["Start learning", "/learn/"]],
     faqs: [
       ["Is SkillrHub free?", "Yes. SkillrHub's core K-10 learning resources are free to use."],
       ["Is SkillrHub a replacement for every paid platform?", "No. It is a strong free-first option, but some users may still need paid tutoring, classroom management, large content packs or adaptive reporting."],

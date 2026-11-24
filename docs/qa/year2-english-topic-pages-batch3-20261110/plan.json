@@ -1,0 +1,661 @@
+{
+  "scope": "Seven public Year2 English Topic Guides AC9E2LY06–LY12 only. No app-bank, worksheet, fixed-slide rebuild or certification. New PR remains unmerged.",
+  "date": "2026-11-10 Australia/Sydney",
+  "baseline": "1eebd0af9ae0cc14fc714f0b3b4f3d1a8ac4cffc",
+  "research_commit": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+  },
+  "codes": [
+    {
+      "code": "AC9E2LY06",
+      "descriptor": "create and edit short imaginative, informative and persuasive written and/or multimodal texts for familiar audiences, using text structure appropriate to purpose, simple and compound sentences, noun groups and verb groups, topic-specific vocabulary, simple punctuation and common 2-syllable words",
+      "elaborations": [
+        {
+          "code": "AC9E2LY06_E1",
+          "number": "E1",
+          "text": "creating written texts so that readers follow the sequence of ideas or events",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY06_E2",
+          "number": "E2",
+          "text": "using vocabulary, including topic-specific vocabulary, appropriate to the purpose",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY06_E3",
+          "number": "E3",
+          "text": "using digital tools to create texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY06_E4",
+          "number": "E4",
+          "text": "using simple and compound sentences correctly and flexibly to express and combine ideas",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY06_E5",
+          "number": "E5",
+          "text": "editing by adding, deleting or changing vocabulary to improve a text; for example, replacing an everyday noun with a topic-specific one",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY06_E6",
+          "number": "E6",
+          "text": "reviewing sentences for grammatical accuracy; for example, use of pronouns",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Choose a purpose and organise a complete short text",
+        "Use complete sentences, precise groups and topic vocabulary",
+        "Edit meaning and conventions; create a simple multimodal version"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Choose a purpose and organise a complete short text",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY06/source-and-review.md",
+            "year-2/english/AC9E2LY06/research/2026-11-03-residual-methods.json",
+            "year-2/english/AC9E2LA06/research/2026-11-04-targeted-gap-closure.md",
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use complete sentences, precise groups and topic vocabulary",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2",
+            "E4",
+            "E6"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY06/source-and-review.md",
+            "year-2/english/AC9E2LY06/research/2026-11-03-residual-methods.json",
+            "year-2/english/AC9E2LA06/research/2026-11-04-targeted-gap-closure.md",
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Edit meaning and conventions; create a simple multimodal version",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E3",
+            "E5",
+            "E6"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY06/source-and-review.md",
+            "year-2/english/AC9E2LY06/research/2026-11-03-residual-methods.json",
+            "year-2/english/AC9E2LA06/research/2026-11-04-targeted-gap-closure.md",
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY06.json",
+      "complete_stimuli": "Complete original imaginative, informative and persuasive models with named familiar audiences and visibly different organising structures. Give original facts for information writing, a claim/reason/request for persuasion, and linked opening/problem/response/ending for story writing. Contrast a simple sentence and a true compound with both subjects/finite verb groups; include a labelled noun group and whole verb group, precise topic vocabulary, pronoun clarity and common two-syllable spellings. Supply an actual short draft for add/delete/replace edits, meaningful before/after text, punctuation checks and a fresh independent written task. Include an explicit adult-supported digital create/type/draw/caption/reorder/revise/save activity, optional paper equivalent and real production criteria. No formal Year3 argument language or unexplained clause terminology."
+    },
+    {
+      "code": "AC9E2LY07",
+      "descriptor": "create, rehearse and deliver short oral and/or multimodal presentations for familiar audiences and purposes, using text structure appropriate to purpose and topic-specific vocabulary, and varying tone, volume and pace",
+      "elaborations": [
+        {
+          "code": "AC9E2LY07_E1",
+          "number": "E1",
+          "text": "preparing and delivering oral presentations using more formal language and specific vocabulary about content area topics",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY07_E2",
+          "number": "E2",
+          "text": "sequencing ideas, points or events appropriately",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY07_E3",
+          "number": "E3",
+          "text": "adjusting volume and tone when speaking in more formal situations",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Organise a short presentation for a familiar audience",
+        "Rehearse using useful cues and listener feedback",
+        "Deliver and adjust tone, volume and pace for purpose"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Organise a short presentation for a familiar audience",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY07/source-and-review.md",
+            "year-2/english/AC9E2LY07/research/2026-11-03-residual-methods.json",
+            "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Rehearse using useful cues and listener feedback",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2",
+            "E3"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY07/source-and-review.md",
+            "year-2/english/AC9E2LY07/research/2026-11-03-residual-methods.json",
+            "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Deliver and adjust tone, volume and pace for purpose",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1",
+            "E3"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY07/source-and-review.md",
+            "year-2/english/AC9E2LY07/research/2026-11-03-residual-methods.json",
+            "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+            "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY07.json",
+      "complete_stimuli": "Provide complete original short presentation scripts, ordered opening/points/ending cue cards and actual topic facts; contrast familiar casual versus more formal school language without condemning dialect. Include an actual informative talk and a contrasting purpose/context such as welcome or reminder. Printed emphasis/tone notes plan performance only. Adult models delivery; learner rehearses, receives specific listener feedback, adjusts one feature, then delivers. Include useful self-created diagram/cue prompt so learner knows what to show. Tone is intended attitude; volume audibility; pace rate and pauses. Do not impose eye contact, accent, universal pitch pattern, loudness norm or unsupported timing target. Record support and alternative access mode separately."
+    },
+    {
+      "code": "AC9E2LY08",
+      "descriptor": "write words legibly and with growing fluency using unjoined upper-case and lower-case letters",
+      "elaborations": [
+        {
+          "code": "AC9E2LY08_E1",
+          "number": "E1",
+          "text": "consolidating a functional pencil grip/grasp",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Form recognisable unjoined upper- and lower-case letters",
+        "Use relative size, baseline placement and word spacing",
+        "Build comfortable fluency and check a real handwritten sample"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Form recognisable unjoined upper- and lower-case letters",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY08/source-and-review.md",
+            "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+            "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use relative size, baseline placement and word spacing",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY08/source-and-review.md",
+            "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+            "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Build comfortable fluency and check a real handwritten sample",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY08/source-and-review.md",
+            "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+            "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY08.json",
+      "complete_stimuli": "Use paper, comfortable pencil/adapted tool, line guides if useful and a nearby school-approved unjoined alphabet/word model. Typed text/SVG can show spacing only and must not be called proof of handwriting or a stroke-order model. Adult demonstrates the actual taught movement, then learner copies familiar mixed-case words and a short phrase without tracing; compare letter identity/case, body height, ascenders, descenders and word gaps. Consolidate functional grasp through observed comfort/control, not one mandatory tripod grip or a grasp-choice quiz. Use a second comparable short attempt to discuss growing ease, without a universal speed threshold. Include a new actual handwriting attempt and observable criteria."
+    },
+    {
+      "code": "AC9E2LY09",
+      "descriptor": "manipulate more complex sounds in spoken words and use knowledge of blending, segmenting, phoneme deletion and phoneme substitution to read and write words",
+      "elaborations": [
+        {
+          "code": "AC9E2LY09_E1",
+          "number": "E1",
+          "text": "blending and segmenting sounds in words; for example, “b-r-o-th-er” or “c-l-ou-d-y”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY09_E2",
+          "number": "E2",
+          "text": "deleting and substituting sounds (phonemes) in spoken words to form new words; for example, delete the initial “scr” in “scratch” and substitute new initial sounds (phonemes) to form words such as “catch”, “batch” and “hatch”; substituting a medial sound (phoneme) to form a new word; for example, “stack” becomes “stick”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Blend and segment complex spoken words",
+        "Delete specified phonemes while preserving the others",
+        "Substitute phonemes, then read and write the resulting words"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Blend and segment complex spoken words",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY09/source-and-review.md",
+            "year-2/english/AC9E2LY09/research/2026-11-03-phoneme-gap-closure.json",
+            "shared-research/english/2026-11-03-phoneme-alphabet-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Delete specified phonemes while preserving the others",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY09/source-and-review.md",
+            "year-2/english/AC9E2LY09/research/2026-11-03-phoneme-gap-closure.json",
+            "shared-research/english/2026-11-03-phoneme-alphabet-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Substitute phonemes, then read and write the resulting words",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY09/source-and-review.md",
+            "year-2/english/AC9E2LY09/research/2026-11-03-phoneme-gap-closure.json",
+            "shared-research/english/2026-11-03-phoneme-alphabet-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY09.json",
+      "complete_stimuli": "Use one counter per spoken phoneme; adult says words before print appears. Supply exact adult scripts, complex cluster/digraph segmentation and at least one two-syllable blend/segment model reflecting the elaboration. Distinguish a consonant cluster retaining separate phonemes from a digraph representing one. Contrast initial/internal/final deletion where suitable; substitution must keep all unaffected sounds. In the official scratch/catch family scr denotes multiple sounds, not one phoneme: if used, remove the stated sequence then add the new initial phoneme explicitly. Provide original guided/fresh oral operations, then show print for explicit decoding/encoding transfer, write and reread. Accept locally consistent pronunciation. A displayed written change alone does not certify oral performance."
+    },
+    {
+      "code": "AC9E2LY10",
+      "descriptor": "use phoneme-grapheme (sound-letter/s) matches, including vowel digraphs, less common long vowel patterns, consonant clusters and silent letters when reading and writing words of one or more syllables, including compound words",
+      "elaborations": [
+        {
+          "code": "AC9E2LY10_E1",
+          "number": "E1",
+          "text": "reading words with digraphs where one letter is not pronounced; for example, “knife” and “thumb”, when reading and using them in writing",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY10_E2",
+          "number": "E2",
+          "text": "providing the sounds for less common letter-sound matches; for example, “ight”, and using them in writing",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY10_E3",
+          "number": "E3",
+          "text": "reading words with vowel digraphs (“ee”, “oo”, “ai”, “ay”, “ea”)",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Read and spell vowel digraphs and less common long-vowel patterns",
+        "Distinguish consonant clusters from silent-letter spellings",
+        "Read and write longer words and compounds using known parts"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Read and spell vowel digraphs and less common long-vowel patterns",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2",
+            "E3"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY10/source-and-review.md",
+            "qa/all-codes/english-f3/transcription-transfer-check.json",
+            "year-4/english/supporting-research/2026-11-03-transcription-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Distinguish consonant clusters from silent-letter spellings",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY10/source-and-review.md",
+            "qa/all-codes/english-f3/transcription-transfer-check.json",
+            "year-4/english/supporting-research/2026-11-03-transcription-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Read and write longer words and compounds using known parts",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1",
+            "E2",
+            "E3"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY10/source-and-review.md",
+            "qa/all-codes/english-f3/transcription-transfer-check.json",
+            "year-4/english/supporting-research/2026-11-03-transcription-evidence.json"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY10.json",
+      "complete_stimuli": "Provide a checked original repertoire covering ee/oo/ai/ay/ea, including contrasting sounds of oo or ea without a universal-rule claim; less common long-vowel pattern such as igh within ight words; separate consonants in clusters; silent-letter spellings such as kn and final mb; familiar compounds and at least one other two-syllable word. Complete sound-to-grapheme mapping and print-first blending on original examples, followed by adult dictation of a different word with target hidden and subsequent rereading. Use native tables showing words, sounds, meaningful parts and conventional written forms. Do not call igh three separate sounds or count ight as one phoneme; gh is not pronounced in the selected word and t retains /t/. No default whole-word guessing from pictures."
+    },
+    {
+      "code": "AC9E2LY11",
+      "descriptor": "use knowledge of spelling patterns and morphemes to read and write words whose spelling is not completely predictable from their sounds, including high-frequency words",
+      "elaborations": [
+        {
+          "code": "AC9E2LY11_E1",
+          "number": "E1",
+          "text": "using known words and knowledge of spelling patterns and morphemes to write unknown words; for example, “one”, “once”, “only” and “lone”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY11_E2",
+          "number": "E2",
+          "text": "using context to read the correct word when an unknown word has more than one plausible pronunciation",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Map known sounds and explicitly learn unusual spelling parts",
+        "Use known patterns and meaningful parts to spell related words",
+        "Check a plausible pronunciation against sentence meaning"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Map known sounds and explicitly learn unusual spelling parts",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY11/source-and-review.md",
+            "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use known patterns and meaningful parts to spell related words",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY11/source-and-review.md",
+            "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Check a plausible pronunciation against sentence meaning",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY11/source-and-review.md",
+            "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY11.json",
+      "complete_stimuli": "Provide common high-frequency words with regular and unexpected parts explicitly mapped, contrasting said/come/have-type known forms without absolute final-e or ai rules. Include a meaningful unchanged base and suffix spelling despite different pronunciations of ed; use an original related-word transfer, not rhyme as morphology. Treat one/once/only/lone as a comparison repertoire, not a false one+ly concatenation rule or universal shared pronunciation. Supply complete original sentence pairs for a genuine same-spelling pronunciation contrast such as present/past read or wind/wind with stated meaning; adult checks actual reading, then independently dictated writing and rereading with target hidden. Context checks a candidate that fits the letters; it does not replace decoding."
+    },
+    {
+      "code": "AC9E2LY12",
+      "descriptor": "build morphemic word families using knowledge of prefixes and suffixes",
+      "elaborations": [
+        {
+          "code": "AC9E2LY12_E1",
+          "number": "E1",
+          "text": "using morphemic knowledge of words to spell unknown words; for example, “one”, “once”, “cover”, “covering”, “uncover”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY12_E2",
+          "number": "E2",
+          "text": "writing unknown words using morphemic knowledge; for example, using the known word “friend” to write “friendly” and “friendship”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Build and explain transparent prefix families",
+        "Build and explain suffix families",
+        "Use meaningful families to read, spell and explain new words"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Build and explain transparent prefix families",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY12/source-and-review.md",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+            "year-1/english/AC9E1LY15/ly15.txt"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Build and explain suffix families",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY12/source-and-review.md",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+            "year-1/english/AC9E1LY15/ly15.txt"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Use meaningful families to read, spell and explain new words",
+          "status": "SUFFICIENT",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "source_basis": [
+            "year-2/english/AC9E2LY12/source-and-review.md",
+            "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+            "year-1/english/AC9E1LY15/ly15.txt"
+          ],
+          "evidence_scope": "Methods and task families sufficient for an original public Topic Guide; no finished app-bank or performance certification."
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "retained_models": "Preserve the one earlier SVG model, with only documented accessible-description or semantic corrections.",
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY12.json",
+      "complete_stimuli": "Use transparent familiar un-/re- prefix models and suffix models with distinct meanings, then an original complete family such as cover/covering/uncover and friend/friendly/friendship. Explicitly show base, affix position, resulting conventional spelling and sentence meaning; do not assert every base accepts every suffix, every word beginning re has a prefix, or matching rhyme forms a morphemic family. Include a fresh build-and-use task, spelling transfer from a supplied known base, acceptable conventional alternatives and a non-family comparison. Keep difficult etymology, formal derivational classifications and large suffix inventories out of core Year2 teaching."
+    }
+  ],
+  "removals": "Remove generic repeated four-step process placeholder and duplicate metadata/resource/promotion/equivalence/navigation blocks. Preserve 35 useful goals/examples/misconception/formative/revision sections and seven earlier SVG models, repairing only bounded confirmed defects. Keep exact descriptor once in alignment, all elaborations and same-code resources. Do not remove optional video content; keep after lesson if present.",
+  "bounded_repairs": [
+    "LY08 typed spacing illustration is not a handwriting/stroke model; qualify its wording and include descender placement.",
+    "LY09 preserve phonemes versus letters and allow multi-phoneme sequence deletions only when explicitly stated.",
+    "LY10 clarify long-a notation as ay in rain rather than IPA /a/.",
+    "LY07 printed script does not prove tone/pace/volume; require adult model and real observed delivery."
+  ],
+  "required_progression": "At least three explicit method focuses; complete original worked models plus a different guided try and fresh independent check. Support/Core/Stretch remain in same scope. All referenced texts/diagrams are actually present, or explicitly staged adult materials before a dependent activity.",
+  "preservation": "Retained section list is predeclared below. Final source QA must compare exact section texts or documented bounded changes/additions, metadata, resource paths, native disclosures and SVG geometry. Architecture/layout/local links and mobile/tablet/desktop rendered/keyboard QA remain pending.",
+  "art": "New precise native prose/table/sequence/word models are original. Handwriting shape models require actual school-approved forms and a faithful rendered model; typed fonts may demonstrate spacing only. No new external artwork needed."
+}

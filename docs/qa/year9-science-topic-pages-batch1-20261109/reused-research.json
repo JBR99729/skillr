@@ -1,0 +1,170 @@
+{
+  "repository": "JBR99729/research-",
+  "ref": "65661f07c72b19a09af152e7ed968fdcd0661c62",
+  "files": {
+    "qa/all-codes/science-7-10/batch-16-year9-u-h-independent-source-review.json": {
+      "bytes": 140619,
+      "sha256": "3b8ba23fca718c050d835055034eeeca2806a7737146ca0274686013cb0c5fbf",
+      "git_blob_sha": "21caaaa4ecb9b87ebe3324006d3ed63921abd7d2",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "qa/all-codes/science-7-10/batch-8-year7-biology-perspectives-independent-source-review.json": {
+      "bytes": 45889,
+      "sha256": "55811aca0ab181dfcb9e48c2ebe45edbcf7a005cf808fee6e56bfa69990a8985",
+      "git_blob_sha": "c97c348a60fbfb84d150b30fd1da39006f27c522",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "qa/all-codes/science-7-10/penicillin-secondary-reuse-review-2026-11-03.json": {
+      "bytes": 14974,
+      "sha256": "e8443fea88aea385f39986242d7fff31fa9ed4336b8fa1172efb3ae286dbe20f",
+      "git_blob_sha": "877fe14c8e7efac97496bf867a1db5ac9770b796",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-03-penicillin-collaboration-case.json": {
+      "bytes": 7069,
+      "sha256": "ec3a05639303478529b6996da29207ac266c1e69e30b4a1961c4685c593d9bac",
+      "git_blob_sha": "9a85cbd3f3e2004e6514f2f9ad5557b164d28ec8",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json": {
+      "bytes": 23907,
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-atomic-evidence-decay-source-ledger.json": {
+      "bytes": 14147,
+      "sha256": "3c46793d2acbcb7b3b4e6524ae92721ab2fe55549779bc31681433a99455483d",
+      "git_blob_sha": "65b8fed02e06be425f76614df631484f934d84e7",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-carbon-cycle-source-ledger.json": {
+      "bytes": 6898,
+      "sha256": "d9dd5a883efaa16a5558509d14431b5a4cb9e117ee145e9c839575998a42c8a6",
+      "git_blob_sha": "b5d64ef93edf455e8d3e995047b9042b17e69503",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-chemical-conservation-source-ledger.json": {
+      "bytes": 7453,
+      "sha256": "288886fa51d3c2873edda6710d3f33999f6644cb6a67609cfb4a1bf743b4a1a3",
+      "git_blob_sha": "499519cf2de91648aaf7179b3d2c975f60e1cc99",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-feedback-reproduction-source-ledger.json": {
+      "bytes": 17210,
+      "sha256": "83a72f36dc8dd6be74b3990e6bcb891fcb43477fd960270b3203cd0a01574b94",
+      "git_blob_sha": "d74dda22e93b59df2220d55cb3df21ff9e14baa9",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-peer-review-research-priorities-source-ledger.json": {
+      "bytes": 14835,
+      "sha256": "655160ef0790caa69d8b2dbd61512e047b8ac2808a2dee5bfc0f25d3b5d912b9",
+      "git_blob_sha": "f0b99a8cf79440adcc514b42724c8ae4d2e1a19f",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-technology-adoption-reuse-map.json": {
+      "bytes": 7379,
+      "sha256": "b37c963f5e2e711e41fd6d71b615c8747dbbc6aa450a5a174933f6520f280e23",
+      "git_blob_sha": "6ba41da0538bbca8e67c62ad66d5e35586e46066",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-u-h-author-manifest.json": {
+      "bytes": 10064,
+      "sha256": "9b17ed2e18b4270645e9ef82e9ba241f1010029cb975195a8cc01189553400a6",
+      "git_blob_sha": "dd47c61a750f8ca01266e1ba3982ad8f30ccd22e",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "shared-research/science/2026-11-04-year9-wave-particle-efficiency-source-ledger.json": {
+      "bytes": 10996,
+      "sha256": "3f6acbfa20310beef5b2eb30fae55d773646718998380bba6682f5d9e53fd05d",
+      "git_blob_sha": "7b98469d105a3029a0253526e4aa9059c62949b8",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9H01/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7042,
+      "sha256": "60bd092f15a5b056b3c2233207f0b50c766fdefaccc54027df600ee714d033d4",
+      "git_blob_sha": "1bab7a01b80d2c2cafbb8a3118c7207567382758",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9H02/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7700,
+      "sha256": "431ff249e3714cbf0837efb793befcec8f558f41465bd5df726ec1359c4a8631",
+      "git_blob_sha": "1c478512c21fd250472567fed0dac29df1464d5f",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9H03/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7170,
+      "sha256": "e074ba108af206305cce555f7bc73168dd404dd65573857a66f289c1a429caae",
+      "git_blob_sha": "acdbe36613ae60a574a5e279f4ea4ff93ab2adfa",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U01/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6824,
+      "sha256": "b3d5e1480abd496bbb25cc04f90aad1edc49a3f62803a991a3563b493f7730f1",
+      "git_blob_sha": "f1b4191a8fbed11377557a4ed79e86a747d0edae",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U02/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6963,
+      "sha256": "35941686da8c8d5bad8ef6c30ebd17276741ea851dc2e2e7a23aed80f6d79646",
+      "git_blob_sha": "cb5be8379e567c580176bd913daa9977ad247f70",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U03/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6892,
+      "sha256": "2cd4fa2e8ded59f1ebc9f5f3613367d58fc64d5cdf83ea2385a4b735d20fe69a",
+      "git_blob_sha": "7d1db18a23f1298ed12a33674f03eb4e8903cd30",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U04/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6894,
+      "sha256": "e0e7c73c105f58341544d6e110483203ecba9c79704bcf26ee5bbda620c667eb",
+      "git_blob_sha": "d3a5165314f60537aca893bf3f50fafb703454cd",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U05/research/2026-11-04-free-question-collection-02.json": {
+      "bytes": 6772,
+      "sha256": "26a84493dcb7699ac04ca7e01eecebfd18f129da0dffd8feb720a34ba5fa1429",
+      "git_blob_sha": "207c3e19ee3f0baa081ad371ff36fe17dce16818",
+      "role": "Archived prior context only; not adopted for new question/model evidence"
+    },
+    "year-9/science/AC9S9U05/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6791,
+      "sha256": "249396c0f45a1f08542f4ac9098f258afa303fa410b9915161c1414ba10b7a50",
+      "git_blob_sha": "08ee093e9cc31ad9b9982d2e696bd4c5637cb7ca",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U06/research/2026-11-04-free-question-collection-02.json": {
+      "bytes": 5325,
+      "sha256": "206c3c95ab70c653377f34d8c40d444f0bfd6ba345eda5d1f00e9c740679c222",
+      "git_blob_sha": "5bfa6458e4477b2d22cb5d75df3626ffda04ae98",
+      "role": "Archived prior context only; not adopted for new question/model evidence"
+    },
+    "year-9/science/AC9S9U06/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6988,
+      "sha256": "56f4f8409db2c63b8d13b37f75cd6d9455dfe49ec6b8d5d88ac01c54b4830e80",
+      "git_blob_sha": "a2895683eb1cc2d2eb2f8e5d61cb84b188858938",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/AC9S9U07/research/2026-11-04-free-question-collection-02.json": {
+      "bytes": 10723,
+      "sha256": "cf758a3f422527fb347aa6dac917b82bef61c5d29b6b4b4e4714fb35d37aed9d",
+      "git_blob_sha": "dfb6e092b1864c5cd60f9dbf1a2b373f5cb7165f",
+      "role": "Archived prior context only; not adopted for new question/model evidence"
+    },
+    "year-9/science/AC9S9U07/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6935,
+      "sha256": "8aacb6daffd465d991b77ea8160a9d7ab7eba742f02b4b4a16802b91b3883a56",
+      "git_blob_sha": "a3180fa12b6fd8cfdc7c68a115e312817ffacaf1",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    },
+    "year-9/science/Year9_Science_Curriculum_Research_Master.txt": {
+      "bytes": 98860,
+      "sha256": "0a35492f961678a595a9d2e66e0420ebd2927f53c19841cac817c3de6d946c42",
+      "git_blob_sha": "d17248d29627b11ca1c1310004c24786257ba9e5",
+      "role": "Current source/scope/reuse or independent acceptance evidence"
+    }
+  },
+  "official_scope": "QCAA Year9 Science AC9 alignment PDF, actual descriptor text opened9Nov2026; exact canonical catalogue descriptors retained.",
+  "limits": "Later independent batch16 acceptance controls older proposal labels; source sufficiency does not certify this product. Saved prior provider/IXL observations reused, no new source pixels, media, practical or learner performance claimed."
+}

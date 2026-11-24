@@ -1,0 +1,260 @@
+{
+  "models": [
+    {
+      "code": "AC9E2LA01",
+      "index": 1,
+      "literal_svg_sha256": "3d70e28e97d36c0b4e0ddae6f5ef19dbad6bd6e4b6dfe2e22ca7c52a710dd96d",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA02",
+      "index": 1,
+      "literal_svg_sha256": "6b07f76810b5e02f2f02cfbefda3a18563898f3d08879cbbdca8aff135caa0ca",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA03",
+      "index": 1,
+      "literal_svg_sha256": "9efca7d40481fff85cfbbe0f4f28d2005734f16ce72673e82d93f81cdc55d98f",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA04",
+      "index": 1,
+      "literal_svg_sha256": "4b5020c8760d6bd824fe96d33520310548f26eea6ef7952f7678d0886e9fb843",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 1,
+      "literal_svg_sha256": "92863b24a9d4b2807a7bc1bd9718a7b6c08aaba83c5ea9498757dd0a694ae163",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA06",
+      "index": 1,
+      "literal_svg_sha256": "d1e8dd0e6a1743014a9515324247cfbf7b963a849f6d9d1bf912da556f94fd73",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA07",
+      "index": 1,
+      "literal_svg_sha256": "0a62dca44255b35a95348a2968dcd300816a28a60b261945f8ab4f1e719ea41f",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 1,
+      "literal_svg_sha256": "181236f9b00ea39fa3342ac52171d61f2fc77c55073b611563b9b5b616b97200",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA09",
+      "index": 1,
+      "literal_svg_sha256": "989f29334300169902c9b249c998d080f2fc4faeb2baa064165353f24e4e116a",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA10",
+      "index": 1,
+      "literal_svg_sha256": "48a89ffa1249d33a46d0eef026ec5a9d917fff516ff2ec99cdca7a2ccb523d45",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9E2LA01",
+      "index": 1,
+      "html_sha256": "a32ecdc4b68ef065dd60f22f607175604299816942e98493c38eb2e04108f824",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA02",
+      "index": 1,
+      "html_sha256": "369b7ec8b576475fd2cd3b2ab7c5eb6fdc2e1eeacdd8c8cb5ef293f88c01d5bd",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA03",
+      "index": 1,
+      "html_sha256": "beaf824e4ebffaa1b7370bdcbf46dc32dc8835ce4e5482e4600c8f97691618c9",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA04",
+      "index": 1,
+      "html_sha256": "d3c68ac74b9feb9f1efc55a4ca86de1ffea8063d52dec5960e0235bfd8bab0d5",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 1,
+      "html_sha256": "e68739bc4e3ed99513fb73a6ac7086286bd3cac14bd461ce27f888fcd7e5f9f3",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 2,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 3,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 4,
+      "html_sha256": "c373799b62e14892bd7dc9a8c0de0614c61e48e2ef034cea50b22ca0938ec604",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 5,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 6,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 7,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 8,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA06",
+      "index": 1,
+      "html_sha256": "121aa040f4fc66fff20f2b3d28fad24aabd5930b8cc0946ee910f58c6e538fbc",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA07",
+      "index": 1,
+      "html_sha256": "44c4fbef698f41cfe472781e216cece033074c119bd5129c4ffeab84b1620036",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 1,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 2,
+      "html_sha256": "400d6e189d2f8d623d8a1f9ce0a093444cb8f2e64bbdeb27349a0be6374f1fa1",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 3,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 4,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 5,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 6,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 7,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 8,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 9,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 10,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 11,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 12,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 13,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 14,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA09",
+      "index": 1,
+      "html_sha256": "ef95666c383b55c9133dc1ccf11136290cc90d004281bdf7ad46f62624d57ad8",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA10",
+      "index": 1,
+      "html_sha256": "826b5b546d1c68e276fa87c87cba4c9dc38d96d29d94f226bba0f1b96c164e1b",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    }
+  ],
+  "image_assets": [
+    {
+      "path": "/assets/topic-visuals/year1/la08-kitten-under-chair.png",
+      "bytes": 2830756,
+      "sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-picture-jobs.png",
+      "bytes": 255281,
+      "sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    }
+  ]
+}

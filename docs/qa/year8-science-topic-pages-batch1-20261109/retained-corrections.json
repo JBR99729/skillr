@@ -1,0 +1,38 @@
+[
+  {
+    "code": "AC9S8U04",
+    "section": "Key concept",
+    "before": "Heat and pressure without complete melting can form metamorphic rock.",
+    "after": "Heat and pressure can change solid rock into metamorphic rock without melting the material being metamorphosed.",
+    "reason": "Independent review: complete source-rock melting is not required for igneous formation."
+  },
+  {
+    "code": "AC9S8U04",
+    "section": "Key concept",
+    "before": "Complete melting followed by cooling and crystallisation produces igneous rock.",
+    "after": "A melt that cools and crystallises produces igneous rock; the melt can come from partial melting of a source rock.",
+    "reason": "Independent review: complete source-rock melting is not required for igneous formation.",
+    "before_html": "Complete melting followed by cooling and <strong>crystallisation</strong> produces igneous rock."
+  },
+  {
+    "code": "AC9S8U04",
+    "section": "Questions and answers",
+    "before": "Complete melting; metamorphism changes rock in solid form, whereas melted material that cools forms igneous rock.",
+    "after": "Metamorphism changes rock in solid form; igneous rock forms when a melt cools and crystallises, even when only part of the source rock melted.",
+    "reason": "Independent review: complete source-rock melting is not required for igneous formation."
+  },
+  {
+    "code": "AC9S8U06",
+    "section": "Guided practice",
+    "before": "Classify four particle diagrams and justify each.",
+    "after": "Classify four teacher-supplied particle diagrams and justify each classification.",
+    "reason": "Independent review: make the activity’s required external stimuli explicit; no four-diagram set is supplied here."
+  },
+  {
+    "code": "AC9S8U04",
+    "section": "Common misconceptions",
+    "before": "metamorphism occurs under heat and pressure without complete melting.",
+    "after": "metamorphism occurs under heat and pressure without melting the material being metamorphosed.",
+    "reason": "Independent dependency recheck: remove the same misleading complete-melting qualification from the misconception correction."
+  }
+]

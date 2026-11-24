@@ -1,0 +1,260 @@
+{
+  "reviewer_type": "AI",
+  "reviewer": "/root/y3_final_review",
+  "checked_utc": "2026-11-10T07:08:50.505127+00:00",
+  "head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+  "remote_tree": "701273a431e7608b8efe9e0e8015f9e1caee3cfb",
+  "local_committed_tree": "701273a431e7608b8efe9e0e8015f9e1caee3cfb",
+  "pins_count": 24,
+  "all_match": true,
+  "changed_from_initial": [
+    "assets/css/year3-english-topic-pages-batch1.css",
+    "scripts/qa_year3_english_topic_pages_batch1_browser.cjs"
+  ],
+  "harness_delta_review": "Node owns50ms polling,300ms quiet interval and10s deadline; page evaluation reads synchronous scrollX/Y only. Same24 real clicks and exact destination hash/visibility assertions.",
+  "css_delta_review": "Only LA05 contains demo-navigation (six models). Its page hash scrolling becomes immediate; its demo anchors lose hover motion while retaining background/color feedback and inherited focus. No teaching/HTML/model geometry/layout change; bounded usability/accessibility fix, no architecture change.",
+  "transitive_dependency_review": "style.css imports assets/css/site-theme.css. Actual unchanged theme bytes pinned now; no further imports or url() resources in theme.",
+  "required_closure": "All24 real LA05 links at3sizes plus actual successful LA05 frames; compare new model captures to prior individually viewed45.",
+  "pins": [
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "remote_git_blob_sha": "d6150a46301092e099ae182d357d8629134e6136",
+      "remote_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 6178
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "remote_git_blob_sha": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+      "remote_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 209
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "remote_git_blob_sha": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+      "remote_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 2145
+    },
+    {
+      "path": "assets/css/year3-english-topic-pages-batch1.css",
+      "remote_git_blob_sha": "b30ac860317a4bbfc62209f9a143601408645572",
+      "remote_sha256": "190301deb356366cd41a678a40562b4c8a56dcdd54cac2002dbd6d8ea0db87cd",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": false,
+      "bytes": 3281
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "remote_git_blob_sha": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+      "remote_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 8721
+    },
+    {
+      "path": "assets/curriculum.css",
+      "remote_git_blob_sha": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+      "remote_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 25387
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "remote_git_blob_sha": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+      "remote_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 3721
+    },
+    {
+      "path": "assets/report-issue.js",
+      "remote_git_blob_sha": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+      "remote_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 3484
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "remote_git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+      "remote_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 1912
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/inventory.json",
+      "remote_git_blob_sha": "500e1cf684e1110f2cb9ae93672618efb699fc78",
+      "remote_sha256": "7c48c61fa24a7ea8a7a4954849b340cccd39ad0d7ac6c7d098cf6b0c08f588bf",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 5988
+    },
+    {
+      "path": "pwa-register.js",
+      "remote_git_blob_sha": "a6722b570107fdb5b7c434eed55e135b407533fb",
+      "remote_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 6198
+    },
+    {
+      "path": "scripts/qa_year3_english_topic_pages_batch1_browser.cjs",
+      "remote_git_blob_sha": "f2fe2d63dbf78fe4bb74ccb844db8f5e75d2d86b",
+      "remote_sha256": "01106cd33509f9101c9aedb5338188e6f7abd1b264d78b4bc0eb668160ab6beb",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": false,
+      "bytes": 14682
+    },
+    {
+      "path": "style.css",
+      "remote_git_blob_sha": "08cc59e74479fce7b164a1420b620fb85d735c66",
+      "remote_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 105418
+    },
+    {
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "remote_git_blob_sha": "d635ffb0f8a1ac2b6e5f7eadb3acb6383403785a",
+      "remote_sha256": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 32929
+    },
+    {
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "remote_git_blob_sha": "a4834ef1ffa00ccaf3bbb2178983e9a520660d45",
+      "remote_sha256": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 31920
+    },
+    {
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "remote_git_blob_sha": "2312d3fa2194b720d322b901bb0d061cf9f04c86",
+      "remote_sha256": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 36876
+    },
+    {
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "remote_git_blob_sha": "774f2e1a020fc588b454681e9c98de91124f3489",
+      "remote_sha256": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 31772
+    },
+    {
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "remote_git_blob_sha": "12f18fa02a304ca6b2a03c741fcdc18d7a6b9f18",
+      "remote_sha256": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 40460
+    },
+    {
+      "path": "year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html",
+      "remote_git_blob_sha": "b8ae4bba2c82a7638630f8b1e07de14870b28cb0",
+      "remote_sha256": "a12aca7ac41e23bc6fc6f5e4b0cf182282a35dfc0d3f2a10c9dd09e22288c9be",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 27793
+    },
+    {
+      "path": "year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html",
+      "remote_git_blob_sha": "374c9d432bb8251f02f7e377856365866f9b00c7",
+      "remote_sha256": "0743ade7e0ee8209f1fe03ca45d6798fbe7a678ec98120e1d9ec980c5a32deef",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 28031
+    },
+    {
+      "path": "year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html",
+      "remote_git_blob_sha": "b00f6b45028990ce97b220c8318dcf61c4817785",
+      "remote_sha256": "ddd38bc8da50dc7f7064a97798739a067f735e0f4b41ee9b04016a78b4061ac8",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 26920
+    },
+    {
+      "path": "year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html",
+      "remote_git_blob_sha": "b65ce86450da2fd383d2033c15d40de7ea312993",
+      "remote_sha256": "a2b314c0717084dfb96f4d05c1499f61c21f4ff24e370342821d3021e752d8c1",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 52722
+    },
+    {
+      "path": "year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html",
+      "remote_git_blob_sha": "b3cb36e4e2b0959aef61faeaa9a6e1751ff84574",
+      "remote_sha256": "3fb421782fd130386e6aa0ec9070b2518750eb379e4c697de8e35d64da88a274",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 29498
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "remote_git_blob_sha": "60a022eec535fcd18472b075f88f7ff8c49f4669",
+      "remote_sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "unchanged_from_initial": true,
+      "bytes": 532
+    }
+  ]
+}

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import html
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -97,10 +98,16 @@ def main() -> None:
                 f"sitemap.xml: {name} lastmod {root_mod or '[missing]'} does not match newest child URL {max(child_dates)}"
             )
 
-    if child_names != EXPECTED_CHILDREN:
+    expected_children = list(EXPECTED_CHILDREN)
+    practice_map = ROOT / "sitemap-practice.xml"
+    # Retired practice/worksheet routes must not be kept in search just to
+    # populate this map. The generator omits a child with zero indexable URLs.
+    if practice_map.is_file() and not ET.parse(practice_map).getroot().findall(f"{{{NS}}}url"):
+        expected_children.remove("sitemap-practice.xml")
+    if child_names != expected_children:
         errors.append(
             "sitemap.xml: submitted child set/order is not the crawl-priority set; "
-            f"found {child_names}, expected {EXPECTED_CHILDREN}"
+            f"found {child_names}, expected {expected_children}"
         )
 
     human = (ROOT / "sitemap.html").read_text(encoding="utf-8", errors="replace")
@@ -110,7 +117,7 @@ def main() -> None:
         directory = human
     else:
         directory = directory_match.group(1)
-    hrefs = re.findall(r'<a[^>]+href=["\']([^"\']+)', directory, re.I)
+    hrefs = [html.unescape(value) for value in re.findall(r'<a[^>]+href=["\']([^"\']+)', directory, re.I)]
     if len(hrefs) != len(set(hrefs)):
         errors.append("sitemap.html: duplicate curated links")
     for href in hrefs:
@@ -121,10 +128,10 @@ def main() -> None:
             errors.append(f"sitemap.html: individual blog article makes the human directory too long: {href}")
 
     required_human = {"/", "/worksheets/", "/blogs/", "/updates.html"}
-    for slug, _label in [("foundation", "Foundation"), *[(f"year{i}", f"Year {i}") for i in range(1, 11)]]:
-        required_human.add(f"/{slug}/curriculum/")
+    for year in range(11):
+        required_human.add(f"/learn/?year={year}")
         for subject in ("maths", "science", "english"):
-            required_human.add(f"/{slug}/curriculum/{subject}/")
+            required_human.add(f"/learn/?year={year}&subject={subject}")
     missing = sorted(required_human - set(hrefs))
     if missing:
         errors.append(f"sitemap.html: missing required F–10 hub links: {', '.join(missing)}")

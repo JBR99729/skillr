@@ -1,0 +1,52 @@
+{
+  "base_commit": "543f8bac7734a9eee8a1670eb87fab417547a683",
+  "passed": 4,
+  "full_descriptors_unabridged": true,
+  "ccss_population_disjoint": true,
+  "pages": [
+    {
+      "code": "AC9M4N04",
+      "path": "year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html",
+      "sole_visible_h1": "AC9M4N04: count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+      "description_characters": 118,
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr4_as_cd_alignment.pdf",
+      "exact_descriptor_and_metadata": true,
+      "search_title_and_all_other_content_preserved": true,
+      "base_sha256": "605c6da1275607bbd73f4389d1d3c84b5b5e531129cfa2da2b108eb200d6194b",
+      "candidate_sha256": "8769487588933d73ad013750ef7e86bc4b031b9064e320def930eb407e5e5674"
+    },
+    {
+      "code": "AC9M5A01",
+      "path": "year5/maths/ac9m5a01-and-explain-the-connection-between-multiplication-and-division/index.html",
+      "sole_visible_h1": "AC9M5A01: recognise and explain the connection between multiplication and division as inverse operations and use this to develop families of number facts",
+      "description_characters": 153,
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr5_as_cd_alignment.pdf",
+      "exact_descriptor_and_metadata": true,
+      "search_title_and_all_other_content_preserved": true,
+      "base_sha256": "2242a584f6a97e6a1b893ac65f44ed5ece6d979a850c49ab382910e3c8bf6eaa",
+      "candidate_sha256": "d48bdcfb4ebe9747fe939edc6c1b8d96e182b6419ea4ed8f586d616dc4525fc5"
+    },
+    {
+      "code": "AC9M6N01",
+      "path": "year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/index.html",
+      "sole_visible_h1": "AC9M6N01: recognise situations, including financial contexts, that use integers; locate and represent integers on a number line and as coordinates on the Cartesian plane",
+      "description_characters": 169,
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr6_as_cd_alignment.pdf",
+      "exact_descriptor_and_metadata": true,
+      "search_title_and_all_other_content_preserved": true,
+      "base_sha256": "30c2ab9c12a00c7d32497a1517ffdd3788139657306ba87773e63feb07f133bc",
+      "candidate_sha256": "0625edb977e1428227841ba2981cf4db4360f7ec55857d0579754c8d5e230d5c"
+    },
+    {
+      "code": "AC9M6A01",
+      "path": "year6/maths/ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number/index.html",
+      "sole_visible_h1": "AC9M6A01: recognise and use rules that generate visually growing patterns and number patterns involving rational numbers",
+      "description_characters": 120,
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr6_as_cd_alignment.pdf",
+      "exact_descriptor_and_metadata": true,
+      "search_title_and_all_other_content_preserved": true,
+      "base_sha256": "12c4e4be51c50294993b74d6837af61b7ed2549ee333634f84eb1bb431c15079",
+      "candidate_sha256": "63e206ada53095c72ce855afb1d6babc58249e0612bb3042601df8fcfe2dd31a"
+    }
+  ]
+}

@@ -122,12 +122,14 @@ jobs:
           ];
 
           for (const [topicSubject, quizSubject, codePattern, expected] of subjects) {
-            const indexPath = `year4/curriculum/${topicSubject}/index.html`;
-            const html = fs.readFileSync(indexPath, 'utf8');
+            const indexPath = 'learn/index.html';
+            const catalogue = fs.readFileSync(indexPath, 'utf8');
+            const html = catalogue.match(new RegExp(`<section\\b[^>]*data-group="4-${topicSubject}"[^>]*>([\\s\\S]*?)<\\/section>`, 'i'))?.[1];
+            if (!html) throw new Error(`${topicSubject}: missing Year 4 catalogue group`);
             const codes = [...new Set((html.match(/AC9[A-Z0-9]+/g) || []).filter((code) => codePattern.test(code)))];
             if (codes.length !== expected) throw new Error(`${topicSubject}: expected ${expected} curriculum codes in index, found ${codes.length}`);
 
-            const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>Topic guide<\/a>/gi)]
+            const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>[^<]+<\/a>/gi)]
               .map((match) => match[1])
               .filter((href) => href.startsWith(`/year4/${topicSubject}/`));
             const uniqueTopicLinks = [...new Set(links)];

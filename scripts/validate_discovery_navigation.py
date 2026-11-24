@@ -2,6 +2,7 @@
 """Release guard for source-HTML discovery, related lessons and trust links."""
 from collections import Counter
 import json
+from urllib.parse import parse_qs, urljoin, urlsplit
 from discovery_navigation import ROOT, ORIGIN, STYLE, inventory, graph, sitemap_urls, subject_hub
 
 
@@ -21,7 +22,17 @@ def validate():
         if url not in depth: errors.append(f'Not reachable from homepage through HTML: {url}')
         if url != ORIGIN and not incoming[url]: errors.append(f'No incoming HTML link: {url}')
     for code, doc in lessons.items():
-        if subject_hub(doc) not in doc.links: errors.append(f'{code}: no direct subject hub')
+        year, subject = doc.relative.split('/')[:2]
+        expected_year = '0' if year == 'foundation' else year[4:]
+        learn_subject = any(
+            target.scheme == 'https' and target.netloc == 'skillrhub.com'
+            and target.path == '/learn/'
+            and parse_qs(target.query).get('year') == [expected_year]
+            and parse_qs(target.query).get('subject') == [subject]
+            for target in (urlsplit(urljoin(doc.url, href)) for href in doc.hrefs)
+        )
+        if subject_hub(doc) not in doc.links and not learn_subject:
+            errors.append(f'{code}: no direct subject catalogue')
         if depth.get(doc.url, 999) > 3: errors.append(f'{code}: more than three homepage clicks')
         destinations = doc.links | {docs[t].canonical for t in doc.links if t in docs}
         related = {code_for_url[t] for t in destinations if t in code_for_url and code_for_url[t] != code}

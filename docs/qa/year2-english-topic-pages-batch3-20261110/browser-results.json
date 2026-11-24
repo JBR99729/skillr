@@ -1,0 +1,372 @@
+{
+  "pages": 7,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "javascriptDisabled": true,
+  "javascriptEnabledSmoke": 7,
+  "keyboardAnswers": true,
+  "keyboardPhoneDiagramPan": true,
+  "results": [
+    {
+      "code": "AC9E2LY06",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY07",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY08",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY09",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY10",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY11",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY12",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 1167.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 1428,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY06",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY07",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY08",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY09",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY10",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY11",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY12",
+      "width": 768,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 495.765625,
+        "y": 925.359375,
+        "width": 260.234375,
+        "height": 62.640625,
+        "right": 756,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY06",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY07",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY08",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY09",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY10",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY11",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    },
+    {
+      "code": "AC9E2LY12",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": 1,
+      "heading": 1,
+      "app": 1,
+      "button": {
+        "x": 127.765625,
+        "y": 928.71875,
+        "width": 250.234375,
+        "height": 59.28125,
+        "right": 378,
+        "bottom": 988
+      }
+    }
+  ],
+  "problems": []
+}

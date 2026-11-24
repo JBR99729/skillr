@@ -1,0 +1,62 @@
+[
+  {
+    "code": "AC9S10U01",
+    "preserved_redirect_path": "year10/science/ac9s10u01-explain-the-role-of-meiosis-and-mitosis-and-the-function/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u01-genetics-meiosis-mitosis-heredity/",
+    "sha256": "5ad73787290064e025ed4cedf99f90be53cabc48ca407ca11ecbcd45ed72c050"
+  },
+  {
+    "code": "AC9S10U02",
+    "preserved_redirect_path": "year10/science/ac9s10u02-the-theory-of-evolution-by-natural-selection-to-explain-past/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u02-evolution-natural-selection-evidence/",
+    "sha256": "36f8133ee19156d9fb906e1e3d5a5af2d2c9598ef5ef77fbfac0b1c70a7d4cfc"
+  },
+  {
+    "code": "AC9S10U03",
+    "preserved_redirect_path": "year10/science/ac9s10u03-how-the-big-bang-theory-models-the-origin-and-evolution/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u03-big-bang-evidence-expanding-universe/",
+    "sha256": "b153c6ce66300a6946e0b7e4861c8926dd324ed16a9141998ecfb39e81441ecd"
+  },
+  {
+    "code": "AC9S10U04",
+    "preserved_redirect_path": "year10/science/ac9s10u04-models-of-energy-flow-between-the-geosphere-biosphere/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u04-earth-energy-balance-global-climate-change/",
+    "sha256": "fb8a31a7fe0bcb763d475c01607fe9480e10ee0962f555b3da1626b2fcee3faa"
+  },
+  {
+    "code": "AC9S10U05",
+    "preserved_redirect_path": "year10/science/ac9s10u05-investigate-newton-s-laws-of-motion-and-quantitatively-analyse/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/",
+    "sha256": "611a6fcfa431a83385ee7a37c8dd4091d3ef39d74e777ea0b32650eceb32e051"
+  },
+  {
+    "code": "AC9S10U06",
+    "preserved_redirect_path": "year10/science/ac9s10u06-explain-how-the-structure-and-properties-of-atoms-relate-to/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/",
+    "sha256": "8d6277f396a7325878d10b915342956d42b100d4f877c42263a4fe78d394bcad"
+  },
+  {
+    "code": "AC9S10U07",
+    "preserved_redirect_path": "year10/science/ac9s10u07-patterns-in-synthesis-decomposition-and-displacement-reactions/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10u07-chemical-reaction-patterns-reaction-rates/",
+    "sha256": "e73feb51b0a48d783917b8fe6ead84095a39a74e0ebffe17902196cbee152568"
+  },
+  {
+    "code": "AC9S10H01",
+    "preserved_redirect_path": "year10/science/ac9s10h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10h01-scientific-validation-peer-review-evidence/",
+    "sha256": "f8e2430c52a6405b5a3e3e61581724cea87dc226d387a023e6694b316c7138d8"
+  },
+  {
+    "code": "AC9S10H02",
+    "preserved_redirect_path": "year10/science/ac9s10h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10h02-science-technology-engineering-advances/",
+    "sha256": "33a2cef9aac1682945ed8332e489b6e3b6e8a59ac2f8fc2eb5e1197f47a1a897"
+  },
+  {
+    "code": "AC9S10H03",
+    "preserved_redirect_path": "year10/science/ac9s10h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+    "active_canonical": "https://skillrhub.com/year10/science/ac9s10h03-science-adoption-evidence-trust-values/",
+    "sha256": "5ba3e549489196569e5c9f5a98fe3c8a60657504b322d1f3ce19020158f17c68"
+  }
+]

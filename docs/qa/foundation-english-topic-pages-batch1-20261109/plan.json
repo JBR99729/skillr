@@ -1,0 +1,302 @@
+[
+  {
+    "code": "AC9EFLA01",
+    "title": "Words that fit the listener",
+    "model": "One shared purpose, two relationships: a child asks a known friend or teacher for help with a closed paint jar. Listener identities are given, never inferred from politeness. Original request/question/opinion cards distinguish purpose.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Notice who is talking and listening",
+        "source_status": "SUFFICIENT",
+        "basis": "Saved v12 NC/SES/TES/Oak/ABC functional models distinguish the purpose and relationship; six mapped focuses and explicit oral/AAC criteria. Politeness alone never identifies a speaker.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Choose a clear question, request or opinion",
+        "source_status": "SUFFICIENT",
+        "basis": "Saved v12 NC/SES/TES/Oak/ABC functional models distinguish the purpose and relationship; six mapped focuses and explicit oral/AAC criteria. Politeness alone never identifies a speaker.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Keep the purpose and adapt the message",
+        "source_status": "SUFFICIENT",
+        "basis": "Saved v12 NC/SES/TES/Oak/ABC functional models distinguish the purpose and relationship; six mapped focuses and explicit oral/AAC criteria. Politeness alone never identifies a speaker.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "No single compulsory register; home languages, AAC, gestures and respectful alternatives. Do not rank communities.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA02",
+    "title": "Share a preference clearly",
+    "model": "Actual original drawing of a red apple and a green pear; two explicitly named speakers prefer different fruits. Children express own tastes using spoken, pointed or drawn routes; one model adds a reason.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Notice whose preference is being shared",
+        "source_status": "SUFFICIENT",
+        "basis": "Current v1.2 actual selected tasks and nine separately classified teaching records; independent correction history closes false source-unit and unsupported-feeling claims. Personal taste has no fixed key.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Say or show a like, dislike or choice",
+        "source_status": "SUFFICIENT",
+        "basis": "Current v1.2 actual selected tasks and nine separately classified teaching records; independent correction history closes false source-unit and unsupported-feeling claims. Personal taste has no fixed key.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Listen to a different preference",
+        "source_status": "SUFFICIENT",
+        "basis": "Current v1.2 actual selected tasks and nine separately classified teaching records; independent correction history closes false source-unit and unsupported-feeling claims. Personal taste has no fixed key.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "Own tastes have no fixed correct answer. Gesture alone cannot prove a private feeling; adult reads any pretend voice example.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA03",
+    "title": "Find messages in different text forms",
+    "model": "Actual original sign LIBRARY CLOSED TODAY, picture-book cover Lost Hat, and static screen notice. Same closed-library message recast as sign, spoken adult message and screen notice. Retained whale-comparison gets actual two-panel diagrams; oral-cultural activity remains named-lawful-source read-aloud.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Recognise signs and books as texts",
+        "source_status": "SUFFICIENT",
+        "basis": "Direct HQQ/BBC/LiteracyHub records supply book/sign/poster recognition. Cross-code Year1 forms/navigation records supply actual ABC/Oak/RWT text form and media activities; digital and form-comparison are declared lower-demand original transfers, not newly collected IXL questions.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Find a message on a screen or in speech",
+        "source_status": "SUFFICIENT",
+        "basis": "Direct HQQ/BBC/LiteracyHub records supply book/sign/poster recognition. Cross-code Year1 forms/navigation records supply actual ABC/Oak/RWT text form and media activities; digital and form-comparison are declared lower-demand original transfers, not newly collected IXL questions.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Compare forms carrying the same message",
+        "source_status": "SUFFICIENT",
+        "basis": "Direct HQQ/BBC/LiteracyHub records supply book/sign/poster recognition. Cross-code Year1 forms/navigation records supply actual ABC/Oak/RWT text form and media activities; digital and form-comparison are declared lower-demand original transfers, not newly collected IXL questions.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "Text form differs from purpose. Original screen mock-up labelled picture, not working device. No claim an object is automatically a text.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA04",
+    "title": "Find your way through books and screens",
+    "model": "Original book cover Busy Bees; actual two-line print Birds can fly. / Fish can swim. start and line-return arrows. Static labelled screen tabs Home/Food/Homes with a supplied Food fact. Native link to local Food example if made clickable.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Find the cover, title and start",
+        "source_status": "SUFFICIENT",
+        "basis": "Retain HQQ orientation/back-cover/last-word task and complete print model. Reuse Year1LA05 actual screen-navigation teacher guidance and prepared-route activities for simpler Foundation screens; do not claim all devices have identical controls.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Follow the printed words in order",
+        "source_status": "SUFFICIENT",
+        "basis": "Retain HQQ orientation/back-cover/last-word task and complete print model. Reuse Year1LA05 actual screen-navigation teacher guidance and prepared-route activities for simpler Foundation screens; do not claim all devices have identical controls.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Choose a labelled screen control",
+        "source_status": "SUFFICIENT",
+        "basis": "Retain HQQ orientation/back-cover/last-word task and complete print model. Reuse Year1LA05 actual screen-navigation teacher guidance and prepared-route activities for simpler Foundation screens; do not claim all devices have identical controls.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "English usual direction, not all languages; screen controls vary. No audio claimed played; illustrative controls not styled as unavailable live buttons.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA05",
+    "title": "Use a sentence to share a whole idea",
+    "model": "Contrast The small pup with The pup naps. and The bag is red. Build a whole message then change the follower in The cat follows the dog. / The dog follows the cat. Actual short word strips.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Hear a whole idea",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06 contains complete IXL/Oak/PETAA naming+happening and complete/incomplete methods with actual tasks. Reduce vocabulary and terminology; no formal clause-count demand at Foundation.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Build and say a complete message",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06 contains complete IXL/Oak/PETAA naming+happening and complete/incomplete methods with actual tasks. Reduce vocabulary and terminology; no formal clause-count demand at Foundation.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Change word order and check meaning",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06 contains complete IXL/Oak/PETAA naming+happening and complete/incomplete methods with actual tasks. Reduce vocabulary and terminology; no formal clause-count demand at Foundation.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "Meaning before punctuation/word count; states and commands not falsely excluded by action-only definition. No compulsory clause terminology.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA06",
+    "title": "Make meaning with groups of words",
+    "model": "Original grouped strips [The little dog] [rests under the tree.] then replace little dog with black cat or under the tree with beside the door. Word jobs shown by meaning; preserve complete sentence when swapping.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Keep naming words together",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06/07 source methods explain whole naming/happening groups and word contributions. The transfer is about words working together in meaning, not compulsory classification of every word class.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Notice what a word or group adds",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06/07 source methods explain whole naming/happening groups and word contributions. The transfer is about words working together in meaning, not compulsory classification of every word class.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Change one group and compare meaning",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA06/07 source methods explain whole naming/happening groups and word contributions. The transfer is about words working together in meaning, not compulsory classification of every word class.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "No arbitrary two-group rule, formal parsing or next-year classification demand. Internal word order affects meaning too.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA07",
+    "title": "Use words and pictures together",
+    "model": "Actual original four-panel quick-check art: puppy under bed, storm clouds/bent tree, hen with three chicks, Sam boots/yellow coat. New worked story actual open box with three shells plus sentence Rae found a box. Separate actual labelled plant diagram for informative text.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Find what the words tell",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA08 actual image/main-event examples plus targeted word/image/Oak ordering guidance cover source methods; Year1LE01 publisher discussion notes add actual literature. Original full stimuli remain production requirements; no decorative picture or image description can replace evidence-bearing art.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Find what the picture adds",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA08 actual image/main-event examples plus targeted word/image/Oak ordering guidance cover source methods; Year1LE01 publisher discussion notes add actual literature. Original full stimuli remain production requirements; no decorative picture or image description can replace evidence-bearing art.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Put clues together in stories and information",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA08 actual image/main-event examples plus targeted word/image/Oak ordering guidance cover source methods; Year1LE01 publisher discussion notes add actual literature. Original full stimuli remain production requirements; no decorative picture or image description can replace evidence-bearing art.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "No absent image replaced by its description. Do not infer name or exact feeling from a picture alone. Visible and stated facts explicitly separated.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA08",
+    "title": "Learn useful words in familiar places",
+    "model": "Original clear diagrams of a cup, pretend-shop receipt and rounded rolling ball versus sliding block. Contexts home, personal interest and classroom; model fragile/easily damaged using pictures instead of broken objects.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Connect a new word to its meaning",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA09 sources model/hear/say/use topic words, context clues, meaning groups and contextual precision, with actual36preview states separated from original application. Select familiar Foundation words rather than importing scientific recall.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Choose words that fit the topic",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA09 sources model/hear/say/use topic words, context clues, meaning groups and contextual precision, with actual36preview states separated from original application. Select familiar Foundation words rather than importing scientific recall.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Use a useful word in another setting",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA09 sources model/hear/say/use topic words, context clues, meaning groups and contextual precision, with actual36preview states separated from original application. Select familiar Foundation words rather than importing scientific recall.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "Judge meaning, not word length/spelling. Inclusive family examples; no sharp objects/food handling or health claims.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLA09",
+    "title": "Notice letters, capitals and ending marks",
+    "model": "Visible m / M / . / ? cards; annotation We met Ava. shows sentence-start W, name A and full stop. Contrast calm statement and question. Supply all four retained quick-check choices and keys.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Tell letters from punctuation",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA10 actual complete end-mark/capital worked teaching and task records transfer to Foundation sentence boundaries/names; no requirement to teach the full later-year punctuation inventory.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Find capitals at starts and in names",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA10 actual complete end-mark/capital worked teaching and task records transfer to Foundation sentence boundaries/names; no requirement to teach the full later-year punctuation inventory.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Notice where a sentence ends",
+        "source_status": "SUFFICIENT",
+        "basis": "Year1LA10 actual complete end-mark/capital worked teaching and task records transfer to Foundation sentence boundaries/names; no requirement to teach the full later-year punctuation inventory.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "Capitals are letters; punctuation separate. New printed line need not start a sentence. Broad later-year inventory not compulsory.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9EFLE01",
+    "title": "Share a text clue and a personal connection",
+    "model": "Three authentic attributed short readings: Helen Milroy (Palyku), Wombat and Mother Earth, publisher classroom extract with one nine-word quotation and concise scene summary; C. J. Dennis The Ant Explorer first two lines; Beatrix Potter The Tale of Peter Rabbit home sentence and actual first rabbit-family illustration (1902). Adult read-aloud, concrete evidence then personal similarity/difference. Supplement two original clearly labelled family microstories and an original diagram of text clue -> own experience -> reason.",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Share an idea from a story, poem or image",
+        "source_status": "SUFFICIENT",
+        "basis": "Reused Year1LE01 authentic-book teacher notes/author and publisher observations cover Little Bird\u2019s Day, Time for Bed and Dear Zoo with contextual discussion criteria. First Nations identities remain specific. Year3LE01 has a publisher-authorised Helen Milroy extract. Research supports a lawful read-aloud plan, not a claim source book spreads or learner responses were observed.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Connect an experience without judging it",
+        "source_status": "SUFFICIENT",
+        "basis": "Reused Year1LE01 authentic-book teacher notes/author and publisher observations cover Little Bird\u2019s Day, Time for Bed and Dear Zoo with contextual discussion criteria. First Nations identities remain specific. Year3LE01 has a publisher-authorised Helen Milroy extract. Research supports a lawful read-aloud plan, not a claim source book spreads or learner responses were observed.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Compare supported responses to named creators",
+        "source_status": "SUFFICIENT",
+        "basis": "Reused Year1LE01 authentic-book teacher notes/author and publisher observations cover Little Bird\u2019s Day, Time for Bed and Dear Zoo with contextual discussion criteria. First Nations identities remain specific. Year3LE01 has a publisher-authorised Helen Milroy extract. Research supports a lawful read-aloud plan, not a claim source book spreads or learner responses were observed.",
+        "original_transfer": "Distinct worked interpretation, different guided prompt with complete stimulus, independently answerable check and response criteria; no external observation count added."
+      }
+    ],
+    "boundary": "No one correct personal life/feeling; child may choose familiar imagined example or pass. No universal culture claims or invented First Nations story/art. Original pictures are not publisher illustrations. Full source links and adult material requirements explicit; no learner/voice/video observation claimed. Publisher labels Milroy source ages six to nine; Foundation adaptation uses only a short benign scene with adult reading, explanation and optional stopping.",
+    "provisional_page_handoff": "PENDING INDEPENDENT PLAN REVIEW"
+  }
+]

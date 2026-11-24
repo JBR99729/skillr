@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-10 Australia/Sydney",
+  "reviewer": "/root/research_plan — independent AI research/source reviewer; no learner-page authorship",
+  "scope": "Seven official code descriptions,19 elaborations,21 proposed in-scope focuses; source-to-method readiness and retained-section plan only.",
+  "decision": "PASS — READY TO DRAFT for all seven public Topic Guides",
+  "code_decisions": [
+    {
+      "code": "AC9E2LY06",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Choose a purpose and organise a complete short text",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use complete sentences, precise groups and topic vocabulary",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Edit meaning and conventions; create a simple multimodal version",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY07",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Organise a short presentation for a familiar audience",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Rehearse using useful cues and listener feedback",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Deliver and adjust tone, volume and pace for purpose",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY08",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Form recognisable unjoined upper- and lower-case letters",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use relative size, baseline placement and word spacing",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Build comfortable fluency and check a real handwritten sample",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY09",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Blend and segment complex spoken words",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Delete specified phonemes while preserving the others",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Substitute phonemes, then read and write the resulting words",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY10",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Read and spell vowel digraphs and less common long-vowel patterns",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Distinguish consonant clusters from silent-letter spellings",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Read and write longer words and compounds using known parts",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY11",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Map known sounds and explicitly learn unusual spelling parts",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use known patterns and meaningful parts to spell related words",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Check a plausible pronunciation against sentence meaning",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    },
+    {
+      "code": "AC9E2LY12",
+      "decision": "READY TO DRAFT",
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Build and explain transparent prefix families",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Build and explain suffix families",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Use meaningful families to read, spell and explain new words",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "closure": "Earlier named gaps reconciled against actual later source packet/methods; no unresolved material method gap for this bounded public-guide plan."
+    }
+  ],
+  "reviewed_dependencies": [
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/units.json",
+      "sha256": "43fe27c6150985b4fabb8ab09ed810318460b427d67f49fa0d40c7b9a008b325"
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/plan.json",
+      "sha256": "99fe05632910a8cedc22ae746aaaca1242c24109da44c06cc7837fdbbd64a768"
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-inventory-plan.json",
+      "sha256": "5dc62a55ffe76f9134c7c39149d2a39e97a4d44f0a0f69a100ad5d513ef7bcbc"
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/reused-research.json",
+      "sha256": "bb7c1ea93247cc743a9b80e0aac722cbb83b1fca09560f3ce54ff512c83d7574"
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/supplemental-source-notes.json",
+      "sha256": "6b909671bbc1305780c57aab0393abbb4da35a77474bc6e436d277856a524435"
+    }
+  ],
+  "findings": [
+    {
+      "id": "R1",
+      "status": "CLOSED IN PLAN",
+      "finding": "Shared method paths cited by code records were not in the initial downloaded subtree.",
+      "repair": "Fetched/read three actual current shared source packets through Github; saved exact input identities separately."
+    },
+    {
+      "id": "R2",
+      "status": "REQUIRED AUTHORING GUARDRAIL",
+      "finding": "Typed spacing graphic is not handwritten movement evidence, and baseline shorthand can conceal descenders.",
+      "repair": "Plan explicitly bounds correction and requires actual school model/learner handwriting."
+    },
+    {
+      "id": "R3",
+      "status": "REQUIRED AUTHORING GUARDRAIL",
+      "finding": "Spoken performance, sound manipulation and independent spelling cannot be certified from printed choices/copies.",
+      "repair": "Plan distinguishes adult modelling, actual observed response and supported versus independent production."
+    },
+    {
+      "id": "R4",
+      "status": "REQUIRED AUTHORING GUARDRAIL",
+      "finding": "Official sound-operation example contains a multi-sound initial cluster; generalisation overreach in compound source wording.",
+      "repair": "Count phonemes explicitly; preserve multi-sound deletion sequence honestly; avoid syllable/phoneme conflation and absolute compound claims."
+    }
+  ],
+  "remaining_gates": [
+    "Complete independent review of all authored/retained guide content and all prompts/responses/models.",
+    "Separate fresh final independent risk/render review and exact output/dependency identity.",
+    "Source/preservation/architecture and responsive browser checks; complete-tree integrity before publication."
+  ],
+  "limits": [
+    "No fresh IXL dot progression or new authenticated student submissions. Reused observed IXL task/help methods remain bounded to their actual recorded progression.",
+    "Research-log legacy filename returned404 in both repositories; current source ledgers, per-code QA and pinned later closures were used instead.",
+    "Source videos/audio not watched/heard, pupil handwriting/speech not observed, and finished guide renders not yet reviewed.",
+    "Older source grade labels supply methods only; units exact Year2 scope controls language and demands."
+  ]
+}

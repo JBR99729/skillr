@@ -1,0 +1,67 @@
+name: Learning intent consistency
+on:
+  push:
+    branches: [fix/sitewide-learning-intent-20261116]
+    paths:
+      - scripts/sync_learning_intent.py
+      - scripts/test_learning_intent.py
+      - scripts/repair_medium_seo.py
+      - scripts/test_medium_seo.py
+      - llms.txt
+      - llms-full.txt
+      - index.html
+      - .github/workflows/learning-intent.yml
+permissions:
+  contents: write
+concurrency:
+  group: learning-intent-consistency
+  cancel-in-progress: true
+jobs:
+  verify-and-save:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/sitewide-learning-intent-20261116
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Synchronize and verify all topic metadata and retained lessons
+        run: |
+          python scripts/sync_learning_intent.py
+          python scripts/sync_learning_intent.py --check
+          python scripts/test_learning_intent.py
+          python scripts/test_medium_seo.py
+          python scripts/repair_medium_seo.py --check
+          python scripts/normalize_resource_messaging.py --check
+          python scripts/validate_discovery_navigation.py
+          python scripts/validate_google_sitemap_submission.py
+          node scripts/audit_google_entity_graph.mjs
+          git diff --check
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Check native phone and desktop pages
+        run: node scripts/qa_medium_seo.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: learning-intent-browser-checks
+          path: artifacts/medium-seo/
+      - name: Save complete checked website tree
+        run: |
+          set -euo pipefail
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html'
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Align all 676 topic pages with free learning and practice intent'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin fix/sitewide-learning-intent-20261116
+          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git push origin HEAD:fix/sitewide-learning-intent-20261116

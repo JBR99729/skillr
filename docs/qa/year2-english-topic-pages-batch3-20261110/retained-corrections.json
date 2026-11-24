@@ -1,0 +1,130 @@
+[
+  {
+    "code": "AC9E2LY06",
+    "section": "Learning goals",
+    "before": "Learning target: create and edit short imaginative, informative and persuasive written and/or multimodal texts for familiar audiences, using text structure appropriate to purpose, simple and compound sentences, noun groups and verb groups, topic-specific vocabulary, simple punctuation and common 2-syllable words",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY07",
+    "section": "Learning goals",
+    "before": "Learning target: create, rehearse and deliver short oral and/or multimodal presentations for familiar audiences and purposes, using text structure appropriate to purpose and topic-specific vocabulary, and varying tone, volume and pace",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY07",
+    "section": "Common Student Misconceptions",
+    "before": "Reading slides word for word:",
+    "after": "Relying on words alone:",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY07",
+    "section": "Common Student Misconceptions",
+    "before": "Use short prompts and speak to the audience.",
+    "after": "Use a useful cue or script and check what the audience understands; support needs may differ.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY07",
+    "section": "Common Student Misconceptions",
+    "before": "Point to the word, sentence, image, sound pattern or text feature that supports the answer.",
+    "after": "Use the actual presentation and listener response as evidence; a printed delivery choice alone is not a performance.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY07",
+    "section": "Revision Notes",
+    "before": "point to the clue in the spoken words, written sentence, image, page layout or text purpose.",
+    "after": "use the actual talk, useful cue and listener feedback to explain one delivery choice.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY08",
+    "section": "Learning goals",
+    "before": "Learning target: write words legibly and with growing fluency using unjoined upper-case and lower-case letters",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY08",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "letters sit on line",
+    "after": "letter bodies follow the baseline; some parts reach below it",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY08",
+    "section": "Common Student Misconceptions",
+    "before": "Point to the word, sentence, image, sound pattern or text feature that supports the answer.",
+    "after": "Use the real handwritten sample, and observe the writing process when checking movement or grasp.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY08",
+    "section": "Revision Notes",
+    "before": "point to the clue in the spoken words, written sentence, image, page layout or text purpose.",
+    "after": "check your real handwritten words against the nearby school-style model; observe movement and comfort while writing.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY08",
+    "section": "Earlier worked model",
+    "before": "A handwriting sample says ‘thebigdog’ with no gaps. Which change improves legibility?",
+    "after": "The typed spacing example shows ‘thebigdog’ with no gaps. Which change makes the words easier to read?",
+    "occurrences": 1,
+    "reason": "Declare the title style and a complete editable target; exact earlier diagram preserved."
+  },
+  {
+    "code": "AC9E2LY09",
+    "section": "Learning goals",
+    "before": "Learning target: manipulate more complex sounds in spoken words and use knowledge of blending, segmenting, phoneme deletion and phoneme substitution to read and write words",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY10",
+    "section": "Learning goals",
+    "before": "Learning target: use phoneme-grapheme (sound-letter/s) matches, including vowel digraphs, less common long vowel patterns, consonant clusters and silent letters when reading and writing words of one or more syllables, including compound words",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY10",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "ai = long /a/",
+    "after": "ai = the long a sound",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LY11",
+    "section": "Learning goals",
+    "before": "Learning target: use knowledge of spelling patterns and morphemes to read and write words whose spelling is not completely predictable from their sounds, including high-frequency words",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LY12",
+    "section": "Learning goals",
+    "before": "Learning target: build morphemic word families using knowledge of prefixes and suffixes",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  }
+]

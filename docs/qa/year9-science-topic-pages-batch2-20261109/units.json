@@ -1,0 +1,962 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9H04",
+    "title": "Examine how the values and needs of society influence the...",
+    "unitSlug": "ac9s9h04-examine-how-the-values-and-needs-of-society-influence-the",
+    "sourceOrder": 649,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "examine how the values and needs of society influence the focus of scientific research",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9H04_E1",
+        "number": "E1",
+        "text": "exploring how governments determine which scientific research projects should be funded",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E2",
+        "number": "E2",
+        "text": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E3",
+        "number": "E3",
+        "text": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H04_E4",
+        "number": "E4",
+        "text": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E5",
+        "number": "E5",
+        "text": "considering innovative energy transfer devices, including those used in transport and communication",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E6",
+        "number": "E6",
+        "text": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E7",
+        "number": "E7",
+        "text": "examining why many manufacturers are adopting green chemistry processes",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9h04-society-values-scientific-research-priorities/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9h04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9h04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9H04",
+        "label": "Content description",
+        "text": "examine how the values and needs of society influence the focus of scientific research",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E1",
+        "number": "E1",
+        "text": "exploring how governments determine which scientific research projects should be funded",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E2",
+        "number": "E2",
+        "text": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E3",
+        "number": "E3",
+        "text": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H04_E4",
+        "number": "E4",
+        "text": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E5",
+        "number": "E5",
+        "text": "considering innovative energy transfer devices, including those used in transport and communication",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E6",
+        "number": "E6",
+        "text": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H04_E7",
+        "number": "E7",
+        "text": "examining why many manufacturers are adopting green chemistry processes",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9h04-examine-how-the-values-and-needs-of-society-influence-the/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I01",
+    "title": "Develop investigable questions, reasoned predictions and hypotheses to test relationships...",
+    "unitSlug": "ac9s9i01-develop-investigable-questions-reasoned-predictions-and",
+    "sourceOrder": 650,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I01_E1",
+        "number": "E1",
+        "text": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E2",
+        "number": "E2",
+        "text": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E4",
+        "number": "E4",
+        "text": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E5",
+        "number": "E5",
+        "text": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i01-investigable-questions-hypotheses-predictions/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I01",
+        "label": "Content description",
+        "text": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E1",
+        "number": "E1",
+        "text": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E2",
+        "number": "E2",
+        "text": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E4",
+        "number": "E4",
+        "text": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I01_E5",
+        "number": "E5",
+        "text": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i01-develop-investigable-questions-reasoned-predictions-and/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I02",
+    "title": "Plan and conduct valid, reproducible investigations to answer questions and...",
+    "unitSlug": "ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer",
+    "sourceOrder": 651,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I02_E1",
+        "number": "E1",
+        "text": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E2",
+        "number": "E2",
+        "text": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E3",
+        "number": "E3",
+        "text": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E4",
+        "number": "E4",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E5",
+        "number": "E5",
+        "text": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E6",
+        "number": "E6",
+        "text": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I02",
+        "label": "Content description",
+        "text": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E1",
+        "number": "E1",
+        "text": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E2",
+        "number": "E2",
+        "text": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E3",
+        "number": "E3",
+        "text": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E4",
+        "number": "E4",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E5",
+        "number": "E5",
+        "text": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I02_E6",
+        "number": "E6",
+        "text": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
+        "questionEligible": false
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I03",
+    "title": "Select and use equipment to generate and record data with...",
+    "unitSlug": "ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with",
+    "sourceOrder": 652,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I03_E1",
+        "number": "E1",
+        "text": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E2",
+        "number": "E2",
+        "text": "using data loggers and choosing correct scale and appropriate output representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E3",
+        "number": "E3",
+        "text": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E4",
+        "number": "E4",
+        "text": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E5",
+        "number": "E5",
+        "text": "discussing the amount of data needed to produce a useful sample size and why sample size is important",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E6",
+        "number": "E6",
+        "text": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I03",
+        "label": "Content description",
+        "text": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E1",
+        "number": "E1",
+        "text": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E2",
+        "number": "E2",
+        "text": "using data loggers and choosing correct scale and appropriate output representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E3",
+        "number": "E3",
+        "text": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E4",
+        "number": "E4",
+        "text": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E5",
+        "number": "E5",
+        "text": "discussing the amount of data needed to produce a useful sample size and why sample size is important",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I03_E6",
+        "number": "E6",
+        "text": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I04",
+    "title": "Select and construct appropriate representations, including tables, graphs, descriptive statistics...",
+    "unitSlug": "ac9s9i04-select-and-construct-appropriate-representations-including",
+    "sourceOrder": 653,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I04_E1",
+        "number": "E1",
+        "text": "using spreadsheet software to present data in tabular and graphical forms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E2",
+        "number": "E2",
+        "text": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E3",
+        "number": "E3",
+        "text": "applying algorithms to measure carbon storage of different vegetation types",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E4",
+        "number": "E4",
+        "text": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E5",
+        "number": "E5",
+        "text": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i04-select-and-construct-appropriate-representations-including/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I04",
+        "label": "Content description",
+        "text": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E1",
+        "number": "E1",
+        "text": "using spreadsheet software to present data in tabular and graphical forms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E2",
+        "number": "E2",
+        "text": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E3",
+        "number": "E3",
+        "text": "applying algorithms to measure carbon storage of different vegetation types",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E4",
+        "number": "E4",
+        "text": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I04_E5",
+        "number": "E5",
+        "text": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i04-select-and-construct-appropriate-representations-including/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I05",
+    "title": "Analyse and connect a variety of data and information to...",
+    "unitSlug": "ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to",
+    "sourceOrder": 654,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I05_E1",
+        "number": "E1",
+        "text": "discussing the validity of the data when extrapolating from a graph",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E2",
+        "number": "E2",
+        "text": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E3",
+        "number": "E3",
+        "text": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E4",
+        "number": "E4",
+        "text": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E5",
+        "number": "E5",
+        "text": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I05",
+        "label": "Content description",
+        "text": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E1",
+        "number": "E1",
+        "text": "discussing the validity of the data when extrapolating from a graph",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E2",
+        "number": "E2",
+        "text": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E3",
+        "number": "E3",
+        "text": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E4",
+        "number": "E4",
+        "text": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I05_E5",
+        "number": "E5",
+        "text": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I06",
+    "title": "Assess the validity and reproducibility of methods and evaluate the...",
+    "unitSlug": "ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate",
+    "sourceOrder": 655,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I06_E1",
+        "number": "E1",
+        "text": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E2",
+        "number": "E2",
+        "text": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E3",
+        "number": "E3",
+        "text": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E4",
+        "number": "E4",
+        "text": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E5",
+        "number": "E5",
+        "text": "considering if areas of uncertainty could lead to a viable alternative conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E6",
+        "number": "E6",
+        "text": "considering how general practitioners manage conflicting evidence to diagnose illness",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I06",
+        "label": "Content description",
+        "text": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E1",
+        "number": "E1",
+        "text": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E2",
+        "number": "E2",
+        "text": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E3",
+        "number": "E3",
+        "text": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E4",
+        "number": "E4",
+        "text": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E5",
+        "number": "E5",
+        "text": "considering if areas of uncertainty could lead to a viable alternative conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I06_E6",
+        "number": "E6",
+        "text": "considering how general practitioners manage conflicting evidence to diagnose illness",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I07",
+    "title": "Construct arguments based on analysis of a variety of evidence...",
+    "unitSlug": "ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence",
+    "sourceOrder": 656,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I07_E1",
+        "number": "E1",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E2",
+        "number": "E2",
+        "text": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E3",
+        "number": "E3",
+        "text": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E4",
+        "number": "E4",
+        "text": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E5",
+        "number": "E5",
+        "text": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E6",
+        "number": "E6",
+        "text": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E7",
+        "number": "E7",
+        "text": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year9/science/ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I07",
+        "label": "Content description",
+        "text": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E1",
+        "number": "E1",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E2",
+        "number": "E2",
+        "text": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E3",
+        "number": "E3",
+        "text": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E4",
+        "number": "E4",
+        "text": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E5",
+        "number": "E5",
+        "text": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E6",
+        "number": "E6",
+        "text": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I07_E7",
+        "number": "E7",
+        "text": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
+        "questionEligible": false
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9I08",
+    "title": "And create texts to communicate ideas, findings and arguments effectively...",
+    "unitSlug": "ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments",
+    "sourceOrder": 657,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9I08_E1",
+        "number": "E1",
+        "text": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E2",
+        "number": "E2",
+        "text": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9I08_E3",
+        "number": "E3",
+        "text": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E4",
+        "number": "E4",
+        "text": "developing an interactive presentation that shows feedback loops in human body systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E5",
+        "number": "E5",
+        "text": "planning a social media campaign to encourage young people to reduce their carbon footprint",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E6",
+        "number": "E6",
+        "text": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9i08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9i08-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9I08",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E1",
+        "number": "E1",
+        "text": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E2",
+        "number": "E2",
+        "text": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9I08_E3",
+        "number": "E3",
+        "text": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E4",
+        "number": "E4",
+        "text": "developing an interactive presentation that shows feedback loops in human body systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E5",
+        "number": "E5",
+        "text": "planning a social media campaign to encourage young people to reduce their carbon footprint",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9I08_E6",
+        "number": "E6",
+        "text": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year9/science/ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments/"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "code": "AC9S7U01",
+    "old": "/assets/illustrations/science/classification-tree.webp",
+    "new": "/assets/images/year7-science/classification-key-corrected.svg",
+    "alt": "Complete restricted key for four example cards: bird, furry mammal, six-legged insect and eight-legged arachnid.",
+    "reason": "Complete the missing eight-legged terminal and bound the key to its four supplied trait cards."
+  },
+  {
+    "code": "AC9S7U03",
+    "old": "/assets/illustrations/science/earth-axial-tilt-seasons.webp",
+    "new": "/assets/images/year7-science/seasons-corrected.svg",
+    "alt": "Parallel northward axes: June Earth left of Sun, December Earth right; Southern Hemisphere winter in June and summer in December.",
+    "reason": "Correct reversed seasonal labels relative to the fixed axial orientation."
+  },
+  {
+    "code": "AC9S7U04",
+    "old": "/assets/illustrations/science/orbital-gravity-path.webp?v=626",
+    "new": "/assets/images/year7-science/orbital-gravity-corrected.svg",
+    "alt": "Circular orbit: at the rightmost point, upward velocity is tangent and gravitational acceleration points inward left toward Earth.",
+    "reason": "Make orbital velocity tangent rather than diagonally away from the orbit."
+  },
+  {
+    "code": "AC9S7U04",
+    "old": "/assets/illustrations/science/lever-pulley-mechanical-advantage.webp?v=626",
+    "new": "/assets/images/year7-science/machines-corrected.svg",
+    "alt": "Downward effort balances a lever load; complete fixed and movable pulley rope paths show one versus two load-supporting segments.",
+    "reason": "Correct effort torque direction and supply continuous anchored or threaded rope paths with explicit supporting segments."
+  },
+  {
+    "code": "AC9S7U03",
+    "old": "/assets/illustrations/science/spring-neap-tides.webp",
+    "new": "/assets/images/year7-science/tides-corrected.svg",
+    "alt": "Positions-only tide model: aligned full Moon for larger spring range, quarter Moon at right angles for smaller neap range. No water bulge geometry or local prediction shown.",
+    "reason": "Replace a misleading neap-bulge orientation with exact relative positions and explicitly bounded tidal-range comparison."
+  }
+]

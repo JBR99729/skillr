@@ -1,0 +1,742 @@
+[
+  {
+    "code": "AC9S8U01",
+    "short": "Cells and their structures",
+    "title": "Explain a cell through its structures",
+    "intro": "Compare typical plant and animal cells, connect specialised structures to their jobs, and distinguish an observation from a model.",
+    "exampleTitle": "A root cell is still a plant cell",
+    "example": "The labelled leaf-cell model includes chloroplasts because this cell photosynthesises. The supplied root-cell record has a wall, membrane, cytoplasm, nucleus and mitochondria but no chloroplasts. Both are plant cells. The root cell can obtain sugars transported from photosynthetic tissues; its mitochondria support aerobic respiration. A missing chloroplast does not turn it into an animal cell. These are simplified typical-cell models, not microscope photographs.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied cell record</th><th scope=\"col\">Shared structures</th><th scope=\"col\">Additional evidence</th></tr></thead><tbody><tr><td>L: photosynthetic leaf cell</td><td>Membrane, cytoplasm, nucleus, mitochondria</td><td>Wall, large vacuole, chloroplasts</td></tr><tr><td>R: root cell</td><td>Membrane, cytoplasm, nucleus, mitochondria</td><td>Wall and large vacuole; no chloroplasts</td></tr><tr><td>A: typical animal cell</td><td>Membrane, cytoplasm, nucleus, mitochondria</td><td>No cell wall or chloroplasts in this model</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Start with evidence for cells",
+        "Cells are the basic structural and functional units of living things. A single-celled organism carries out life processes in one cell; a multicellular organism has cooperating cells. Microscopes made repeated observations across different specimens possible. Making a blurred image larger does not necessarily reveal more detail.",
+        "<div class=\"evidence\">Observation record: an image enlarged twice remains too blurred to separate two nearby boundaries. A new lens resolves them as distinct lines.</div>",
+        "Which change adds evidence: enlargement alone or resolving the two boundaries?",
+        "Resolving the boundaries adds distinguishable detail. Enlargement alone changes displayed size and may leave the uncertainty unchanged."
+      ],
+      [
+        "Compare structures, then functions",
+        "A membrane regulates exchange; cytoplasm is where many reactions occur; a nucleus contains genetic information. A plant wall supports the cell, chloroplasts enable photosynthesis in suitable cells, and a water-filled large vacuole helps maintain support. Typical plant and animal cells both have mitochondria.",
+        "<div class=\"evidence\">Record R above has a cell wall but no chloroplasts.</div>",
+        "What observation prevents the claim “no chloroplasts means animal cell”?",
+        "R is a supplied plant root cell with a wall and no chloroplasts. Chloroplast absence alone cannot classify it as an animal cell."
+      ],
+      [
+        "Explain specialisation",
+        "Use structure → capacity → job. Intestinal absorptive cells have tiny surface projections that increase exchange area. Active muscle cells often contain many mitochondria to support energy transfers during contraction. A useful model highlights these relationships while simplifying colour, size and detail.",
+        "<div class=\"evidence\">Two otherwise comparable absorptive-cell models have the same outer dimensions. Model P has a smooth surface; model Q has many surface projections.</div>",
+        "Which model has more exchange surface, and what does that support?",
+        "Q has more surface area, supporting absorption under suitable conditions. It does not guarantee greater uptake regardless of supply, damage or other conditions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Plants do not respire.”",
+        "Plant cells also use respiration; photosynthesis and respiration have different roles."
+      ],
+      [
+        "“Every cell has a nucleus.”",
+        "The typical models here have nuclei; bacteria and some specialised mature cells are exceptions."
+      ],
+      [
+        "“The diagram proves the colours.”",
+        "Model colours distinguish structures; they are not a record of natural cell colours."
+      ]
+    ],
+    "activityTitle": "Build a model with a stated limitation",
+    "activity": "Draw a typical photosynthetic plant cell. Label membrane, wall, cytoplasm, nucleus, chloroplasts and vacuole, then add mitochondria. Write one structure-to-function sentence and one limitation. Make a second version for a root cell and explain your change.",
+    "adjust": "Support: use the supplied structure list. Core: explain two functions. Extend: compare absorptive and muscle-cell specialisation without adding biochemical pathways.",
+    "safety": "Use drawings or teacher-selected prepared images. Any real microscope work follows the teacher’s equipment and specimen instructions.",
+    "tricky": [
+      [
+        "A plant model removes its membrane because it already has a wall. Is that a sound improvement?",
+        "No. A typical plant cell has both: the wall provides support and the membrane regulates exchange."
+      ],
+      [
+        "A model shows a nucleus as half the cell. Can you conclude that a real nucleus occupies half every cell?",
+        "No. The model is not to scale and cells vary; a measurement needs suitable observational evidence and scale information."
+      ],
+      [
+        "An animal cell has no chloroplasts. Does that alone show how it obtains usable energy?",
+        "No. Chloroplast absence does not describe its whole metabolism. The typical model includes mitochondria involved in aerobic respiration, using chemical energy from nutrients."
+      ]
+    ],
+    "faq": [
+      [
+        "Are models useless because they simplify?",
+        "No. Simplification can make structures and relationships easier to explain, provided the limitations are stated."
+      ],
+      [
+        "Can a microscope show every labelled structure equally clearly?",
+        "No. Visibility depends on the specimen, preparation, contrast and resolution; a textbook label is not proof it was directly observed."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U02",
+    "short": "Cells to coordinated systems",
+    "title": "Follow matter through a living system",
+    "intro": "Link specialised cells to tissues, organs and systems in a plant and an animal, and explain how coordinated transport supports survival.",
+    "exampleTitle": "Two transport pathways, different structures",
+    "example": "A root-hair cell has an extension that increases contact area for absorption. Root and stem xylem provide connected water-conducting pathways to leaves. In a human, cardiac muscle cells form contracting heart tissue; the heart pumps blood through vessels. Thin capillary walls permit exchange near cells. Neither system works as an isolated tube: transport depends on cooperating structures, available materials and suitable conditions.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Level</th><th scope=\"col\">Plant example</th><th scope=\"col\">Animal example</th></tr></thead><tbody><tr><td>Cell</td><td>Root-hair cell increases exchange area</td><td>Cardiac muscle cell contracts</td></tr><tr><td>Tissue</td><td>Xylem contains specialised conducting cells</td><td>Cardiac muscle tissue contracts together</td></tr><tr><td>Organ</td><td>Root contains absorption and transport tissues</td><td>Heart contains muscle, connective and other tissues</td></tr><tr><td>Coordinated system</td><td>Root and shoot systems supply water to leaves</td><td>Circulatory system links heart and blood vessels</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Build the hierarchy",
+        "Cells organise into tissues; organs contain cooperating tissue types; systems coordinate organs. A leaf is an organ, not one giant cell. A heart contains several tissues, not just muscle. These levels explain how small-scale structures support a whole organism.",
+        "<div class=\"evidence\">Cardiac muscle cell → cardiac muscle tissue → heart → circulatory system.</div>",
+        "Why is “a heart is a tissue” inaccurate?",
+        "The heart is an organ made of multiple cooperating tissues. Cardiac muscle is one of those tissue types."
+      ],
+      [
+        "Explain the plant pathway",
+        "Root-hair extensions increase exchange area. Hollow, strengthened water-conducting xylem cells form connected paths through roots and stems to leaves. Evaporation from leaves contributes to water movement; xylem does not actively pump like a heart. Phloem carries sugars from sources to sinks, which can be above or below the source.",
+        "<div class=\"evidence\">Supplied case: a stem’s water-conducting path is damaged while soil water and light remain available.</div>",
+        "Why might leaves lose support even when the soil is wet?",
+        "Damage can restrict water supply to leaf cells. With continued water loss, vacuoles may contain less water and cells lose turgor; wet soil alone does not ensure an intact transport pathway."
+      ],
+      [
+        "Explain the animal pathway",
+        "The right side of the heart sends blood towards the lungs; after lung exchange, blood returns to the left side and is pumped around the body. Arteries carry blood away from the heart and veins return it. Thin capillary walls enable exchange; coordinated pumping and exchange supply cells and remove wastes.",
+        "<div class=\"evidence\">Pulmonary artery: heart → lungs. Pulmonary vein: lungs → heart.</div>",
+        "Which vessel name tells you direction rather than oxygen content?",
+        "Both artery and vein are defined by direction. The pulmonary artery carries relatively oxygen-poor blood to the lungs; the pulmonary vein returns relatively oxygen-rich blood."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All xylem cells are dead.”",
+        "Mature conducting vessel elements and tracheids are dead; xylem also contains living cells."
+      ],
+      [
+        "“Phloem always flows down.”",
+        "Transport is from a sugar source to a sink; its direction depends on their locations."
+      ],
+      [
+        "“An organ works alone.”",
+        "Transport, exchange and the needs of cells connect organs into systems."
+      ]
+    ],
+    "activityTitle": "Trace a disruption",
+    "activity": "Draw soil → root hair → root xylem → stem xylem → leaf, and right heart → lungs → left heart → body → right heart. Mark a disruption on each and explain a possible consequence from structure to organ function. State what extra evidence you would need.",
+    "adjust": "Support: label supplied arrows. Core: connect cells, tissues and organs. Extend: explain why an artificial pump may support circulation without replacing gas exchange.",
+    "safety": "This is model reasoning, not a medical diagnosis or an instruction to damage plants. Do not handle biological samples without teacher direction.",
+    "tricky": [
+      [
+        "A phloem pathway supplies sugars to a growing root. Does that contradict source-to-sink transport?",
+        "No. A photosynthetic leaf may be the source and a growing root the sink; this route can carry sugars down the plant."
+      ],
+      [
+        "Can replacing the heart with a pump remove the need for lungs?",
+        "No. A pump supports movement of blood; gas exchange still requires an effective exchange surface such as functioning lungs or a separate support system."
+      ],
+      [
+        "Does a flat flow diagram show the true positions and sizes of organs?",
+        "No. It emphasises connections and flow. A labelled anatomical 3D model can better show position, while still having scale and simplification limits."
+      ]
+    ],
+    "faq": [
+      [
+        "Do plants have blood circulation?",
+        "No. Plants use different structures, including xylem and phloem. Comparing transport functions does not make the systems identical."
+      ],
+      [
+        "Why do thin capillary walls matter?",
+        "They reduce the distance over which substances exchange between blood and nearby tissues."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U03",
+    "short": "Plate boundaries and evidence",
+    "title": "Connect plate motion to Earth’s features",
+    "intro": "Model relative plate motion, explain features at boundaries, and use converging evidence to evaluate plate tectonics.",
+    "exampleTitle": "A spreading model makes a pattern to test",
+    "example": "In the hypothetical records, crust is youngest at a ridge and older farther away on both sides. This fits new crust forming near the ridge and moving outward. Matching ages and magnetic patterns on opposite sides are stronger together than either clue alone. These supplied values are a teaching model, not new seafloor measurements or a map of a particular ocean.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Distance from ridge on each side (km)</th><th scope=\"col\">0</th><th scope=\"col\">40</th><th scope=\"col\">80</th></tr></thead><tbody><tr><td>Supplied crust age (million years)</td><td>0</td><td>2</td><td>4</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Read relative motion",
+        "Divergent plates move apart; new oceanic crust can form at spreading ridges. At convergence, oceanic lithosphere may descend at a trench, or colliding continental crust can thicken into mountains. Transform plates slide laterally past one another. The mantle is mainly solid rock that can deform slowly, not a global ocean of magma.",
+        "<div class=\"evidence\">Case A: oceanic lithosphere descends beneath another plate. Case B: two continental masses collide and thicken.</div>",
+        "Why should both cases not be labelled “volcanoes must form”?",
+        "Subduction can be associated with melting and volcanic arcs. Continental collision mainly thickens crust and builds mountains; convergence does not guarantee volcanism."
+      ],
+      [
+        "Connect motion and features",
+        "Relative movement stresses rock. Sudden fault slip can cause earthquakes. Subduction produces trenches and earthquake patterns; divergence creates ridges or rifts. Transform motion can offset features without creating or destroying crust at the boundary.",
+        "<div class=\"evidence\">A hypothetical boundary has opposed sideways motion, offset roads and earthquakes, with no evidence of crust being created.</div>",
+        "Which boundary model best fits, and why?",
+        "Transform: the observations fit lateral slip and offset rather than separation with new crust or convergence with consumption of crust."
+      ],
+      [
+        "Test with several evidence lines",
+        "Seafloor ages, magnetic patterns, earthquake distributions and present-day geodetic measurements test different aspects of plate motion. Fossil and rock matches also supported earlier continental-drift ideas. A paper model that creates symmetry shows a proposed mechanism; real field records are needed to test it.",
+        "<div class=\"evidence\">Supplied model: at 40 km either side of the ridge the crust age is 2 million years; at 80 km it is 4 million years.</div>",
+        "What pattern supports spreading, and what cannot this tiny table establish?",
+        "Age increases with distance on both sides, consistent with spreading. The small idealised dataset cannot establish every boundary’s history or prove all proposed driving mechanisms."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The continents move over a liquid ocean.”",
+        "Plates are pieces of lithosphere moving over a mainly solid, slowly deforming mantle."
+      ],
+      [
+        "“Every boundary makes volcanoes.”",
+        "Boundary type and local conditions matter; many transform and collision settings are not volcanic."
+      ],
+      [
+        "“One matching outline proves the theory.”",
+        "A strong explanation must fit multiple independent kinds of evidence."
+      ]
+    ],
+    "activityTitle": "Make three movement models",
+    "activity": "Use two paper strips to show separation, convergence and sideways slip. Draw relative-motion arrows and one plausible feature for each. Add a separate continental-collision case and explain one limit of the paper model.",
+    "adjust": "Support: match motion to feature cards. Core: explain a mechanism. Extend: identify a new observation that could challenge one proposed boundary interpretation.",
+    "safety": "Use tabletop paper models. Do not visit unstable ground, cliffs or active geological sites for this activity.",
+    "tricky": [
+      [
+        "Is a magnetic stripe a differently coloured strip of ocean-floor rock?",
+        "No. Colour on a map codes measured magnetic properties or polarity; it is a representation, not necessarily a visible rock colour."
+      ],
+      [
+        "A single sample does not fit the age pattern. Should it be deleted?",
+        "No. Check its location, dating, sampling and uncertainty, consider local complexity, and compare further evidence before deciding how it affects the explanation."
+      ],
+      [
+        "Does the paper model show the real speed or force of plate motion?",
+        "No. Its scale, materials and movement mechanism differ. It represents relative motion and needs field evidence to test its geological interpretation."
+      ]
+    ],
+    "faq": [
+      [
+        "Are all earthquakes at plate boundaries?",
+        "No. Many occur near boundaries, but earthquakes can also occur within plates."
+      ],
+      [
+        "Why use different evidence types?",
+        "They test different predictions and can expose limitations that one dataset alone would miss."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U04",
+    "short": "Rock processes and uses",
+    "title": "Read a rock’s history and test its use",
+    "intro": "Trace alternative rock-cycle pathways, compare process timescales, and justify a rock use from formation and tested properties.",
+    "exampleTitle": "A useful building stone needs more than a name",
+    "example": "In this hypothetical matched abrasion test, equal-mass samples receive the same treatment: A loses 1 g and B loses 6 g. A is the better candidate for resisting that tested wear. Its interlocking coarse crystals are consistent with relatively slow cooling of an igneous rock, but crystal size alone does not establish path suitability. Strength, slip resistance, exposure, availability and other tests still matter. A polished carbonate marble may look attractive yet be a poor choice for repeated acidic exposure.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied sample</th><th scope=\"col\">Formation/property evidence</th><th scope=\"col\">Same abrasion test</th><th scope=\"col\">Possible use decision</th></tr></thead><tbody><tr><td>A</td><td>Interlocking coarse crystals</td><td>1 g lost</td><td>Candidate for a hard-wearing path; test other needs</td></tr><tr><td>B</td><td>Cemented grains</td><td>6 g lost</td><td>Less resistant in this test, not universally unsuitable</td></tr><tr><td>C</td><td>Recrystallised carbonate; polished finish</td><td>Not tested</td><td>Check acid exposure and durability before choosing</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Trace processes, not a compulsory lap",
+        "Melt cools and crystallises into igneous rock. Weathering breaks down rock; erosion and transport move material; deposition leaves it elsewhere. Compaction and cementation can turn sediment into sedimentary rock. Heat and pressure can change solid rock into metamorphic rock without bulk melting.",
+        "<div class=\"evidence\">Start with granite. Route 1: weathering → transported sediment → deposition → compaction/cementation. Route 2: heat and pressure without melting.</div>",
+        "What rock class can each route produce?",
+        "Route 1 can produce sedimentary rock; route 2 can produce metamorphic rock. If the granite melts and the melt later solidifies, the product is igneous instead."
+      ],
+      [
+        "Compare timescales using conditions",
+        "A fragment may be transported in seconds during a flow, while repeated deposition builds a sequence over a long period. Thick lava can remain hot internally long after its surface crust forms. Rates depend on thickness, material and conditions; no single clock times a whole rock cycle.",
+        "<div class=\"evidence\">Supplied observations: a grain moves across a tray in 5 seconds; a sediment sequence accumulates through many separate deposition events.</div>",
+        "Does the short transport time prove the sedimentary rock formed in 5 seconds?",
+        "No. Transport is one event; accumulation and later rock-forming processes have their own durations. The given observation does not date the finished rock."
+      ],
+      [
+        "Link formation, properties and purpose",
+        "Interlocking crystals, cemented grains and solid-state recrystallisation can help explain observed texture. Use a provided identification key alongside observations; texture is evidence, not an infallible label. Suitability depends on a measured property and the demands of a particular use.",
+        "<div class=\"evidence\">Hypothetical same-treatment wear test: A loses 1 g; B loses 6 g. Both started with equal mass.</div>",
+        "What bounded conclusion can you make?",
+        "A resisted this abrasion treatment better. You cannot conclude that every igneous sample is stronger than every sedimentary sample, or that A meets every requirement for a public path."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Metamorphic means melted.”",
+        "Metamorphism changes rock in the solid state; melting followed by solidification produces igneous rock."
+      ],
+      [
+        "“Every rock follows the same route.”",
+        "The process network branches; a rock may weather, be buried, change or melt by different paths."
+      ],
+      [
+        "“A shiny finish proves durability.”",
+        "Appearance and resistance to wear or chemical exposure are different properties."
+      ]
+    ],
+    "activityTitle": "Make two histories for one starting rock",
+    "activity": "Draw two possible pathways starting with igneous rock. Name each process and resulting material. Add a use decision supported by the supplied abrasion test, plus one further property you would test.",
+    "adjust": "Support: sort process cards. Core: explain a branching pathway. Extend: explain how a fossil or mineral texture supports a formation inference while leaving uncertainty.",
+    "safety": "Use photographs, drawings or teacher-selected loose samples. No quarrying, chipping, acid testing, heating or collecting from culturally significant places is part of this activity.",
+    "tricky": [
+      [
+        "Must a sedimentary rock show obvious layers?",
+        "No. Some have visible layers, but this is not universal. Use several properties and a suitable key."
+      ],
+      [
+        "Must all metamorphic rocks have bands?",
+        "No. Some, such as marble, can be unbanded. Texture depends on original material and metamorphic conditions."
+      ],
+      [
+        "A cooled lava surface can be walked on safely because it is solid. Is that conclusion justified?",
+        "No. A solid surface can cover a very hot interior, and other hazards may remain. A classroom diagram cannot establish site safety."
+      ]
+    ],
+    "faq": [
+      [
+        "Does weathering always take longer than erosion?",
+        "No. Both vary with conditions; distinguish an individual event from long-term accumulated change."
+      ],
+      [
+        "Can rock use affect the environment?",
+        "Yes. Extraction, transport and rehabilitation have environmental and social consequences as well as material benefits."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U05",
+    "short": "Energy stores and transfers",
+    "title": "Keep track of where energy goes",
+    "intro": "Classify motion-related and stored energy, trace transfers and transformations, and use a clear system boundary to explain a simple ramp.",
+    "exampleTitle": "A slower ball has not destroyed energy",
+    "example": "This hypothetical run starts from rest with 80 J in the gravitational store of the ball–Earth system. Take the bottom as the zero gravitational reference. At the bottom, 60 J is in the ball’s combined rolling motion and 20 J has transferred to the external track and air through friction, heating and sound. The expanded ball–Earth–track–air account totals 80 J. These supplied values illustrate accounting, not measured results or a claim that all kinetic energy is translational.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Account</th><th scope=\"col\">Start</th><th scope=\"col\">Bottom</th></tr></thead><tbody><tr><td>Ball–Earth gravitational store</td><td>80 J</td><td>0 J by the chosen reference</td></tr><tr><td>Ball’s translational + rotational motion</td><td>0 J</td><td>60 J</td></tr><tr><td>Energy transferred to external track and air</td><td>0 J</td><td>20 J</td></tr><tr><td>Expanded account total</td><td>80 J</td><td>80 J</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Classify the situation",
+        "Moving objects have kinetic energy. A raised stationary object can have gravitational potential energy; a stretched stationary band has elastic potential energy. Chemical energy is stored in substances. Thermal energy involves microscopic particle motion; electric currents involve moving charges. Heating and electrical transfer describe how energy moves between parts of a system.",
+        "<div class=\"evidence\">Three states: moving ball on a level surface; stationary raised ball; stationary stretched band.</div>",
+        "Which are motion, gravitational and elastic examples?",
+        "The moving ball has kinetic energy; the raised ball–Earth system has gravitational potential energy; the stretched band has elastic potential energy. Being stationary does not mean having no energy."
+      ],
+      [
+        "Follow the transfer",
+        "As a ball descends, its gravitational store decreases and energy can increase its translational and rotational motion. Friction can transfer energy to the track and air. State what is inside the system: the primary account here is ball plus Earth, with track and air outside.",
+        "<div class=\"evidence\">Supplied bottom record: motion 60 J, transfer to external track/air 20 J; initial gravitational energy 80 J.</div>",
+        "How much of the initial account is missing when surroundings are included?",
+        "None: 60 + 20 = 80 J. The ball–Earth system has transferred 20 J outward; the expanded account still conserves energy."
+      ],
+      [
+        "Investigate a fair ramp comparison",
+        "Compare release heights using the same ball, track shape, surface and release method. Release from rest without a push, repeat trials and record the highest later point reached. Higher starting height gives a larger starting gravitational store, but the measured motion also depends on energy transferred elsewhere.",
+        "<div class=\"evidence\">A ball is released from rest. A later hill is above its starting height; no motor, push or other energy input is supplied.</div>",
+        "Should it reach the top of that higher hill?",
+        "No in this model. It would need more gravitational energy than it started with, and energy transfers to surroundings make the reachable height smaller still."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Energy is used up and vanishes.”",
+        "Energy can spread into the surroundings and become less useful for the task while still being conserved."
+      ],
+      [
+        "“A ball at rest has no energy.”",
+        "Its height, deformation or chemical state can matter even when its speed is zero."
+      ],
+      [
+        "“Every arrow is a separate energy store.”",
+        "Some arrows show transfer pathways; label stores, transfers and system boundaries clearly."
+      ]
+    ],
+    "activityTitle": "Audit a paper energy story",
+    "activity": "Draw the supplied 80 J account. Mark ball plus Earth as the primary system and track/air outside it. Explain the 60 J motion and 20 J outward transfer. Then describe one controlled ramp comparison that could test a prediction.",
+    "adjust": "Support: match store cards. Core: account for surroundings. Extend: compare a rolling ball with a sliding block without claiming equal rotational energy.",
+    "safety": "Use the paper model or a teacher-approved low tabletop ramp with a catch tray. Do not launch objects or use stretched-band projectiles.",
+    "tricky": [
+      [
+        "A ball is momentarily at rest at the top of a vertical throw. Is gravity zero then?",
+        "No. Instantaneous velocity can be zero while gravity still acts. With a fixed height reference, gravitational potential energy is greatest there for that flight."
+      ],
+      [
+        "A lamp gets warm as well as producing light. Is its energy account incorrect?",
+        "No. Electrical energy transfer can produce both light and increased thermal energy in the lamp and surroundings."
+      ],
+      [
+        "Can the same 20 J be counted as track energy and then added again as a second independent loss?",
+        "No. Avoid double counting: state the time and destination of each part of the account, including transfers between surroundings if relevant."
+      ]
+    ],
+    "faq": [
+      [
+        "Do I need kinetic-energy equations here?",
+        "No. The focus is classification, evidence and clear transfer accounts; the numerical values above are supplied."
+      ],
+      [
+        "Does friction violate conservation?",
+        "No. It changes where energy is held and how it is distributed, so the surroundings must be included."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U06",
+    "short": "Elements, compounds and mixtures",
+    "title": "Read the atoms behind a particle model",
+    "intro": "Classify matter from composition and compare what symbols, formulas and two- or three-dimensional models communicate.",
+    "exampleTitle": "Two atom types can make one substance",
+    "example": "Sample A contains only O₂ pairs: it is a molecular element because every atom is oxygen. B contains only H₂O groups: it is a compound, with hydrogen and oxygen chemically combined in a fixed ratio. C contains intact O₂ and H₂O groups together: it is a mixture of substances. The letters identify atom types; colours and joining lines are model conventions, not literal coloured balls and sticks inside matter.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Sample in the labelled model</th><th scope=\"col\">Particle inventory</th><th scope=\"col\">Classification</th></tr></thead><tbody><tr><td>A</td><td>3 O₂ molecules: 6 oxygen atoms</td><td>Element</td></tr><tr><td>B</td><td>2 H₂O molecules: 4 hydrogen + 2 oxygen atoms</td><td>Compound</td></tr><tr><td>C</td><td>1 O₂ molecule + 1 H₂O molecule</td><td>Mixture of an element and a compound</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Classify composition",
+        "An element contains one atom type. A compound contains different elements chemically combined. A mixture contains more than one substance physically together, often in variable proportions. Being uniform to the eye does not make a mixture a compound: salt water is still a mixture.",
+        "<div class=\"evidence\">Sample P contains only N₂ molecules; Q contains only CO₂ molecules.</div>",
+        "Which is an element and which is a compound?",
+        "P is an element: both atoms in each molecule are nitrogen. Q is a compound: each molecule contains carbon and oxygen chemically combined."
+      ],
+      [
+        "Read a formula carefully",
+        "A subscript counts atoms of the preceding element within a molecular formula. A number before a formula counts whole molecules in this molecular context. H₂O has two hydrogen atoms and one oxygen atom; 2H₂O represents two such molecules.",
+        "<div class=\"evidence\">Given molecular record: 3CO₂ means three separate carbon dioxide molecules.</div>",
+        "How many carbon and oxygen atoms are represented?",
+        "Three carbon atoms and six oxygen atoms. The leading 3 multiplies the complete CO₂ group, not only carbon."
+      ],
+      [
+        "Compare representations",
+        "A formula states composition; a structural drawing adds connections; a 3D model can show spatial arrangement. Models simplify size, spacing and colour. Water molecules are bent, but H₂O alone does not draw that geometry. Some compounds form extended structures: NaCl describes a sodium-to-chloride ratio in a crystal, not a collection of compulsory separate NaCl molecules.",
+        "<div class=\"evidence\">A model maker uses two H pieces and one O piece for water, then arranges them in a straight line.</div>",
+        "What does the inventory get right, and what should be corrected?",
+        "The 2:1 atom inventory matches water. A straight-line arrangement does not model water’s bent geometry accurately. State which features a model is meant to represent."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Two atoms means a compound.”",
+        "Count element types, not just atoms: O₂ is an element."
+      ],
+      [
+        "“Two different elements in one molecule means a mixture.”",
+        "A single substance made of those chemically combined elements is a compound."
+      ],
+      [
+        "“Every compound has separate molecules.”",
+        "Many compounds, including sodium chloride, form extended structures."
+      ]
+    ],
+    "activityTitle": "Create and critique three samples",
+    "activity": "Use labelled paper circles to make one element sample, one compound sample and one mixture. Supply a legend and an inventory. Explain which connections represent chemical bonding and one feature your flat model cannot show.",
+    "adjust": "Support: use H and O only. Core: justify all three classifications. Extend: contrast a molecular formula with the ratio represented by a crystal formula.",
+    "safety": "Use paper or reusable modelling pieces. Do not mix real chemicals or use small pieces around young children.",
+    "tricky": [
+      [
+        "Does 2H₂ mean the same thing as H₂?",
+        "No. H₂ is one two-atom molecule; 2H₂ represents two such molecules, with four hydrogen atoms in total."
+      ],
+      [
+        "A transparent liquid contains water and dissolved salt. Does its uniform appearance prove it is pure?",
+        "No. A solution can be uniform while containing more than one substance; composition evidence is needed."
+      ],
+      [
+        "Could a mixture contain two compounds and no elements as separate substances?",
+        "Yes. For example, water mixed with sugar contains different compounds. Mixture classification does not require a free element."
+      ]
+    ],
+    "faq": [
+      [
+        "Are particle colours universal?",
+        "No. Use the supplied legend. The letters in this model identify atom types independently of colour."
+      ],
+      [
+        "Does a formula tell us every property?",
+        "No. Composition is important, but structure, conditions and other evidence also affect properties."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8U07",
+    "short": "Physical and chemical changes",
+    "title": "Ask whether a different substance formed",
+    "intro": "Compare physical and chemical changes using evidence, and explain energy changes without treating one visible indicator as proof.",
+    "exampleTitle": "A temperature change needs a bounded explanation",
+    "example": "These hypothetical teacher records state that additional checks established new products. X cooled from 22°C to 17°C; Y warmed from 22°C to 28°C. Under the stated comparison conditions, X’s combined process absorbed energy and Y’s released energy, with heat exchange affecting measured temperatures. Mixing or dissolution can contribute, so these readings alone do not isolate reaction energy. Neither a bubble nor a temperature change by itself proves a chemical reaction.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Hypothetical record</th><th scope=\"col\">Start → end</th><th scope=\"col\">Additional given evidence</th><th scope=\"col\">Bounded interpretation</th></tr></thead><tbody><tr><td>X</td><td>22°C → 17°C</td><td>A gas product was independently identified</td><td>Net cooling accompanies the combined process</td></tr><tr><td>Y</td><td>22°C → 28°C</td><td>A different solid product was independently identified</td><td>Net warming accompanies the combined process</td></tr><tr><td>Z</td><td>Water warms and bubbles on heating</td><td>The vapour remains water</td><td>Physical state change can also produce bubbles</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Follow substance identity",
+        "A physical change can alter state, size or distribution while retaining the relevant substance identity. A chemical change forms different substances. Tearing paper is physical even when hard to reverse; ice melting is physical; iron reacting to form rust is chemical.",
+        "<div class=\"evidence\">Case A: ice becomes liquid water. Case B: iron forms rust. Case C: paper is cut into tiny pieces.</div>",
+        "Which case forms different substances?",
+        "B. A changes water’s state and C changes paper’s size. Difficulty putting the pieces back together does not turn cutting into a chemical reaction."
+      ],
+      [
+        "Combine indicators and checks",
+        "Gas production, a new solid, colour change and temperature change can suggest a reaction. Check other explanations: boiling creates bubbles, coloured solutions can mix, and dissolution can affect temperature. Compare before-and-after properties and use suitable controls.",
+        "<div class=\"evidence\">An unknown sample bubbles, but the record does not say whether it was boiling, reacting or releasing trapped air.</div>",
+        "Can “bubbles prove a chemical change” be accepted?",
+        "No. Several explanations fit. More evidence about conditions and the identity of substances before and after is needed."
+      ],
+      [
+        "Explain energy with a system boundary",
+        "In a net exothermic process, energy transfers from the reacting or mixing system towards surroundings; in a net endothermic process it is absorbed. The observed mixture temperature also depends on exchange with the container and air, amounts and dissolution. Do not infer a universal temperature change for a named reaction.",
+        "<div class=\"evidence\">Given controlled comparison: X starts at 22°C and ends at 17°C; independent product checks support chemical change.</div>",
+        "What does the temperature record support, and what does it not isolate?",
+        "It supports net cooling during the combined process, consistent with energy absorption under the given conditions. It does not by itself separate chemical reaction energy from dissolution and environmental heat exchange."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Hard to reverse means chemical.”",
+        "Substance identity is the key; some physical changes are difficult to reverse."
+      ],
+      [
+        "“Every bubble is new gas from a reaction.”",
+        "Boiling and trapped-air release can also produce bubbles."
+      ],
+      [
+        "“Breaking bonds releases energy.”",
+        "Breaking bonds requires energy; forming bonds releases it. The overall balance matters, beyond a single bond change."
+      ]
+    ],
+    "activityTitle": "Sort evidence and alternative explanations",
+    "activity": "Make three columns: observation, possible explanations, further evidence needed. Use melting ice, bubbling water and rust formation. Add the supplied X/Y temperature records and explain why new-product checks strengthen the conclusion.",
+    "adjust": "Support: distinguish observation from conclusion. Core: give two alternative explanations. Extend: suggest a control for container/air heat exchange.",
+    "safety": "This is a paper evidence activity. It does not prescribe chemicals, heating or pupil reaction experiments; any practical needs the teacher’s separate risk and equipment plan.",
+    "tricky": [
+      [
+        "Does cooling after a reaction restore the original reactants?",
+        "Not necessarily. A temperature change can reverse while substance composition remains changed."
+      ],
+      [
+        "A new solid appears when a solution cools. Must it be a chemical product?",
+        "No. Crystallisation can recover the same dissolved substance. Establish the solid’s identity and the process before classifying it."
+      ],
+      [
+        "Why can the same observed temperature difference occur in different processes?",
+        "Amounts, substances, starting conditions, dissolution and heat exchange can differ. Temperature is one measurement, not a unique reaction fingerprint."
+      ]
+    ],
+    "faq": [
+      [
+        "Can physical and chemical changes happen together?",
+        "Yes. A burning candle includes physical melting and vaporisation as well as chemical combustion."
+      ],
+      [
+        "Can indicators be useful without proving a reaction alone?",
+        "Yes. They guide further tests and become stronger evidence when supported by controls and substance identification."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8H01",
+    "short": "How scientific explanations change",
+    "title": "Show why an explanation was revised",
+    "intro": "Compare an earlier explanation with a revised one and explain how new evidence, technology and testing changed what scientists could justify.",
+    "exampleTitle": "From drifting continents to moving plates",
+    "example": "Matching fossils, rocks and continental outlines supported the idea that continents had moved, but did not provide an adequate account of the mechanism. Later seafloor ages, magnetic patterns and earthquake evidence supported a framework of moving lithospheric plates. Modern GPS measurements test motion today; they were not available to Wegener. The earlier insight of movement was developed within a more powerful explanation, rather than every earlier observation being discarded.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Evidence type</th><th scope=\"col\">What it helps test</th><th scope=\"col\">Important limit</th></tr></thead><tbody><tr><td>Matching fossils and rocks</td><td>Past connections between now-separated regions</td><td>Does not alone establish the movement mechanism</td></tr><tr><td>Seafloor ages and magnetic symmetry</td><td>Formation and outward movement near spreading ridges</td><td>Interpret alongside sampling and dating uncertainty</td></tr><tr><td>Modern GPS records</td><td>Present-day movement in a stated reference frame</td><td>Not a measurement available in the early drift debate</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Compare the explanations",
+        "State what each explanation accounts for. Continental drift concerned changing continental positions. Plate tectonics describes motion of lithospheric plates and connections among ridges, trenches, faults, earthquakes and volcanism. A revised theory should explain existing evidence as well as new observations.",
+        "<div class=\"evidence\">Claim A: continents have changed position. Claim B: coherent lithospheric plates move and interact at boundaries.</div>",
+        "Which useful idea survives when A is developed within B?",
+        "The idea that continental positions can change survives. B adds a broader framework of moving plates and boundary interactions."
+      ],
+      [
+        "Connect instruments to evidence",
+        "Improved microscopes expanded what could be seen in cells. Ocean surveys, magnetometers and deep-sea drilling expanded evidence about the seafloor. Instruments make observations possible, but scientists must still check methods, interpretation and competing explanations.",
+        "<div class=\"evidence\">One team has a rough coastline outline. Another also has dated seafloor samples and magnetic measurements.</div>",
+        "Why is the second team able to test more predictions?",
+        "It can compare predicted age and magnetic patterns with different kinds of observations. More equipment alone is not proof; the resulting records and methods must be assessed."
+      ],
+      [
+        "Use disagreement productively",
+        "Ask which observations distinguish explanations, whether methods are reliable, and what uncertainty remains. Different perspectives can suggest better questions. Scientific acceptance depends on evidence and explanatory power, not merely a vote or the status of the speaker.",
+        "<div class=\"evidence\">A hypothetical age sample differs from a well-supported spreading pattern; its location and dating uncertainty have not been checked.</div>",
+        "What is a useful next step before declaring the whole theory wrong?",
+        "Check the sample, location, method and uncertainty; compare nearby independent observations and consider local geological complexity. A conflict deserves investigation rather than deletion or an immediate sweeping conclusion."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A changed explanation means science failed.”",
+        "Revision in response to evidence is a strength when the reasoning and limits are clear."
+      ],
+      [
+        "“A new instrument automatically proves a theory.”",
+        "Its observations still need reliable methods and interpretation."
+      ],
+      [
+        "“All opinions deserve equal scientific weight.”",
+        "Respect people while evaluating explanations against the quality and relevance of evidence."
+      ]
+    ],
+    "activityTitle": "Write an evidence-linked revision",
+    "activity": "Choose cell microscopy or plate tectonics. Write four sentences: earlier explanation, new observation or instrument, how it challenged or strengthened an idea, and what uncertainty or limitation remained. Separate observations from conclusions.",
+    "adjust": "Support: use the supplied evidence table. Core: connect evidence to a specific revision. Extend: propose a further test that could distinguish two explanations.",
+    "safety": "Use supplied records and cited public explanations. Do not invent historical quotations or describe a model as a performed experiment.",
+    "tricky": [
+      [
+        "Could a theory change while keeping many older observations?",
+        "Yes. A stronger explanation often preserves valid observations and changes how they are connected or explained."
+      ],
+      [
+        "Would measuring plate motion with GPS establish that Wegener had that evidence?",
+        "No. Evidence available today must be separated from evidence available during an earlier debate."
+      ],
+      [
+        "Is a classroom model an independent discovery of the same natural pattern?",
+        "No. A model built to produce the pattern demonstrates an explanation. Independent natural observations are needed to test whether that explanation fits the world."
+      ]
+    ],
+    "faq": [
+      [
+        "Can perspectives matter if evidence constrains conclusions?",
+        "Yes. They can influence which questions are asked, what is noticed and which methods are developed; proposed answers still need testing."
+      ],
+      [
+        "Does revision require one lone discoverer?",
+        "No. Scientific understanding commonly develops through contributions, instruments, debate and repeated work by many people."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8H02",
+    "short": "Perspectives and knowledge",
+    "title": "Ask whose questions shape the investigation",
+    "intro": "Explain how locality, priorities, participation and recognition influence scientific questions and methods while respecting knowledge authority.",
+    "exampleTitle": "A public case of co-production",
+    "example": "CSIRO describes the Gulumoerrgin/Larrakia seasonal-calendar project in the Darwin region as co-production with Larrakia knowledge holders. Public project information names Lorraine Williams, Judith Williams, Maureen Ogden, Keith Risk and Anne Risk, with CSIRO researcher Emma Woodward. This case shows how locally meaningful observations, priorities and knowledge-holder leadership shape what is documented and why. We are examining public project roles and methods here, not reproducing its seasonal knowledge or calendar.",
+    "evidence": "<div class=\"evidence\"><p>Public case source: <a href=\"https://www.csiro.au/en/research/indigenous-science/Indigenous-knowledge/Calendars/Gulumoerrgin\">CSIRO Gulumoerrgin calendar project</a>. This lesson does not supply calendar content, artwork, consultation or permission for reuse.</p></div>",
+    "steps": [
+      [
+        "Connect purpose to questions",
+        "An investigation reflects decisions about what matters. A local land-management question may draw on long-term ecological relationships and place-specific categories. A school instrument-comparison question may focus on how two thermometers behave. Different purposes can produce different questions and records without making one method appropriate for every purpose.",
+        "<div class=\"evidence\">Task P: document locally meaningful ecological relationships for local management. Task Q: compare two thermometers at the same place and time.</div>",
+        "Why might P and Q collect different records?",
+        "Their purposes differ. P needs relevant ecological relationships and local authority; Q needs comparable instrument readings and controlled conditions. A thermometer comparison is not a replacement for an entire local knowledge system."
+      ],
+      [
+        "Examine participation and credit",
+        "Who can participate, whose observations are recorded, and who receives credit can affect the development of knowledge. Ask whether a project description names contributors accurately and describes their roles. A description that makes outside researchers the only creators can erase knowledge-holder contributions.",
+        "<div class=\"evidence\">Two draft credits for the public case: A says “an outside team invented the community’s knowledge”; B acknowledges knowledge-holder leadership and documented co-production roles.</div>",
+        "Which credit better matches the supplied case, and why?",
+        "B. It recognises that the knowledge was held by community members and that documentation was collaborative. A falsely attributes invention of that knowledge to outsiders."
+      ],
+      [
+        "Respect authority and intended use",
+        "Reading public project information is different from reproducing a knowledge representation. Establish who has authority, what use is proposed and what permissions or restrictions apply. Attribution is necessary but does not automatically authorise adaptation, publication or commercial use.",
+        "<div class=\"evidence\">A student finds a publicly viewable calendar and proposes copying and changing it for a product sold online. No permission for this use is supplied.</div>",
+        "What should happen before that copying or adaptation?",
+        "Do not copy or adapt it on the assumption that public access permits the use. Check the knowledge holders’ authority and relevant conditions, seek the required permission through appropriate channels, or choose an authorised alternative."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“One calendar represents every community.”",
+        "Knowledge and representations can be specific to Country/Place, community and purpose."
+      ],
+      [
+        "“Credit alone grants permission.”",
+        "Acknowledgement and permission are different responsibilities."
+      ],
+      [
+        "“Perspectives are just personal guesses.”",
+        "Perspectives can shape observations, categories, purposes and participation; claims still require appropriate evidence and authority."
+      ]
+    ],
+    "activityTitle": "Compare two inquiry briefs",
+    "activity": "Write a question for comparing school thermometers and a different question about how a documented co-production project decides what to record. Identify purpose, contributors, evidence and limitations. Use the supplied public metadata; do not invent local cultural knowledge or season names.",
+    "adjust": "Support: use purpose → question → evidence prompts. Core: explain how participation changes a project. Extend: identify missing attribution or permission information in a draft plan.",
+    "safety": "No cultural artwork, local terminology or seasonal knowledge is to be copied or invented. This activity does not claim community consultation or endorsement.",
+    "tricky": [
+      [
+        "Is scientific quality established simply by who holds a view?",
+        "No. Relevant evidence, methods and context matter. Respecting knowledge authority also determines who may share particular knowledge and under which conditions."
+      ],
+      [
+        "Does a published case from the Darwin region authorise use of the same categories everywhere?",
+        "No. Local categories and authority are place-specific; the case cannot be treated as a universal seasonal template."
+      ],
+      [
+        "Can the class claim it co-designed with a community after reading a website?",
+        "No. Reading public information is not collaboration, consultation, consent or endorsement."
+      ]
+    ],
+    "faq": [
+      [
+        "Can we discuss a public project without copying its calendar?",
+        "Yes. Describe public roles, purposes and research methods accurately, with attribution and within the source’s conditions."
+      ],
+      [
+        "Why does credit matter to knowledge development?",
+        "Credit affects whose contributions are recognised, whose questions are heard and whether future collaboration is fair and accurate."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8H03",
+    "short": "Scientific responses and trade-offs",
+    "title": "Judge a response through four lenses",
+    "intro": "Use scientific evidence alongside ethical, environmental, social and economic considerations to make a qualified recommendation.",
+    "exampleTitle": "Fewer disposable pieces is one useful measure",
+    "example": "A hypothetical school pilot counts 100 single-use foodware pieces per lunch before a change and 30 during a comparable pilot lunch: 70 fewer pieces, a 70% reduction in that count. This does not establish 70% lower total environmental impact. Reusable items also require production, transport and washing; access needs, staff time and costs matter. A useful recommendation can support a trial with accessible alternatives and review conditions rather than declare one option best for everyone.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Lens</th><th scope=\"col\">Question for this hypothetical proposal</th><th scope=\"col\">Evidence still needed</th></tr></thead><tbody><tr><td>Environmental</td><td>Does reduced litter outweigh production and washing impacts?</td><td>Use numbers, energy, water, disposal and litter observations</td></tr><tr><td>Ethical</td><td>Are access needs and future impacts respected?</td><td>Consult affected users without assuming their needs</td></tr><tr><td>Social</td><td>Can students and staff use the system reliably?</td><td>Usability, hygiene procedures and practical feedback</td></tr><tr><td>Economic</td><td>Who pays and supplies labour?</td><td>Purchase, replacement, washing and staff costs</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Define the response and measure",
+        "A proposed response should name the problem, action and evidence of change. A reusable-foodware pilot may reduce disposable supply, but a piece count is only one outcome. State the baseline, comparison period, users and other conditions before interpreting the result.",
+        "<div class=\"evidence\">Hypothetical comparable lunch counts: baseline 100 disposable pieces, pilot 30.</div>",
+        "What reduction is supported, and what broader percentage is not?",
+        "The count is 70 pieces lower, or 70% lower than the baseline. A 70% reduction in total environmental impact is not established by these counts."
+      ],
+      [
+        "Examine consequences for different people",
+        "Ethical questions include fairness, access and responsibilities to future generations. Environmental questions include materials, energy, water and disposal. Social questions include convenience and inclusion. Economic questions include purchase, maintenance and labour. One consequence can belong to more than one lens.",
+        "<div class=\"evidence\">A lower-cost alternative is difficult for some users to handle; a more accessible option costs more. No user consultation or complete cost data is supplied.</div>",
+        "Why is “choose the cheapest” an incomplete recommendation?",
+        "It ignores access and social consequences and may omit ongoing costs. Seek relevant evidence, include affected users, and explain how competing needs will be addressed."
+      ],
+      [
+        "Recommend with conditions and review",
+        "Compare alternatives, acknowledge uncertainty and explain which evidence would change the decision. A historical Queensland consultation about single-use plastics illustrates the value of considering environment, access and transition costs; submissions represent respondents, not automatically the whole population. That historical proposal is not current compliance guidance.",
+        "<div class=\"evidence\">A hypothetical school receives 40 voluntary survey replies, with 36 supporting the pilot. There are 400 possible users.</div>",
+        "Can the report say 90% of all users support the proposal?",
+        "No. It can say 36 of the 40 respondents, or 90% of respondents, supported it. Voluntary replies may not represent all 400 users."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Most popular means scientifically best.”",
+        "Popularity does not settle environmental evidence, access or fairness."
+      ],
+      [
+        "“Biodegradable means harmless anywhere.”",
+        "Breakdown depends on material and disposal conditions; production and litter impacts still need assessment."
+      ],
+      [
+        "“A pilot proves the effect everywhere.”",
+        "Comparison conditions, sample, duration and wider consequences limit generalisation."
+      ]
+    ],
+    "activityTitle": "Write a conditional recommendation",
+    "activity": "Use the four-lens table to recommend a school foodware trial, an alternative or further investigation. Include two supported reasons, an access provision, one uncertainty and a measure to review. More than one conclusion can be defensible when the reasoning fits the evidence.",
+    "adjust": "Support: choose one question per lens. Core: weigh a trade-off. Extend: explain how a missing cost or access finding could change your recommendation.",
+    "safety": "Use supplied hypothetical records. Do not assume anyone’s disability, medical needs or permissions, and do not present this lesson as current legal guidance.",
+    "tricky": [
+      [
+        "Can an environmental benefit create an economic cost?",
+        "Yes. Reduced disposable waste may require purchase, washing or labour costs. Judge both and explain who receives benefits and bears costs."
+      ],
+      [
+        "Would four positive survey comments prove that the pilot caused less litter?",
+        "No. Comments can inform experience, but a causal litter claim needs suitable observations, comparison conditions and consideration of other changes."
+      ],
+      [
+        "Must every well-reasoned recommendation favour the pilot?",
+        "No. An alternative or a request for more evidence can be justified if it addresses the problem and explains the scientific evidence, trade-offs and uncertainty."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use four lenses?",
+        "They make benefits, burdens and uncertainty visible so a response can be evaluated beyond one convenient measure."
+      ],
+      [
+        "Do the lenses give a single automatic score?",
+        "No. Decisions require explicit criteria, evidence and reasoned judgement; affected groups may weigh consequences differently."
+      ]
+    ]
+  }
+]

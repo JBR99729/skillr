@@ -1,0 +1,8 @@
+/* Public Foundation English batch 2: readable static text and picture packets. */
+#skillr-topic-variants figure.english-model{margin:12px 0;padding:14px;background:#f5f8ff;border:1px solid #c6d7ed;border-radius:10px;min-width:0;max-width:100%;overflow-wrap:anywhere}
+#skillr-topic-variants figure.english-model>figcaption{font-weight:700;margin-bottom:10px;color:#234a78}
+#skillr-topic-variants .supplied-evidence{margin:14px 0;padding:12px;border-left:3px solid #91aed9;background:#f8faff;min-width:0}
+#skillr-topic-variants .supplied-evidence h3{margin-top:0}
+#skillr-topic-variants .print-example{font-size:28px;line-height:1.9;letter-spacing:.02em;background:white;padding:12px 16px;border-radius:8px}
+#skillr-topic-variants .concept-figure{margin:8px 0;max-width:100%;min-width:0}
+#skillr-topic-variants .english-model p:last-child{margin-bottom:0}

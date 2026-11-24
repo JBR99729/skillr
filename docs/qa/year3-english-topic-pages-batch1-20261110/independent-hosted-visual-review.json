@@ -1,0 +1,604 @@
+{
+  "reviewer": "/root/y3_content_review",
+  "head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+  "run": "42773144997",
+  "artifact_id": "13743295327",
+  "artifact_zip_sha256": "77749c988509da1d0f48a012e6ecb9f6f42f359a979015fa479c9e53007acbe8",
+  "all_model_pixels": "PASS: individually opened all45 actual browser model instance PNGs",
+  "model_count": 45,
+  "page_frames_inspected": 54,
+  "page_pixel_decision": "PASS all60 top/lesson frames across10codes at1440/768/390. Reused52 identical frame bytes; independently opened6newLA05 and2changedLA09 phone frames. All45model instance PNGs exactly identical to prior inspected images.",
+  "interaction_decision": "PASS hosted harness:30JavaScript-disabled visits,10JavaScript-enabled smokes,24actualLA05 pointer links at each3widths, exact hashes/destination assertions, native answer keyboard open/close and phone diagram keyboard panning; problems[]. No force-click. Prior failures retained.",
+  "model_findings": "All evidence matches prompts/keys; actual poem/narrative paragraph breaks visible; map upstream bridge/route and arrival tear/mud clear; model labels uncut. Phone diagrams use declared horizontal scroll and captions preserve full evidence. Small main-card annotation is optional polish.",
+  "screenshots": [
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-1440-native-1.png",
+      "sha256": "3bb30a9f3ac55da139b5db9f3bae9b24b3ca07e171e533bff414addb8620c2bd"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-1440-svg-1.png",
+      "sha256": "d1ccdf92cc00fc8fe3c0ec1d0d2d0e4b154bf74cfa05ce44602d99c3157ea239"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-1440-native-1.png",
+      "sha256": "4c0d0a3d1f946f71d65a548a2cc58d341b1a1a73fad2bcbe608f05b59cb5459b"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-1440-svg-1.png",
+      "sha256": "e023971cf22d8004c5185e76b22db70f4184730742d379b94549077c5be2b6a8"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-1440-native-1.png",
+      "sha256": "6cd7c867cd8f2f814d15c5896152ae2e6fedab2cc7ed465d33ae5c78766b9637"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-1440-native-2.png",
+      "sha256": "15c07285e29c3d3fd4808b11934f0bc8c7efb58f74b19a95e22b297da5b380e5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-1440-svg-1.png",
+      "sha256": "e795ace9b418ac0d6508e89d5868c6817ca0fc4fa14dc57e48740a404bfec6ee"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-native-1.png",
+      "sha256": "9e7f99fa2823291fa3f599c43f94835c7475b8fdeed4c0f40cd87179e59d7963"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-native-2.png",
+      "sha256": "544fb4cd05f4b2a9524f8ddebd18376651d49fad7f20dcfd6919ffed796cdda5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-native-3.png",
+      "sha256": "7310e2e5f66afea83f1f45de31a8fb7cad3e4efcdc2c874ade2bcdfbf051d74e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-native-4.png",
+      "sha256": "ccb5bae95ef9b48ebb6e2a9fc406653f28d36f9bb99e956b5d41daa8558883c4"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-svg-1.png",
+      "sha256": "8fbc939d79e63b6052ee4325462d10e6f72c47bd36bb015a2c0e501325c6ce6d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-1.png",
+      "sha256": "d1735eff74ace6294a4809ed2887b3b895667142fd3582a48a265bea71ba8ca5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-2.png",
+      "sha256": "63c928cc001217eb310eb9032f3559ade1cf5da65bf0d87b2e078c1c8b9163ab"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-3.png",
+      "sha256": "e0b7eb1d876c617f90ce3caabfafc62b2fd3ea5758278d62372c8fde1a07570b"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-4.png",
+      "sha256": "aa3ac4a44a885463d07943ebb1e38d62b34b8653309429f6b8a1279ad654f16d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-5.png",
+      "sha256": "c4a935130c8b760862c47577d210d036ba0d51f48753dbdc54d144a812bf590e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-6.png",
+      "sha256": "b43688598283b683b230fdc3dcc35bf400e632c0435f3f61a6d64e60cedc82f7"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-native-7.png",
+      "sha256": "764f9d8242f7550eede59a6495c863cf7e51a5e3e85de8eb6d7b5a616a2351e1"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA05-1440-svg-1.png",
+      "sha256": "850e74253a54f223f672e7c0190f54924b9a97a89c41f6dd4ee22e5f159ed033"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-1440-native-1.png",
+      "sha256": "e7926cd8dca605fd247f58530c33b02ffcbf0c8ee450f0093388b985bf98c385"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-1440-native-2.png",
+      "sha256": "43b981f371205342c94ef7349449573f44c6b8b0c6ddac391ba04c61e4df5a2f"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-1440-svg-1.png",
+      "sha256": "3b11f2934f23c32703757dc48e69d78100c5d1c11b18e9055a30e8e10096af24"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-1440-native-1.png",
+      "sha256": "e82c5732147fd80cca8434bb34214ec0ba9c1c3a9b5e5cad1cf386501fbe3c30"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-1440-native-2.png",
+      "sha256": "be6d8506a9e7c785718ea52da5094a992ca9fc3cc46ee24ac58ed88ef3a739de"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-1440-svg-1.png",
+      "sha256": "c08e8d77f5db1d9ed4b6938a4e0f9d28fd262a83c26bec03c4997ea4458e8702"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-1440-native-1.png",
+      "sha256": "8d374a2a165e720089ea3e9efdcf3cf8a2e5b7df90d011ce403ed6081ea5aba4"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-1440-native-2.png",
+      "sha256": "31ee2d24c6cc848decbaeff41c05783431c6af4df0f7dffd39da02ab27f7da26"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-1440-svg-1.png",
+      "sha256": "349ddd2cac4962f80410516df8e14d44356c490bd2bbae9dfba9411907d89f42"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-native-1.png",
+      "sha256": "b9b37ceca8edcb70d6cb7aa43e96454d1b37517a8ad2a9a7026a54659d3b4a5f"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-1.png",
+      "sha256": "d66715f427a72d070f0ec01e80b3c6ba79000b7f837914fb1f0144ed8d2f2ba5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-10.png",
+      "sha256": "8b78145b461aab67a7b3725a30fbfb8ef3729ec0455f2e556632d2526cfcbb63"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-11.png",
+      "sha256": "acbe88f9654356eddca38ff66e6f82228f11dd8e56dcef680519a2de32bbcde1"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-12.png",
+      "sha256": "b65f1ba4c1eb3cb339cce1e259f5229b592f9f7b832c6f5301eb02de7949b1aa"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-2.png",
+      "sha256": "a4bb49c01fb8d6242861b0184329adf658c8c6e84b9bb7c80b073955033f8efc"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-3.png",
+      "sha256": "1c7b0988887327bb0bcff732075d347d11217ce82a79c026f15a3b669d82847d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-4.png",
+      "sha256": "d97b291bf3e1c03ee92d1f9a264ea3f83c059623eb1d236a8aac203d6f883445"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-5.png",
+      "sha256": "15f5119ffdb637c7581d0623eeab9cd2adcdc0e5ec3d3e4e375494cb05ef7a54"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-6.png",
+      "sha256": "e7afce9647e2e62daac62cfdad73c1e355e790f5fee14e789ab95204e892e473"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-7.png",
+      "sha256": "121ed851c9a7db136d38103807c3a1ce372cb2d6f63ebb59f031d303a291197d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-8.png",
+      "sha256": "f42b74a7bf54dad295dd9438cccdef1139d6e1c62280bda9a4e2dd0a4157e03c"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-svg-9.png",
+      "sha256": "a1b97bfe83260a52f90765aff84a1682fd9a15b7ac35571047cb71c356933e6b"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-1440-native-1.png",
+      "sha256": "6a4ccd6a1cf3ba75afe6f98a28cc35f437bd09e75c16a6fc9e5414365c314a80"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-1440-native-2.png",
+      "sha256": "df97477b0ac087dfafbf944892405a482249aaba2cddd3cd49f68168e13bea96"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-1440-svg-1.png",
+      "sha256": "33bade7a6cce2c3fbb7c6ac275f510d37644d69844abcf52b0ad6b0bb28efd7e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-1440-lesson.png",
+      "sha256": "acd525fadcdc6841fe0b2f741dc620da545ab2bafa4295fb74b957d8f63ca11c"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-1440-top.png",
+      "sha256": "4d82ee045ce237338c2d075c9bebf02429a947624300bf21f2e1df29936fa9a7"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-390-lesson.png",
+      "sha256": "6fab1e02eb0626bf01882a2f8fa23face33c8f6c85c50dc7d984b83bfa95d922"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-390-top.png",
+      "sha256": "b724732c534da27bffbb2d9f7effea2668aec7da4e7ebb4c874419cab8edf7d9"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-768-lesson.png",
+      "sha256": "95a3a0b9ddcf4e6557c3bf6642633e00b1b4343a0e905df6e5aeea4beb9233a2"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA01-768-top.png",
+      "sha256": "73c713fd1c1f3860b85223dc40160f35ea0336b77d01e60f5ba93952c1faa115"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-1440-lesson.png",
+      "sha256": "172e74063ce0fd9db50a840da9762248af5080cc5ba20b5d2bed576e116e0af2"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-1440-top.png",
+      "sha256": "fce8fdb66dedf80e2b045cfa51e323194281218e330d491f399f29499233975e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-390-lesson.png",
+      "sha256": "841a3398d3afd064d2762f9aa4f62166027c6e444f9bd8b9387a84031f702d71"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-390-top.png",
+      "sha256": "08cfd335a59a6c3599fcfe8cf591ba70169342f89e1334f596a8e912fe1f7ff9"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-768-lesson.png",
+      "sha256": "34420d13b9483ed7bdea7ab38670a31a5ac110ca0915bd081d528225e3e49720"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA02-768-top.png",
+      "sha256": "7206131a3b3077005545c1f8b707a9eec3795bdda37fb33d34711aa202499c60"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-1440-lesson.png",
+      "sha256": "dc3aa62c54517f14b252e1f6d6d3d59262dd27316a7b8936c9ace7728f612d84"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-1440-top.png",
+      "sha256": "b532dae5516270728ae730c36a6de25ac54b198b29b38d624879db2ab2c66c01"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-390-lesson.png",
+      "sha256": "e9acf384cbca6e2375b029260ef98ebece62b51e5fd0ecd37d9a4f08d78d5388"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-390-top.png",
+      "sha256": "9aa8c91a5e04687092320cce29f9fc63e899858a3423f543fbaf0e3171583f4f"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-768-lesson.png",
+      "sha256": "d6b4c2ef20026bdea79b6a26e70862f84b4b15e5d1a09c5352cec17e2b15743d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA03-768-top.png",
+      "sha256": "dcf327e851b5e6e1390f9fa2feaff0dd471f0293da3a1244eb5c13cc5f3b99b5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-lesson.png",
+      "sha256": "c1b5bdf16773a6bbd36a626e0c0b55d733637f55cf95be645be6765b12c3ed26"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-1440-top.png",
+      "sha256": "5f6ba6b974b593490db93b5f2abfbb9327b1c3ddaaaf6c0e07eb203b69701d17"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-390-lesson.png",
+      "sha256": "19145367663cba140c218e4a8910c4fc41184ddd9920d910e314867e92ecf552"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-390-top.png",
+      "sha256": "6c613e04a970919fe16be5b4ec087b421695cf15acc711720150cb69d7836a0e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-768-lesson.png",
+      "sha256": "0507bb7b4c019c957d71d78a8ff29377ad959e7d7cf6e52a072c5eec55a8e42b"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA04-768-top.png",
+      "sha256": "150c078f57eef925a348edc587978273b822a70922528482460741418fd5d262"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-1440-lesson.png",
+      "sha256": "77aac76e12dd19e2b50f866ca2e17d59867917dff6168a9ff063e7c3163ceb2c"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-1440-top.png",
+      "sha256": "2bef7b426964d588adb461c1eb00f6fc1385533815052615bef3f7322023c69d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-390-lesson.png",
+      "sha256": "87c0724927da4149c1d5ccefe81d75c3db52b764ff77a47264db4c94b219031d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-390-top.png",
+      "sha256": "d5f230a1f10572149299943937c3c80f468ac9c2c469cc9c910b303461fd97dc"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-768-lesson.png",
+      "sha256": "1b69b9b7c2c47192d6d9273c85ea38293517aeb95fdaa05ad7fe1586ae0ed4bd"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA06-768-top.png",
+      "sha256": "5ece6c9b3cbc35c24c2a6ceeeccca86acd59c9dfb38a28e0e38da27318ee31bb"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-1440-lesson.png",
+      "sha256": "78387294c9222e82357fd29eaf04220e6f5df8e3c38aa5e27702f3d8bb376748"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-1440-top.png",
+      "sha256": "64b9bc45556a08c6b7479621b1c32bde60d7fed096e5a58189cecb368fe76aeb"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-390-lesson.png",
+      "sha256": "2cd18e1285fa2eefa7e0592a313a1760aaad2ee6f3cd2a380175f462519e0881"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-390-top.png",
+      "sha256": "efe993987ed63a91e5f79557ae5bdee0bd5d5c7a9dc3be07e629b3b15ed09e97"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-768-lesson.png",
+      "sha256": "e39495fb57a00fc357b694bdb797783090f6d0818d04f2ebd6c537ca2a9a285f"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA07-768-top.png",
+      "sha256": "6c9209a0d77edf1e2107497fcfc3f8f559eca9eec2c266410fcc8475e88ef8ff"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-1440-lesson.png",
+      "sha256": "2414fc935114e0f323ff3dfc1245e35043a18f33d5d43b140ca007417c453156"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-1440-top.png",
+      "sha256": "d6c52393376e67d5e527626259ea48e3098ad67d1959302f9b3ed65dbba72b14"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-390-lesson.png",
+      "sha256": "3e22d1e96bd1c0d8c9ecbe1376c54373685ad6a86f5705679e710779cc37d6a2"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-390-top.png",
+      "sha256": "b874aa1479e3f5a2cebc530fe9172c3b15dcbf9a2582c1f1911279afb4418564"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-768-lesson.png",
+      "sha256": "74260ce63a4ab24405f7475b8512217b8b1c4f871d45a14ea95522c6e44153b1"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA08-768-top.png",
+      "sha256": "288baa47e8cbbab9435e34afab4cdd310a880a6c277f38ffbfa3d5353a8830c0"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-lesson.png",
+      "sha256": "899d62d27858c39b3ef45403021e1ce591bd801bf0ef52bb4f1bb0c614ba1bd8"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-1440-top.png",
+      "sha256": "c46f6cdab8a8c23882ada640dcd47bcb431622711ce8a3c0ff8e9d9dea7009e1"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-390-lesson.png",
+      "sha256": "bdc357da74c4b44af42b1a2c261bc748f70120bfe1ea94a600cd9257a5bd8b82"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-390-top.png",
+      "sha256": "d627d73b046e00a34711ce58fd9aeb2e606cb32eeefe3ca7a89e868d877e0f72"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-768-lesson.png",
+      "sha256": "6f73f12ecf9e3e8829e6376bfdffc1c913ae4955b9c7e4e1970dbf0651fcebf5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA09-768-top.png",
+      "sha256": "6450aaf29c4f24af5eeac32a02b8148105231f4ade23cd4cc200635e92728de5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-1440-lesson.png",
+      "sha256": "4c8bc16a402b5d8604a066af3df1245b351c66a84301dbd146118c75c29b3f71"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-1440-top.png",
+      "sha256": "b7320fe092d6b56ea0ca8f5beb237631343130078ded8b2b2b0e2d525529d375"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-390-lesson.png",
+      "sha256": "656c4879cc0775a264ddff978afc9f203778169690a197ee2bb9aacb822ede6d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-390-top.png",
+      "sha256": "080588aef36c8c679384c6d6ce63927f30a55583932bfe7d22c707da0ad96394"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-768-lesson.png",
+      "sha256": "e95815a4d1e5bac4082e14f39427fb3a55e7d9feda2102c7be2b7df82f02b3e8"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-initial/AC9E3LA10-768-top.png",
+      "sha256": "3bcb3b7fa886afaa3b79e8860ca114d0344d8d5507c38a232c3cf1870eddbc9c"
+    }
+  ],
+  "initial_review": {
+    "head": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
+    "run": "42770850475",
+    "artifact_id": "13742061589",
+    "artifact_zip_sha256": "fa55abf0025c99f19703874d3248c8a03f5cef33abf318161bb2eddc47205ec8",
+    "interaction_decision": "HOLD: initial LA05 real pointer clicks failed while smooth scroll in progress; await bounded harness rerun. Other27 visits and10JS smokes recorded; no missing page/interaction pass inferred.",
+    "page_pixel_decision": "PASS for nine complete codes at1440,768,390 widths; LA05 final top/lesson missing because run stopped at failed link interaction. LA05 failure surfaces inspected but not substituted for missing frames."
+  },
+  "final_decision": "PASS",
+  "affected_frames": [
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-1440-top.png",
+      "sha256": "eb503d1dcb3c942f58d54c2e906a5f9b5f4e4b70083d93e1a8046608134bb19d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-1440-lesson.png",
+      "sha256": "332573e9fff2bf6021208c959ea6225988384a877da6ef07228410d1e783aeb9"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-768-top.png",
+      "sha256": "f85885d839d74245752faa2fbd95d6471a91ccf383bc7cfd9df2225ac43dbcd0"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-768-lesson.png",
+      "sha256": "a8718a461bd304e03eaa0820a13c246bb4d36938cc6f9b2fb3010f9814d267f2"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-390-top.png",
+      "sha256": "cc046e7c49ed071d999fa3268a0d912222e25d8639778939df7bb4cba0d1a338"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA05-390-lesson.png",
+      "sha256": "4c4894960b4c57414858fe3bc11e7f04438f113245995431573ef0ea5404b8e2"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA09-390-top.png",
+      "sha256": "c609fa3ee6b4afd93714cad65e616c00c264fb10f9c86ac94f9fe3849c16ec0d"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/browser-pass/AC9E3LA09-390-lesson.png",
+      "sha256": "86558a725bec9dab3e9312f4e9ade6b00bfa1b56da7b6afdcc740e73296723f0"
+    }
+  ],
+  "final_results_sha256": "f594d4941c4374d3b9a0028066bb80473a69bafdca52a6e8139c78b2931240e4",
+  "pixel_comparison_sha256": "3c109a79c6ff33c91f7f8f1dafb2b1f695c896fc9440f2c37234b1344decd9eb",
+  "hosted_dependency_pins": [
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "git_blob_sha": "d6150a46301092e099ae182d357d8629134e6136",
+      "bytes": 6178
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "git_blob_sha": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+      "bytes": 209
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "git_blob_sha": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+      "bytes": 2145
+    },
+    {
+      "path": "assets/css/year3-english-topic-pages-batch1.css",
+      "sha256": "190301deb356366cd41a678a40562b4c8a56dcdd54cac2002dbd6d8ea0db87cd",
+      "git_blob_sha": "b30ac860317a4bbfc62209f9a143601408645572",
+      "bytes": 3281
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "git_blob_sha": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+      "bytes": 8721
+    },
+    {
+      "path": "assets/curriculum.css",
+      "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "git_blob_sha": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+      "bytes": 25387
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "git_blob_sha": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+      "bytes": 3721
+    },
+    {
+      "path": "assets/report-issue.js",
+      "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "git_blob_sha": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+      "bytes": 3484
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+      "bytes": 1912
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/inventory.json",
+      "sha256": "7c48c61fa24a7ea8a7a4954849b340cccd39ad0d7ac6c7d098cf6b0c08f588bf",
+      "git_blob_sha": "500e1cf684e1110f2cb9ae93672618efb699fc78",
+      "bytes": 5988
+    },
+    {
+      "path": "pwa-register.js",
+      "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "git_blob_sha": "a6722b570107fdb5b7c434eed55e135b407533fb",
+      "bytes": 6198
+    },
+    {
+      "path": "scripts/qa_year3_english_topic_pages_batch1_browser.cjs",
+      "sha256": "01106cd33509f9101c9aedb5338188e6f7abd1b264d78b4bc0eb668160ab6beb",
+      "git_blob_sha": "f2fe2d63dbf78fe4bb74ccb844db8f5e75d2d86b",
+      "bytes": 14682
+    },
+    {
+      "path": "style.css",
+      "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "git_blob_sha": "08cc59e74479fce7b164a1420b620fb85d735c66",
+      "bytes": 105418
+    },
+    {
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "sha256": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387",
+      "git_blob_sha": "d635ffb0f8a1ac2b6e5f7eadb3acb6383403785a",
+      "bytes": 32929
+    },
+    {
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "sha256": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33",
+      "git_blob_sha": "a4834ef1ffa00ccaf3bbb2178983e9a520660d45",
+      "bytes": 31920
+    },
+    {
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "sha256": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73",
+      "git_blob_sha": "2312d3fa2194b720d322b901bb0d061cf9f04c86",
+      "bytes": 36876
+    },
+    {
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "sha256": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572",
+      "git_blob_sha": "774f2e1a020fc588b454681e9c98de91124f3489",
+      "bytes": 31772
+    },
+    {
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "sha256": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e",
+      "git_blob_sha": "12f18fa02a304ca6b2a03c741fcdc18d7a6b9f18",
+      "bytes": 40460
+    },
+    {
+      "path": "year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html",
+      "sha256": "a12aca7ac41e23bc6fc6f5e4b0cf182282a35dfc0d3f2a10c9dd09e22288c9be",
+      "git_blob_sha": "b8ae4bba2c82a7638630f8b1e07de14870b28cb0",
+      "bytes": 27793
+    },
+    {
+      "path": "year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html",
+      "sha256": "0743ade7e0ee8209f1fe03ca45d6798fbe7a678ec98120e1d9ec980c5a32deef",
+      "git_blob_sha": "374c9d432bb8251f02f7e377856365866f9b00c7",
+      "bytes": 28031
+    },
+    {
+      "path": "year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html",
+      "sha256": "ddd38bc8da50dc7f7064a97798739a067f735e0f4b41ee9b04016a78b4061ac8",
+      "git_blob_sha": "b00f6b45028990ce97b220c8318dcf61c4817785",
+      "bytes": 26920
+    },
+    {
+      "path": "year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html",
+      "sha256": "a2b314c0717084dfb96f4d05c1499f61c21f4ff24e370342821d3021e752d8c1",
+      "git_blob_sha": "b65ce86450da2fd383d2033c15d40de7ea312993",
+      "bytes": 52722
+    },
+    {
+      "path": "year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html",
+      "sha256": "3fb421782fd130386e6aa0ec9070b2518750eb379e4c697de8e35d64da88a274",
+      "git_blob_sha": "b3cb36e4e2b0959aef61faeaa9a6e1751ff84574",
+      "bytes": 29498
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "git_blob_sha": "60a022eec535fcd18472b075f88f7ff8c49f4669",
+      "bytes": 532
+    }
+  ],
+  "hosted_dependency_pins_sha256": "41a1c52f8b32c17952ebf197c3eefba660097cf89cd7ae9e922c45717014c69b",
+  "limitations": "Review is independent AI observation of actual hosted browser screenshots plus exact automated interaction evidence. No actual learner performance, human screen-reader listening, audio performance, app-bank integration or production approval is implied."
+}

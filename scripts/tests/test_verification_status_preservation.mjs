@@ -25,6 +25,19 @@ test('verification maintenance uses canonical inventory without restoring archiv
     assert.equal(fs.readFileSync(path.join(dir, 'llms.txt'), 'utf8'), '# SkillrHub\n\nCurrent authored resource descriptions.\n');
     assert.deepEqual(JSON.parse(fs.readFileSync(path.join(dir, 'ai-index.json'))).content_verification.verified_learning_areas, ['Year 1 Mathematics']);
     assert.equal(run('--check').status, 0);
+    const target = 'https://skillrhub.com/learn/?year=1&subject=maths';
+    const retired = `<html data-learning-hub-retired="2026-11-07"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=${target.replaceAll('&', '&amp;')}"><a href="${target}">Continue</a><script>location.replace(${JSON.stringify(target)});</script></html>`;
+    fs.mkdirSync(path.join(dir, 'learn'));
+    write('learn/index.html', '<section data-group="1-maths"><a>AC9M1N01</a></section>');
+    write('year1/curriculum/maths/index.html', retired);
+    assert.equal(run('--check').status, 0);
+    assert.equal(fs.readFileSync(path.join(dir, 'year1/curriculum/maths/index.html'), 'utf8'), retired);
+    write('year1/curriculum/maths/index.html', retired.replace('year=1&amp;', 'year=2&amp;'));
+    assert.equal(run('--check').status, 1);
+    write('year1/curriculum/maths/index.html', retired);
+    write('learn/index.html', '<section data-group="1-maths"><a>AC9M1N02</a></section>');
+    assert.equal(run('--check').status, 1);
+    write('year1/curriculum/maths/index.html', hub);
     write('data/content-verification-status.json', { reviewedCodes: [] });
     assert.equal(run('--check').status, 1);
   } finally { fs.rmSync(dir, { recursive: true, force: true }); }

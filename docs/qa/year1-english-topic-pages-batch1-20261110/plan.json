@@ -1,0 +1,484 @@
+[
+  {
+    "code": "AC9E1LA01",
+    "descriptor": "understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands",
+    "elaborations": [
+      {
+        "code": "AC9E1LA01_E1",
+        "number": "E1",
+        "text": "recognising the effects of words, signing, gestures and body language on the way communications are received by others",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA01_E2",
+        "number": "E2",
+        "text": "understanding that symbols, gestures and body language are key components of communication in First Nations Australian communities",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E1LA01_E3",
+        "number": "E3",
+        "text": "viewing short films and discussing how characters use words and body language to convey emotions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA01_E4",
+        "number": "E4",
+        "text": "learning the difference between closed questions; for example, “Are you ready?”, and open questions; for example, “What made this text so exciting?”",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Ask and give the needed information",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Questions: “Is the bag here?” / “What did you put in the bag?” Reply to the second: “I packed a hat and a book.”",
+        "response_criteria": "“What did you put in the bag?” invites details about its contents. The reply names the packed things. “Is the bag here?” can be answered yes or no."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Notice what the message does",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Messages: “I can carry that.” / “Could you carry that?” / “Put it on the bench.” / “What a huge box!”",
+        "response_criteria": "In order: offer, request, command and exclamation. A request can be phrased as a question. A calm command can end with a full stop; loudness alone does not decide the purpose."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Check words and other clues together",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Adult: put a pencil beside a book where both partners can see it. Say “Put it there” while pointing somewhere unclear, then invite clarification.",
+        "response_criteria": "For example, “Do you mean this pencil, beside that book?” Name the object and place and check the response. Demonstrate the actual gesture; print alone does not show how it was received."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "An adult can read and scribe; accept speech, signing or AAC. Do not require eye contact, smiling or touch. Observe the real exchange separately from a written answer. Cultural signs require a named community-endorsed source and local guidance.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA02",
+    "descriptor": "explore language to provide reasons for likes, dislikes and preferences",
+    "elaborations": [
+      {
+        "code": "AC9E1LA02_E1",
+        "number": "E1",
+        "text": "using words including “because” to introduce reasons for likes, dislikes and preferences",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA02_E2",
+        "number": "E2",
+        "text": "exploring comparative words (adjectives) to express the degree of preference; for example, “better”, “faster”",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Name the choice",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Options: drawing a picture / building a model.",
+        "response_criteria": "Accept a genuine named choice, neither option or another activity. There is no single correct personal favourite. Ask the child to make the choice clear."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Connect a relevant reason",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“I like this story because the ending makes me laugh.” / “I like this story because I like it.”",
+        "response_criteria": "The funny ending gives a specific reason. “Because I like it” repeats the preference. Ask neutrally what the person likes about it; do not supply their taste for them."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Compare for a stated purpose",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Tray A holds six crayons. Pot B holds two. The job is carrying all six crayons in one container.",
+        "response_criteria": "Tray A is better for this job because it holds all six crayons. Someone could prefer Pot B for carrying just one or two. Use the supplied capacity facts, not an unseen size guess."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "Accept personal tastes without marking them wrong. Supply actual experiences when a reason depends on sound, taste or comfort; a picture cannot establish those sensations.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA03",
+    "descriptor": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+    "elaborations": [
+      {
+        "code": "AC9E1LA03_E1",
+        "number": "E1",
+        "text": "discussing and comparing the purposes and organisation of familiar texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA03_E2",
+        "number": "E2",
+        "text": "becoming familiar with the typical stages of types of texts; for example, recount and procedure",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA03_E3",
+        "number": "E3",
+        "text": "recognising that the structure of a text may include words and pictures; for example, an informative text may include words, illustrations and diagrams",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Follow connected events",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“A puppy found an empty bowl. It carried the bowl to Jo. Jo filled it with water.”",
+        "response_criteria": "The empty bowl and the puppy carrying it help us understand why Jo fills it. Moving the last event first would change how the story is revealed. Not every narrative needs the same problem-and-solution pattern."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Find information grouped for a job",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Garden report: Tools — trowel, watering can. Jobs — dig holes, water plants. New detail: sweep the path.",
+        "response_criteria": "Under Jobs, because sweeping is an activity. The heading helps the reader find that kind of information without reading an event sequence."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Compare a view, an explanation and instructions",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Opinion: “I think we need shade because it helps us rest comfortably.” Explanation: “Water can freeze when it becomes cold enough.” Procedure: “Pour water into a tray. Put it in a freezer.”",
+        "response_criteria": "The procedure directs the actions. The explanation describes how water can change into ice. The opinion gives a view with a reason. Read the words and their organisation together."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "Supply complete texts and read them aloud when decoding is not the target. Do not require knowledge of an unseen book or treat another curriculum’s year label as an Australian equivalence.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA04",
+    "descriptor": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+    "elaborations": [
+      {
+        "code": "AC9E1LA04_E1",
+        "number": "E1",
+        "text": "identifying patterns of repetition in texts; for example, repetition of sentence patterns such as “Have you seen …”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA04_E2",
+        "number": "E2",
+        "text": "discussing different poems and identifying rhyme; for example, end of line rhyme",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Notice what returns",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“Here comes rain. / Here comes wind. / Here comes sunshine.”",
+        "response_criteria": "Here comes repeats; the final word changes. “Here comes night” is one possible new line. The returning frame makes the lines feel related."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Hear a rhyme in the whole line",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“A small frog sat upon a log. / Beside it slept a tired ___.” Choices: dog / hen.",
+        "response_criteria": "Dog rhymes with log and can be described as tired. Hen does not share that ending. Accept locally valid spoken rhymes when creating a fresh line."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Keep a beat while the word rhythm varies",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Adult: make four evenly spaced taps. Say “tap | tap | lit-tle | tap”, fitting lit-tle inside the third tap. Model slowly, then invite an echo.",
+        "response_criteria": "The four taps stay steady; little has two syllables within the third beat. Observe the actual echo. A written choice cannot demonstrate timing."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "Adults supply actual speech or singing; no recording is included here. Accept accessible tapping, pointing or movement and judge the sound pattern separately from motor speed or spelling.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA05",
+    "descriptor": "understand how print and screen texts are organised using features such as page numbers, tables of content, headings and titles, navigation buttons, swipe screens, verbal commands, links and images",
+    "elaborations": [
+      {
+        "code": "AC9E1LA05_E1",
+        "number": "E1",
+        "text": "comparing the layout of print and digital texts; for example, the layout of print and images in an information book and the layout of information in an online text",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Use titles, headings and page numbers",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Title: Our school garden. Contents: Tools 2; Watering 4; Growing 6.",
+        "response_criteria": "Page 6. Check its page number and Growing heading. Do not stop after reading the contents entry if you need the actual section information."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Follow the stated screen controls",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Model screen rules: Menu opens a list containing Tools, Watering and Growing. Selecting a section opens it. Next opens the next page; swiping left does the same on this model.",
+        "response_criteria": "Open Menu, then choose Watering. Next or a swipe might move one page, but the named section link is the supplied direct route. These rules belong to this model."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Compare routes and available actions",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Model screen: Watering tips is a link; Read aloud plays the text; Back returns to the previous screen. Enabled voice control also accepts “Go back”.",
+        "response_criteria": "Read aloud lets you hear it. Back or the enabled “Go back” command returns to the previous screen. These printed rules explain a model; actual device use must be observed separately."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "An adult can read labels and supervise actual device use without choosing the route. A paper button or written route answer does not show that the learner has navigated a device.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA06",
+    "descriptor": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+    "elaborations": [
+      {
+        "code": "AC9E1LA06_E1",
+        "number": "E1",
+        "text": "knowing that a single event or idea can include a process, a happening or a state (verb), the participant or who or what is involved (noun group/phrase), and the surrounding circumstances (adverb group/phrase); for example, “Teddy (participant: who or what is involved) read (process: a happening) the book (participant: who or what is involved) in the library (circumstance: where he read).”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA06_E2",
+        "number": "E2",
+        "text": "understanding that simple sentences answer questions such as, “what is happening?” and “who or what is involved?” along with details such as “where?”, “when?”, “how?”",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Check the complete idea",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“The heavy bag” / “The bag is heavy.”",
+        "response_criteria": "The bag is heavy tells a state. The heavy bag only names something in this context. A sentence need not describe visible movement."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Keep the whole parts together",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“Our small class planted seeds in the garden.”",
+        "response_criteria": "Our small class names who; planted seeds tells what happened; in the garden tells where. Seeds names something else involved. Do not reduce every meaningful group to one word."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Repair and expand without losing the idea",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Words: the / puppy / rested. Then add a where detail.",
+        "response_criteria": "The puppy rested. For example, The puppy rested beside the chair. The place detail keeps the one main idea. Capitals and end marks show a written boundary but cannot create missing meaning."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "Read and scribe when grammar is the target. Observe the learner’s own sentence production separately from choosing a supplied complete sentence. Formal clause diagrams are not required.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA07",
+    "descriptor": "understand that words can represent people, places and things (nouns, including pronouns), happenings and states (verbs), qualities (adjectives) and details such as when, where and how (adverbs)",
+    "elaborations": [
+      {
+        "code": "AC9E1LA07_E1",
+        "number": "E1",
+        "text": "understanding that words or groups of words can represent the participants (nouns; for example, people, places, things) that are involved in various activities or processes (verbs of doing, saying, thinking, being) and the details or circumstances surrounding the activity (adjectives and adverbs that answer “when?”, “where?”, “how?”)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA07_E2",
+        "number": "E2",
+        "text": "recognising how a sentence can be made more specific by adding adjectives, adverbs and precise verbs",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Name participants and keep pronouns clear",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“The books fell. They landed on the mat.” / “Jo and I are ready.”",
+        "response_criteria": "They refers to the books. We can replace Jo and I because it includes the speaker and another person. The sentence supplies the reference."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Find doing, thinking and being verbs",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“The puppy runs.” / “The puppy is tired.” / “The child thinks.”",
+        "response_criteria": "Runs, is and thinks are the verbs. Tired describes the puppy’s state; it is not the being verb in that sentence."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Add useful qualities and details",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“The ducks swim slowly outside today.” / “The small ducks paddle beside the reeds.”",
+        "response_criteria": "Slowly tells how, outside where and today when. Small describes the ducks. Beside the reeds is a group giving a place detail, not one adverb word. Paddle makes the movement more specific than swim in this context."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "An adult can read or scribe. Use actual or supplied facts for descriptions; a monochrome picture cannot establish colour, weight or texture. Accept clear pronoun references without guessing gender.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA08",
+    "descriptor": "compare how images in different types of texts contribute to meaning",
+    "elaborations": [
+      {
+        "code": "AC9E1LA08_E1",
+        "number": "E1",
+        "text": "comparing images from texts where images of the same subject are represented differently; for example, a cartoon image of an animal, a photograph of an animal and a digital image of an animal in an advertisement",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA08_E2",
+        "number": "E2",
+        "text": "understanding how authors and illustrators build up meaning across a sequence of images",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA08_E3",
+        "number": "E3",
+        "text": "understanding that some images convey meaning that is not included in the accompanying written text; for example, a diagram shows information about how parts of a plant are connected, which is not explained in the print text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA08_E4",
+        "number": "E4",
+        "text": "exploring images in stories and cultural accounts by First Nations Australian authors and discussing the impact this may have",
+        "questionEligible": false
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Compare visible details and purpose",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Use the duck comparison directly below: a careful drawing beside a scarf-wearing cartoon.",
+        "response_criteria": "The cartoon’s scarf and smile help create a playful character. The careful drawing can help show a real duck’s shape. Explain the purpose and clue rather than choose a favourite style."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Read words and pictures together",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Story words: “The room was empty.” The supplied picture shows a kitten under a chair.",
+        "response_criteria": "An animal is still in the room. The reader should notice the mismatch with empty and consider what the words mean in the story. The image alone does not provide the kitten’s name or the time."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Use labels and ordered stages",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Use the supplied labelled flower and First–Next–Last plant sequence directly below.",
+        "response_criteria": "The labelled flower links leaf to that part. The sequence shows the seed becoming a small plant and then a taller flowering plant. It does not give an exact number of days."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "All comparison images are supplied in their teaching sections. Cultural-account work needs the actual attributed source and its guidance; do not infer a cultural symbol’s meaning or imitate the artwork. An adult may read captions.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA09",
+    "descriptor": "recognise the vocabulary of learning area topics",
+    "elaborations": [
+      {
+        "code": "AC9E1LA09_E1",
+        "number": "E1",
+        "text": "using appropriate topic-specific vocabulary when discussing a learning area topic",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA09_E2",
+        "number": "E2",
+        "text": "using appropriate vocabulary for an Acknowledgement of Country at assemblies and other school events using protocols to recognise the Traditional Owners of Country or Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA09_E3",
+        "number": "E3",
+        "text": "identifying words for topics studied at school; for example, vocabulary used for weather and seasons",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Group by a stated topic",
+        "source_status": "SUFFICIENT",
+        "stimulus": "Topic: weather. Words: rain, wind, pencil, cloud.",
+        "response_criteria": "Pencil names a writing tool; the others name weather features. The topic is stated so the grouping has a clear purpose."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Use the context to choose a meaning",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“A seedling is a young plant. We looked closely at the seedling.” / “Measure the ribbon’s length: how long it is.”",
+        "response_criteria": "Seedling means a young plant. Length means how long the ribbon is, not its weight or colour. The supplied explanations make this a meaning task rather than untaught science or maths recall."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Choose precisely and compare contexts",
+        "source_status": "SUFFICIENT",
+        "stimulus": "A route is a way from one place to another; a map key explains symbols. “Turn the page.” / “It is my turn.”",
+        "response_criteria": "Route names a way to go. In the first sentence turn means an action on the page; in the second it means a person’s time to take part. The surrounding words decide."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "Read directions and supply all required definitions. Check vocabulary separately from spelling and handwriting. Local Country names, pronunciation and protocols must be verified through local community guidance.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  },
+  {
+    "code": "AC9E1LA10",
+    "descriptor": "understand that written language uses punctuation such as full stops, question marks and exclamation marks, and uses capital letters for familiar proper nouns",
+    "elaborations": [
+      {
+        "code": "AC9E1LA10_E1",
+        "number": "E1",
+        "text": "using intonation and pauses in response to punctuation, when reading",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA10_E2",
+        "number": "E2",
+        "text": "identifying different sentence boundary punctuation, when reading",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA10_E3",
+        "number": "E3",
+        "text": "writing different types of sentences; for example, statements and questions, and discussing appropriate punctuation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LA10_E4",
+        "number": "E4",
+        "text": "identifying and using capital letters to name places and holidays",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Match the end mark to the message",
+        "source_status": "SUFFICIENT",
+        "stimulus": "A calm statement: “The gate is shut”. A direct question: “Is the gate shut”. An excited reaction: “What a wonderful surprise”.",
+        "response_criteria": "The gate is shut. Is the gate shut? What a wonderful surprise! Purpose and context guide the marks; not every instruction needs an exclamation mark."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Capitalise particular names",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“sam visits canberra on australia day.” The supplied names are Sam, Canberra and Australia Day.",
+        "response_criteria": "Sam visits Canberra on Australia Day. Sam also starts the sentence. The common words visits and on stay lower case; Australia Day is the supplied two-word holiday name."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Edit, write and read back",
+        "source_status": "SUFFICIENT",
+        "stimulus": "“i have a book can i read it” is a calm statement followed by a question.",
+        "response_criteria": "I have a book. Can I read it? For the fresh pair, accept complete meaningful sentences with a suitable full stop and question mark, correct starts, I and any names. Note support; choosing a correction is not the same as writing independently."
+      }
+    ],
+    "retained_focus_count": 6,
+    "boundary": "An adult can provide the exact spelling of names. Check punctuation and capitals separately from handwriting. Listen to actual reading when assessing pauses and expression; print does not demonstrate oral performance.",
+    "scope": "Public static Topic Guide; no app-bank or linked-product certification."
+  }
+]

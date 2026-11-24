@@ -1,0 +1,794 @@
+{
+  "reviewer": {
+    "type": "fresh independent AI reviewer",
+    "model": "GPT-6 (session identity; no claim of human teacher review)",
+    "scope": "targeted A-extra blind evidence gap only, AC9E3LA01–AC9E3LA05",
+    "limits": [
+      "No author JSON, extras-a.py, final HTML or prior review findings/solutions read before this file was saved.",
+      "Visible teaching support, labelled model groupings, example language and complete stimuli were available and used.",
+      "LA01 spoken participation is represented by text only; no actual listening, speech, body-language or live group interaction observed.",
+      "LA05 routes resolved in actual supplied HTML source; no browser clicks or pixel/render assurance in this phase.",
+      "No independent external-source or whole-product certification; separate main reviewer retains browser/render gate."
+    ]
+  },
+  "completed_utc": "2026-11-10T06:42:44.616605+00:00",
+  "scope": "Fresh targeted source-only final assurance of A extras AC9E3LA01–AC9E3LA05; fills corrected blind-evidence gap, not a new full review round or whole-product PASS.",
+  "result": "NO_UNRESOLVED_BLOCKERS_IN_TARGETED_A_EXTRA_SOURCE_SCOPE",
+  "blockers": [],
+  "precise_corrections_required": [],
+  "blind_solutions_saved_before_keys": {
+    "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/independent-extra-final-blind-solutions.json",
+    "sha256": "406fb2dd7747308544d6b01057571e3ef49ff183cab0c9a70e9ccce5ffce8d81",
+    "original_saved_utc": "2026-11-10T06:40:51.078285+00:00",
+    "blind_input_sha256": "b559a516978c9afff9ddb645340fdf9d707087e3f8d2b19fd11df32e9246db1d",
+    "details_summary_only_verified": true
+  },
+  "dependencies": [
+    {
+      "code": "AC9E3LA01",
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "sha256": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387",
+      "matches_inventory": true
+    },
+    {
+      "code": "AC9E3LA02",
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "sha256": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33",
+      "matches_inventory": true
+    },
+    {
+      "code": "AC9E3LA03",
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "sha256": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73",
+      "matches_inventory": true
+    },
+    {
+      "code": "AC9E3LA04",
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "sha256": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572",
+      "matches_inventory": true
+    },
+    {
+      "code": "AC9E3LA05",
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "sha256": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e",
+      "matches_inventory": true
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/extras-a.py",
+      "sha256": "a8a9e41dd7b445498a747ae77de9824e6dde00977e8c5b6a62fa02f6c86e31f5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/units.json",
+      "sha256": "f5a573746c57a3a920db2af7473f4bb1c661d033cc42f5f7a8e0be6be13db636"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/inventory.json",
+      "sha256": "e8682b84e480ffb362c7088e7d4ac7f84013b11b99708c5d48035bb0b32f5bf7"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/AGENTS.md",
+      "sha256": "b7d5724211aa71195a8c082c8d15fe85258b016b96c1f2069870fef1a84512e6"
+    }
+  ],
+  "coverage": {
+    "distinct_questions": 23,
+    "actual_question_instances": 23,
+    "all_mapped_exactly_once": true,
+    "counts_by_code": {
+      "AC9E3LA01": 4,
+      "AC9E3LA02": 6,
+      "AC9E3LA03": 5,
+      "AC9E3LA04": 4,
+      "AC9E3LA05": 4
+    },
+    "duplicate_question_instances": 0,
+    "model_support_notes": [
+      {
+        "code": "AC9E3LA01",
+        "finding": "Complete restatement example, same-sentence/two-context support and culturally qualified role/host guidance are teaching support. The 4 new checks require connected application. No claim of observed live speaking/listening or independent mastery."
+      },
+      {
+        "code": "AC9E3LA02",
+        "finding": "Three revision cards and three fresh checks accurately separate obligation from probability, action changes from evaluation, and stronger pleasure from a different emotion. Earlier replacement text avoids a universal modal-strength ladder. The warning story and record/judgement are complete support models."
+      },
+      {
+        "code": "AC9E3LA03",
+        "finding": "Complete procedure/report/narrative models, a visibly four-line poem model, mixed-up recount and 4 new comparisons support purpose/organisation/language questions. Argument stages and the relevance test are correct. Autobiographical voice is explicitly an invented character model, not a claim that first person proves factual truth."
+      },
+      {
+        "code": "AC9E3LA04",
+        "finding": "Actual paragraph-group models match label versus arrangement/visitor-space focuses; narrative breaks are not forced into informative-paragraph rules. Two grouping repairs retain all facts. The six-card activity has two coherent groups and allows appropriate order variation."
+      },
+      {
+        "code": "AC9E3LA05",
+        "finding": "Final print models contain actual page 4/6 material and specific subheadings. All 24 local demo-navigation links have unique existing source destinations with matching headings and facts, including returns. Garden entry is gate beside shed; trowels lower shelf. The chapter-text check correctly distinguishes underneath from inside. Actual browser navigation/pixels remain outside this report."
+      }
+    ]
+  },
+  "items": [
+    {
+      "blind_id": "AC9E3LA01-extra-distinct-01",
+      "code": "AC9E3LA01",
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "ancestor_section_id": "retained-ac9e3la01-section-2",
+      "section_title": "Display discussion · another round",
+      "summary": "Restate Eva’s idea, add a connected suggestion, ask a useful question and negotiate moving on to the display title.",
+      "summary_sha256": "d45867481d6c9ee750759e5f4d84df877fc089ce5a8a1cebbb6f7658ea1a11de",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[3]/details",
+      "published_key": "For example: “You want the bridge in the middle so both sides can be seen. Could the boat go at one end? How much space should we leave? When we have agreed on places, could we choose the title?” Accept equivalent relevant language and a real chance for others to reply. Check the group’s final plan by asking what each person will do.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA01-extra-distinct-02",
+      "code": "AC9E3LA01",
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "ancestor_section_id": "retained-ac9e3la01-section-4",
+      "section_title": "Fresh check · clarify a whole message",
+      "summary": "Give a suitable next response and a way to check the plan.",
+      "summary_sha256": "5da30bf214ad73d7afa87a5d3a07ce71158814b678ba7e417c524c913d38f5ea",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[1]/details",
+      "published_key": "Wait for Alex to finish, then ask a relevant clarification such as “Where should the small label go?” A check could restate “Large label above the boat; small label beside the bird—is that right?” Accept equivalent wording that checks the actual missing information.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA01-extra-distinct-03",
+      "code": "AC9E3LA01",
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "ancestor_section_id": "retained-ac9e3la01-section-4",
+      "section_title": "Fresh check · choose the convention",
+      "summary": "Explain how you could ask a question in each setting. Must you use longer words in the meeting?",
+      "summary_sha256": "06e3be7e632d8979cddeda6fdb05325f313a423a4991009c4c95a4884e2bb938",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[2]/details",
+      "published_key": "In the pair, ask after the partner finishes. In the meeting, use its agreed invitation process, then ask clearly. The words may be the same, such as “Could you explain that part?” Longer words are not required. The conventions, roles and context explain the difference.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA01-extra-distinct-04",
+      "code": "AC9E3LA01",
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "ancestor_section_id": "retained-ac9e3la01-section-4",
+      "section_title": "Fresh check · specific feedback",
+      "summary": "Give useful feedback and a suggestion, then check whether Maya agrees.",
+      "summary_sha256": "a15b87d45ea9ff5e558615d74a1bd908efe66b0d69f3e048878e8330202cb06e",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[3]/details",
+      "published_key": "For example: “The title tells visitors our topic, but the small card may be hard to read from across the room. Could we use the larger card? What do you think?” It names a relevant issue and improvement while leaving space for a response. Other clear, respectful versions are valid.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-01",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-2",
+      "section_title": "Revision card 1 · an offered choice",
+      "summary": "Replace the modal so it offers the activity as a choice, and explain the effect.",
+      "summary_sha256": "93684dc7463790e9322084c55e82891d80aee9fc2b739ce119522be741ad9280",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[3]/details",
+      "published_key": "“You could draw while we wait” offers a possibility or suggestion instead of a requirement. Other clear choice wording, such as “You can choose to draw”, can work; explain how it fits the stated purpose.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-02",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-2",
+      "section_title": "Revision card 2 · a narrator’s impression",
+      "summary": "Name a verb and an adverb that create the different evaluations. Does changing A into B preserve all facts?",
+      "summary_sha256": "e6de8e2fc85a0b796a52a82f1ab62c38e6c499680662183d8e7874093f80b78c",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[4]/details",
+      "published_key": "Pushed contrasts with waited, and politely presents an approving attitude in B. The action has changed as well as the impression, so the versions do not preserve all facts. A writer may choose either for a different fictional character portrayal.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-03",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-2",
+      "section_title": "Revision card 3 · stronger pleasure",
+      "summary": "Replace pleased and explain why your word fits the intended feeling.",
+      "summary_sha256": "c9859ff683c255a49530d3035ec260ea952775886d5a96dd15dd25d10e5dc1a5",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[5]/details",
+      "published_key": "Delighted is one suitable choice: it expresses stronger pleasure in this context. Thrilled may also work. Terrified would change the emotion to fear, and furious would change it to anger.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-04",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-4",
+      "section_title": "Fresh check · probability and obligation",
+      "summary": "Explain the modal’s job in each sentence. Rewrite the prediction to sound more certain without turning it into a rule.",
+      "summary_sha256": "42f2f6e5a78a199316bc55b89db7a9f3c36151b9c2585fb41f4cae98de5235ac",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[1]/details",
+      "published_key": "Must expresses a requirement to stay behind the line. Could expresses a possible arrival. “The bus will arrive early” sounds more certain as a prediction; it is still the speaker’s claim rather than proof of the future.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-05",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-4",
+      "section_title": "Fresh check · noun, verb and adverb choices",
+      "summary": "Compare one noun, one verb and one adverb and explain the impressions. Are these merely different spellings of the same facts?",
+      "summary_sha256": "8eff3da668eb01cadb95ef8d66471da85242cf7af075508d849bef4d5b2b12f3",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[2]/details",
+      "published_key": "Helper/troublemaker gives approving/disapproving labels; guided/shoved changes the action and force; gently/roughly changes manner. The versions present meaningfully different behaviour and evaluations, so they are not fact-preserving swaps. Discuss fictional actions rather than fixed labels for classmates.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA02-extra-distinct-06",
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "ancestor_section_id": "retained-ac9e3la02-section-4",
+      "section_title": "Fresh check · supported judgement",
+      "summary": "Give a supported judgement of Uma’s action and a reason. Then express mild or strong pleasure in your own response and name which you chose.",
+      "summary_sha256": "4c96739845da43f3b263ea1eda1be378ceddc602de0418b044c98956cce1cd8e",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[3]/details",
+      "published_key": "Helpful or thoughtful is supported by setting the sign upright for visitors. For example, “I was pleased that Uma helped” expresses pleasure; “I was delighted that Uma helped” expresses stronger pleasure in this comparison. Accept another accurate judgement or response with evidence; do not infer an exact hidden feeling for Uma.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA03-extra-distinct-01",
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "ancestor_section_id": "retained-ac9e3la03-section-2",
+      "section_title": "Complete mixed-up recount for the retained transfer task",
+      "summary": "Arrange the three cards into a clear recount and explain one organising change.",
+      "summary_sha256": "e80f20c75ee273d7b778ede9c10b75a25ab7d48b67100fae47eb67280d2b0abe",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[2]/details",
+      "published_key": "B, C, A gives the occasion before the ordered events and ending. The time words and the need to make and label models before displaying them support that order. The repair helps a reader follow what happened; it is more than changing a pronoun.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA03-extra-distinct-02",
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "ancestor_section_id": "retained-ac9e3la03-section-4",
+      "section_title": "Fresh comparison · recount and autobiographical model",
+      "summary": "Compare purpose, viewpoint and one organising choice in the two complete texts.",
+      "summary_sha256": "d9f171faa88067c6d2d604cdfe61d68b00a6216ed8c0f5d5323724d622a26a72",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[1]/details",
+      "published_key": "The factual recount records a particular class event in time order, using first/next/finally. Dev’s model selects experiences from the character’s own life in I/my voice and ends with a personal reflection. Both use past experiences. The autobiographical model is explicitly fictional; I alone is not proof that a text is a true autobiography.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA03-extra-distinct-03",
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "ancestor_section_id": "retained-ac9e3la03-section-4",
+      "section_title": "Fresh comparison · report and explanation",
+      "summary": "Which text groups parts and position, and which follows a change and its result? Explain how the arrangement serves each purpose.",
+      "summary_sha256": "01b4faf8bea495adc1b89f576156f1b8935e2e8cd52bea3a22ee33428d25d080",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[2]/details",
+      "published_key": "The report groups facts under Parts and Position so a reader can find a property of the model. The explanation connects the changed position to the observed tipping result in this prepared model. It explains how the change occurs rather than listing parts. No calculation or general physics rule is required.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA03-extra-distinct-04",
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "ancestor_section_id": "retained-ac9e3la03-section-4",
+      "section_title": "Fresh comparison · story, verse and response",
+      "summary": "Describe one organisation or language choice in each text and connect it to its purpose.",
+      "summary_sha256": "8a471115a58c6ec967f02ee20bac27de568407b01e0fac02a8535de8179f06af",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[3]/details",
+      "published_key": "The story links a problem, help and resolution to entertain through events. The verse uses four lines, repeated sounds or imagined address to a wheel, creating a playful focus rather than merely listing facts. The response gives a view and a story-based reason. Accept other accurate feature-effect links; do not require everyone to like the story.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA03-extra-distinct-05",
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "ancestor_section_id": "retained-ac9e3la03-section-4",
+      "section_title": "Fresh comparison · argument and information",
+      "summary": "Identify the four argument stages and compare the main purposes of the texts. Why would “The ruler is yellow” be a weak extra reason for this proposal?",
+      "summary_sha256": "a89b96a79e2aeec34472590e55586625ffb5e1a0997149105e81712248152aa6",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[4]/details",
+      "published_key": "The argument introduces a proposal, gives a fit-checking reason, gives a visitor-measuring reason, and concludes with an action request. It aims to persuade; the other text informs about the ruler. Colour is merely related information unless a further relevant reason is explained. It does not by itself support keeping a ruler there.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA04-extra-distinct-01",
+      "code": "AC9E3LA04",
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "ancestor_section_id": "retained-ac9e3la04-section-2",
+      "section_title": "Complete mixed-up text for the retained transfer task",
+      "summary": "Choose a useful paragraph break or move, make it, and explain how it helps.",
+      "summary_sha256": "d3c40f7273f016743788bb9a978266dfbbb7e7e29ea67a943e3820b08e0745bc",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section/details",
+      "published_key": "One repair groups the first, second and fourth sentences as labels, then groups the third and fifth as tools: “Our seed pots have name labels. The labels stand beside each plant. Large writing makes the labels easy to read.” New paragraph: “Our tools hang by the door. A watering can stands under the tools.” The related information stays together; no facts need to be removed.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA04-extra-distinct-02",
+      "code": "AC9E3LA04",
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "ancestor_section_id": "retained-ac9e3la04-section-4",
+      "section_title": "Fresh check · group and open two paragraphs",
+      "summary": "Make two paragraphs, choose their openings and explain why the details belong together.",
+      "summary_sha256": "393be83a2906abee4478f40759810e9e6ca8ceae324c3fdb4e8c0eda1ff71a4a",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[1]/details",
+      "published_key": "One arrangement is B, C, A for grouped art materials, and D, E, F for the display’s space and route. B and D introduce the corresponding topics. A/C can swap without harming the meaning. Either whole-paragraph order is acceptable when justified; do not impose an arbitrary order.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA04-extra-distinct-03",
+      "code": "AC9E3LA04",
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "ancestor_section_id": "retained-ac9e3la04-section-4",
+      "section_title": "Fresh check · repair mixed groups",
+      "summary": "Repair the paragraph grouping while keeping all the useful information.",
+      "summary_sha256": "8f5c67b296d470682210be28259cdaf69145181938c70119038299764d31bd35",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[2]/details",
+      "published_key": "For example: “Our tool box is easy to carry. It has two strong handles. A light lid covers the box.” New paragraph: “Our signs use large writing. Each sign names a display.” The box details and sign details now stay in useful groups. The box is introduced before It; all supplied information is retained.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA04-extra-distinct-04",
+      "code": "AC9E3LA04",
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "ancestor_section_id": "retained-ac9e3la04-section-4",
+      "section_title": "Fresh check · narrative breaks",
+      "summary": "Explain one reason for the first break and one possible effect of the short middle paragraph.",
+      "summary_sha256": "387a94d4a409c292c3c21fba63192fdc19e65e59b2a1f29ec976769501af5fa8",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[3]/details",
+      "published_key": "The first break marks a time change and introduces the missing-boat problem. The short middle paragraph gives that problem emphasis before the next paragraph develops the search and recovery. It does not need the same topic-and-support pattern as an informative paragraph.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA05-extra-distinct-01",
+      "code": "AC9E3LA05",
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "ancestor_section_id": "retained-ac9e3la05-section-2",
+      "section_title": "A complete layout repair for the retained transfer task",
+      "summary": "Improve the vague section label and give a useful subheading for each tool. Explain how the changes guide a reader.",
+      "summary_sha256": "9cc890d2210706fb230d2948dda8ca51c9508159b1748c3c78272f2e802c4ef1",
+      "details_xpath": "/html/body/div/div/main/details/div/details[2]/section[3]/details",
+      "published_key": "Tool storage is a useful replacement for More. Subheadings Trowels and Watering cans separate the tool facts. The labels predict the actual information so readers can choose a specific route. Retain the supplied storage facts and use the working local links for actual digital navigation.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA05-extra-distinct-02",
+      "code": "AC9E3LA05",
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "ancestor_section_id": "retained-ac9e3la05-section-4",
+      "section_title": "Fresh check · print hierarchy",
+      "summary": "Find when the garden opens and where watering cans belong. Name the page route and most specific subheading for each.",
+      "summary_sha256": "abcdf9a55e4b9f5a8e0a6381803e23319b7b3f97c2505841180e4ef384456691",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[3]/details",
+      "published_key": "Visiting → page 4 → Opening times gives after the morning bell. Tool storage → page 6 → Watering cans gives beside the door. A broad section is a route, while the subheading narrows the search; the actual sentence confirms the answer.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA05-extra-distinct-03",
+      "code": "AC9E3LA05",
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "ancestor_section_id": "retained-ac9e3la05-section-4",
+      "section_title": "Fresh check · digital confirmation",
+      "summary": "Follow both useful links, check their headings and information, then return to each menu. Explain one reason the link words help.",
+      "summary_sha256": "16701a79759cecbc2bf4a004e5af9b925bfc00be38e79a1a8261c547d713902e",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[4]/details",
+      "published_key": "Where to enter reaches the shed-gate information; Trowel storage reaches the lower-shelf information. Return links reach the corresponding menus. The link words name the information need. Observe actual use of the links for digital navigation; a spoken route description alone is only planning evidence.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    },
+    {
+      "blind_id": "AC9E3LA05-extra-distinct-04",
+      "code": "AC9E3LA05",
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "ancestor_section_id": "retained-ac9e3la05-section-4",
+      "section_title": "Fresh check · a complete chapter-title comparison",
+      "summary": "Which chapter title suggests where to look for the key event? Check what the actual text says: was the key inside the pot?",
+      "summary_sha256": "cd353dd306aed319ef2447fb2b6cc6104109c7972e34a6776a7c2cb81dc584f3",
+      "details_xpath": "/html/body/div/div/main/details/div/details[4]/section[5]/details",
+      "published_key": "Chapter 2 points to the key event. The supplied text says the key was underneath the pot, not inside it. The title suggests the event and creates interest, but the detailed text is needed to check location. A chapter title need not provide a precise complete account of every event.",
+      "comparison": "AGREES",
+      "reason": "Actual final key agrees with the saved independently derived answer and open-response criteria; valid alternative wording remains acceptable.",
+      "unresolved_blockers": []
+    }
+  ],
+  "navigation_source_checks": [
+    {
+      "source_href": "#learn-garden-times",
+      "link_text": "Opening times",
+      "destination_heading": "Opening times",
+      "destination_text": "Our model garden opens after the morning bell. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-garden-menu",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-garden-entry",
+      "link_text": "Where to enter",
+      "destination_heading": "Where to enter",
+      "destination_text": "Use the gate beside the shed. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-garden-menu",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-garden-times",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-garden-entry",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-tools-trowels",
+      "link_text": "Trowel storage",
+      "destination_heading": "Trowel storage",
+      "destination_text": "Trowels belong on the lower shelf. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-tools-menu",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-tools-cans",
+      "link_text": "Watering-can storage",
+      "destination_heading": "Watering-can storage",
+      "destination_text": "Watering cans belong beside the door. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-tools-menu",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-tools-trowels",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#learn-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "learn-tools-cans",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-garden-times",
+      "link_text": "Opening times",
+      "destination_heading": "Opening times",
+      "destination_text": "Our model garden opens after the morning bell. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-garden-menu",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-garden-entry",
+      "link_text": "Where to enter",
+      "destination_heading": "Where to enter",
+      "destination_text": "Use the gate beside the shed. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-garden-menu",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-garden-times",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-garden-entry",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-tools-trowels",
+      "link_text": "Trowel storage",
+      "destination_heading": "Trowel storage",
+      "destination_text": "Trowels belong on the lower shelf. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-tools-menu",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-tools-cans",
+      "link_text": "Watering-can storage",
+      "destination_heading": "Watering-can storage",
+      "destination_text": "Watering cans belong beside the door. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-tools-menu",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-tools-trowels",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-more-models-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-more-models-tools-cans",
+        "retained-ac9e3la05-section-2",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-garden-times",
+      "link_text": "Opening times",
+      "destination_heading": "Opening times",
+      "destination_text": "Our model garden opens after the morning bell. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-garden-menu",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-garden-entry",
+      "link_text": "Where to enter",
+      "destination_heading": "Where to enter",
+      "destination_text": "Use the gate beside the shed. Return to garden menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-garden-menu",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-garden-times",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-garden-menu",
+      "link_text": "Return to garden menu",
+      "destination_heading": "Garden menu",
+      "destination_text": "Opening times · Where to enter",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-garden-entry",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-tools-trowels",
+      "link_text": "Trowel storage",
+      "destination_heading": "Trowel storage",
+      "destination_text": "Trowels belong on the lower shelf. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-tools-menu",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-tools-cans",
+      "link_text": "Watering-can storage",
+      "destination_heading": "Watering-can storage",
+      "destination_text": "Watering cans belong beside the door. Return to tool menu",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-tools-menu",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-tools-trowels",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    },
+    {
+      "source_href": "#retained-ac9e3la05-fresh-check-tools-menu",
+      "link_text": "Return to tool menu",
+      "destination_heading": "Tool menu",
+      "destination_text": "Trowel storage · Watering-can storage",
+      "exactly_one_destination": true,
+      "ancestor_section_ids": [
+        "retained-ac9e3la05-fresh-check-tools-cans",
+        "retained-ac9e3la05-section-4",
+        "topic-guide",
+        "main-content",
+        "skillr-topic-variants"
+      ]
+    }
+  ],
+  "print_model_instances": [
+    {
+      "xpath": "/html/body/div/div/main/section[2]/div/article[1]/figure[1]",
+      "caption": "Prepared print guide · page labels belong to this small model book",
+      "text_sha256": "6d2dd4eb6bb0f12bf2d451aff5762f807c1d534ab103099b2f70cef4cc8c858b"
+    },
+    {
+      "xpath": "/html/body/div/div/main/section[2]/div/article[1]/figure[2]",
+      "caption": "Original miniature narrative book · chapter titles and supplied chapter text",
+      "text_sha256": "ce28e14d41530f1f483a77914a5218fab6f95b28fda3129cc824533c83c1dd53"
+    },
+    {
+      "xpath": "/html/body/div/div/main/section[2]/div/article[3]/figure",
+      "caption": "Prepared print guide · page labels belong to this small model book",
+      "text_sha256": "6d2dd4eb6bb0f12bf2d451aff5762f807c1d534ab103099b2f70cef4cc8c858b"
+    },
+    {
+      "xpath": "/html/body/div/div/main/details/div/details[2]/figure[1]",
+      "caption": "Prepared print guide · page labels belong to this small model book",
+      "text_sha256": "6d2dd4eb6bb0f12bf2d451aff5762f807c1d534ab103099b2f70cef4cc8c858b"
+    },
+    {
+      "xpath": "/html/body/div/div/main/details/div/details[2]/figure[2]",
+      "caption": "Original miniature narrative book · chapter titles and supplied chapter text",
+      "text_sha256": "ce28e14d41530f1f483a77914a5218fab6f95b28fda3129cc824533c83c1dd53"
+    },
+    {
+      "xpath": "/html/body/div/div/main/details/div/details[4]/figure",
+      "caption": "Prepared print guide · page labels belong to this small model book",
+      "text_sha256": "6d2dd4eb6bb0f12bf2d451aff5762f807c1d534ab103099b2f70cef4cc8c858b"
+    }
+  ],
+  "limits": [
+    "Source-only targeted assurance. No authored page edited or published.",
+    "No browser pixel/render or actual click gate certified; main reviewer owns that evidence.",
+    "No whole-product PASS, human teacher approval, unassisted mastery, live oral-performance observation or independent fresh external source verification claimed.",
+    "Previous main reviewer findings and solutions were not used to form these blind answers; final keys were opened only after blind JSON was saved.",
+    "Visible supplied teaching explanations/models are permitted support and remain disclosed, including paragraph focus labels and LA05 navigation facts."
+  ]
+}

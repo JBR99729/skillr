@@ -1,0 +1,58 @@
+[
+  {
+    "code": "AC9E1LE03",
+    "section": "Explain and apply",
+    "before": "This matches IXL-style short evidence questions.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove internal benchmarking prose while preserving the actual question and reasoning."
+  },
+  {
+    "code": "AC9E1LE04",
+    "section": "Explain and apply",
+    "before": "This is the closest IXL match for the code.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove internal benchmarking prose while preserving the actual question and reasoning."
+  },
+  {
+    "code": "AC9E1LY01",
+    "section": "Explain and apply",
+    "before": "A page has a title, numbered steps and a picture of ingredients. What is the text probably for?",
+    "after": "Read this complete procedure: “Make a name card. Materials: paper and pencil. 1. Fold the paper. 2. Write your name. 3. Stand the card on the table.” What is it for, and which supplied features help?",
+    "occurrences": 1,
+    "reason": "Provide a complete actual written procedure instead of describing an absent image/page."
+  },
+  {
+    "code": "AC9E1LY02",
+    "section": "Explain and apply",
+    "before": "Which reply builds on Sam's idea?",
+    "after": "Give a reply that builds on Sam's idea.",
+    "occurrences": 1,
+    "reason": "Clarify the intended open-response task; no answer choices are supplied."
+  },
+  {
+    "code": "AC9E1LY03",
+    "section": "1. Recognise imaginative texts",
+    "before": "An imaginative text tells an invented story.",
+    "after": "An imaginative text can tell an invented story.",
+    "occurrences": 1,
+    "reason": "Avoid implying that all imaginative texts are stories."
+  },
+  {
+    "code": "AC9E1LY03",
+    "section": "Explain and apply",
+    "before": "This matches the IXL-style real-life check.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove internal benchmarking prose while preserving the actual question and reasoning."
+  },
+  {
+    "code": "AC9E1LY03",
+    "section": "Earlier worked model",
+    "before": "An imaginative text tells an invented story",
+    "after": "An imaginative text can tell an invented story",
+    "occurrences": 1,
+    "reason": "Avoid a universal definition excluding imaginative poems; all other earlier text and exact SVG geometry preserved."
+  }
+]

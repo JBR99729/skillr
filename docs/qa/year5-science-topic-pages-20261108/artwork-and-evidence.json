@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-08",
+  "scope": "Year5 Science topic pages only",
+  "artwork": {
+    "method": "Built-in image generation; original PNG retained; WebP encoding only",
+    "prompts": [
+      "Use case: scientific-educational. Asset type: contextual textbook illustration for Australian Year 5 science topic pages, landscape 3:2. Create a polished natural-history watercolour and coloured-pencil illustration of a mulga tree in an Australian dry inland habitat beside a shallow stony creek bed, with slender grey-green phyllodes clearly visible in foreground branches, reddish soil, scattered grasses, weathered rocks, small areas of loose sand and gravel along the creek. Natural accurate botanical proportions, crisp details and light cream paper feel, calm daylight. Scene is a teaching context for water-conserving plant features and landscape change; no invented labels, measurements, arrows or quantitative evidence, no text, logos, border or watermark. Do not imply a rainforest, cactus, lush tropical creek or exposed cutaway roots.",
+      "Use case: scientific-educational. Asset type: contextual textbook illustration for Australian Year 5 light and inquiry topic pages, landscape 3:2. A careful educational watercolour and coloured-pencil illustration of a simple classroom tabletop light experiment seen obliquely: a small battery torch on a stable stand at left points horizontally toward a small upright opaque rectangular card on a base, with a plain white vertical screen behind the card to the right; a soft dark shadow is visible on the screen. Add a plain ruler lying on the table and blank science notebook in front, no scale numerals or words. Room moderately dim with equipment still clearly visible; restrained blue and warm wood palette, clean cream margin. Physically plausible ordering torch-card-screen; no laser, sun, candle, mains wires, transparent card, glowing eyes or light beam that bends around the card. This is contextual art, not an exact ray diagram or a measurement task. No text, labels, numbers, logos or watermark."
+    ],
+    "assets": [
+      {
+        "path": "assets/images/year5-science/dry-land-creek.webp",
+        "original": "generated_images/exec-ad679dc6-dfdd-4ef5-a021-5120635056e3.png",
+        "role": "Generic dry-land context. Round flower heads mean this must not be identified as mulga; alternate text and visible caption explicitly avoid species identification."
+      },
+      {
+        "path": "assets/images/year5-science/light-investigation-bench.webp",
+        "original": "generated_images/exec-863048e6-e5f3-4185-af01-fe850d0aa11f.png",
+        "role": "Contextual torch/card/screen setup; all measurements supplied separately as invented models."
+      }
+    ]
+  },
+  "research_log": "Current research log was retrieved in this conversation before Year4 work; its Year3 scope is not a completed Year5 comparison. Seventeen separate Year5/shared records were read and independently reviewed. No new IXL progression, question submission or watched video claimed.",
+  "new_primary_checks": [
+    "https://www.qcaa.qld.edu.au/downloads/aciqv9/science/curriculum/ac9_science_yr5_as_cd_alignment.pdf",
+    "https://primaryconnections.org.au/teaching-sequences/year-5/light-imitates-art/lesson-5-how-can-i-make-shadow-shorter-or-taller",
+    "https://primaryconnections.org.au/teaching-sequences/year-5/communicating-matters/lesson-6-playing-particles"
+  ],
+  "limits": "Topic additions do not certify unchanged Classroom Views, worksheets or unpublished app banks. Illustration is not exact measurement evidence; model data is invented and labelled."
+}

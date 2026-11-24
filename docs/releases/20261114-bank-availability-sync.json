@@ -1,0 +1,60 @@
+{
+  "release_id": "dev-promotion-20261113-23f0cda",
+  "verified_date": "2026-11-14",
+  "app_commit": "61f8af1bc486d40d27d3c579876707dac8b06674",
+  "app_deployment_run": 43547173054,
+  "app_worker_version": "76a1957c-c1bf-4187-a81c-9161627e97ec",
+  "production_regression": {
+    "passed": 2192,
+    "failed": 0,
+    "cancelled": 0,
+    "skipped": 2
+  },
+  "production_operation": {
+    "state": "APPLIED",
+    "applied_at": "2026-11-14T02:52:18.892412Z"
+  },
+  "verification": {
+    "active_codes": 366,
+    "practice_codes": 366,
+    "assessment_codes": 366,
+    "guest_practice_codes": 310,
+    "account_practice_codes": 56,
+    "question_rows_total_including_retained_production": 32641,
+    "question_history_rows": 14504,
+    "original_history_rows": 8024,
+    "original_history_md5": "4a902c1fae19ac327e5c9a8288129ebf",
+    "original_history_exact_match": true,
+    "journal_postimage_drift": 0,
+    "runtime_scope_contracts": 1824,
+    "runtime_scope_version_type_mismatches": 0,
+    "live_response_asset_git_blob": "e3a0b9052656b90f5f4db0e12db181c42239e89b",
+    "live_response_asset_matches_main": true,
+    "guest_catalogue_refresh": "Fresh production cache observed; 310 entries",
+    "browser": "Authenticated app loaded the explicit family learner picker with no error/warning logs. No profile was selected and no learner answers were submitted."
+  },
+  "website": {
+    "base_commit": "420828e2e4edce87e69b4c9b621e8a104c918286",
+    "previous_ledger_codes": 246,
+    "current_ledger_codes": 366,
+    "topic_pages_updated": 215,
+    "topic_pages_validated": 676,
+    "unavailable_topic_catalogue_fallbacks": 310,
+    "topic_preservation": "All 215 topic pages are byte-identical after excluding their static practice entrance and normalizing only exact same-code guest/account hrefs. Thirty existing supporting links also use the current guest route. Comments, teaching, metadata, media and unrelated navigation are unchanged.",
+    "catalogue": "All 366 static Practice and Assessment routes, guest/account labels, topic paths, year counts and JSON-LD items validated against production availability.",
+    "discovery": "Only the availability paragraphs in llms.txt and llms-full.txt were refreshed; existing descriptions retained.",
+    "checks": "validate_topic_app_buttons.py PASS; static catalogue validation PASS; resource-links.js and home-topic-search.js syntax PASS; git diff --check PASS",
+    "deployment_status": "PENDING_PUBLICATION",
+    "retired_activity_redirects_updated": 1948,
+    "retired_activity_routes_checked": 6459,
+    "navigation_guard_tests": "3 passed, zero failures or skips; fixture availability is isolated from mutable live codes",
+    "retired_route_transformer_tests": "5 passed; post-transform idempotency changed=0",
+    "first_ci_findings": "Initial CI detected old retired-route targets and a shared test assuming FN02 remained unpublished. Repair updates only already-retired redirects and gives the shared guard a fixed availability fixture. Access/availability validators are unchanged.",
+    "ci_compatibility_repairs": "Legacy note validators verify retired-route boundaries while retaining note provenance and source-bank checks. Verification maintenance checks exact retired-hub redirects and every code in the actual filtered Learn group. Unchanged existing badges/status output passes --check; tests reject wrong redirects and missing catalogue codes."
+  },
+  "limitations": [
+    "Two production regression tests explicitly skipped; a successful workflow does not turn skips into passes. The separate full PostgreSQL 17 rehearsal evidence remains in the app release.",
+    "This continuation performs read-only production verification. It does not claim new live submissions, Test/retest, progress-writing, adult-review or global-answer counter tests; retain the reviewed runtime/rehearsal evidence and its hosted limitations.",
+    "Public page availability synchronization does not confer new educational or whole-year verification badges."
+  ]
+}

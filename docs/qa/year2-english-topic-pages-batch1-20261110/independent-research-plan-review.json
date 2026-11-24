@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-10",
+  "status": "PASS — READY TO DRAFT PUBLIC TOPIC GUIDES",
+  "reviewer": "Independent research and subsequent content reviewer, no teaching-page authorship",
+  "scope": "Ten Year2 English public static TopicGuides only. No app/worksheet/fixedslide-bank content rebuild. Independent research/plan, complete content and fresh final risk/render review. Ready reviewPR leftunmerged.",
+  "baseline": "15e71b375ff546c365f103a257cddd0808a9bf67",
+  "research_ref": "65a93465bd95246221b144c72212d1bfedb455fe",
+  "verified_saved_files": 91,
+  "accepted_dependency_triples": 46,
+  "retained_sections": 51,
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+  },
+  "original_pages": [
+    {
+      "code": "AC9E2LA01",
+      "path": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/index.html",
+      "bytes": 30753,
+      "sha256": "0fb47a83d0e498b97b2af63936bfbdbddd701ac56054881fc3e64898d1bcbeaa",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA02",
+      "path": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/index.html",
+      "bytes": 30570,
+      "sha256": "e7f2fe2ae32c8b4abf1b0cdf64f4281fef9d2af0cbe680070284df7f2e5e25ef",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA03",
+      "path": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/index.html",
+      "bytes": 31259,
+      "sha256": "2a9174b25c3e7ff873fc8f18253a169ecfae38abdac7a5d577feafce294420a8",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA04",
+      "path": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
+      "bytes": 30875,
+      "sha256": "6149579dcceb9d9e0d4b1a7063193e861f7ac4416ee6d368d210e130ac0a61b8",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA05",
+      "path": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/index.html",
+      "bytes": 31290,
+      "sha256": "187205db7bbc1d2788d887bd09ad835111c89ab39c92a436fd6e56b1b246f255",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA06",
+      "path": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/index.html",
+      "bytes": 33045,
+      "sha256": "5dc0f1e734dfda1b3a2ef488863e8460bc36bd7ea2af056928feb5cfed93706e",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes",
+        "Worked example and reasoning checks"
+      ]
+    },
+    {
+      "code": "AC9E2LA07",
+      "path": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/index.html",
+      "bytes": 31380,
+      "sha256": "39cf9f4433a4dc848bd9660c2614f1fe419fdbc1bbd0b0d4e939a71d76a7fe01",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA08",
+      "path": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/index.html",
+      "bytes": 30277,
+      "sha256": "05da2aeab0ee49a57aefb6f726c30db8e85b4357b35eebf10545986346a16013",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA09",
+      "path": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/index.html",
+      "bytes": 29993,
+      "sha256": "81ba0d2306b566b4200926e788fe09f10f98d493aca02072e05a1cd9162d0e71",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    },
+    {
+      "code": "AC9E2LA10",
+      "path": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/index.html",
+      "bytes": 29708,
+      "sha256": "24abe565b5f205557c1b3e6f91be0d77516b4fa766511c48045752cc0e758a0b",
+      "baseline_identity": "PASS",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ]
+    }
+  ],
+  "plan_input_sha256": {
+    "plan.json": "ace5bef74992f4d675b95ba5d6a44e70144962a6ddac0aaabbb98e77c2a09a3d",
+    "retained-inventory-plan.json": "c4cd10457659a8e2bd053a0f702522c85376e0b3ef7d196e17920cb99077fc2c",
+    "supplemental-source-notes.json": "fea569419651ad25a6214b98c2cbbcaaa7a1a1fc54a9d9ef8907e0b72ec25c63",
+    "reused-research.json": "d9bb9f0c23dd23daee1d58127422c7fc613952fa224cf642df43ca1355ee216e",
+    "units.json": "f59d9512ae4066e804c9b6abdc903bbd40eacabf28b00efe4838ecf6aa139d19"
+  },
+  "current_sop_identity": "Fresh two SOP files byte-identical to the current 10 November scalable QA and current preflight versions already read in the previous batch; exact identities are in independent-research-input-identities.json. Separate final reviewer retained.",
+  "review_method": "Read all ten current QA code decisions; actual shared residual-method ledger and specific independent closures; relevant current method/teaching and later code-specific task/preflight/source-ledger records; all original retained teaching/goals/checks/revision plus useful LA06 worked lesson and ten earlier worked models. Reused verified observed sources instead of collecting arbitrary additional counts. No claim of rereading/solving every historical app product or source item.",
+  "old_gap_reconciliation": "LA04/05/06/10 November3 QA gap labels are historical and specifically superseded by actual shared/late methods and November4 task evidence. This is not a readiness-label-only acceptance. Source mechanisms and age/response limits were checked against the proposed public-guide plan.",
+  "per_code": {
+    "AC9E2LA01": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Actual saved Foundation/Y1 interaction and conversation/clarification methods plus later Year2 source-ledger teaching: ABC conversation, PETAA audience/role comparison, government talk methods; primary Reconciliation roles independently reopened.",
+      "design": "Context/familiarity, roles/repair, and carefully sourced cultural/protocol learning are meaningful Year2 entry focuses.",
+      "boundaries": "Supply specific contexts/cards; accept multiple respectful natural formulations. No dialect/eye-contact/courtesy ranking. Welcome role includes Traditional Owners OR Aboriginal/Torres Strait Islander people with their permission; anyone may Acknowledge. Local greetings need an identified local community-approved source and guidance, not an assumed generic translation or ceremony role-play."
+    },
+    "AC9E2LA02": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Y1 actual preference/reason/relevance/differing-view methods, later Year2 PETAA/ABC/ACARA text-appreciation source notes; primary Magabala description and actual teacher-note glossary/response method independently reopened.",
+      "design": "Actual text response, supported differing preferences and Country/Place vocabulary in a lawfully supplied named text.",
+      "boundaries": "Supply the complete original short text for public self-contained tasks. For Cooee Mittigar adult stages a lawful actual copy and relevant glossary/spread before discussion; no answer should infer unseen book detail. Liked/preferred/enjoyed are not a rigid universal intensity ladder. No culturally universal word meanings or local authority is inferred."
+    },
+    "AC9E2LA03": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Actual Y1/ABC/Oak structure and purpose methods, later Year2 ABC procedural/nonfiction repair tasks and LiteracyHub purpose/audience notes.",
+      "design": "Compare actual narrative/recount/information; procedure/opinion forms; actual short poem/response.",
+      "boundaries": "Purpose is not determined by one time word or because; form and purpose vary. Avoid every-story or every-report checklists. Supply actual full short samples and scrambled actions in the retained tasks."
+    },
+    "AC9E2LA04": {
+      "decision": "SUFFICIENT — old gap superseded",
+      "source_basis": "Current accepted pronoun methods + actual shared ABC cohesion/BC ellipsis records, independent residual delta review and Nov4 pronoun/recoverable-omission tasks. BC full explanation independently reopened.",
+      "design": "Trace personal/possessive references; expand recoverable omission; compare/repair unclear references.",
+      "boundaries": "Do not infer a person’s pronouns from a name/image. Provide the original noun/paragraph and clear speaker perspective. Recover meaning from connected context; distinguish omission from replacement with one/so and from three-dot punctuation. Transfer C1 mechanism only, not C1 language load."
+    },
+    "AC9E2LA05": {
+      "decision": "SUFFICIENT — old gap superseded",
+      "source_basis": "Actual Y1 heading/contents/screen routes plus shared ReadingRockets index method and checked primary book page data; residual review closes original chapter/index method gap with explicit printed-page/PDF-index correction.",
+      "design": "Contents/chapters, alphabetic keyword index and real static menu/link navigation with destination checks.",
+      "boundaries": "Supply complete miniature contents/index/page text and actual reachable screen targets. Same-keyword route must really resolve. A route description is not actual navigation. Historic bird source is navigation data only, not current science or source pixel evidence; old impossible timing race should not become an attainment criterion."
+    },
+    "AC9E2LA06": {
+      "decision": "SUFFICIENT — old gap superseded",
+      "source_basis": "Actual shared Quill compound method, UVic independent-clause contrasts, later ABC/Oak and Nov4 result-clause tasks. Full UVic method independently reopened.",
+      "design": "Independent clauses, relation-specific coordination, build/repair. Retain the useful full worked reasoning lesson.",
+      "boundaries": "Two or more independent clauses, not merely any and. State intended relation when requiring one coordinator; and/but/so can be grammatical with differing relations. So introduces result after cause. Transfer older sources into short familiar Year2 clauses; do not import advanced taxonomy."
+    },
+    "AC9E2LA07": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Actual Y1 contextual word-role methods, Year3 saved main/helping-verb contrasts and later Year2 LiteracyHub/K5/ABC grouping/task records.",
+      "design": "Articles/adjectives expand nouns, whole verb groups, useful group choices in complete sentences.",
+      "boundaries": "Nouns include ideas and verbs include states; groups may have one or several words. Do not label every nearby word part of a noun group or every predicate word part of the verb group. Supply cards and plain sentences; teach whole group before auxiliary/main technical extensions."
+    },
+    "AC9E2LA08": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Actual Y1 image/word comparison, label/map/sequence and targeted method records; later Year2 source/preflight notes remain bounded.",
+      "design": "Actual words plus visible picture clues, factual table, and explicit original action/reaction/speech/thought panel.",
+      "boundaries": "The old textual steep-rock/cloud placeholder must be repaired to the actual supplied kitten image with matching words in that same section. Picture alone does not prove name, exact time or hidden motive. Original speech/thought captions must be labelled authored story content rather than claimed visible source text. Existing earlier SVG actually has schematic puddle/cloth/floor pictures and arrows; it is not a text-only placeholder."
+    },
+    "AC9E2LA09": {
+      "decision": "SUFFICIENT",
+      "source_basis": "Actual Y1 context/category/vocabulary teaching plus later ABC GoatHerd/Notebook written activity records; primary Darug publisher vocabulary and teacher-note glossary method independently reopened.",
+      "design": "Topic precision, character vocabulary in context, verified attributed language in an actual named source.",
+      "boundaries": "Meaning must fit the intended context; a longer word is not inherently better. Supply paragraph, comparison words and topic definitions. Country/Place vocabulary is source-specific; do not claim Nura/yana are universally local, invent pronunciation or create cultural art/songlines."
+    },
+    "AC9E2LA10": {
+      "decision": "SUFFICIENT — old gap superseded",
+      "source_basis": "Actual shared BritishCouncil title models, Australian StyleManual declared-style contrast, Waterloo list method and later Nov4 actual K5/ABC title/list tasks and source-key erratum.",
+      "design": "Declared title styles, whole list-item commas, editing/justifying alternatives.",
+      "boundaries": "Choose and explain a convention. No universal every-word capitalisation or mandatory serial comma. Do not infer commas from every spoken pause. Supply actual edit targets, and state the title-case convention in earlier worked prompt rather than ask which version without alternatives."
+    }
+  },
+  "required_drafting_materials_and_repairs": [
+    "Complete two material packets per code in the actual retained Subject-Specific and Formative sections, preserving meaningful checks while supplying actual referenced cards, passages, paragraphs, clauses and edit targets.",
+    "LA01 supply interaction contexts and cards plus a blunt target to revise; permit supported role/audience alternatives.",
+    "LA02 supply actual original story and response cards; for the named cultural book require adult lawful copy, relevant glossary/spread and evidence-based discussion before asking dependent questions.",
+    "LA03 supply complete short genre/purpose samples and a workable unordered procedure; LA04 supply connected pronoun/repetition/omission texts.",
+    "LA05 supply contents, alphabetical index, page destinations and functioning native menu/link targets; browser must follow the links.",
+    "LA06 supply complete/incomplete clause cards and pairs with stated desired relation; LA07 supply noun-group cards and complete plain sentences.",
+    "LA08 replace old missing steep-rock/cloud stimulus with the actual inspected kitten stimulus and accurate adjacent wording; supply real table and clearly authored speech/thought model. Keep the earlier schematic SVG, which does contain pictures.",
+    "LA09 supply contextual paragraph and precise alternatives plus sourced topic vocabulary; LA10 supply title/list editing targets and state the earlier title-case convention.",
+    "Full original/retained all-content independent review and fresh separate final risk/render review remain later gates; this is not release or final content approval."
+  ],
+  "primary_sources_independently_reopened": [
+    {
+      "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr2_as_cd_alignment.pdf",
+      "inspection": "All ten descriptors agree with current saved units; full catalogue elaborations read separately.",
+      "retrieval": "turn81view0"
+    },
+    {
+      "url": "https://www.reconciliation.org.au/reconciliation/acknowledgement-of-country-and-welcome-to-country/",
+      "inspection": "Full relevant written role/purpose/local guidance sections, especially Welcome permission and anyone Acknowledgement distinction.",
+      "retrieval": "turn80view0"
+    },
+    {
+      "url": "https://www.magabala.com/products/cooee-mittigar",
+      "inspection": "Publisher identifies Darug creators, Country, glossary and the Nura/yana glosses; named book is a distinct adult-supplied actual material. Full book not inspected.",
+      "retrieval": "turn80view1"
+    },
+    {
+      "url": "https://d4iqe7beda780.cloudfront.net/resources/static/main/pdf/mag6865_cooee_mittigar_teacher_notes.pdf",
+      "inspection": "Full written notes with glossary-before/during-reading and evidence-based response method; transfer only scoped public-guide methods. No imitation art or songline creation.",
+      "retrieval": "turn80view2"
+    },
+    {
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/ellipsis",
+      "inspection": "Full written model/expansion explanation; no embedded quiz, media or audio observed.",
+      "retrieval": "turn81view1"
+    },
+    {
+      "url": "https://continuingstudies.uvic.ca/elc/studyzone/410/grammar/410-compound-sentences",
+      "inspection": "Full written complete-clause and coordination contrasts. No linked exercise or older-grade student demand imported.",
+      "retrieval": "turn81view2"
+    }
+  ],
+  "metadata_and_source_identity": "All91 independently recomputed local bytes/SHA256/Gitblob identities agree with current complete remote metadata; all46 accepted triples agree. See independent-research-input-identities.json.",
+  "limits": [
+    "This approves evidence and proposed preparation for ten public unscored guides; final learner-facing wording, givens, answers, actual images and navigation are not yet authored or approved.",
+    "No scored bank, worksheet, slide, human teacher, pupil trial, mastery, app availability/counting or deployment certification.",
+    "No source video/audio/game playback or full Cooee Mittigar text/artwork inspection. Actual book/glossary and locally approved greeting source must be staged by an adult before dependent teaching tasks.",
+    "Every final information-bearing asset/model needs exact-source semantic inspection and hosted pixel review. Parent supplies actual kitten/picture-jobs assets; their final image correspondence and placement remain content/render gates."
+  ],
+  "unresolved_material_research_gaps": []
+}

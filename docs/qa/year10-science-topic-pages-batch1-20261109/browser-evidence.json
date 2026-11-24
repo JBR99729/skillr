@@ -1,0 +1,1182 @@
+{
+  "source_head": "8f7c38cb870949d0780621aab9e71bab53b8f4c9",
+  "source_tree": "b35771bbaf62fbfa05bfdbfc3e68970e79a1f74f",
+  "workflow_run": 42602021248,
+  "artifact_id": 13666755946,
+  "zip_sha256": "234067a0f1127cb73f846cf9b9689caa06dd553127d1c44cf73fe0b5199d7a3f",
+  "workflow_url": "https://github.com/JBR99729/skillr/actions/runs/42602021248",
+  "results": {
+    "pages": 10,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascriptDisabled": true,
+    "javascriptEnabledSmoke": 10,
+    "results": [
+      {
+        "code": "AC9S10U01",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U02",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U03",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U04",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U05",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U06",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U07",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H01",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H02",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H03",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1157.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U01",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U02",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U03",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U04",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U05",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U06",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U07",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H01",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H02",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H03",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 485.84375,
+          "y": 925.359375,
+          "width": 270.15625,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U01",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U02",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U03",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U04",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U05",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U06",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10U07",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H01",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H02",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9S10H03",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 117.84375,
+          "y": 928.71875,
+          "width": 260.15625,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      }
+    ],
+    "problems": []
+  },
+  "screenshots": [
+    {
+      "file": "AC9S10H01-1440-lesson.png",
+      "sha256": "bf9f64175bc36d8894da83447f32493f42da05a35c0080d57853f7064e5137a2",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H01-1440-top.png",
+      "sha256": "b4ce116eff14120ad0af1caa02982e0472513c8e382b1b0793b07b3876ff388f",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H01-390-lesson.png",
+      "sha256": "ab9864fe481f65aedaa71f7721aa1dc97a14981e5ed7956e61558e4b79c05e4d",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H01-390-top.png",
+      "sha256": "37f0daa3dd0d42afa4b8b28612d8870c2fdb7243b305e18f7488b5ba7314cb0d",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H01-768-lesson.png",
+      "sha256": "58c5c6836cd7353947be72396486a6b9faa7878306d909f571f3baad9f453cbc",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H01-768-top.png",
+      "sha256": "957b83f1f24769cbbae5c89dd9071aef65ade9c0dd049696709d4a6688507dda",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-1440-lesson.png",
+      "sha256": "e81ee7ed7b26317f09744105ea6c1e47102419e5e93dfff8523ec748d1980aa3",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-1440-top.png",
+      "sha256": "d89c8b820468fe5fb7612c49ca86fd1454fd3d94cb6ca7fd4931c682733cccb5",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-390-lesson.png",
+      "sha256": "765d8e3694746655a47c1c6e9b09d35432ae752743ebda73a7fe1e85b5a923b0",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-390-top.png",
+      "sha256": "11033776a29ea29a99181df215eaedd3b8661b490124c0aaa9af7f9e23eccde0",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-768-lesson.png",
+      "sha256": "e7faaa28dbdd0933417c10bffd7ba5b2fae474c468e24d2794f7ab6385d92902",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H02-768-top.png",
+      "sha256": "5563d8d3626c61aac17c02e95a6131dc4a918eab422bbfeb5ed506adc335195e",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-1440-lesson.png",
+      "sha256": "dba0248da3a641a8bd5c2b2a62e8e3b7a1b94694b656ce3a25de8b85c44af96f",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-1440-top.png",
+      "sha256": "6d6bee9b909777834ce51497a2b2bdd6066514529ca01997e2a251605401df2f",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-390-lesson.png",
+      "sha256": "fd71bd26a505b54381c07909b20049b158578c5e029ef3c3bb39e9f7b56a015e",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-390-top.png",
+      "sha256": "072a7550dc314c2692578f0ffd042ba34c8c159a6c4f097f30e6ab14f0ac2aba",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-768-lesson.png",
+      "sha256": "2fa3a8e11e58e75e91bde9cc0c7f350a75072db39220d06293d38f85374a042d",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10H03-768-top.png",
+      "sha256": "0691b397e1ce35e580d7f22f773c7306c8140d7cdd55ec9bf5c9981ecf2e958b",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-1440-lesson.png",
+      "sha256": "ddd8b58a269e7620faa68bb6c98da421a4f95f8e7a569a3102e8710825f1dfcb",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-1440-retained-1.png",
+      "sha256": "3a13b18a2afc71cc765f9aa3707636b55f803b2b88bc5e141a46408ee8bb2daa",
+      "dimensions": [
+        711,
+        202
+      ]
+    },
+    {
+      "file": "AC9S10U01-1440-top.png",
+      "sha256": "5b696e43928012b3b07bf9ba61090843a5a395310e3f380ff8b6f8cc3e4ff6c4",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-390-lesson.png",
+      "sha256": "2070748dcc2cb58cf82bed51fdcf05acbdf0a4348cda4d24b0bdc47d4d15d83a",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-390-retained-1.png",
+      "sha256": "f7d7e80d03d0546bac15265abf20d6215fb87ae369eb94d7e8c63372be061ff0",
+      "dimensions": [
+        318,
+        264
+      ]
+    },
+    {
+      "file": "AC9S10U01-390-top.png",
+      "sha256": "a4fb2b207d50759f89354f0d387e17af4531c253cc72124f1dca5dac55fe1a16",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-768-lesson.png",
+      "sha256": "6d11e098b178880752f8b2e214a3cf7604dc3c2869ec1660189851a574191b3f",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U01-768-retained-1.png",
+      "sha256": "3394ac1cb314c1fb5bdd47d8a24e4f0178b17d60f39352ddc2c65286dd0eda03",
+      "dimensions": [
+        660,
+        188
+      ]
+    },
+    {
+      "file": "AC9S10U01-768-top.png",
+      "sha256": "3d324f209220c4f2af6ed67da5e5b25d0bd5c2c188f16cf6cebb8624acd45f2f",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-1440-lesson.png",
+      "sha256": "c245350263439ed382bc7cf8832067ddf6ed857a5ef1e5ceeef93d9d2b408b4b",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-1440-native-1.png",
+      "sha256": "e3c31f1df5d34b24ddcfd1c66fd07c2631c817a0d6b094317fae537d3194c7a9",
+      "dimensions": [
+        745,
+        120
+      ]
+    },
+    {
+      "file": "AC9S10U02-1440-top.png",
+      "sha256": "0dcfffbcdf1cc4dc6894d46cd3c9ed9d1b9a6c9b34cb83459190a6a48b14c680",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-390-lesson.png",
+      "sha256": "930532e3c73d15024a84fd909b1724d6a9f4067053d3494a40eca9c0fb904f10",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-390-native-1.png",
+      "sha256": "f83bd85dc2438077547f833ecc3bdb084010f98d32cdbf24dfec5d1280b5f450",
+      "dimensions": [
+        338,
+        224
+      ]
+    },
+    {
+      "file": "AC9S10U02-390-top.png",
+      "sha256": "ca41de58c0e124cc98af3f45f367a0e4b639b20a5ae0120a56d9d38ee57cbc51",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-768-lesson.png",
+      "sha256": "1b51d9bb1f5a7b4a0877412d25b9a682ebd2f080000da446ca14747b36df188f",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U02-768-native-1.png",
+      "sha256": "2a5d2f4711544a0350a773c16f29b890e85d7bc60c8f30bfc653429bb42aaa16",
+      "dimensions": [
+        694,
+        155
+      ]
+    },
+    {
+      "file": "AC9S10U02-768-top.png",
+      "sha256": "d464a4bf42b0be423644d793a139af8f94ed878a6702e64588fc6cda0ccf3b42",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-1440-lesson.png",
+      "sha256": "4c006ceeea02b4bb9d91ba4dcaa5ba97331fc952263abc072d6a86b206c53684",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-1440-retained-1.png",
+      "sha256": "f804a440b19e8fa59ef19531b01d6ffdc4acdadc018b16cf7a7ee01bda8b9798",
+      "dimensions": [
+        711,
+        217
+      ]
+    },
+    {
+      "file": "AC9S10U03-1440-top.png",
+      "sha256": "abe7e05d230bbe21d5411147db58d626f0232ff4e101b611e0f3fe26b0cdd567",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-390-lesson.png",
+      "sha256": "d3dd44d35ca36abfc915b123bf3abfa3d5b89ec9119cdf5e2ce673c127ff32cf",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-390-retained-1.png",
+      "sha256": "b4c7e373dfb6679ac54af358bceea61d013a300685f7768fecbf7dd383654223",
+      "dimensions": [
+        318,
+        281
+      ]
+    },
+    {
+      "file": "AC9S10U03-390-top.png",
+      "sha256": "9241c5d3baf4ae34fb8ab60348851a19d21fac6763b60bf3f9dfd0347cee39fc",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-768-lesson.png",
+      "sha256": "6e0bd782aae2f84682ce56c78ae7f6f81f51fcd5b0fa2ae7576d9980060aeca2",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U03-768-retained-1.png",
+      "sha256": "b91343187b47ded981555c61175892f462025e3298b62c1c3553352917d20962",
+      "dimensions": [
+        660,
+        202
+      ]
+    },
+    {
+      "file": "AC9S10U03-768-top.png",
+      "sha256": "b44ea4b974d165d45404e20406eb4113e78fc2710f6b40589604139d72e70619",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-1440-lesson.png",
+      "sha256": "5db3e367ff4a827594d926c040a0160f563a9b0f332f0f2abd7e126d584948bb",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-1440-retained-1.png",
+      "sha256": "446b0689c01cbc21d4181e11d6c4957ffe15ab45dcc142080843df91d1df904f",
+      "dimensions": [
+        711,
+        256
+      ]
+    },
+    {
+      "file": "AC9S10U04-1440-top.png",
+      "sha256": "c43c8541433984ddb6b28f79575f34db94521f0f97a1431ccf9d13cc42ff0dd9",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-390-lesson.png",
+      "sha256": "2c99f32452bf38f44633149bb58f763c7373f7ebc3896571ccea448acbffe54d",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-390-retained-1.png",
+      "sha256": "6b0424eb89a20982bc66bad17ad142f501b6dd457f29c353b6427bec329f7dee",
+      "dimensions": [
+        318,
+        324
+      ]
+    },
+    {
+      "file": "AC9S10U04-390-top.png",
+      "sha256": "5c803640027e2a675360df2b219a7ac47a9cc59c513025f8dc732b9285cde951",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-768-lesson.png",
+      "sha256": "66d903de7686948828c0f32927f0b7f21294c72d92de0d5da3ca1945a21b24da",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U04-768-retained-1.png",
+      "sha256": "255d59d4977082dfa3231d7223a129eb36d93406f2a69bdd08c932db34c5c006",
+      "dimensions": [
+        660,
+        237
+      ]
+    },
+    {
+      "file": "AC9S10U04-768-top.png",
+      "sha256": "027142a4d8bd67f2fdebf3757fa4a254ce8989dcb45fe7de4bcadb41cdb9a439",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-1440-lesson.png",
+      "sha256": "6ba2376fc1f87dec190099ad5623d00d53821d952df584d1d7581d6b30cd2282",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-1440-retained-1.png",
+      "sha256": "f889c0c595765e6a7d9b174b1fb42c43cafee737e0be2e228ae844e9f61d3676",
+      "dimensions": [
+        711,
+        232
+      ]
+    },
+    {
+      "file": "AC9S10U05-1440-top.png",
+      "sha256": "20dc3c3ac898e6e3620f700680ab9ee72ceba91763be1a6429fdbd919a799348",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-390-lesson.png",
+      "sha256": "e34e6920b868e55b576a3ad6d0c44bd686748d655b7ef971a01404fd08815caa",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-390-retained-1.png",
+      "sha256": "be5905899b0fb983f773101cfa234ec61930528d8993f88272c50c8ef0a48af9",
+      "dimensions": [
+        318,
+        299
+      ]
+    },
+    {
+      "file": "AC9S10U05-390-top.png",
+      "sha256": "9d7862e39c6c4e8d5a245d73bf179dc328b2f45a7d7b4d3c1d665aff2d14b617",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-768-lesson.png",
+      "sha256": "1c61ad4a6dea8c8d6545a60f7d0c6ca57a73e16f80204106e6bc6980f963653c",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U05-768-retained-1.png",
+      "sha256": "282efc9eb4cf2712fe4c4b49787e32aad96bbd6df23a3c8012bc31dd94607be8",
+      "dimensions": [
+        660,
+        216
+      ]
+    },
+    {
+      "file": "AC9S10U05-768-top.png",
+      "sha256": "895304f0801c03e5419ac6c9b4eedd345899152ea329754fa390b55cf2e4b2cb",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-1440-lesson.png",
+      "sha256": "9776b06e8179cad910432ab09f2d805c1df62602703395800b0182e14513dd3c",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-1440-retained-1.png",
+      "sha256": "698f4a31b260181d9ad71c4188675a31849c8d00ee4569c702627de2a14c1993",
+      "dimensions": [
+        711,
+        192
+      ]
+    },
+    {
+      "file": "AC9S10U06-1440-top.png",
+      "sha256": "6d6e5eb961e9a7abecc6d0b7a616a87c8403d1d705f5f5f2308d181d61f1f2ff",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-390-lesson.png",
+      "sha256": "c41fde3d3abb2e63c523d6e8d58eb63067409cb2ba0a074705122aff43cd4b02",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-390-retained-1.png",
+      "sha256": "13f13bc44042c03ff9d6a03a764e4b2dd37f5810b1055af5a7941981bdfda2f7",
+      "dimensions": [
+        318,
+        252
+      ]
+    },
+    {
+      "file": "AC9S10U06-390-top.png",
+      "sha256": "8a4e7e2a002395322f1fa0a2056271114e3ec81217d800046f5b0e150e613f02",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-768-lesson.png",
+      "sha256": "4adc3b6645aad933a770f1055807a5322b94fe5295c94e85ce643410d9e8d3e1",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U06-768-retained-1.png",
+      "sha256": "edb8d0a062a56737df43b1e594384801654d87158b9381abf3a7f4ddbfefe43f",
+      "dimensions": [
+        660,
+        178
+      ]
+    },
+    {
+      "file": "AC9S10U06-768-top.png",
+      "sha256": "369cfd4e3f2cffabb9ac37ed26d2ab0eb9a009cf7c50464517e4800969c765ff",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-1440-lesson.png",
+      "sha256": "ca6efeabe93aa3f0ef8b8510e4e62557286708b21c950826618230e154961d45",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-1440-retained-1.png",
+      "sha256": "8c18bab5932a9dca5f70c37bc2d9d429179e03462671fdf3c7e45559c17cf0bc",
+      "dimensions": [
+        711,
+        233
+      ]
+    },
+    {
+      "file": "AC9S10U07-1440-top.png",
+      "sha256": "34b0666550f6a6abf811d869ffb525b3b5a94980f52f4305f0651ab8a70198d1",
+      "dimensions": [
+        1440,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-390-lesson.png",
+      "sha256": "f11c417b22bf4a3fe91eea2e596f0052996f9a99d78768ff0460d5ccb6ad38df",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-390-retained-1.png",
+      "sha256": "44b10744753525a74d7601d3cf80c36c729ec18405c91d574508459a4211fc11",
+      "dimensions": [
+        318,
+        298
+      ]
+    },
+    {
+      "file": "AC9S10U07-390-top.png",
+      "sha256": "53ec99556774cdaa72e561228584ce73944b42daf5b7cd510410b4ba1edf797d",
+      "dimensions": [
+        390,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-768-lesson.png",
+      "sha256": "54e7a3427c14f58c791e159667614af706ecc8896010a7f9677388f7be7b3486",
+      "dimensions": [
+        768,
+        1000
+      ]
+    },
+    {
+      "file": "AC9S10U07-768-retained-1.png",
+      "sha256": "8c268c945b6b23feed20b8ad293500627d3f0dfd29f13306db8f5a04f72520bb",
+      "dimensions": [
+        660,
+        216
+      ]
+    },
+    {
+      "file": "AC9S10U07-768-top.png",
+      "sha256": "393cc31b8eaf65892108b98f7b85cbc3985fd51bfdd433e1345f7bfd4b311cb6",
+      "dimensions": [
+        768,
+        1000
+      ]
+    }
+  ],
+  "status": "Browser automation PASS; initial screenshots revealed Year9 hero labels, now repaired toYear10; final-head browser/render recheck pending. Native/model dependencies unchanged; U06 public answer IDs restored separately."
+}

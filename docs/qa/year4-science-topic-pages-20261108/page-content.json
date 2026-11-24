@@ -1,0 +1,854 @@
+[
+  {
+    "code": "AC9S4U01",
+    "title": "Follow the food through a habitat",
+    "short": "Food chains and habitat roles",
+    "intro": "Explain how producers, consumers and decomposers interact, and read a food chain from food to eater.",
+    "exampleTitle": "A garden has connected feeding roles",
+    "example": "In this example, a caterpillar eats shrub leaves and a fairy-wren eats caterpillars. The shrub makes its own food using light. Fungi and bacteria break down dead leaves and other remains; decomposition returns nutrients to the habitat. A chain shows selected feeding links, rather than every relationship.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Organism or group</th><th scope=\"col\">Evidence in this example</th><th scope=\"col\">Role</th></tr></thead><tbody><tr><td>Leafy shrub</td><td>Makes its own food using light</td><td>Producer</td></tr><tr><td>Caterpillar</td><td>Eats leaves</td><td>Consumer</td></tr><tr><td>Fairy-wren</td><td>Eats caterpillars</td><td>Consumer</td></tr><tr><td>Fungi and bacteria</td><td>Break down dead organic material</td><td>Decomposers</td></tr></tbody></table><div class=\"evidence\"><strong>One feeding chain</strong><p>Shrub leaves → caterpillar → fairy-wren. Each arrow points from food to the organism that eats it.</p></div>",
+    "art": "habitat",
+    "steps": [
+      [
+        "Use actions to identify roles",
+        "Ask how an organism obtains food. A green plant is a producer because it makes food; an animal is a consumer because it eats other organisms.",
+        "<table><thead><tr><th scope=\"col\">Evidence</th><th scope=\"col\">Role</th></tr></thead><tbody><tr><td>Makes food using light</td><td>Producer</td></tr><tr><td>Eats leaves or other animals</td><td>Consumer</td></tr></tbody></table>",
+        "Is the Sun a producer?",
+        "No. The Sun supplies energy, but it is not an organism that makes food."
+      ],
+      [
+        "Read arrows from food to eater",
+        "Follow each feeding link in order. An arrow represents transfer of food and the energy stored in it; it does not mean that the food is chasing the eater.",
+        "<div class=\"evidence\"><strong>Read the model</strong><p>Leaf → caterpillar → fairy-wren</p></div>",
+        "Which way should the arrow point between the leaf and caterpillar?",
+        "From the leaf to the caterpillar, because the caterpillar eats the leaf."
+      ],
+      [
+        "Include decomposers and wider connections",
+        "Dead material and waste can come from producers and consumers. Decomposers act on that material. A habitat contains many connected feeding chains, so a single chain has limits.",
+        "<div class=\"evidence\"><strong>A decomposition link</strong><p>Dead leaf material → fungi and bacteria. Remains from consumers can also be broken down.</p></div>",
+        "Do decomposers act only on the last animal in a chain?",
+        "No. They break down dead organic material from different parts of the habitat."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Plants get their food from soil.”",
+        "Plants take up water and mineral nutrients; green plants make their own food using light."
+      ],
+      [
+        "“Every animal has one place in one chain.”",
+        "An animal may eat several foods and also be eaten; a habitat has connected relationships."
+      ]
+    ],
+    "activityTitle": "Build and explain a feeding chain",
+    "activity": "2 minutes: read the four evidence rows. 4 minutes: draw the shrub–caterpillar–fairy-wren chain and label arrow meaning. 2 minutes: add a decomposer link from dead leaves. 2 minutes: explain one thing this small model leaves out.",
+    "adjust": "Support: use supplied organism names and dictate the explanation. Extend: add a second verified food link and explain why one chain is incomplete.",
+    "safety": "Observe living things without collecting or disturbing them. Do not touch or taste fungi or unknown plants.",
+    "tricky": [
+      [
+        "Would fewer caterpillars prove that all fairy-wrens must disappear?",
+        "No. A simple chain suggests a possible food effect, but other food sources and habitat conditions also matter."
+      ],
+      [
+        "Can a fairy-wren be a consumer and a predator?",
+        "Yes. It is a consumer because it eats other organisms, and a predator when it catches animal prey."
+      ],
+      [
+        "Do nutrients and energy both cycle back through the chain in the same way?",
+        "No. Nutrients can be reused after decomposition. Energy passes through feeding relationships and is eventually transferred to the surroundings; it is not recycled in the same way."
+      ]
+    ],
+    "faq": [
+      [
+        "What does a food-chain arrow mean?",
+        "Food and its stored energy pass from the organism being eaten to the eater."
+      ],
+      [
+        "Why include decomposers?",
+        "They break down dead organic material and help return nutrients that other organisms can use."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4U02",
+    "title": "Trace water through the environment",
+    "short": "The water cycle",
+    "intro": "Identify water stores and explain evaporation, condensation, precipitation and movement through the landscape and ocean.",
+    "exampleTitle": "One possible journey of water",
+    "example": "Water can be stored in an ocean, a river, soil, groundwater, ice or the atmosphere. Liquid water can evaporate into water vapour. Cooling vapour can condense into droplets. Water may fall as precipitation, then flow across land or soak into the ground. This is one possible route, not a compulsory route for every drop.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Process</th><th scope=\"col\">What happens</th><th scope=\"col\">Example</th></tr></thead><tbody><tr><td>Evaporation</td><td>Liquid water becomes water vapour</td><td>A wet surface dries</td></tr><tr><td>Condensation</td><td>Water vapour becomes liquid droplets</td><td>Droplets form on a cold surface</td></tr><tr><td>Precipitation</td><td>Water falls from clouds</td><td>Rain or snow</td></tr><tr><td>Runoff / infiltration</td><td>Water flows over land / enters the ground</td><td>A stream / water soaking into soil</td></tr></tbody></table>",
+    "art": "water",
+    "steps": [
+      [
+        "Locate the water stores",
+        "Separate a place where water is held from a process that moves or changes it. Water vapour in air is water too, even though it is invisible.",
+        "<table><thead><tr><th scope=\"col\">Store</th><th scope=\"col\">Water may be present as</th></tr></thead><tbody><tr><td>Ocean or river</td><td>Liquid</td></tr><tr><td>Snow or ice</td><td>Solid</td></tr><tr><td>Atmosphere</td><td>Water vapour; cloud droplets or ice</td></tr></tbody></table>",
+        "Is evaporation a water store?",
+        "No. It is a process in which liquid water becomes water vapour."
+      ],
+      [
+        "Explain the two changes of state",
+        "Evaporation is liquid to gas. Condensation is gas to liquid. Clouds are visible because they contain tiny droplets or ice crystals, rather than being made only of invisible vapour.",
+        "<div class=\"evidence\"><strong>A cold-cup observation</strong><p>An adult dries the outside of a chilled, closed plastic cup. New droplets form on its outside.</p></div>",
+        "Did water necessarily leak through the cup?",
+        "No. Water vapour in the surrounding air can condense on the cold outside surface."
+      ],
+      [
+        "Connect sky, land and ocean",
+        "The Sun provides energy that supports evaporation in the water cycle. Gravity helps precipitation and water flow downhill. Water can stay in stores or follow different pathways.",
+        "<div class=\"evidence\"><strong>One possible pathway</strong><p>Ocean → evaporation → atmospheric water → condensation → precipitation → river flow → ocean</p></div>",
+        "Must all rain reach the ocean immediately?",
+        "No. Some enters soil or groundwater, freezes, is used by living things, or remains in another store."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Water must boil to evaporate.”",
+        "Wet clothes can dry at ordinary temperatures; boiling is not required."
+      ],
+      [
+        "“The water cycle means clean water can never run short.”",
+        "Fresh water is unevenly available and may be polluted or hard to access. Water still needs care."
+      ]
+    ],
+    "activityTitle": "Tell a water journey",
+    "activity": "2 minutes: choose a starting store. 4 minutes: sketch a possible route using three or more processes. 2 minutes: label each change of state correctly. 2 minutes: explain where water might be stored along the route.",
+    "adjust": "Support: use process cards and oral explanation. Extend: add an alternative groundwater or ice pathway without claiming every drop follows it.",
+    "safety": "Use drawings or safe room-temperature models. An adult handles any chilled cup; no hot water or boiling is needed.",
+    "tricky": [
+      [
+        "A puddle dries in shade. Is that impossible?",
+        "No. Evaporation can happen without direct sunlight. Energy from the surroundings and air conditions also affect drying."
+      ],
+      [
+        "Is the white cloud above a landscape simply water vapour?",
+        "No. Water vapour is invisible; a visible cloud contains tiny liquid droplets or ice crystals."
+      ],
+      [
+        "Is rain forming and rain falling the same process?",
+        "No. Condensation forms liquid droplets from vapour. Precipitation is water falling from clouds."
+      ]
+    ],
+    "faq": [
+      [
+        "Does a cycle have one fixed starting point?",
+        "No. We choose a starting store to explain a pathway; the environment has many linked pathways."
+      ],
+      [
+        "Can water move underground?",
+        "Yes. Water can enter soil and move through spaces in the ground, sometimes reaching streams or other stores."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4U03",
+    "title": "Explain the forces changing motion",
+    "short": "Friction, gravity and magnetism",
+    "intro": "Identify forces between objects and investigate how frictional, gravitational and magnetic forces affect motion.",
+    "exampleTitle": "Three interactions to explain",
+    "example": "A force is a push or pull involving interacting objects. Friction acts where surfaces contact. Earth’s gravity acts across a distance. Magnets can attract suitable materials or attract and repel other magnets without touching.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Interaction to identify</th><th scope=\"col\">Effect to investigate</th></tr></thead><tbody><tr><td>Block sliding across felt</td><td>Friction between block and felt</td><td>Can slow the sliding block</td></tr><tr><td>Ball released near Earth</td><td>Earth’s gravitational pull</td><td>Changes the ball’s motion downward</td></tr><tr><td>Magnet near a steel clip</td><td>Magnetic attraction</td><td>Can pull the clip across a gap</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Describe contact and friction",
+        "Name both surfaces. For a block sliding right across a fixed level surface, friction on the block acts left, opposing its sliding relative to that surface.",
+        "<div class=\"evidence\"><strong>Force and movement differ</strong><p>Block movement: right. Friction on the sliding block: left.</p></div>",
+        "Must a force point in the direction an object is moving?",
+        "No. Friction can oppose the direction of sliding and slow an object."
+      ],
+      [
+        "Recognise gravity even at rest",
+        "Earth pulls objects towards its centre whether they are moving or resting. A table can support a block while gravity still acts on it.",
+        "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">Is Earth’s gravity acting?</th></tr></thead><tbody><tr><td>Falling ball</td><td>Yes</td></tr><tr><td>Block resting on a table</td><td>Yes</td></tr></tbody></table>",
+        "Does gravity switch off when the block stops?",
+        "No. Earth still pulls downward; support from the table helps the block remain at rest."
+      ],
+      [
+        "Test magnetic interactions fairly",
+        "Use a large classroom magnet and suitable test objects. Compare the same magnet and object at different gaps. A magnet does not attract every kind of metal.",
+        "<table><thead><tr><th scope=\"col\">Test pair</th><th scope=\"col\">Expected interaction</th></tr></thead><tbody><tr><td>Facing N and S poles</td><td>Attract</td></tr><tr><td>Facing N and N poles</td><td>Repel</td></tr><tr><td>Classroom magnet and ordinary steel clip</td><td>Attract</td></tr><tr><td>Classroom magnet and ordinary aluminium strip</td><td>Not attracted in this classroom test</td></tr></tbody></table>",
+        "If aluminium is not attracted, is the magnet necessarily broken?",
+        "No. Aluminium is not strongly attracted by an ordinary classroom magnet. Test with a known suitable steel object."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Friction is always bad.”",
+        "Friction can slow a toy, but also helps shoes grip and brakes work."
+      ],
+      [
+        "“All metals stick to magnets.”",
+        "Test the material. Ordinary steel and aluminium do not have the same response."
+      ]
+    ],
+    "activityTitle": "Make an interaction record",
+    "activity": "2 minutes: choose a safe force example. 4 minutes: draw the interacting objects and label the force direction. 2 minutes: predict a change in motion. 2 minutes: explain what a fair comparison would keep the same.",
+    "adjust": "Support: use the three situation rows. Extend: distinguish a motion arrow from a force arrow and justify both.",
+    "safety": "Use adult-approved light objects on a low, stable test area. Do not test friction by making a walking surface slippery. Adults select large, intact classroom magnets; do not use small loose magnets.",
+    "tricky": [
+      [
+        "Can a magnet push without touching another magnet?",
+        "Yes. Facing like poles can repel across a gap."
+      ],
+      [
+        "Does the farthest sliding block automatically have the strongest gravity?",
+        "No. Surface interaction, release conditions and other factors affect travel. This does not measure gravity’s strength."
+      ],
+      [
+        "Can we compare surfaces after changing both the block and ramp height?",
+        "Not as a fair test of surface alone. Keep those conditions the same while changing the intended surface."
+      ]
+    ],
+    "faq": [
+      [
+        "Are forces only present when objects move?",
+        "No. Forces can act on resting objects too."
+      ],
+      [
+        "Do I need force equations for this topic?",
+        "The core task is to identify interactions, describe effects and investigate fairly; formal force calculations are not needed here."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4U04",
+    "title": "Choose materials for a purpose",
+    "short": "Material properties and uses",
+    "intro": "Compare properties of fibres, metals, glass and plastics, then explain how the properties influence their uses.",
+    "exampleTitle": "A bag uses more than one material",
+    "example": "A carrying bag can combine materials because different parts have different jobs. Name a material, identify relevant evidence about its properties, and connect that property to the part’s purpose. The following observations are invented examples for discussion, not results for every material of that type.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Part or sample</th><th scope=\"col\">Relevant property in this example</th><th scope=\"col\">Possible use</th></tr></thead><tbody><tr><td>Coated nylon fabric</td><td>Flexible; resists a short water splash</td><td>Outer bag layer</td></tr><tr><td>Cotton cloth</td><td>Flexible; absorbs a small water spill</td><td>Wipe or absorbent lining</td></tr><tr><td>Metal zip teeth</td><td>Hard and hold their shape</td><td>Fastening</td></tr><tr><td>Clear plastic panel</td><td>Light and transparent</td><td>Viewing window</td></tr><tr><td>Clear glass sample</td><td>Transparent but can break</td><td>Rigid viewing surface where safe and suitable</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Separate objects, materials and properties",
+        "A bag is an object. Nylon is a material. Flexible describes a property. Materials may be processed from natural sources or manufactured; a natural fibre can still be made into fabric.",
+        "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">Material</th><th scope=\"col\">Property</th></tr></thead><tbody><tr><td>Bag</td><td>Nylon fabric</td><td>Flexible</td></tr><tr><td>Jar</td><td>Clear glass</td><td>Transparent</td></tr></tbody></table>",
+        "Is “lunchbox” a property?",
+        "No. It names an object. A relevant property might be rigid, lightweight or resistant to water."
+      ],
+      [
+        "Compare samples using the same method",
+        "Use safe samples of similar size, the same amount of water and the same waiting time when comparing water absorption. Record observations, and note important differences such as thickness or coatings.",
+        "<div class=\"evidence\"><strong>A fair sample comparison</strong><p>Same drop size and waiting time; similar sample area. Record whether the drop soaks in or stays on the surface.</p></div>",
+        "Does one coated fabric test prove every nylon fabric is waterproof?",
+        "No. Coating, weave, thickness and test conditions matter. Describe the tested sample and the limits of the test."
+      ],
+      [
+        "Justify a choice and its trade-off",
+        "A useful choice links a needed job to evidence. Clear glass may show contents, but breakage risk can make a suitable clear plastic preferable for a child’s carrying container.",
+        "<div class=\"evidence\"><strong>Property → purpose</strong><p>Transparent panel → see contents. Flexible outer fabric → folds with the bag. Rigid fastening → holds its shape.</p></div>",
+        "Does “strong” alone explain which material is best?",
+        "No. State the needed properties and purpose, then weigh trade-offs such as weight, flexibility, durability and safety."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All natural materials are unchanged.”",
+        "Raw materials can be processed; cotton fibre becomes manufactured cloth."
+      ],
+      [
+        "“All clear materials behave alike.”",
+        "Transparency is only one property. Flexibility, breakage and other properties may differ."
+      ]
+    ],
+    "activityTitle": "Recommend a material combination",
+    "activity": "2 minutes: choose a small bag or container. 4 minutes: name materials for two different parts. 2 minutes: explain each choice with a property and evidence. 2 minutes: identify a trade-off or a further test.",
+    "adjust": "Support: use the sample table. Extend: compare two possible combinations against the same requirements.",
+    "safety": "Use adult-approved fabric, plastic and other blunt samples. Adults handle any glass; do not break, scratch sharply, heat or taste materials.",
+    "tricky": [
+      [
+        "Must a natural material always be a better choice?",
+        "No. Suitability depends on the purpose, properties, evidence and other relevant needs, rather than the label alone."
+      ],
+      [
+        "Can two objects made of plastic have different properties?",
+        "Yes. Different plastics, forms, thicknesses and finishes can behave differently."
+      ],
+      [
+        "Does a shiny surface tell us that a material is magnetic?",
+        "No. Shininess and magnetic response are different properties; use an appropriate test."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a material property?",
+        "A characteristic we can observe or measure, such as flexibility, transparency or water absorption."
+      ],
+      [
+        "Can one object use several material groups?",
+        "Yes. Combining fibres, metals, glass or plastics can let different parts do different jobs."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4H01",
+    "title": "Build an explanation from evidence",
+    "short": "Data and scientific explanations",
+    "intro": "Use relevant data to identify a pattern, support an explanation and recognise what the evidence cannot establish.",
+    "exampleTitle": "What do the repeated distances support?",
+    "example": "These are invented model results from a low-ramp test. The same wooden block, release point and measuring method were used. In each run it travelled farther on the smooth board than on felt. Greater friction between the tested felt and sliding block is a reasonable explanation for the shorter travel in this controlled comparison; the distances are not direct measurements of force.",
+    "evidence": "<table><caption>Invented model data: same block, low ramp, release point and measuring method</caption><thead><tr><th scope=\"col\">Surface</th><th scope=\"col\">Run 1 (cm)</th><th scope=\"col\">Run 2 (cm)</th><th scope=\"col\">Run 3 (cm)</th></tr></thead><tbody><tr><td>Smooth board</td><td>60</td><td>62</td><td>58</td></tr><tr><td>Felt</td><td>28</td><td>30</td><td>32</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Distinguish data from opinion",
+        "Measurements and recorded observations are evidence. Preferences can suggest interests, but they cannot replace the records used to explain an investigation.",
+        "<table><thead><tr><th scope=\"col\">Statement</th><th scope=\"col\">Type</th></tr></thead><tbody><tr><td>The felt distances were 28, 30 and 32 cm</td><td>Recorded data</td></tr><tr><td>The blue felt is my favourite</td><td>Preference</td></tr></tbody></table>",
+        "Which statement directly supports a distance comparison?",
+        "The recorded distances. A colour preference does not show how far the block travelled."
+      ],
+      [
+        "Check the whole pattern",
+        "Look across the relevant records rather than choosing only a favourite number. Here every smooth-board distance is greater than every felt distance.",
+        "<div class=\"evidence\"><strong>Evidence to cite</strong><p>Smooth board: 58–62 cm across the three runs. Felt: 28–32 cm across the three runs.</p></div>",
+        "Does a repeated pattern mean every future result must be identical?",
+        "No. Repeats can vary. A pattern can still be useful, and future evidence may refine the explanation."
+      ],
+      [
+        "Link a claim to evidence and reasoning",
+        "State the observed pattern, quote relevant records, and explain a scientific connection. Keep the claim within the investigation’s conditions.",
+        "<div class=\"evidence\"><strong>A supported explanation</strong><p>For this block and release setup, the felt condition gave shorter sliding distances. Friction between the tested surfaces helps explain the difference.</p></div>",
+        "Can this table prove that every rough material always stops every object fastest?",
+        "No. It tests particular samples and a particular setup. More materials and conditions would need investigation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“One large value proves my idea.”",
+        "Check all relevant records and the method."
+      ],
+      [
+        "“An explanation can never change.”",
+        "Reliable new evidence can strengthen, refine or change an explanation."
+      ]
+    ],
+    "activityTitle": "Write an evidence explanation",
+    "activity": "2 minutes: identify the measured quantity. 3 minutes: state the repeated pattern. 3 minutes: add two relevant numerical records and scientific reasoning. 2 minutes: identify a limit or a further measurement.",
+    "adjust": "Support: use “The records show … because …”. Extend: explain how an unfair release method would weaken the explanation.",
+    "safety": "Use the supplied model data or an adult-supervised light-block demonstration. Do not invent practical results and present them as observations.",
+    "tricky": [
+      [
+        "Could the explanation be reasonable even if it is not proven for every situation?",
+        "Yes. A scientific explanation can fit the available evidence while remaining open to testing and revision."
+      ],
+      [
+        "Would one shorter smooth-board result automatically erase all other results?",
+        "No. Check the record and method, consider variation, and collect more evidence where needed."
+      ],
+      [
+        "If the block was pushed hard on one surface and gently on another, is the explanation secure?",
+        "No. Different starting conditions could affect distance. Repeat with a consistent release before attributing the difference to surface."
+      ]
+    ],
+    "faq": [
+      [
+        "Is a photograph data?",
+        "It can be observational evidence when its subject, time and conditions are clear; it does not automatically supply accurate measurements."
+      ],
+      [
+        "What makes an explanation scientific here?",
+        "It connects relevant observations or measurements to a reasoned explanation that can be checked against evidence."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4H02",
+    "title": "Use science to solve a practical problem",
+    "short": "Science meeting a need",
+    "intro": "Connect a practical need to a scientific explanation, then test whether a proposed solution works within its limits.",
+    "exampleTitle": "Recover steel clips from a mixed tray",
+    "example": "The need is to recover ordinary steel clips from a tray containing steel clips, plastic counters and aluminium pieces. A large classroom magnet is a possible tool because it attracts the tested steel across a small gap. It will not automatically collect every metal. The example test record below is invented.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Object type in model test</th><th scope=\"col\">Number present</th><th scope=\"col\">Number lifted by the magnet</th></tr></thead><tbody><tr><td>Ordinary steel clips</td><td>5</td><td>5</td></tr><tr><td>Plastic counters</td><td>5</td><td>0</td></tr><tr><td>Aluminium pieces</td><td>5</td><td>0</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "State the need and success criteria",
+        "Say exactly what the solution should do. Collecting the steel clips while leaving the other materials is a clearer goal than simply saying “make sorting better”.",
+        "<div class=\"evidence\"><strong>A testable requirement</strong><p>Recover the supplied ordinary steel clips without picking up the plastic and aluminium samples.</p></div>",
+        "Would “looks impressive” alone show that the sorting need is met?",
+        "No. Check whether the intended objects are recovered and the unwanted ones remain."
+      ],
+      [
+        "Explain why the idea might work",
+        "Link a scientific property or interaction to the job. Magnetic attraction can move the suitable steel objects towards the tool, even before contact.",
+        "<div class=\"evidence\"><strong>Explanation → action</strong><p>Magnet attracts the tested steel → use the magnet to collect those clips from the mixture.</p></div>",
+        "Would the same magnet necessarily collect the aluminium?",
+        "No. An ordinary classroom magnet does not strongly attract ordinary aluminium. A different sorting step is needed."
+      ],
+      [
+        "Test, compare and improve",
+        "Record what the tool collects, what it misses and what else is picked up. Change one feature at a time when comparing improvements, such as the working gap.",
+        "<table><thead><tr><th scope=\"col\">Check</th><th scope=\"col\">Useful evidence</th></tr></thead><tbody><tr><td>Does it meet the need?</td><td>Correct objects recovered</td></tr><tr><td>What is its limit?</td><td>Materials it does not collect</td></tr><tr><td>What might improve it?</td><td>A fair comparison at a different gap</td></tr></tbody></table>",
+        "Does success with five clips prove that a factory sorter is ready?",
+        "No. A larger setting introduces other materials, quantities, safety needs and operating conditions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Science gives one perfect solution.”",
+        "Several solutions may meet different needs; test them against clear requirements."
+      ],
+      [
+        "“A magnet sorts all metal from non-metal.”",
+        "Magnetic response varies. Do not use that claim for all metals."
+      ]
+    ],
+    "activityTitle": "Design a sorting explanation",
+    "activity": "2 minutes: state the need and criteria. 4 minutes: draw a labelled model of the sorting idea. 2 minutes: explain the magnetic interaction. 2 minutes: name a limitation and a fair improvement test.",
+    "adjust": "Support: use the supplied model record. Extend: compare this idea with a second safe sorting method using the same success criteria.",
+    "safety": "Use the model table or adult-supervised equipment. Adults select large, intact magnets and age-safe samples; avoid small loose magnets and sharp metal.",
+    "tricky": [
+      [
+        "If one clip stays behind, must the explanation of magnetism be wrong?",
+        "No. Gap, position, material or the tool’s strength may affect the outcome. Investigate the specific cause."
+      ],
+      [
+        "Is the strongest magnet always the best solution?",
+        "Not automatically. Handling, the intended objects, unwanted pickup and the task’s conditions also matter."
+      ],
+      [
+        "Can knowledge of friction solve a different need?",
+        "Yes. For example, evidence about grip can inform shoe or braking designs. The solution must be tested for its own purpose."
+      ]
+    ],
+    "faq": [
+      [
+        "What does “meeting a need” mean?",
+        "Using an idea to address a stated practical problem and checking the result against what is required."
+      ],
+      [
+        "Must the solution be a new invention?",
+        "No. Choosing or improving an existing method can also apply scientific knowledge."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I01",
+    "title": "Turn a pattern into a useful question",
+    "short": "Questions and predictions",
+    "intro": "Use observations to pose an answerable question and make a prediction with a reason.",
+    "exampleTitle": "From sliding records to the next trial",
+    "example": "A class has the invented preliminary records below. They can ask whether the same surface pattern will occur in new trials using the same block and release setup. A prediction describes an expected result before the new trials; it is not a result already measured.",
+    "evidence": "<table><caption>Invented model data: same block, low ramp, release point and measuring method</caption><thead><tr><th scope=\"col\">Surface</th><th scope=\"col\">Run 1 (cm)</th><th scope=\"col\">Run 2 (cm)</th><th scope=\"col\">Run 3 (cm)</th></tr></thead><tbody><tr><td>Smooth board</td><td>60</td><td>62</td><td>58</td></tr><tr><td>Felt</td><td>28</td><td>30</td><td>32</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Describe what was observed",
+        "State the records without adding an unsupported explanation. Keep measurements, guesses and preferences distinct.",
+        "<div class=\"evidence\"><strong>An observation</strong><p>In these runs, the board distances were 60, 62 and 58 cm; the felt distances were 28, 30 and 32 cm.</p></div>",
+        "Is “felt is prettier” an observation about sliding distance?",
+        "No. It is a preference and does not describe the measured movement."
+      ],
+      [
+        "Ask a question evidence can answer",
+        "Name the changing condition and what will be observed or measured. A useful question points towards a possible investigation.",
+        "<div class=\"evidence\"><strong>Question</strong><p>Will the same block travel a shorter distance on this felt than on this board when released from the same low ramp?</p></div>",
+        "What is missing from “Which surface is best?”",
+        "The purpose or criterion. Best for long travel, grip or another job? State what will be measured or compared."
+      ],
+      [
+        "Predict with a reason",
+        "Say what you expect before testing again, and connect the expectation to an observation or a relevant scientific idea.",
+        "<div class=\"evidence\"><strong>Prediction</strong><p>I predict shorter travel on this felt in the new trials because every preliminary felt distance was shorter than the board distances.</p></div>",
+        "Must a useful prediction turn out to be correct?",
+        "No. It needs a sensible reason and a way to check it. An unexpected result can lead to better questions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A question is the same as a prediction.”",
+        "A question asks what will happen; a prediction states an expected result."
+      ],
+      [
+        "“My prediction is a measured fact.”",
+        "Keep it separate from the observations collected during testing."
+      ]
+    ],
+    "activityTitle": "Make a question-and-prediction pair",
+    "activity": "2 minutes: read the preliminary records. 3 minutes: write one answerable question. 3 minutes: write a prediction and an evidence-based reason. 2 minutes: ask a partner what data would answer the question.",
+    "adjust": "Support: use “Will changing … affect …?”. Extend: explain a second plausible outcome and what evidence would change the prediction.",
+    "safety": "Plan a safe model investigation with an adult; no practical testing is required to use the supplied records.",
+    "tricky": [
+      [
+        "Can we ask a scientific question about an observation that surprised us?",
+        "Yes. Describe the unexpected observation and identify evidence that could help explain it."
+      ],
+      [
+        "Would changing the prediction after the trial make it more accurate science?",
+        "No. Keep the original prediction and compare it honestly with the result."
+      ],
+      [
+        "Does “Why is this best?” make a fair test automatically?",
+        "No. Clarify the purpose, changing condition, measured outcome and relevant comparison first."
+      ]
+    ],
+    "faq": [
+      [
+        "What should a prediction include?",
+        "An expected outcome and a reason connected to observations or relevant science."
+      ],
+      [
+        "Does every scientific question require changing something?",
+        "No. Some can be explored by observing, identifying or comparing existing records rather than a controlled experiment."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I02",
+    "title": "Plan a fair and safe comparison",
+    "short": "Planning investigations",
+    "intro": "Use a scaffold to identify what changes, what is measured, what stays the same and how the investigation will be safe.",
+    "exampleTitle": "Plan before releasing the block",
+    "example": "The investigation asks how two flat surface samples affect the distance travelled by a wooden block after release from a low ramp. The adult-provided scaffold below controls starting conditions and records actual repeated measurements. It is a proposed method, not a report that the test has already happened.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Plan element</th><th scope=\"col\">Agreed method</th></tr></thead><tbody><tr><td>Change</td><td>Flat surface sample: board or felt</td></tr><tr><td>Measure</td><td>Distance from ramp end to the front of the stopped block, in cm</td></tr><tr><td>Keep the same</td><td>Block, low ramp, release point, orientation and measuring method</td></tr><tr><td>Repeat</td><td>Three actual releases per surface; no added push</td></tr><tr><td>Safety</td><td>Stable low setup, light block, dry area; adult checks equipment</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Match the plan to the question",
+        "Identify the changing condition and a measurable outcome that answers the question. Plan the measurement reference points before collecting results.",
+        "<div class=\"evidence\"><strong>Question → evidence</strong><p>Surface sample → distance after the ramp, measured to the same part of the block each time.</p></div>",
+        "Would timing the whole lesson answer the sliding-distance question?",
+        "No. Record the block’s distance using the agreed reference points."
+      ],
+      [
+        "Keep the comparison fair",
+        "Use the same block, ramp height, release point and orientation. Release without an extra push. Reset the equipment consistently before each run.",
+        "<table><thead><tr><th scope=\"col\">Accidental change</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Higher release point for felt</td><td>Changes starting conditions as well as surface</td></tr><tr><td>Different block for board</td><td>Object differences may affect motion</td></tr></tbody></table>",
+        "Can more repeats repair a test that always changes two things together?",
+        "No. Repeats do not remove that confounding change. Repair the method, then repeat."
+      ],
+      [
+        "Plan safety and honest records",
+        "An adult checks the setup and materials. Record every actual trial, including an unexpected result, with notes about anything that went wrong.",
+        "<div class=\"evidence\"><strong>Record template</strong><p>Surface | run number | distance (cm) | method or safety notes</p></div>",
+        "May we fill an empty trial box with the result we expected?",
+        "No. Mark it as not measured and conduct another safe trial if needed."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Fair means every result is identical.”",
+        "Fairness concerns the method. Real repeats may vary."
+      ],
+      [
+        "“Safety can be decided after testing.”",
+        "Identify hazards and safe procedures before beginning."
+      ]
+    ],
+    "activityTitle": "Complete an investigation scaffold",
+    "activity": "2 minutes: choose the question. 4 minutes: complete change, measure, keep-same and repeat rows. 2 minutes: add a specific safety precaution. 2 minutes: ask someone to find a possible accidental change.",
+    "adjust": "Support: sort supplied plan statements into the scaffold. Extend: explain how to handle a block that travels beyond the measuring range without inventing a value.",
+    "safety": "Adults set up a low, stable model and choose light, blunt materials. Keep the test area dry and clear. Do not build a ramp for people to ride or walk on.",
+    "tricky": [
+      [
+        "Is the investigation fair if only the material changes but the measurement starts at different points?",
+        "No. The measuring method must also be consistent."
+      ],
+      [
+        "Should an unexpected result be erased immediately?",
+        "No. Retain the observation, note possible method problems and investigate or repeat appropriately."
+      ],
+      [
+        "Must every investigation be a fair-test experiment?",
+        "No. Surveys and observations can also answer scientific questions. Use a method suited to the question."
+      ]
+    ],
+    "faq": [
+      [
+        "What does a scaffold do?",
+        "It provides prompts or a structure for planning; students still need to make sensible decisions."
+      ],
+      [
+        "Why repeat a test?",
+        "Repeats help reveal variation and whether a pattern recurs. They do not guarantee that the method is fair."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I03",
+    "title": "Measure carefully and keep useful records",
+    "short": "Observing and measuring",
+    "intro": "Follow a procedure, read a familiar scale and record the actual measurement with an appropriate unit and precision.",
+    "exampleTitle": "Read a marked distance, not a guess",
+    "example": "The ruler model shows marks every 2 cm. Its zero is aligned with the ramp-end reference, and the front of the stopped block is at the first small mark after 60 cm. The supported reading is 62 cm. The contextual workbench picture is not a scale to measure.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Check</th><th scope=\"col\">This model</th></tr></thead><tbody><tr><td>Quantity</td><td>Distance after the ramp</td></tr><tr><td>Unit</td><td>Centimetres (cm)</td></tr><tr><td>Each small interval</td><td>2 cm</td></tr><tr><td>Reading</td><td>62 cm</td></tr></tbody></table>",
+    "art": "ruler",
+    "steps": [
+      [
+        "Choose the tool and starting reference",
+        "Match the instrument to the quantity, range and detail needed. For sliding distance, use a ruler or tape that covers the expected travel and place zero at the agreed reference.",
+        "<table><thead><tr><th scope=\"col\">Quantity</th><th scope=\"col\">Suitable familiar tool</th></tr></thead><tbody><tr><td>Distance</td><td>Metric ruler or tape</td></tr><tr><td>Mass</td><td>Balance</td></tr><tr><td>Elapsed time</td><td>Timer</td></tr></tbody></table>",
+        "If the ruler starts at 10 cm and ends at 72 cm, is the distance 72 cm?",
+        "No. The difference is 72 − 10 = 62 cm. Starting at zero is usually easier."
+      ],
+      [
+        "Read the interval and position",
+        "Find what each small step represents before reading. Look straight at the scale and match the agreed object edge to its mark.",
+        "<div class=\"evidence\"><strong>Scale reasoning</strong><p>Two small steps from 60 cm reach 64 cm. One small step from 60 cm reaches 62 cm.</p></div>",
+        "Would counting one small step as 1 cm give a correct reading here?",
+        "No. Each small interval is 2 cm, so the marked reading is 62 cm."
+      ],
+      [
+        "Record and check the measurement",
+        "Write the number, unit, run and relevant conditions. Use digital tools where useful, checking zero, units and stable readings rather than trusting extra display digits automatically.",
+        "<div class=\"evidence\"><strong>A useful record</strong><p>Run 2 | smooth board | 62 cm | same release point; front edge used.</p></div>",
+        "Does a digital display alone guarantee an accurate measurement?",
+        "No. Tool setup, zero, units, resolution and the measuring method still matter."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The number alone is enough.”",
+        "Record the unit and what was measured."
+      ],
+      [
+        "“A coarse scale gives unlimited decimal places.”",
+        "Record only detail supported by the instrument and method."
+      ]
+    ],
+    "activityTitle": "Audit a measurement record",
+    "activity": "2 minutes: identify quantity and unit. 3 minutes: explain the 2 cm scale intervals in the ruler model. 3 minutes: write a complete reading and method note. 2 minutes: find one likely measurement error to prevent.",
+    "adjust": "Support: count equal intervals aloud. Extend: compare a 1 cm scale with a 2 cm scale and explain the extra detail each can support.",
+    "safety": "Use familiar, adult-approved instruments and a stable setup. No hot liquids, sharp equipment or specialist sensors are required.",
+    "tricky": [
+      [
+        "Do repeated readings of 60, 62 and 66 cm justify deleting 66 because it looks different?",
+        "Not by itself. Check the procedure and record, keep the evidence and explain any justified correction or extra trial."
+      ],
+      [
+        "If two people use different object edges, are their readings directly comparable?",
+        "Not necessarily. Agree the start and end references and remeasure consistently."
+      ],
+      [
+        "Can a photograph supply a precise distance without a clear scale and viewpoint?",
+        "No. A useful measurement needs a valid scale, reference points and an appropriate view."
+      ]
+    ],
+    "faq": [
+      [
+        "What is an interval?",
+        "The amount represented by the gap between neighbouring scale marks."
+      ],
+      [
+        "Is observation only looking?",
+        "No. It can include safe use of senses and instruments; record what was actually observed rather than an unsupported identification."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I04",
+    "title": "Turn records into clear representations",
+    "short": "Tables, graphs and models",
+    "intro": "Construct labelled tables, simple column graphs and models that preserve data and reveal patterns.",
+    "exampleTitle": "One set of distances, two representations",
+    "example": "These invented records show one selected run for each surface using the same block and release setup. The column graph represents distance in centimetres. Its baseline is zero and the scale uses equal 10 cm intervals. Read the labels before interpreting the column heights.",
+    "evidence": "<table><caption>Invented example: selected trial per surface</caption><thead><tr><th scope=\"col\">Surface</th><th scope=\"col\">Distance (cm)</th></tr></thead><tbody><tr><td>Board</td><td>62</td></tr><tr><td>Felt</td><td>30</td></tr><tr><td>Rubber</td><td>24</td></tr></tbody></table>",
+    "art": "graph",
+    "steps": [
+      [
+        "Keep categories, values and units together",
+        "Use a table with clear headings. Copy every value into its matching category; include zero values when they were genuinely recorded.",
+        "<table><thead><tr><th scope=\"col\">Surface</th><th scope=\"col\">Distance (cm)</th></tr></thead><tbody><tr><td>Board</td><td>62</td></tr><tr><td>Felt</td><td>30</td></tr><tr><td>Rubber</td><td>24</td></tr></tbody></table>",
+        "If another surface records 0 cm after the reference point, may we omit its category?",
+        "No. Zero is still a result. Keep the category and show its zero value."
+      ],
+      [
+        "Build a correctly scaled column graph",
+        "Start the number axis at zero, use equal intervals and label the measured quantity and unit. Separate columns represent the surface categories.",
+        "<div class=\"evidence\"><strong>Graph checks</strong><p>Board: 62 cm. Felt: 30 cm. Rubber: 24 cm. Check category, scale and height against the table.</p></div>",
+        "Can we change the board column to 70 cm to make the pattern clearer?",
+        "No. A representation must preserve the recorded value. Labels and a suitable scale should make it readable without changing the data."
+      ],
+      [
+        "Explain a pattern and a model’s limits",
+        "The board column is tallest in this supplied run. That is a distance comparison, not a direct measurement of force. A model highlights selected relationships and leaves other details out.",
+        "<div class=\"evidence\"><strong>Another model type</strong><p>A force arrow labelled “friction on the sliding block” can point opposite the block’s motion.</p></div>",
+        "Does a left-pointing friction arrow prove the block is moving left?",
+        "No. It shows a force direction. A block sliding right can experience friction acting left."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A graph needs no unit if the table has one.”",
+        "Label the graph so it can be understood on its own."
+      ],
+      [
+        "“The tallest column means best.”",
+        "It means the largest value of the labelled quantity; suitability depends on the purpose."
+      ]
+    ],
+    "activityTitle": "Make and check a column graph",
+    "activity": "2 minutes: read the three supplied records. 4 minutes: draw and label the graph with a zero baseline and equal intervals. 2 minutes: check each height against the table. 2 minutes: write a pattern and one limitation.",
+    "adjust": "Support: use a supplied axis and category labels. Extend: add a zero category or explain what repeats would add to this single-run example.",
+    "safety": "Use the supplied data and drawing materials. Do not report the model values as results of an investigation you actually performed.",
+    "tricky": [
+      [
+        "Would starting a column axis at 20 cm preserve the visual size comparison?",
+        "No. A zero baseline is appropriate here so column lengths represent the values fairly."
+      ],
+      [
+        "Does one column per surface show how much repeated trials varied?",
+        "No. These are single supplied records. Variation needs the repeated records or a representation that includes them."
+      ],
+      [
+        "Could a labelled map be a useful scientific representation too?",
+        "Yes. For example, a map can show local water sources; its key, locations and limits need to be clear."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use a table and a graph?",
+        "A table keeps exact records organised; a graph can make a pattern easier to notice."
+      ],
+      [
+        "Does a model need every real-world detail?",
+        "No. State what it represents and avoid treating omitted details as evidence."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I05",
+    "title": "Compare findings and check the method",
+    "short": "Evaluating investigations",
+    "intro": "Compare findings with others, check fairness, draw a bounded conclusion and identify a useful further question.",
+    "exampleTitle": "Similar patterns, different starting conditions",
+    "example": "Both groups report farther travel on the board than on felt. Their absolute distances differ, and their ramp heights also differ. The height difference is a possible contributor, not a proven explanation of every number. These are invented model records.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Group and ramp height</th><th scope=\"col\">Board distances (cm)</th><th scope=\"col\">Felt distances (cm)</th></tr></thead><tbody><tr><td>A: 10 cm high</td><td>58, 60, 62</td><td>28, 30, 32</td></tr><tr><td>B: 15 cm high</td><td>64, 66, 68</td><td>34, 36, 38</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Compare patterns across the records",
+        "Look for both agreements and differences. Each group has a consistent surface comparison in these supplied results, even though the groups do not report identical numbers.",
+        "<div class=\"evidence\"><strong>What agrees?</strong><p>All supplied board distances exceed the felt distances within each group.</p></div>",
+        "Do different numbers automatically mean one group is wrong?",
+        "No. Conditions, methods and ordinary variation may differ. Examine the evidence before deciding."
+      ],
+      [
+        "Look for method differences and unfair changes",
+        "Between groups, ramp height differed. Within a fair comparison of surface, keep ramp height the same for both surfaces. More repeats do not repair a confounded method.",
+        "<table><thead><tr><th scope=\"col\">Method feature</th><th scope=\"col\">Question to ask</th></tr></thead><tbody><tr><td>Ramp height</td><td>Was it constant for the surfaces being compared?</td></tr><tr><td>Block and release</td><td>Were they the same?</td></tr><tr><td>Measurement</td><td>Were start/end references and units consistent?</td></tr></tbody></table>",
+        "If a group uses a higher ramp only for the board, can it isolate the surface effect?",
+        "No. Ramp height and surface both changed together. Repair the comparison before attributing the difference to surface."
+      ],
+      [
+        "Draw a limited conclusion and ask what next",
+        "State what the records support, identify uncertainty and propose a specific follow-up. To explore ramp height, change height while keeping one surface and the other conditions the same.",
+        "<div class=\"evidence\"><strong>A further question</strong><p>For the same block on the same board, how does changing only ramp height affect travel distance?</p></div>",
+        "Does the table prove that ramp height caused every difference between the groups?",
+        "No. It identifies a plausible factor to investigate; other method differences or variation may also matter."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The neatest table must be right.”",
+        "Presentation quality does not establish the quality of the method or evidence."
+      ],
+      [
+        "“Choose only results agreeing with the prediction.”",
+        "Use the relevant records honestly, including unexpected findings."
+      ]
+    ],
+    "activityTitle": "Hold an evidence conference",
+    "activity": "2 minutes: identify what the groups agree on. 3 minutes: name a method difference and why it matters. 3 minutes: write a conclusion limited to the records. 2 minutes: propose a fair follow-up question.",
+    "adjust": "Support: underline the surface pattern in each group. Extend: write a plan that separates a ramp-height question from a surface question.",
+    "safety": "Use the supplied records or a low, adult-supervised model. Do not test large ramps or ride on the equipment.",
+    "tricky": [
+      [
+        "If all repeated trials have the same unfair change, does repetition make the comparison fair?",
+        "No. Consistently repeating a confounded method does not isolate the intended factor."
+      ],
+      [
+        "Could a material suitable for short stopping distance be unsuitable for a toy designed to travel far?",
+        "Yes. “Suitable” depends on the intended purpose and criteria."
+      ],
+      [
+        "What should we do with an unexpected but plausible finding?",
+        "Keep it, check the record and method, and identify what further evidence could help explain it."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a finding?",
+        "What the observations or records show. A conclusion states what those findings mean for the question."
+      ],
+      [
+        "Why compare with other people?",
+        "Their evidence and methods can reveal agreement, variation, mistakes or new questions worth investigating."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S4I06",
+    "title": "Make your scientific meaning clear",
+    "short": "Communicating findings",
+    "intro": "Create a scientific text for a chosen audience and purpose, using accurate evidence, vocabulary and helpful digital tools where appropriate.",
+    "exampleTitle": "The same evidence for two audiences",
+    "example": "A younger class may need a simple labelled poster. A teacher may need a report with the method, records and limitations. The words and format can change, but the evidence must stay the same. These invented model results are the same board-and-felt comparison used in the evidence lesson.",
+    "evidence": "<table><caption>Invented model data: same block, low ramp, release point and measuring method</caption><thead><tr><th scope=\"col\">Surface</th><th scope=\"col\">Run 1 (cm)</th><th scope=\"col\">Run 2 (cm)</th><th scope=\"col\">Run 3 (cm)</th></tr></thead><tbody><tr><td>Smooth board</td><td>60</td><td>62</td><td>58</td></tr><tr><td>Felt</td><td>28</td><td>30</td><td>32</td></tr></tbody></table><table><thead><tr><th scope=\"col\">Audience and purpose</th><th scope=\"col\">Useful communication</th></tr></thead><tbody><tr><td>Younger class: understand the result</td><td>Clear labels, a simple graph and a short accurate explanation</td></tr><tr><td>Teacher: evaluate the investigation</td><td>Method, conditions, repeated records, conclusion and limits</td></tr></tbody></table>",
+    "art": "bench",
+    "steps": [
+      [
+        "Choose audience, purpose and format",
+        "Name who the text is for and what it should help them understand. Choose a poster, report, labelled model, oral explanation or other useful format.",
+        "<div class=\"evidence\"><strong>A clear purpose</strong><p>Explain to a younger class how the tested surfaces changed the block’s sliding distance.</p></div>",
+        "Does “make a slideshow” state the audience and purpose?",
+        "No. It names a format. Also state who will use it and what they should learn."
+      ],
+      [
+        "Connect the finding to evidence and vocabulary",
+        "Use scientific terms that make the explanation precise, and explain unfamiliar words. Include units and relevant results rather than replacing evidence with impressive language.",
+        "<div class=\"evidence\"><strong>Short report model</strong><p>With the same block and release setup, board runs were 58–62 cm and felt runs were 28–32 cm. Friction between the tested surfaces helps explain the shorter travel on felt. These results apply to this model test.</p></div>",
+        "Is “felt makes the block heavier” supported by these records?",
+        "No. The records compare sliding distances, not mass. Describe the relevant surface interaction instead."
+      ],
+      [
+        "Choose and check representations and tools",
+        "A graph can compare distances, a photograph can show the setup, and a digital table can organise records. Check labels and numbers against the source records before sharing.",
+        "<table><thead><tr><th scope=\"col\">Tool or representation</th><th scope=\"col\">What to check</th></tr></thead><tbody><tr><td>Column graph</td><td>Distance label, cm, zero baseline and matching values</td></tr><tr><td>Setup photograph</td><td>Clear view and useful labels; not a substitute for measurements</td></tr><tr><td>Digital report</td><td>Accurate copied data, readable text and audience-appropriate detail</td></tr></tbody></table>",
+        "Must every scientific explanation use a digital tool?",
+        "No. Use one where it helps. Accurate drawings, writing or speaking can also communicate the science."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Simpler language allows different results.”",
+        "Simplify the wording while keeping the evidence and meaning accurate."
+      ],
+      [
+        "“A decorated picture proves the conclusion.”",
+        "Link the conclusion to relevant observations or measurements."
+      ]
+    ],
+    "activityTitle": "Explain it two ways",
+    "activity": "2 minutes: choose two audiences. 4 minutes: write a short explanation for each using the same records. 2 minutes: add a useful labelled representation. 2 minutes: ask a partner to check the numbers, units and meaning.",
+    "adjust": "Support: dictate one accurate sentence and label a supplied graph. Extend: justify which details each audience needs and one limitation to keep.",
+    "safety": "Use supplied records or authorised images. Do not publish personal details or imply that invented model results were collected by your class.",
+    "tricky": [
+      [
+        "Does a shorter felt column in a distance graph mean less friction?",
+        "No. It means a shorter recorded distance. Under the controlled model setup, greater friction can help explain the shorter slide; the graph does not directly measure force."
+      ],
+      [
+        "Can an audience-friendly explanation omit the fact that the test used a particular block and setup?",
+        "Keep enough context to avoid making a universal claim. Simplification should preserve the finding’s limits."
+      ],
+      [
+        "Is a visually attractive report automatically scientifically reliable?",
+        "No. Check evidence, method, labels and reasoning as well as presentation."
+      ]
+    ],
+    "faq": [
+      [
+        "Which scientific vocabulary is useful here?",
+        "Words such as friction, surface, distance, evidence and fair comparison, with clear explanations when needed."
+      ],
+      [
+        "What should a peer check?",
+        "Whether the text answers its purpose, fits its audience, preserves the records and uses accurate labels and vocabulary."
+      ]
+    ]
+  }
+]

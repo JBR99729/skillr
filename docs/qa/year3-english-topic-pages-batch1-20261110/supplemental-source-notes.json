@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-10",
+  "sources": [
+    {
+      "id": "ABC-AFFIXES",
+      "url": "https://www.abc.net.au/education/a-resourceful-guide-to-prefixes-and-suffixes/13894166",
+      "locator": "Full written transcript and extension prompt; Years3–4",
+      "observed": "Place→replace→replacement; do→redo/undo; dis- examples; happy/sad/tired plus -ness. Prompt asks for other valid prefix/suffix words.",
+      "criteria": "Explain again/reversal/not and changed word meaning; produce a valid word and check in context.",
+      "transfer": "Original context-based prefix/suffix families and meaning checks.",
+      "limits": "Transcript read; no media played. Source warns not every affix fits every word. Do not use hearing-based criteria or universal sound-right rule."
+    },
+    {
+      "id": "PETAA-VIEWING",
+      "url": "https://www.petaa.edu.au/Mp/Curric-Res/Videos/Video_VisualLiteracy_Viewing.aspx",
+      "locator": "Written teaching sections Distance/Angle/Gaze; Viewing is active meaning-making; Teaching viewing not testing noticing",
+      "observed": "Teacher prose explains close/mid/long distance, eye-level/up/down angles and direct/averted gaze; asks how choices position viewers, supports think-aloud, guided discussion and justified interpretation.",
+      "criteria": "Specific visible feature + plausible contextual effect + text/image evidence; alternative supported readings allowed.",
+      "transfer": "Original paired SVGs/captions comparing character relationships and viewer involvement; guided and independent evidence checks.",
+      "limits": "Prose methods read, not linked videos or commercial books. No source artwork reproduced; source examples are not claimed newly inspected picture tasks. ABC searched first; its available visual-literacy activity was broader and did not close gaze/framing method gap."
+    },
+    {
+      "id": "RECONCILIATION-ROLES",
+      "url": "https://www.reconciliation.org.au/reconciliation/acknowledgement-of-country-and-welcome-to-country/",
+      "locator": "Welcome to Country; Acknowledgement of Country; local Land Council advice",
+      "observed": "Defines Welcome role as Traditional Owners or Aboriginal/Torres Strait Islander people permitted by Traditional Owners; anyone may offer an Acknowledgement. Local representative bodies advise arrangements; Acknowledgement wording varies.",
+      "criteria": "Distinguish roles; use verified source; ask local hosts rather than infer local rules.",
+      "transfer": "Original school-event role comparison using supplied directions; no simulated cultural ceremony or invented language/protocol.",
+      "limits": "ABC Education Marcia Ella-Duncan page inspected first: actual who/when prompts visible but no transcript; media not played and answers not inferred from it. Jajoo page is a resource listing with gated unit, not actual lesson inspection. Roles closed through the primary organisation written guidance."
+    },
+    {
+      "id": "ABC-EXPLANATION",
+      "url": "https://www.abc.net.au/education/english-years-1-2-with-alex-writing-an-explanation-text/13597074",
+      "locator": "Full written transcript: word wall, labelled cycle, arrow transitions, modelled first sentence, learner completion",
+      "observed": "Model one stage sentence from a supplied diagram, then ask learners to write sentences for remaining arrows.",
+      "criteria": "Sentence explains correct stage transition; language follows process order and supplied evidence.",
+      "transfer": "Original familiar process explanation with supplied facts, contrast with topic-grouped report.",
+      "limits": "Younger-year method reference adapted to Year3 language. No video watched; no pupil outcomes claimed. Do not adopt scientific magic/hard-shell simplifications or every-diagram absolute."
+    },
+    {
+      "id": "ABC-AUTOBIOGRAPHY",
+      "url": "https://www.abc.net.au/education/heywire-autobiography-of-a-flood-survivor/13817720",
+      "locator": "Full written Shelby Garlick transcript; Things to think about1–4",
+      "observed": "First-person introduction/earlier view, dated ordered events, sensory details, reflection and changed attitude. Questions ask autobiography/purpose, event order, sensory effect and another viewpoint.",
+      "criteria": "Use first-person self-experience/context and ordered event evidence; distinguish personal account from universal fact or a generic first-person fiction cue.",
+      "transfer": "Original calm school-experience fictional autobiographical model labelled as such, with complete events and reflection; no flood/advice/trauma content copied.",
+      "limits": "Years7–8 teacher reference, not imported student demand. Transcript read only, no historical verification or actual audio; source grammar slips not reused."
+    },
+    {
+      "id": "OAK-AUTOBIOGRAPHY",
+      "url": "https://www.thenational.academy/teachers/lessons/exploring-texts-about-personal-experiences",
+      "locator": "Key learning points, keywords and visible starter Q2/Q5/Q6",
+      "observed": "Defines autobiography as own-life writing; identifies first person, past tense, descriptive/emotive language. Visible quiz distinguishes non-fiction from fantasy and identifies first person and a past-tense sentence.",
+      "criteria": "Narrator/authorship context establishes autobiographical purpose; pronouns and tense support rather than prove classification.",
+      "transfer": "Compare factual recount and original autobiographical model with complete authorship context.",
+      "limits": "Year9 adult accuracy reference; Mary Seacole war text/slides/video not inspected or copied; do not import sensitive content or advanced analysis."
+    }
+  ],
+  "official_source_urls": [
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA01",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA02",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA03",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA04",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA05",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA06",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA07",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA08",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA09",
+    "https://www.scootle.edu.au/ec/search?accContentId=AC9E3LA10"
+  ],
+  "source_priority": "Saved evidence first; ABC Education first for real English gaps; expanded to PETAA/Reconciliation Australia only for named missing methods/roles.",
+  "no_source_count_claim": "Methods/models and explicit prompts identified separately; no catalogue entries or review labels counted as actual questions."
+}

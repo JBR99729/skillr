@@ -1,0 +1,92 @@
+{
+  "original_models": "Nine original author-created teaching models; fictional data clearly labelled. No source artwork copied.",
+  "models": [
+    {
+      "code": "AC9S9H04",
+      "index": 0,
+      "png": "AC9S9H04-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "4cc6452964063fe093b7cb5497f3a022a540c949d7aaca097da77c4d9fcf0012",
+      "prepared_render_svg_sha256": "4cc6452964063fe093b7cb5497f3a022a540c949d7aaca097da77c4d9fcf0012",
+      "png_sha256": "b4734103079f84f77c57d47d1c0f7c9aeb3a4595aba6736989ffe06334579c7f"
+    },
+    {
+      "code": "AC9S9I01",
+      "index": 0,
+      "png": "AC9S9I01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "2b2bb134c7500da8958097333e6c85e7d2fc256d7dbde56dce612a6b0696f864",
+      "prepared_render_svg_sha256": "2b2bb134c7500da8958097333e6c85e7d2fc256d7dbde56dce612a6b0696f864",
+      "png_sha256": "81ca8b47361e16797780d4ccb612eff63578ed6c38000e1d85de8afbbf8a7d85"
+    },
+    {
+      "code": "AC9S9I02",
+      "index": 0,
+      "png": "AC9S9I02-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "35c53372ae0a246afa4e327bb12426c22eda2233bc7c46c65120c414f89f12ef",
+      "prepared_render_svg_sha256": "35c53372ae0a246afa4e327bb12426c22eda2233bc7c46c65120c414f89f12ef",
+      "png_sha256": "d825fbde7c8f766feaa96c190e163e2d15b3c217fdbbfb398e7138860f1f28c1"
+    },
+    {
+      "code": "AC9S9I03",
+      "index": 0,
+      "png": "AC9S9I03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "2b1d986e396c38f702876f72b825dc0676e5ebcfff875574b09a41eca9afe3cb",
+      "prepared_render_svg_sha256": "2b1d986e396c38f702876f72b825dc0676e5ebcfff875574b09a41eca9afe3cb",
+      "png_sha256": "a72768cd3e40d9b4b6d5ba3a279aa0580298cd437565c679991cc70f8d667b38"
+    },
+    {
+      "code": "AC9S9I04",
+      "index": 0,
+      "png": "AC9S9I04-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "111fb76582a66d4a1279a68f55a546571464cf7d0cc40f534d6ea6f2c4ea97dc",
+      "prepared_render_svg_sha256": "111fb76582a66d4a1279a68f55a546571464cf7d0cc40f534d6ea6f2c4ea97dc",
+      "png_sha256": "c0134e1da4b5f700b00286251f63e658a3baad6cc1cc66e766368aa08353b7da"
+    },
+    {
+      "code": "AC9S9I05",
+      "index": 0,
+      "png": "AC9S9I05-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "154c17c9bcc45e17578bb82a151ce016b26300e74fa31eef240a5bd6f85389b4",
+      "prepared_render_svg_sha256": "154c17c9bcc45e17578bb82a151ce016b26300e74fa31eef240a5bd6f85389b4",
+      "png_sha256": "9ef7c3be7688e80b2864f027230f529b544a42e1321e07fd1588152fb2b09bbb"
+    },
+    {
+      "code": "AC9S9I06",
+      "index": 0,
+      "png": "AC9S9I06-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "82b21236c44703981c5c1a3a9f41927eca393fe4d77bb5394af97ab660da31ec",
+      "prepared_render_svg_sha256": "82b21236c44703981c5c1a3a9f41927eca393fe4d77bb5394af97ab660da31ec",
+      "png_sha256": "042af638da0c756372dd22617a55bcaef37985256590ba6ad883f8e4114fef15"
+    },
+    {
+      "code": "AC9S9I07",
+      "index": 0,
+      "png": "AC9S9I07-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "aa611f0e4804be91e2da13b8e2fe454bec4e23f000c6dadade8764e690eec969",
+      "prepared_render_svg_sha256": "aa611f0e4804be91e2da13b8e2fe454bec4e23f000c6dadade8764e690eec969",
+      "png_sha256": "d6bb38b198ed58dcc21081e66e9741c97ee56c097be3ac40793e5e2b3067ed4e"
+    },
+    {
+      "code": "AC9S9I08",
+      "index": 0,
+      "png": "AC9S9I08-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "837435441f6e54692c53dfb892d6b49a041c5c46fd592026ae20f8614778e452",
+      "prepared_render_svg_sha256": "837435441f6e54692c53dfb892d6b49a041c5c46fd592026ae20f8614778e452",
+      "png_sha256": "9fc3c46bb4e879038ad20bea78fa4709505828f228ee9674dadb32adee5235da"
+    }
+  ],
+  "html_models": [],
+  "hash_definitions": {
+    "literal_svg_sha256": "SHA256 of exact literal <svg\u2026</svg> UTF-8 substring from final page source, in DOM/source order.",
+    "prepared_render_svg_sha256": "SHA256 of standalone renderer input: literal plus missing xmlns and retained SVG-relevant head styles with removed ancestor prefixes and default Arial font.",
+    "png_sha256": "SHA256 of actual standalone white-background 1000-pixel-width PNG bytes inspected by reviewer. Browser renders remain separately checked."
+  }
+}

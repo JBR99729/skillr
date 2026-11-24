@@ -1,0 +1,40 @@
+{
+  "baseline": "1eebd0af9ae0cc14fc714f0b3b4f3d1a8ac4cffc",
+  "pages": [
+    {
+      "code": "AC9E2LY06",
+      "path": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/index.html",
+      "sha256": "6f359dbb6f67357a9b97562d48bb52351a8ef5e34f13a7aae13cb07e3c0e4945"
+    },
+    {
+      "code": "AC9E2LY07",
+      "path": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+      "sha256": "d44b9fafd7f401169836126294facc76e859832b817179ada2555273e3911e77"
+    },
+    {
+      "code": "AC9E2LY08",
+      "path": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/index.html",
+      "sha256": "badce2e4e598a4aea6c52cb25085b42ef292afa3333320b391467eeec71ff58f"
+    },
+    {
+      "code": "AC9E2LY09",
+      "path": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/index.html",
+      "sha256": "1bdf74ad6f4eee339e30d67b2dbe5a81a2ba75aa373b0a2c489dc39647578095"
+    },
+    {
+      "code": "AC9E2LY10",
+      "path": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/index.html",
+      "sha256": "698dc4ac48f504458fc8eaf8681ea32045f07295a5b6093df9c20d0bb30617ef"
+    },
+    {
+      "code": "AC9E2LY11",
+      "path": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/index.html",
+      "sha256": "86439324af54942209aa01d718f175977027efc85954a30c1ebdad5b92a03dd3"
+    },
+    {
+      "code": "AC9E2LY12",
+      "path": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/index.html",
+      "sha256": "953cf9e1bded12c242a75f9106f4d178dc276fda7710ba14dfa5798f5f7a49c1"
+    }
+  ]
+}

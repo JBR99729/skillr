@@ -1,0 +1,282 @@
+[
+  {
+    "code": "AC9S6U01",
+    "section": "Investigation and reasoning routine",
+    "before": "Mean height was 6 cm in low light, 11 cm in medium light and 9 cm in bright light. What most limits a claim that light level alone caused the pattern?",
+    "after": "Mean height was 6 cm in low light, 11 cm in medium light and 9 cm in bright light. Only one pot was used at each light level. What most limits a claim that light level alone caused the pattern?",
+    "reason": "Supply the sampling fact needed by the existing model reasoning; the original question did not state it."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "A town creek repeatedly turns green in summer. Which statement defines the problem most usefully?",
+    "after": "A town creek repeatedly turns green in summer. Write a problem statement naming the observation and a possible consequence without choosing a solution.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "This statement identifies an observable condition and its possible consequence without jumping to a solution.",
+    "after": "The creek repeatedly turns green in summer, which may affect water quality and living things. Investigate what is causing the change before selecting a response.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "Which is scientific evidence rather than an opinion?",
+    "after": "Give an example of a recorded measurement that could provide scientific evidence rather than a preference.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "A recorded measurement from repeated tests is evidence; the other statements express preferences.",
+    "after": "For example, three water-temperature readings of 22°C, 23°C and 22°C are numerical observations. “The creek looks prettier” is a preference and does not establish a measured water-quality change.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "Both groups are affected or have relevant interests and should be considered.",
+    "after": "Beach users and turtle-conservation workers are examples of affected or interested groups. Identify other relevant local interests rather than assuming these are the only stakeholders.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "A school wants to reduce lunchtime waste. Which pair gives two genuine response options?",
+    "after": "A school wants to reduce lunchtime waste. Give two different actions that could respond to this problem.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "Both are actions that could respond to the defined problem.",
+    "after": "Two possible options are encouraging reusable lunch containers and separately collecting suitable food scraps for an approved composting system. Compare their benefits, requirements and limitations before deciding.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6H02",
+    "section": "Concept model and worked thinking",
+    "before": "It describes a condition that restricts the option’s performance.",
+    "after": "It is a limitation: cloud cover can reduce solar generation and restrict performance under those conditions.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I01",
+    "section": "Concept model and worked thinking",
+    "before": "Which question has the clearest scientific structure?",
+    "after": "Write an investigable question that names a changed variable, measured outcome, time period and relevant controls.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I01",
+    "section": "Concept model and worked thinking",
+    "before": "It names a changed variable, measurable outcome and time period.",
+    "after": "For example: How does light level affect bean-seedling height increase over 14 days when species, starting size, soil, water, pot and temperature are kept comparable? The question identifies a change, an outcome, a duration and controls.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I01",
+    "section": "Concept model and worked thinking",
+    "before": "What is the best rewrite of “Does exercise help?” for a class investigation?",
+    "after": "Rewrite “Does exercise help?” as a specific question about a measurable response to a teacher-approved gentle activity; this is a planning example, not an instruction to perform it.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I01",
+    "section": "Concept model and worked thinking",
+    "before": "The rewrite defines the activity, duration and measurable response.",
+    "after": "For example: How does one minute of teacher-approved gentle walking affect breaths per minute compared with resting, using the same counting procedure? This names the activity, duration and response; any actual human investigation needs an appropriate approved plan.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I01",
+    "section": "Concept model and worked thinking",
+    "before": "Only soil type and seedling height match the available materials and ruler.",
+    "after": "A suitable question is: How does soil type affect bean-seedling height increase over a stated period, using the same seed batch, pot size and watering schedule? Soil type is changed and a ruler measures height; other relevant conditions and starting sizes must be comparable.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I02",
+    "section": "Concept model and worked thinking",
+    "before": "Which plan is a fair test of fertiliser amount on bean growth?",
+    "after": "Describe a fair-test plan to compare fertiliser amount and bean growth; treat this as a paper planning task, not a fertiliser-use instruction.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I02",
+    "section": "Concept model and worked thinking",
+    "before": "Only this plan changes fertiliser while holding other influential conditions constant and measuring an outcome.",
+    "after": "Use matched beans with comparable starting sizes, the same pots, soil, water, light, temperature and duration. Change only the teacher-selected fertiliser treatment, use several plants per setting and measure growth consistently. Any actual treatment must follow an approved safe plant-care plan.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I02",
+    "section": "Concept model and worked thinking",
+    "before": "Which ruler reading is justified when the ruler has millimetre divisions?",
+    "after": "Give an example of a length record justified by a ruler with millimetre divisions; no particular measured object is supplied.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I02",
+    "section": "Concept model and worked thinking",
+    "before": "A millimetre-scale ruler supports a reading to the nearest millimetre, written here as 8.3 cm. Extra digits would claim detail beyond the instrument’s resolution.",
+    "after": "For example, a measured length of 83 mm can be recorded as 8.3 cm to the nearest millimetre. This is an example of supported detail, not a reading from an absent diagram. Extra digits would claim unsupported precision.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I02",
+    "section": "Concept model and worked thinking",
+    "before": "The exact volume, frequency and duration tell another group what to reproduce.",
+    "after": "Specify the actual volume, frequency and duration, together with seed count, conditions and the germination criterion. A planning example is “add the approved measured volume at the same time each day for seven days”, with that volume stated in the final method; this is not a universal seed-care dose.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I03",
+    "section": "Concept model and worked thinking",
+    "before": "Which is a quantitative observation?",
+    "after": "Give an example of a quantitative leaf-length observation with a unit.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I03",
+    "section": "Concept model and worked thinking",
+    "before": "63 mm is a measured numerical observation with a unit.",
+    "after": "For example, “The leaf length is 63 mm” is a numerical observation with its measured quantity and unit. This is a model record, not a reading from a supplied leaf image.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I03",
+    "section": "Concept model and worked thinking",
+    "before": "Which record is scientifically complete?",
+    "after": "Write a complete example record for a leaf measured as 63 mm long, identifying the variable, value and unit.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I03",
+    "section": "Concept model and worked thinking",
+    "before": "It identifies the variable, value and unit.",
+    "after": "“Leaf length: 63 mm” identifies the measured variable, numerical value and unit. A full investigation record should also identify the sample, date and relevant method details.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I04",
+    "section": "Concept model and worked thinking",
+    "before": "Which table heading is complete?",
+    "after": "Plant height is measured in millimetres. Write a complete table heading for this quantity.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I04",
+    "section": "Concept model and worked thinking",
+    "before": "It names the measured quantity and includes its unit.",
+    "after": "“Plant height (mm)” names the measured quantity and includes its unit.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I04",
+    "section": "Concept model and worked thinking",
+    "before": "Which is the most descriptive graph title?",
+    "after": "Write a descriptive title for a graph showing bean-seedling height recorded weekly for four weeks.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I04",
+    "section": "Concept model and worked thinking",
+    "before": "The title states the measured quantity and the investigation period.",
+    "after": "“Bean-seedling height over four weeks” states the measured quantity, organism and investigation period. Axis labels should supply the corresponding quantities and units.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I05",
+    "section": "Concept model and worked thinking",
+    "before": "It states the observed comparison without extending beyond the investigation.",
+    "after": "In this supplied comparison, plants with earthworms averaged 14 tomatoes and those without averaged 9, a difference of 5 tomatoes per plant. This describes the record; it does not establish the same effect for every plant or setting.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I05",
+    "section": "Concept model and worked thinking",
+    "before": "After testing light on plant growth, which is a focused extension?",
+    "after": "After testing light on plant growth, propose a focused follow-up question that names a purposeful change and measurable outcome.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I05",
+    "section": "Concept model and worked thinking",
+    "before": "It changes one purposeful factor and identifies a measurable outcome.",
+    "after": "For example: How does daily water volume affect height increase over 14 days for matched seedlings at the same light level? Keep the other relevant conditions comparable. This investigates a different named factor with a measurable outcome.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "Which opening best suits a family infographic about saving water?",
+    "after": "Write a clear family-facing opening for an infographic about investigating and reducing unnecessary water use, without promising an untested saving.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "It addresses families directly and states a clear, useful purpose without sacrificing accuracy.",
+    "after": "For example: “Families can measure where water is used and compare practical ways to reduce waste.” It identifies the audience and purpose without inventing a guaranteed saving.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "Which sentence is scientifically accurate?",
+    "after": "A model record gives water temperatures of 38°C initially and 31°C after five minutes. Write an accurate sentence describing the change.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "The sentence reports a measured change with a quantity and unit.",
+    "after": "“In the model record, the water temperature decreased by 7°C over five minutes.” This preserves the supplied values, quantity, unit and duration.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "Which sentence communicates the measured result completely?",
+    "after": "A model water-temperature record is 24°C. Write a complete sentence stating the measured quantity, value and unit.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "The number needs a temperature unit to communicate its meaning.",
+    "after": "“The recorded water temperature was 24°C.” The value includes its temperature unit and names the measured quantity.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "Which conclusion uses evidence?",
+    "after": "Model records give mean shaded-soil temperature of 18.2°C and mean unshaded-soil temperature of 22.4°C. Write a conclusion supported by this comparison without assuming every other condition was controlled.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "It states the pattern and supports it with measured comparison.",
+    "after": "“In this model comparison, shaded soil averaged 4.2°C cooler than unshaded soil.” The values support an association; a claim that shade alone caused it also requires appropriate method and control evidence.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "Which word should replace “really hot” in a report?",
+    "after": "A model water-temperature reading is 52°C. Replace “really hot” with a precise statement using the supplied reading.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  },
+  {
+    "code": "AC9S6I06",
+    "section": "Concept model and worked thinking",
+    "before": "A measured value and unit are more precise than emotive description.",
+    "after": "“The water temperature was 52°C” communicates the supplied quantity and unit more precisely than “really hot”. It does not require replacing the phrase with a single word.",
+    "reason": "Complete an inherited worked example whose extracted multiple-choice answer or stimulus was missing."
+  }
+]

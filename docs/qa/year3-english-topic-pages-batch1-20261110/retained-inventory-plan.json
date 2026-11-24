@@ -1,0 +1,1011 @@
+{
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+  },
+  "codes": [
+    {
+      "code": "AC9E3LA01",
+      "descriptor": "understand that cooperation with others depends on shared understanding of social conventions, including turn-taking language, which vary according to the degree of formality",
+      "elaborations": [
+        {
+          "code": "AC9E3LA01_E1",
+          "number": "E1",
+          "text": "recognising and using collaborative language in group and pair work; for example, initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting, and checking individual and group understanding",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA01_E2",
+          "number": "E2",
+          "text": "understanding some First Nations Australian cultural protocols, cultural practices, specific roles, and ways of interacting and speaking",
+          "questionEligible": false
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Share turns and check group understanding",
+        "Adjust language to audience, role and formality",
+        "Negotiate, affirm and develop ideas together"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Share turns and check group understanding",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Model a short exchange that hands over a turn and another that invites clarification; include the whole prior contribution.",
+          "question_families_and_response_criteria": "Choose an appropriate next turn; repair an interruption; invite, prompt and check understanding.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "AC9E3LA01/source-and-review.md",
+            "ABC-REGISTER",
+            "LITHUB-CONVERSATION",
+            "RECONCILIATION-ROLES"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Adjust language to audience, role and formality",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast familiar pair work with a chaired school event. Include source-backed Welcome/Acknowledgement role distinction, then a supplied host instruction whose local applicability is explicit.",
+          "question_families_and_response_criteria": "Compare two context-appropriate requests; explain conventions; ask a host for local guidance.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "AC9E3LA01/source-and-review.md",
+            "ABC-REGISTER",
+            "LITHUB-CONVERSATION",
+            "RECONCILIATION-ROLES"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Negotiate, affirm and develop ideas together",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Model two exchanges that affirm and add a reason, and negotiate a topic change or disagreement without silencing another contributor.",
+          "question_families_and_response_criteria": "Compose a relevant follow-up; negotiate a change; give useful specific feedback.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "AC9E3LA01/source-and-review.md",
+            "ABC-REGISTER",
+            "LITHUB-CONVERSATION",
+            "RECONCILIATION-ROLES"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain restating/building responses and source-specific cultural caution. Voice pace/volume is supporting formality context, not a new assessed delivery requirement.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA02",
+      "descriptor": "understand how the language of evaluation and emotion, such as modal verbs, can be varied to be more or less forceful",
+      "elaborations": [
+        {
+          "code": "AC9E3LA02_E1",
+          "number": "E1",
+          "text": "exploring how modal verbs; for example, “must”, “might” and “could”, indicate degrees of probability or obligation",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA02_E2",
+          "number": "E2",
+          "text": "recognising how choice of adverbs, nouns and verbs present different evaluations of characters in texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA02_E3",
+          "number": "E3",
+          "text": "exploring examples of language that demonstrate a range of emotions and positions, and building a vocabulary to express judgements about characters or events; for example, “the wizard was cunning, expert, inventive”",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Compare modal probability and obligation in context",
+        "Explain evaluations made by nouns, verbs and adverbs",
+        "Express emotion and judgements with suitable force"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Compare modal probability and obligation in context",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast possibility and requirement using the same proposition under changed contextual force; do not rank all modals on one ladder.",
+          "question_families_and_response_criteria": "Identify intended meaning; compare force; rewrite for a stated purpose.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-MOD",
+            "ABC-CAN",
+            "ABC-MUST"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Explain evaluations made by nouns, verbs and adverbs",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply short character micro-texts whose noun, verb and adverb choices change approval, disapproval or intensity.",
+          "question_families_and_response_criteria": "Compare evaluations with evidence; replace one word and explain changed impression.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-MOD",
+            "ABC-CAN",
+            "ABC-MUST"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Express emotion and judgements with suitable force",
+          "elaboration_mapping": [
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast two evidenced judgements of a character or event; distinguish degree of feeling from certainty or obligation.",
+          "question_families_and_response_criteria": "Choose precise emotional vocabulary; justify or revise an evaluation using text evidence.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-MOD",
+            "ABC-CAN",
+            "ABC-MUST"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain evidence-backed opinion and evaluation contrasts; repair might/should/will comparison by supplying context and separating probability from obligation. Subjective/objective contrast is support only.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA03",
+      "descriptor": "describe how texts across the curriculum use different language features and structures relevant to their purpose",
+      "elaborations": [
+        {
+          "code": "AC9E3LA03_E1",
+          "number": "E1",
+          "text": "identifying the stages of a basic argument such as introduction, argument one, argument 2 and conclusion",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA03_E2",
+          "number": "E2",
+          "text": "describing the typical text structure and language features of factual recounts, autobiographies, information reports, narratives, personal responses to literary texts (with reasons), sequential explanations, verse poetry and simple arguments, and describe their purposes",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 4,
+      "entry_focuses": [
+        "Compare factual recount and autobiography",
+        "Compare information report and sequential explanation",
+        "Compare narrative, verse poetry and personal literary response",
+        "Explain the stages of a simple argument"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Compare factual recount and autobiography",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Provide two complete original mini-texts, one factual recount and one clearly labelled fictional model of an autobiographical account; state who wrote and experienced events. Show orientation, ordered events and closing reflection as useful patterns, not universal laws.",
+          "question_families_and_response_criteria": "Identify purpose, first-person viewpoint and time sequencing; explain feature-effect links.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-EXPLANATION",
+            "ABC-AUTOBIOGRAPHY",
+            "OAK-AUTOBIOGRAPHY"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Compare information report and sequential explanation",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Provide a complete report with grouped factual sections and a complete process explanation linking stages and causes, with all subject facts supplied.",
+          "question_families_and_response_criteria": "Compare grouping with sequence; order process stages and explain why organisation suits purpose.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-EXPLANATION",
+            "ABC-AUTOBIOGRAPHY",
+            "OAK-AUTOBIOGRAPHY"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare narrative, verse poetry and personal literary response",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply a complete short narrative, an original verse poem, and a reasoned personal response that names the supplied literary text; teach structure and language rather than labels alone.",
+          "question_families_and_response_criteria": "Use story evidence, line breaks/sound or imagery, and judgement-plus-reason; do not teach all poems rhyme or all stories follow one plot.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-EXPLANATION",
+            "ABC-AUTOBIOGRAPHY",
+            "OAK-AUTOBIOGRAPHY"
+          ]
+        },
+        {
+          "id": "F4",
+          "learning_intention": "Explain the stages of a simple argument",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply complete introduction/view, first argument/reason, second argument/reason and conclusion; compare with an informative text on the same familiar subject.",
+          "question_families_and_response_criteria": "Label stages, distinguish supporting reasons from related facts, repair order and explain purpose.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-EXPLANATION",
+            "ABC-AUTOBIOGRAPHY",
+            "OAK-AUTOBIOGRAPHY"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain structure-purpose examples and Mia/she/it cohesion model as supporting organisation; do not let cohesion replace eight required text-type coverage.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA04",
+      "descriptor": "understand that paragraphs are a key organisational feature of the stages of written texts, grouping related information together",
+      "elaborations": [
+        {
+          "code": "AC9E3LA04_E1",
+          "number": "E1",
+          "text": "recognising that longer informative texts are organised into paragraphs, which begin with a topic sentence that predicts how the paragraph will develop and is then elaborated on in various ways",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA04_E2",
+          "number": "E2",
+          "text": "recognising that paragraphs in narrative texts vary in length and do not always follow a predictable structure",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA04_E3",
+          "number": "E3",
+          "text": "examining models of well-constructed paragraphs and identifying their features",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Group information and develop an informative paragraph",
+        "Order and repair paragraphs for a reader",
+        "Compare narrative paragraph choices"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Group information and develop an informative paragraph",
+          "elaboration_mapping": [
+            "E1",
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast a focused topic sentence with a too-broad/narrow candidate; show complete supporting sentences and why they belong.",
+          "question_families_and_response_criteria": "Group details; select or write a suitable opening; explain support.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-COHESION"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Order and repair paragraphs for a reader",
+          "elaboration_mapping": [
+            "E1",
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Show two complete related paragraphs, an out-of-place sentence, and a repaired version; retain meaningful links without turning this into pronoun-only teaching.",
+          "question_families_and_response_criteria": "Place paragraph breaks; move an irrelevant detail; explain order.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-COHESION"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare narrative paragraph choices",
+          "elaboration_mapping": [
+            "E2",
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Show short narrative paragraphs of varied lengths with a time/event/speaker shift and a paragraph without a formulaic topic sentence.",
+          "question_families_and_response_criteria": "Explain a break or varying length; compare narrative and informative organisation without universal sentence counts.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-COHESION"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain paragraph-focus and mixed-text repair. Procedure/story/report overview is background; pronoun model supports continuity rather than replacing paragraph organisation.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA05",
+      "descriptor": "identify the purpose of layout features in print and digital texts and the words used for navigation",
+      "elaborations": [
+        {
+          "code": "AC9E3LA05_E1",
+          "number": "E1",
+          "text": "examining the words used as hyperlinks",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA05_E2",
+          "number": "E2",
+          "text": "discussing words used as headings and subheadings in digital and print information texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA05_E3",
+          "number": "E3",
+          "text": "discussing words used for chapter headings in narratives",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Use print headings, subheadings and chapter titles",
+        "Follow meaningful hyperlinks and navigation words",
+        "Compare routes and verify the information found"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Use print headings, subheadings and chapter titles",
+          "elaboration_mapping": [
+            "E2",
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply actual mini contents/page layouts with visible title, heading and subheading; a narrative chapter title must relate to the chapter excerpt.",
+          "question_families_and_response_criteria": "Find information; distinguish whole text/section/subsection; discuss what a chapter heading suggests and confirms.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "year-1/english/AC9E1LA05/la05.txt",
+            "RR-NAV",
+            "BIRD-BOOK"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Follow meaningful hyperlinks and navigation words",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply native semantic anchors with visible destinations in the page, exact matching IDs/headings, and a distinct Back/menu route. Link words must predict destination.",
+          "question_families_and_response_criteria": "Choose and follow a route; read destination to verify; repair vague or misleading wording.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "year-1/english/AC9E1LA05/la05.txt",
+            "RR-NAV",
+            "BIRD-BOOK"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare routes and verify the information found",
+          "elaboration_mapping": [
+            "E1",
+            "E2",
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast print page references with digital links for a stated information need, including a deliberately mismatched candidate route as text for repair rather than a broken live link.",
+          "question_families_and_response_criteria": "Explain why chosen route is useful; check actual destination; show that digital texts may also use contents.",
+          "source_basis": [
+            "FIRST-FIVE-SWEEP.md",
+            "year-1/english/AC9E1LA05/la05.txt",
+            "RR-NAV",
+            "BIRD-BOOK"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Generic structure, cohesion and paragraph block needs bounded relevance repair: reframe around actual headings/links/chapter navigation; do not retain pronoun substitution as core LA05 teaching.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA06",
+      "descriptor": "understand that a clause is a unit of grammar usually containing a subject and a verb that need to agree",
+      "elaborations": [
+        {
+          "code": "AC9E3LA06_E1",
+          "number": "E1",
+          "text": "identifying clauses in texts by locating verbs and the key words that link to the verbs; for example, “While the cat slept, the mouse scurried across the path.”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA06_E2",
+          "number": "E2",
+          "text": "identifying that a singular subject has a singular verb and a plural subject has a plural verb; for example, “The girls play cricket.” “The girl plays cricket.”",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Find clauses through subject and verb links",
+        "Match singular and plural subjects with verbs",
+        "Repair agreement while retaining meaning"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Find clauses through subject and verb links",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply complete single-clause and two-clause texts, including a dependent clause inside its full sentence. Locate whole verb groups and linked subjects; explain usually and understood subject in a command.",
+          "question_families_and_response_criteria": "Identify links; distinguish clause from unrelated word group; avoid every-clause-is-a-sentence rule.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Match singular and plural subjects with verbs",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast ordinary present agreement, pronouns and be/have forms, including expanded subjects where the nearby noun is a distractor.",
+          "question_families_and_response_criteria": "Find subject head and whole subject; choose agreement using standard written English context.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Repair agreement while retaining meaning",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Show a contextual agreement error and a checked repair; contrast changing the subject with changing the verb and consider coordinated subjects.",
+          "question_families_and_response_criteria": "Edit, reread and explain the repaired subject/verb relation; no blanket add-s rule.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain Birds fly/expanded birds model for subject/verb links and because/so pair for clause locating only. Replace passive-voice comparison as off-focus; no active/passive formalism.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA07",
+      "descriptor": "understand how verbs represent different processes for doing, feeling, thinking, saying and relating",
+      "elaborations": [
+        {
+          "code": "AC9E3LA07_E1",
+          "number": "E1",
+          "text": "exploring “doing” and “saying” verbs in narrative texts to understand how they give information about what characters do and say",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA07_E2",
+          "number": "E2",
+          "text": "exploring the use of sensing verbs and how they allow readers to understand what characters think and feel; for example, “He remembered his first day at school.”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA07_E3",
+          "number": "E3",
+          "text": "exploring the use of relating verbs in constructing definitions and descriptions; for example, identifying the relating verb “is” or “are”, “has” or “have” in descriptions of animals",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA07_E4",
+          "number": "E4",
+          "text": "identifying different types of verbs and the way they control meaning in a clause",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Explain doing and saying verbs in narratives",
+        "Use thinking and feeling verbs to reveal inner experience",
+        "Use relating verbs in definitions and descriptions"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Explain doing and saying verbs in narratives",
+          "elaboration_mapping": [
+            "E1",
+            "E4"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply complete narrative micro-texts with action and speech processes; contrast two verbs that alter the same event or delivery.",
+          "question_families_and_response_criteria": "Locate verbs; describe what a character does/says; explain a deliberate substitution.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use thinking and feeling verbs to reveal inner experience",
+          "elaboration_mapping": [
+            "E2",
+            "E4"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply different contextual thinking/feeling verbs and a contrast where the same surface verb has another use.",
+          "question_families_and_response_criteria": "Use context to distinguish inner experience; support interpretation without physical-action-only definition.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Use relating verbs in definitions and descriptions",
+          "elaboration_mapping": [
+            "E3",
+            "E4"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply definitions/descriptions with is/are and possession has/have; contrast a relating use with a doing process.",
+          "question_families_and_response_criteria": "Explain identity/quality/possession relationship; choose a verb for intended clause meaning.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Copied evaluation/modal/subjective-objective block is mismatched. Recast any retained story judgement only to identify thinking/feeling/saying/relating processes; remove unconnected modal-force instruction.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA08",
+      "descriptor": "understand that verbs are anchored in time through tense",
+      "elaborations": [
+        {
+          "code": "AC9E3LA08_E1",
+          "number": "E1",
+          "text": "learning how time is represented through the tense of a verb; for example, “She arrived.” “She is arriving.” and adverbials of time; for example, “She arrived yesterday.” “She is arriving in the morning.”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA08_E2",
+          "number": "E2",
+          "text": "learning that tenses for some verbs are formed by changing the word; for example, “She catches the ball.” “She caught the ball.”",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Read whole verb groups with time clues",
+        "Change regular and common irregular verb forms",
+        "Maintain a clear timeline and explain time changes"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Read whole verb groups with time clues",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast past, present habit/state, and future-time uses with explicit context; include is arriving in a future-time context.",
+          "question_families_and_response_criteria": "Combine verb and time expression; do not infer tense/time from one word ending alone.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Change regular and common irregular verb forms",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast a regular past change with a common irregular change; show whole group changes using be and will plus base form.",
+          "question_families_and_response_criteria": "Transform while retaining subject and meaning; reject all-past-is-ed rule.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Maintain a clear timeline and explain time changes",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply a short coherent recount and another passage where a time cue justifies moving from past event to current state or future plan.",
+          "question_families_and_response_criteria": "Repair accidental shifts; retain a justified shift; explain time evidence without advanced aspect terminology.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain Birds fly as present habit only with time contrast. Because/so example is context for timeline only; replace passive-voice comparison as off-focus.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    },
+    {
+      "code": "AC9E3LA09",
+      "descriptor": "identify how images extend the meaning of a text",
+      "elaborations": [
+        {
+          "code": "AC9E3LA09_E1",
+          "number": "E1",
+          "text": "recognising how the relationship between characters can be depicted in images through the positioning of the characters; for example, facing each other or facing away from each other, the distance between them, the relative size, one character looking up (or down) at the other (power relationships), facial expressions and body gestures",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA09_E2",
+          "number": "E2",
+          "text": "recognising how images construct a relationship with the viewer through direct gaze into the viewer's eyes, inviting involvement, and how close-ups are more engaging than distanced images, which can suggest alienation or loneliness",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 3,
+      "entry_focuses": [
+        "Read character relationships through visible choices",
+        "Explain viewer involvement through gaze and framing",
+        "Combine words and images without inventing a backstory"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Read character relationships through visible choices",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Create actual original visuals of facing towards/away, distance, relative size, up/down looking, expression and gesture beside brief complete captions; make the assessed clue large and explicit.",
+          "question_families_and_response_criteria": "Name visible evidence then a supported relationship possibility; distinguish inference from fact.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "PETAA-VIEWING"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Explain viewer involvement through gaze and framing",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply contrasting original direct/averted gaze and close/wide views of a comparable scene; do not substitute written image descriptions for actual visuals.",
+          "question_families_and_response_criteria": "Compare how viewer attention/involvement may change; allow justified readings, no fixed emotion proof.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "PETAA-VIEWING"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Combine words and images without inventing a backstory",
+          "elaboration_mapping": [
+            "E1",
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Preserve earlier picnic creek/map SVG and complete route reasoning; add a fresh text-image contrast whose image supplies genuinely additional information.",
+          "question_families_and_response_criteria": "Separate words-only fact, image-only detail and cautious inference; identify what remains unknown.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "PETAA-VIEWING"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Worked example and reasoning checks"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain caption contribution, close/wide framing and exact map SVG/route model. Layout navigation is supporting image organisation, not central LA05-style navigation assessment. Muddy/torn-map try needs visible asset or must be explicitly text-description reasoning.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "Preserve earlier picnic map SVG and worked route reasoning."
+    },
+    {
+      "code": "AC9E3LA10",
+      "descriptor": "extend topic-specific and technical vocabulary and know that words can have different meanings in different contexts",
+      "elaborations": [
+        {
+          "code": "AC9E3LA10_E1",
+          "number": "E1",
+          "text": "identifying and using technical words to describe length; for example, metric units of length - “millimetre” and “centimetre”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA10_E2",
+          "number": "E2",
+          "text": "identifying and using words to describe features of narratives; for example, “character”, “plot” and “setting”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA10_E3",
+          "number": "E3",
+          "text": "identifying words that have different meanings in different contexts; for example, “warm temperature” and “warm character”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E3LA10_E4",
+          "number": "E4",
+          "text": "extending vocabulary by adding prefixes and suffixes to base words; for example, “different”, “differently” and “difference”",
+          "questionEligible": true
+        }
+      ],
+      "focus_count": 4,
+      "entry_focuses": [
+        "Use precise technical words for length",
+        "Use narrative terms to explain a story",
+        "Check a word meaning against its context",
+        "Extend vocabulary through meaningful word parts"
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Use precise technical words for length",
+          "elaboration_mapping": [
+            "E1"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply familiar length contexts with millimetre and centimetre explained; distinguish unit words from everyday size judgements, keeping calculation incidental.",
+          "question_families_and_response_criteria": "Identify and use correct technical word with supplied context.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-AFFIXES"
+          ]
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use narrative terms to explain a story",
+          "elaboration_mapping": [
+            "E2"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Supply a complete micro-story with identifiable characters, setting and plot sequence; define all three rather than assume prior terminology.",
+          "question_families_and_response_criteria": "Use terms precisely in a description; support each with story evidence.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-AFFIXES"
+          ]
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Check a word meaning against its context",
+          "elaboration_mapping": [
+            "E3"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Contrast literal and figurative or other contextual senses of the same familiar word; supply enough surrounding text to resolve meaning.",
+          "question_families_and_response_criteria": "Propose a meaning, point to clue, substitute and reread.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-AFFIXES"
+          ]
+        },
+        {
+          "id": "F4",
+          "learning_intention": "Extend vocabulary through meaningful word parts",
+          "elaboration_mapping": [
+            "E4"
+          ],
+          "status": "SUFFICIENT",
+          "original_model_requirements": "Retain unhelpful/help/helpful/helpless models with explicit context meaning; contrast a prefix and suffix family including an explained spelling adjustment if used.",
+          "question_families_and_response_criteria": "Build, explain and use a valid related word; check meaning/context; do not attach any affix to every base.",
+          "source_basis": [
+            "NEXT-TEN-SWEEP.md",
+            "FIRST-FIVE-SWEEP.md",
+            "ABC-AFFIXES"
+          ]
+        }
+      ],
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT",
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment"
+      ],
+      "paid_resources": [],
+      "retained_teaching_repairs": "Retain meaningful word-part families. Remove spelling-choice/etymology-only detour; teach technical vocabulary and context senses explicitly.",
+      "additional_baseline_sections_reviewed": {
+        "4-Step Instructional Sequence": "Identical four-step generic framework across this batch; no distinct code example or assessable content. Absorb useful model/guided/independent/check progression into detailed lesson; remove duplicate framework block.",
+        "Curriculum Coverage & Elaborations": "Exact elaboration text without additional authored expansion. Preserve all wording/coverage through concise reference and teaching map; remove competing metadata block only after coverage is represented."
+      },
+      "handoff_requirements": "For each focus supply concept/why, two contrasting original worked examples or purposeful contrasting texts, a different guided try, independent application, checked answer/response criteria and misconception repair. Full stimuli must be visible with their dependent questions. Natural age-appropriate language; accessible oral/sign/AAC/scribe where relevant. Models and questions remain original.",
+      "retained_models": "No earlier SVG in this page."
+    }
+  ]
+}

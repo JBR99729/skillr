@@ -1,0 +1,18 @@
+[
+  {
+    "command": "python scripts/validate_year10_science_inquiry_pages.py",
+    "baseline_exit": 1,
+    "candidate_exit": 1,
+    "identical_output": true,
+    "output_sha256": "e1337fae145ce24edbfad5fbec44f30e100c21bbf1387b2744c3646b6800216a",
+    "output_lines": 146
+  },
+  {
+    "command": "node scripts/validate_year10_teacher_display_pages.mjs",
+    "baseline_exit": 1,
+    "candidate_exit": 1,
+    "identical_output": true,
+    "output_sha256": "ceb77d9fde1ead01a3e2a129c74db6f8d736fda5c9ec27ebb7920eaf49d77626",
+    "output_lines": 0
+  }
+]

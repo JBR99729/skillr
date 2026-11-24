@@ -1,0 +1,443 @@
+{
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "codes": [
+    {
+      "code": "AC9E2LE01",
+      "descriptor": "discuss how characters and settings are connected in literature created by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+      "elaborations": [
+        {
+          "code": "AC9E2LE01_E1",
+          "number": "E1",
+          "text": "discussing the depiction of characters in particular settings in well-known fairytales from wide-ranging world authors; for example, children in forests, and royalty in castles and towers",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LE01_E2",
+          "number": "E2",
+          "text": "recognising recurring characters in particular settings in texts by First Nations Australian authors",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E2LE01_E3",
+          "number": "E3",
+          "text": "exploring the way wide-ranging Australian authors and illustrators depict the Australian outback and the associated characters",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Link characters and settings in named world fairytales",
+        "Discuss a recurring guide on specific First Nations Country",
+        "Compare Australian journeys and an actual outback spread"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LE01.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide brief original premises for Rapunzel and Little Red-Cap (Brothers Grimm versions). Actual Cooee Mittigar by Jasmine Seymour/Leanne Mulgo Watson: adult supplies lawful book, two seasonal spreads and glossary; track Mulgo’s recurring guide role in each. Compare named source context, no pan-Nations claim. Are We There Yet? by Alison Lester: adult supplies actual outback spread plus another setting; publisher verifies Grace/family/outback journey. Supplied Penguin synopsis/teacher-method facts only are not full-book or artwork observation. Original evidence chart records title/creators, character, setting, clue and connection."
+    },
+    {
+      "code": "AC9E2LE02",
+      "descriptor": "identify features of literary texts, such as characters and settings, and give reasons for personal preferences",
+      "elaborations": [
+        {
+          "code": "AC9E2LE02_E1",
+          "number": "E1",
+          "text": "discussing preferences for stories set in familiar or unfamiliar worlds, or about characters whose lives are like or unlike their own",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LE02_E2",
+          "number": "E2",
+          "text": "discussing their feelings about the positive and negative behaviours of non-human characters, such as animals",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Identify character and setting features",
+        "Explain preferences using a relevant detail",
+        "Compare supported preferences and animal behaviour"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LE02.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide two complete original short stories: a familiar school setting and an imaginary moon garden, with helpful and unhelpful animal actions. Supply four feature cards plus two different supported preference responses. Teach taste is open; text claims still need evidence."
+    },
+    {
+      "code": "AC9E2LE03",
+      "descriptor": "discuss the characters and settings of a range of texts and identify how language is used to present these features in different ways",
+      "elaborations": [
+        {
+          "code": "AC9E2LE03_E1",
+          "number": "E1",
+          "text": "comparing how similar characters or settings are described in texts from different contexts; for example, how the seasons are described",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LE03_E2",
+          "number": "E2",
+          "text": "identifying and comparing verb groups used to convey actions, emotions and dialogue in a range of literary texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LE03_E3",
+          "number": "E3",
+          "text": "identifying the language used to describe the landscape in First Nations Australians’ stories",
+          "questionEligible": false
+        }
+      ],
+      "entry_focuses": [
+        "Compare action and dialogue language",
+        "Compare setting and seasonal language",
+        "Read actual First Nations landscape wording with context"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LE03.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide complete paired character/dialogue and contrasting seasonal setting passages. Compare whole verb groups and words, not adjective lists alone. Adult stages lawful Cooee Mittigar book and identifies two actual short landscape phrases/spread/glossary before source-specific tasks; do not invent a quotation or infer language from landscape. Nura is sourced Country terminology, not a generic land synonym."
+    },
+    {
+      "code": "AC9E2LE04",
+      "descriptor": "identify, reproduce and experiment with rhythmic sound and word patterns in poems, chants, rhymes or songs",
+      "elaborations": [
+        {
+          "code": "AC9E2LE04_E1",
+          "number": "E1",
+          "text": "exploring poems, chants, rhymes or songs from different home languages of class members",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Notice sound and repeated word patterns",
+        "Reproduce rhythm against a steady pulse",
+        "Experiment and compare with a verified home-language model"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LE04.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide an entire original short rhyme/chant and exact4pulse slot models, including a rest and two short syllables in one pulse. Separate pulse and word rhythm. Model/reproduce/adapt spoken or accessible equivalent output; no paper certification. Adult/family supplies a known permitted home-language rhyme with actual pronunciation/meaning model, without guessing accents/language or compulsory disclosure."
+    },
+    {
+      "code": "AC9E2LE05",
+      "descriptor": "create and edit literary texts by adapting structures and language features of familiar literary texts through drawing, writing, performance and digital tools",
+      "elaborations": [
+        {
+          "code": "AC9E2LE05_E1",
+          "number": "E1",
+          "text": "inventing some speech, dialogue or behaviour for a favourite character, which may include the use of video and audio tools, for an alternative event or outcome in the original text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LE05_E2",
+          "number": "E2",
+          "text": "reviewing and developing sentences; for example, adding prepositional phrases such as “with a long tail” to improve descriptions",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Adapt a familiar complete story structure",
+        "Change speech,description and mode deliberately",
+        "Edit for coherent events and present the changed story"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LE05.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide original complete story with opening/problem/response/ending, a coherent adaptation retaining a pattern, actual out-of-order draft and sentence expansion. Learner produces drawing+caption, writing, performance or adult-approved digital story. No cultural story/art imitation; real actual creation and subsequent editing observed."
+    },
+    {
+      "code": "AC9E2LY01",
+      "descriptor": "identify how similar topics and information are presented in different types of texts",
+      "elaborations": [
+        {
+          "code": "AC9E2LY01_E1",
+          "number": "E1",
+          "text": "reading a poem, narrative and informative text about lifecycles and discussing what is learnt",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY01_E2",
+          "number": "E2",
+          "text": "exploring recipes presented on food packets, in recipe books, in short video clips and in a digital form, noting their shared purpose",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Compare poem,narrative and information on a life cycle",
+        "Sort shared and unique information with complete texts",
+        "Compare actual recipe formats and their common purpose"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY01.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide complete original frog-cycle poem, narrative and information cards plus explicit shared/unique chart and sequence model. Supply original recipe packet/book/digital layouts. For the video format, adult opens actual named ABC Annaka procedural video on making a vegetable truck (no food handling required); observe movement/order only after actual viewing, or read available transcript with text-only limitation. Contrast the video recipe and each static version; samepurpose does not require sameingredients."
+    },
+    {
+      "code": "AC9E2LY02",
+      "descriptor": "use interaction skills when engaging with topics, actively listening to others, receiving instructions and extending own ideas, speaking appropriately, expressing and responding to opinions, making statements, and giving instructions",
+      "elaborations": [
+        {
+          "code": "AC9E2LY02_E1",
+          "number": "E1",
+          "text": "exploring ways to comment on what others say, including using sentence starters such as “I like the way you …”, “I agree that …”, “I have a different thought …”, “I’d like to say something different …”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY02_E2",
+          "number": "E2",
+          "text": "demonstrating appropriate listening behaviours, responding to and paraphrasing a partner’s contribution to a discussion; for example, in think pair share activities",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY02_E3",
+          "number": "E3",
+          "text": "asking relevant questions and making connections with personal experiences and the contributions of others",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY02_E4",
+          "number": "E4",
+          "text": "understanding how to disagree or respectfully offer an alternative",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Listen,paraphrase and clarify",
+        "Connect statements,opinions and respectful alternatives",
+        "Give,follow and repair actual instructions"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY02.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide complete conversation/direction cards, missing-object clarification and quiet-library/garden opinion discussion. Original paper-shape directions need only paper,pencil; no cutting. Observe actual listening/restating, adding reason/action, giving/receiving directions and respectful disagreement. AAC/access/prompt support recorded; no forced eye contact."
+    },
+    {
+      "code": "AC9E2LY03",
+      "descriptor": "identify the purpose and audience of imaginative, informative and persuasive texts",
+      "elaborations": [
+        {
+          "code": "AC9E2LY03_E1",
+          "number": "E1",
+          "text": "identifying the purpose of texts written by First Nations Australian authors",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E2LY03_E2",
+          "number": "E2",
+          "text": "identifying the audience of advertisements and signs",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Identify imaginative,informative and persuasive purposes",
+        "Infer intended audience from whole-text clues",
+        "Discuss a named First Nations author’s purpose"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY03.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide three complete same-topic text samples plus twoactual signs/advertisement messages with explicit intended readers. Correct poster=form not inherent purpose. Adult supplies actual Open Your Heart to Country by Jasmine Seymour and its authorised ABC reading or lawful book; source-bounded brief summary is explicitly not fullbook/art observation. Discuss invitation/connection rather than infer onlyentertain or culturefromidentity."
+    },
+    {
+      "code": "AC9E2LY04",
+      "descriptor": "read texts with phrasing and fluency, using phonic and word knowledge, and monitoring meaning by re-reading and self-correcting",
+      "elaborations": [
+        {
+          "code": "AC9E2LY04_E1",
+          "number": "E1",
+          "text": "using phonic (sound-letter) and morphemic knowledge, and knowledge of high-frequency words when decoding text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY04_E2",
+          "number": "E2",
+          "text": "monitoring own reading, self-correcting or reading back, re-reading when meaning does not make sense",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Read full printed words using phonics,morphemes and known words",
+        "Read connected phrases naturally with punctuation",
+        "Monitor,reread and self-correct against actual print"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY04.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide full original short passages and words with taught patterns/base+suffix/compound, phrasing variants and scripted adult reading slips. Adult may model a different line; do not read assessed target before independent decoding. Fix retained trywordthatfitsmeaning to print-first decoding. Actual observed rereading/selfcorrection without speed/accent norms; contextchecksmeaning after wordreading."
+    },
+    {
+      "code": "AC9E2LY05",
+      "descriptor": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring and questioning to build literal and inferred meaning",
+      "elaborations": [
+        {
+          "code": "AC9E2LY05_E1",
+          "number": "E1",
+          "text": "listening for specific information and providing key facts or points from an informative or persuasive text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E2",
+          "number": "E2",
+          "text": "listening and responding to detailed instructions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E3",
+          "number": "E3",
+          "text": "integrating information from print, images and prior knowledge to make supportable inferences",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E4",
+          "number": "E4",
+          "text": "identifying the main idea of a text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E5",
+          "number": "E5",
+          "text": "predicting vocabulary that is likely to be in a text, based on the topic and the purpose of the text; for example, predicting that “station” and “arrive” would be in a text recounting a train journey",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E6",
+          "number": "E6",
+          "text": "using prior knowledge to make and confirm predictions when reading a text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LY05_E7",
+          "number": "E7",
+          "text": "using graphic organisers to represent the connections between characters, order of events or sequence of information",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Visualise,predict and connect using clues",
+        "Build literal/inferred meaning from words and a real picture",
+        "Summarise,question and repair meaning with an organiser"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "evidence_code_qa": "qa/all-codes/english-f3/year-2/AC9E2LY05.json",
+      "focus_status": [
+        "SUFFICIENT",
+        "SUFFICIENT",
+        "SUFFICIENT"
+      ],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "complete_stimuli": "Provide a complete original station/seed-return story and facts/directions, plus actual existing feeder image inspected by root. Separate visibleclues,writtendetails,inference,unknown. Supply native sequence and evidenceorganisers. Listen to statedfacts/instructions; predict vocabulary fromactualtitle/topic thenconfirm notassume. Noimageguessingforreading and nofood/wildlifeactionrequired."
+    }
+  ]
+}

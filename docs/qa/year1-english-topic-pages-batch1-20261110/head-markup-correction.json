@@ -1,0 +1,85 @@
+{
+  "reason": "Remove four accidental nested html/head wrappers introduced by parsing stylesheet fragments as documents. All existing stylesheet links/order, metadata and exact body bytes stay the same.",
+  "records": [
+    {
+      "code": "AC9E1LA01",
+      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+      "before_sha256": "20270fd4b0474ada0c31580f407fba47e769fd892ae931dc1e0e23df076524f9",
+      "after_sha256": "bf1afe560a2ed69b4ae6d2b9243fa51e813142c67f5cfebfa308e2d1df952910",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA02",
+      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+      "before_sha256": "08a662c8a69f3ad208b4393bdf08f2ec7b6a60b37e994ce4caea2884dd582f96",
+      "after_sha256": "c11ff875ec6202a9e9eef2826996b3396e3444f12b0212a91dd1bbfffcf1ad4e",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA03",
+      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+      "before_sha256": "db721ae9d5a17de9f50b03f8af9b6badb1accd7a4a630821936d87a622f3a699",
+      "after_sha256": "a34392b69af4152b2dbad361b7cd39376fac1c9e5f243843cd6d2e92326f9354",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA04",
+      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+      "before_sha256": "4ed1bff5f4f6a6129e18d38ba3354b5905c9d1b423a0e52420d516c56004a9aa",
+      "after_sha256": "d6a41791237ef1379eb0be26c3864802f406efc498de936a1dcf0405bdb5546d",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA05",
+      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+      "before_sha256": "5a4ed816cea9ae998d4fd6aed0cd62fc2c5d680004aed0fe97d1e0e083c2858b",
+      "after_sha256": "a1ca99ca371509e4fbac11b36b393669c6b97e38b09b406a085eec8f4c980753",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA06",
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "before_sha256": "e913c29935762a1967a3d74032d79db9158bca223af0e4412c10902b427648c2",
+      "after_sha256": "5f3d7288ea044db09998541b8c3262ed18311ebfdcb4e34c240c05503bdc9a85",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA07",
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "before_sha256": "123952046f0d96bba794941bebfdc7bf2b141111ee0d83373802659ce500023a",
+      "after_sha256": "36e3462a89416da1a428de17ac0a9e7752cd6e3da2d6750e9dbeca0a10d9f244",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA08",
+      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+      "before_sha256": "2dc8c6ddde8b68b84808caf27fc543a040006a032ef0c1ea4bab3f9c8db450db",
+      "after_sha256": "15173e610bb8db0ef8271cf86a5fbbda0fb9bfe01c4f43d24879067dab68ff20",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA09",
+      "path": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+      "before_sha256": "9be5ae21a1ef8f6a59c3cdd5087bd94878611879cfad4e432d9504dc04c9ced2",
+      "after_sha256": "94b76b96e8d62e491d3c337817f302fbbdf3889fb06be0c4e70901f11208eac0",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    },
+    {
+      "code": "AC9E1LA10",
+      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+      "before_sha256": "671a62c747d95212f8b66f3a3317edd9cfc121178b7284a35900c44b9a7539cd",
+      "after_sha256": "baea15409073bd86187308a1840c8abf746c3ce152a05eba1d5e3614374d0065",
+      "removed_redundant_head_wrappers": 4,
+      "body_identical": true
+    }
+  ]
+}

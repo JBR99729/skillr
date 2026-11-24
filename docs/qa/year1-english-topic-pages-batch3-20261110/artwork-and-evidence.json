@@ -1,0 +1,308 @@
+{
+  "models": [
+    {
+      "code": "AC9E1LY06",
+      "index": 1,
+      "literal_svg_sha256": "e919ef4fc02ab674df211f1fda3dc2509db790baf1fa776dfc2b713dd59ac808",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 1,
+      "literal_svg_sha256": "1d79c94c26e53b3117999673d3646d5b8836e010def794f03246073718f44393",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY08",
+      "index": 1,
+      "literal_svg_sha256": "64e2579a89bb92895996352b50e151a8a3eba6b4d58366fb43f31e3b5cb01f17",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY08",
+      "index": 2,
+      "literal_svg_sha256": "726793c3297f601862ab942516366acd07efd39b1c8200e5b778556e436b41fe",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY08",
+      "index": 3,
+      "literal_svg_sha256": "f1d96389c396e79e5487997977c7783e73822a463955f14c64ed651742f90508",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY08",
+      "index": 4,
+      "literal_svg_sha256": "7132bc220dc37a6854ea24f927a0252f25e503607f5b0d7d9d3a25ad5d2f4316",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY09",
+      "index": 1,
+      "literal_svg_sha256": "0691bb6de07a71908c99223a9925e903a86dcc028231485dcf57f301953034fc",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY10",
+      "index": 1,
+      "literal_svg_sha256": "a43e8f355431035b58a979087bba78bf454456ab821ffc452205e11b2e1e7da4",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY11",
+      "index": 1,
+      "literal_svg_sha256": "add14e308764653d024970bc48bf15daed978d8c9644d67a8991cd4af8e3d714",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY12",
+      "index": 1,
+      "literal_svg_sha256": "204d2c87866c6accb973368ea86769c72e4a9677885a44f1b8c9139c2a0d3d93",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY13",
+      "index": 1,
+      "literal_svg_sha256": "d3f539d5a325fb0d9b12a5f0d53b5410a0ec9af97a1156846cd02ccca8216a03",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY14",
+      "index": 1,
+      "literal_svg_sha256": "286c3c5d08af3aef578d8712bc3f89622c94f572833bf12ba9e979ff28b00869",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY15",
+      "index": 1,
+      "literal_svg_sha256": "a8d356b59ad2e4ce140f175cffcbb31ccb7bbb8dab6adb885235ab30c92026c3",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9E1LY06",
+      "index": 1,
+      "html_sha256": "0ec721f06107ac79cd49e6c065b76c41dc0933b3737bbd4f95b7ac77b6e8b153",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY06",
+      "index": 2,
+      "html_sha256": "4f6faa8a440b3702420bbf1d2f14ffb71eeee57a2402eb51372005192e811a9a",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 1,
+      "html_sha256": "723567effe7896cb4ba1dbeee14dff5e783f39b512d00a23e3c67a9bf26aa802",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 2,
+      "html_sha256": "00f1bc133bd5a92ae6ade394b5273daf205684d35c5030e8d5372b82aa549b0f",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 3,
+      "html_sha256": "3a46700d4564e202f550769480d7a5aa31fb10c669caea708a82141caeb41982",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 4,
+      "html_sha256": "235df9953b9bba475c05671e58b58acf162ee45959132f83226c864c6dccb4e4",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 5,
+      "html_sha256": "18b288a2d4c26b750489b6eafe8f12ab2ea987e1730f8d887081a5df9a25ae72",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY07",
+      "index": 6,
+      "html_sha256": "6b3e6c3e52a363e24411f40a83dc8aac081fd7c73739a22a4da5b2925e3a4a90",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY08",
+      "index": 1,
+      "html_sha256": "c6ef6a1ad1cafa6f763379396a2922ddc1421173537626fe8f0819f3fcf7bd0d",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY09",
+      "index": 1,
+      "html_sha256": "a317f73e3568de821949b6a07f4538d5e7b005b165a38f759b38903bc0c2d7e4",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY09",
+      "index": 2,
+      "html_sha256": "83800c78611bc9cab535de84e9d673cd92cf3788cff20832a66420f78fce6ed2",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY10",
+      "index": 1,
+      "html_sha256": "99ae522f1d8976f97372c3982a785c9b55a52dcd1166121e2b1a85aefe849494",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY10",
+      "index": 2,
+      "html_sha256": "9b1c880bd5da3520357631070d77af8457474f5d49195983ebe8d1c9b7432266",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY11",
+      "index": 1,
+      "html_sha256": "0a56efddcc7c73dd93cc5b8385e2c3a689ed3c2cc752e146075ff744e5fa329d",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY11",
+      "index": 2,
+      "html_sha256": "d0ab1c085cd843b7f0b4999dfc584ee935bfdbf9cc7fa1430956e58adcf7ec4c",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY12",
+      "index": 1,
+      "html_sha256": "d51bb3fa35870c6b5bdde4ea83c7144f33a91be0425a74813489a15590e45aab",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY12",
+      "index": 2,
+      "html_sha256": "fed30fa8383ec8b95bf2e2732407a49ba6e17a4db2bd2403d95733f54e44fbd3",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY13",
+      "index": 1,
+      "html_sha256": "5df9b9922d1007241488ae0109879736f85b1155ad644f5bc9e549f8e39b3316",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY13",
+      "index": 2,
+      "html_sha256": "204d8b3199783ab0b0c7c5ed150fb5bef39534f72ddbf7055390debb0bfd73c7",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY14",
+      "index": 1,
+      "html_sha256": "efd98ff069877786f420a7dae74aded63df3a26148e49001e04bcc21a20c6962",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY14",
+      "index": 2,
+      "html_sha256": "28fa0025b084d4b7abe31a9d78473d0e1717bc0b2cb033df897c0d360cc88e57",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY15",
+      "index": 1,
+      "html_sha256": "793d6d0b296b62b1a062e3849525fc1c444aeade8646d104a575a64e0f021efe",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LY15",
+      "index": 2,
+      "html_sha256": "02b4948d041e7d4b88aa3bd9db9485b669c0ea97095a11a4e20bb1dd7208b579",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    }
+  ],
+  "image_assets": [
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly09.svg",
+      "bytes": 1398,
+      "sha256": "0fc16639fcbd2c1dea98d524dbb5625ecd5a81e22411a9ec5b332c7367c1cb97",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly10.svg",
+      "bytes": 1455,
+      "sha256": "83f109cbec49166dea7b9d82704eef56916bed02be02133491634f37bce94d2b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly11.svg",
+      "bytes": 1394,
+      "sha256": "4a4f12d49eba9507dc88b6726513fa36a7c84268aeec0159b54c23e5bb387e98",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly12.svg",
+      "bytes": 1446,
+      "sha256": "c6ebb127dceda9354e64f79195ad99c4e976e90002e8a9e3b11ad8dea8c82a1b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly13.svg",
+      "bytes": 1487,
+      "sha256": "190a2694b486f5aa9d1f5b3fbe7a8d09a3011070b53fd3b85e55cef787fe4ef7",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly14.svg",
+      "bytes": 1405,
+      "sha256": "b3bd96effe4d209274e968cbee49a3075f9a128a4790dc5f3fae9cc7180b093f",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly15.svg",
+      "bytes": 1496,
+      "sha256": "db87ec6ae6c05582fe95d584d83236a41d4eae8d9a4cb0082d5a6391836b223d",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/fan.png",
+      "bytes": 194773,
+      "sha256": "5bf97fc395f1c9f9a45828a86aceb7497f8bc364fc97eaf4f9b046d1abf75459",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-high.png",
+      "bytes": 187972,
+      "sha256": "d005bf5d65987581498c055c378e1f43963d83d6778d205e70d7cb66903f7fbf",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-small.png",
+      "bytes": 199767,
+      "sha256": "14c94467c2a483bfa4d8ab04cb718ca9e16876e489bf35d20e7271971f9de891",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-two.png",
+      "bytes": 179849,
+      "sha256": "2821a0b7d6ab01a185d6ea2ca5c2ccfae2918adbecb64892c7cded81b9157c79",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/paintbrush.png",
+      "bytes": 155401,
+      "sha256": "569f5ca9eb3c2910721f6bd0a202c4708838dd59fe567832b62ef3506586b6f4",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/reused/rabbit-long-ears.webp",
+      "bytes": 27284,
+      "sha256": "4cad968c3bdbeabbaf467563557ccb4fa28c230b2ee92c059a1121710b4f9b83",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/tpt-17913803-cover.png",
+      "bytes": 205062,
+      "sha256": "7dc140c16ddf254aa9a53f0b8219a8fdea3cbff606882fe6f923b76f09372d95",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    }
+  ]
+}

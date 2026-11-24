@@ -1,0 +1,50 @@
+[
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ Who created it?",
+    "after": "Who created it?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ What evidence?",
+    "after": "What evidence?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ Can it be traced?",
+    "after": "Can it be traced?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ When published?",
+    "after": "When published?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ Purpose / bias?",
+    "after": "Purpose / bias?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S7I07",
+    "section": "Topic guide",
+    "before": "✓ Limits acknowledged?",
+    "after": "Limits acknowledged?",
+    "reason": "Render the check as a font-independent vector path, preserving every checklist word.",
+    "applied_by": "svg"
+  }
+]

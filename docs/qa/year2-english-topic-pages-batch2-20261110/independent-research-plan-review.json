@@ -1,0 +1,274 @@
+{
+  "status": "PASS — READY TO DRAFT PUBLIC TOPIC GUIDES",
+  "date": "2026-11-10",
+  "reviewer": "Independent research/content reviewer; no teaching-page authorship",
+  "scope": "Ten public Year2English TopicGuides only; noappbanks/worksheets/fixedslides rebuild or certification. ReadyPRleftunmerged. Independent research/plan,complete content and separate fresh final risk/pixel review.",
+  "baseline": "e6619543f91b72669dc7d9ca4cea69d378bdd335",
+  "research_commit": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+  "research_root_tree": "0c804c86a7213141d242a838b29b5b672ef3712c",
+  "saved_file_identities_verified": 79,
+  "accepted_dependency_triples_verified": 35,
+  "retained_teaching_labels_verified": 50,
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+  },
+  "original_pages": [
+    {
+      "code": "AC9E2LE01",
+      "path": "year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/index.html",
+      "bytes": 31723,
+      "sha256": "1ae5b1683fcb18171a282c3b702bb735cae83051c2a9310e45775399b626c391",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LE02",
+      "path": "year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/index.html",
+      "bytes": 30255,
+      "sha256": "41e04c1903ebf97995cad222a89bd2af3999781a82f978ecd90a1d1585ea0527",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LE03",
+      "path": "year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/index.html",
+      "bytes": 30504,
+      "sha256": "307503908243612bba9208cdce6869d72cbec834ca595422304455d61515b790",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LE04",
+      "path": "year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/index.html",
+      "bytes": 29669,
+      "sha256": "84be2c5f649484e97dea19f6500d62ee27e0c0178e6dd4d39eb09ca8a93b809b",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LE05",
+      "path": "year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/index.html",
+      "bytes": 32685,
+      "sha256": "843e9f9d018eaf91f5e51132f83145401ccf7aa56e2be6eb7e423343780f1cfe",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LY01",
+      "path": "year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/index.html",
+      "bytes": 30717,
+      "sha256": "ac8ab1c562af8018174111ed1c87a95dfe235c10ca835e20fa99c7ab1d5bf4a8",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LY02",
+      "path": "year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/index.html",
+      "bytes": 33083,
+      "sha256": "46ad0c3c3981825fb8254ec66590074e629af61b92500e90f94ce4710ecff6b5",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LY03",
+      "path": "year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/index.html",
+      "bytes": 29698,
+      "sha256": "656bdb155e82474405f18f4c449dda2faaa773560bc8b2c5662bfe9a0cd00052",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LY04",
+      "path": "year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/index.html",
+      "bytes": 30575,
+      "sha256": "7d2b0c55215da2fbe276f17bda2244519a453f41404ffc30117be5e49483a35e",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    },
+    {
+      "code": "AC9E2LY05",
+      "path": "year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "bytes": 31425,
+      "sha256": "77b6cf502d39effc309cceb48c2111afcb600efd0b7e3cdcec4ef3fb083ab184",
+      "retained_labels": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "baseline_match": true
+    }
+  ],
+  "plan_sha256": {
+    "plan.json": "4eda3816a63a08c2631fe1d78572bf3e08bc5e35424598df82d3ac6387c5fe08",
+    "retained-inventory-plan.json": "654114cd60abe8f020f113fbf179752d8ae4dfbceb15a6cdc8129cc28df16327",
+    "reused-research.json": "a415271678e0c00be8f237c1f5a15a2f1365864ef3447be51891672a4e5072ed",
+    "supplemental-source-notes.json": "cda776629771412c3cdbb36fabd72c68bef1ed6566b1c927528193e1dea88d33",
+    "units.json": "9bdcd1ddb2b2c9cca2927436392834a79b0c0d727705195a59ab7c4f3342fb17"
+  },
+  "review_method": "Read current ten code QA decisions, relevant actual retained method/source sections and limits, later Nov4 LE actual-task follow-ups and primary-source/corpus/card review, all five LY source-method records and their closed findings, plus all ten original goals/examples/misconceptions/checks/revisions and earlier worked models. Reused prior independently reviewed unchanged cross-code evidence after exact identity verification. Source facts, tasks, original analytical retellings and product QA labels remain distinct. No new quota or exhaustive historical bank re-solve claimed.",
+  "current_sop": "Both fresh SOP files byte-identical to the current10November scalable protocol and preflight versions already read. One complete independent content review and fresh separate final risk/render reviewer remain mandatory for the new exact version.",
+  "per_code": {
+    "AC9E2LE01": {
+      "status": "SUFFICIENT",
+      "evidence": "Verified reused Year1 authentic-literature/source-aware character-setting methods; Year3 source-attributed retellings are original analytical material, not newly observed external tasks. Later Year2 six-work source ledger/cards/independent primary-source review plus Nov4 Oak/ABC/Magabala actual tasks provide distinct setting/action/need/comparison methods. Independently reopened exact Grimm premises, Penguin outback description and actual teacher notes.",
+      "plan": "Named world fairy-tale character-setting links; particular First Nations recurring guide; Australian journey/outback comparison.",
+      "boundaries": "Keep the exact edition/creator/translator context and concise original premise separate from whole literature. Cooee adult stages actual seasonal spreads/glossary, and outback response uses an actual lawful Are We There Yet? spread. No outback inferred from cultural identity or sand. No copied publisher art, generalised cultural claims, invented local authority or forced family disclosure."
+    },
+    "AC9E2LE02": {
+      "status": "SUFFICIENT",
+      "evidence": "Actual reused Year1 text-to-self/partner-response/relevant-reason methods plus later LiteracyHub/Oak/ABC and printed teacher preference tasks; response criteria accept multiple supported preferences.",
+      "plan": "Identify character/setting features, justify preferences and compare responses including non-human behaviour.",
+      "boundaries": "Supply complete short original texts/detail cards for all named sorts and responses. Include familiar/unfamiliar settings and actual animal actions; positive/negative interpretations need evidence without scoring the learner’s taste. Do not substitute isolated vocabulary intensity for text appreciation."
+    },
+    "AC9E2LE03": {
+      "status": "SUFFICIENT",
+      "evidence": "Full reusable Year1 action/dialogue/setting/story-map methods, actual LiteracyHub phrase and two-tale comparison, Nov4 Oak setting-vocabulary questions and ABC setting-change method.",
+      "plan": "Action/dialogue language, setting/season comparisons, and actual First Nations landscape wording.",
+      "boundaries": "Provide complete contrasting excerpts and actual verbs/dialogue, not label-only mood lists. Accept supported impressions rather than certain hidden feelings. Adult stages the named lawful Cooee page/glossary and identifies actual phrases before dependent discussion; no invented cultural passage or unseen quote. Older-level methods adapted to short Year2 wording."
+    },
+    "AC9E2LE04": {
+      "status": "SUFFICIENT",
+      "evidence": "Actual reused Year1 rhyme/repetition/alliteration and ACTF pulse/word-rhythm methods; later ABC complete-rhyme, reproduction and generation activities, with explicit again-pronunciation and audio limits.",
+      "plan": "Whole sound/word patterns, reproduction against steady pulse, and controlled variation plus optional verified home-language model.",
+      "boundaries": "Repair Rhythm is the beat pattern to distinguish steady pulse from word timing. Supply a complete original poem/refrain, actual timing/REST model and contrasting change; two syllables can share a beat span. Observe actual accessible reproduction, not recognition alone; no unheard source audio or universal rhyme/pronunciation key. Family/home-language contributions optional and verified with an appropriate model, not accent scoring or private disclosure."
+    },
+    "AC9E2LE05": {
+      "status": "SUFFICIENT",
+      "evidence": "Full reusable ABC story-map/new-ending, LiteracyHub innovation and ReadWriteThink revision methods; Nov4 actual structure/adaptation/revision tasks clarify recognition versus original production.",
+      "plan": "Complete familiarised story adaptation; speech/description/mode changes; coherent editing and presentation.",
+      "boundaries": "Provide the full model story, distinct adaptation and an actual editable draft. Retain a recognisable pattern while allowing varied coherent changes; no universal two-major-change rule for all adaptations. Creating through drawing/writing/performance/digital tools needs actual products; identifying a good edit does not establish production. No source storyline/art copied wholesale."
+    },
+    "AC9E2LY01": {
+      "status": "SUFFICIENT",
+      "evidence": "Actual reusable same-topic conceptual text-set methods, Year1 story/information/procedure/invitation tasks, later LiteracyHub frog arrows/summary tasks and ABC recipe method.",
+      "plan": "Poem/narrative/information life-cycle set; shared/unique comparison; actual recipe formats.",
+      "boundaries": "Supply complete age-appropriate texts and comparison clues with consistent shared topic/facts. Actual recipe packet/book/digital model and named adult-facilitated video are staged before dependent format comparison. No claim source video was watched or that a specific action/visual was inspected from transcript alone. Compare observed features and shared purpose rather than universal all-recipes layout/grammar."
+    },
+    "AC9E2LY02": {
+      "status": "SUFFICIENT",
+      "evidence": "Actual role-based barrier games, meaningful listening, clarification, connected opinion and inclusive observation methods; later LiteracyHub question/answer and ABC conversation/procedure tasks.",
+      "plan": "Listen/paraphrase/clarify; connected statements and respectful alternatives; give/follow/repair actual directions.",
+      "boundaries": "Supply actual utterances, directions, materials and checklist. Observe an exchange or instructions followed; printed choice is supporting knowledge. Permit relevant differing opinions and AAC/sign/support, record prompts; no forced gaze, stillness, accent, speed or confidence criterion."
+    },
+    "AC9E2LY03": {
+      "status": "SUFFICIENT",
+      "evidence": "Actual reusable RWT/ABC purpose/audience comparison and invitation methods; later LiteracyHub complete clean-up poster/message tasks and primary ABC author-reading evidence. Full relevant Open Your Heart written reading/credits independently reopened.",
+      "plan": "Imaginative/informative/persuasive purposes, evidence for audience, specific First Nations author purpose.",
+      "boundaries": "Supply complete texts, signs/advertisements and actual address/action clues. Repair poster implies persuasion shorthand; forms and purposes overlap and audience is not exclusive by identity. Use a short attributed source-bounded note and/or actual authorised reading for Jasmine Seymour’s work, not a generic substitute or full copied transcript. No ceremony imitation or required personal cultural disclosure."
+    },
+    "AC9E2LY04": {
+      "status": "SUFFICIENT",
+      "evidence": "Full reusable 90-task Year1 reading/phonics/phrasing/repeated-reading ledger, Foundation actual ABC reread/blend/repair and later LiteracyHub echo/suffix plus ABC meaning-monitoring methods. Later independent closure accepts flexible phrasing and full controlled-slip scripts.",
+      "plan": "Full-print phonics/morpheme/known-word reading, natural phrasing, actual print-based monitoring/repair.",
+      "boundaries": "Repair print-first wording and mandatory phrasing implication in retained model. Supply complete readable passages and exact single-slip adult script; learner attempts before hearing target where independent decoding intended. Use meaning to check print, not guess unseen replacements. Modelled echo and prompted repair are supported practice; actual fluency evidence requires observed reading, without arbitrary speed/intonation rules."
+    },
+    "AC9E2LY05": {
+      "status": "SUFFICIENT",
+      "evidence": "Full reusable Year1 75-selected plus bounded vocabulary supplement and Foundation/Year3 actual inference/retell/questioning methods. Later ABC infer/monitor and LiteracyHub stage-summary tasks support strategy choice rather than mechanical labels.",
+      "plan": "Visualise/predict/connect, combined text plus actual picture, summarise/question/repair using organiser.",
+      "boundaries": "Supply complete original texts, actual information-bearing feeder illustration and matching organiser. Predict from opening before revealing next event; accept plausible justified alternatives and revise with new evidence. Distinguish literal detail, inference and invention; supplied prior knowledge must be relevant. Listening/detailed instructions must actually be read aloud/followed where that mode is claimed."
+    }
+  },
+  "required_related_repairs": [
+    "LE04: distinguish steady pulse and word rhythm, supply complete poem/refrain and actual reproduction/variation model.",
+    "LY03: qualify form→purpose shorthand; supply actual whole-text purpose/audience clues.",
+    "LY04: full-print decoding before context check, flexible meaningful phrasing, complete exact controlled-slip material."
+  ],
+  "complete_stimulus_requirements": "The approved plan supplies all otherwise unnamed sorts/texts/poems/passages/utterances/directions/drafts in the same retained teaching sections. Named cultural/outback books, relevant spreads/glossary, home-language model and recipe video are explicitly adult-staged actual materials before dependent tasks. New original self-contained samples support but do not impersonate actual literature.",
+  "independent_primary_reopens": [
+    {
+      "url": "https://www.penguin.com.au/books/are-we-there-yet-9780670880676",
+      "inspection": "Full relevant primary publisher body successfully opened independently; Alison Lester author/illustrator and Grace/family/outback/bush/coast scope verified. Full book/interior art not inspected.",
+      "retrieval": "turn93view0"
+    },
+    {
+      "url": "https://www.pegiwilliams.com.au/pdfs/teachernotes/9780670880676.pdf",
+      "inspection": "Actual7-page notes by Linnet Hunter/Tami-Jo Richter read; journey/setting and picture-sequence methods usable. Notes target levels3–6, transfer method only toYear2 and stage actual book spread.",
+      "retrieval": "turn95view0"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm",
+      "inspection": "Exact Taylor/Edwardes-based Grimm version credits and Rapunzel wooded tower/no stairs or door/high window, LittleRed-Cap wood/path/flowers premises independently read. Brief original premise only; no whole violent ending or source art imported.",
+      "retrieval": [
+        "turn96view1",
+        "turn97view0",
+        "turn97view1"
+      ]
+    },
+    {
+      "url": "https://www.abc.net.au/education/abc-education-story-time-open-your-heart-to-country/103547910",
+      "inspection": "Full written author reading and creator credits independently reopened. Specific Dharug creator/language/Country/reconnection context supported, no watched/heard-media or local language authority claim.",
+      "retrieval": "turn96view0"
+    },
+    {
+      "url": "https://www.magabala.com/products/cooee-mittigar",
+      "inspection": "Prior independently opened unchanged publisher/teacher-note evidence reused; source-specific Darug creators/guide/season relationships and actual glossary/staged-book requirements retained. Full book/art not claimed."
+    }
+  ],
+  "identity_verification": "All79 byte/SHA256/Gitblob identities matched independently reopened complete current root and six nontruncated subtree metadata; all35 accepted triples match. See independent-research-input-identities.json.",
+  "limits": [
+    "Evidence/plan approval only; all new teaching fields, retained additions/repairs, actual models and assets require exact-source independent content review after authorship, followed by fresh separate final risk/render review.",
+    "No app bank, scored worksheet/test, paid product, human teacher, pupil trial, mastery, playback/capture, deployment or availability certification.",
+    "No watched source video, heard source audio, full modern book/artwork review or permission to reproduce protected passages/images inferred. Named books/media must actually be staged before dependent work.",
+    "Source advisory for My Deadly Boots remains optional adult-guided, without inferred outback geography, ceremony imitation or private disclosure. The planned outback work uses separate verified publisher evidence.",
+    "Source question counts are factual history, not a sufficiency quota. Original source-attributed analytical cards are not new external questions or substitutes for all actual literary reading."
+  ],
+  "unresolved_material_research_gaps": []
+}

@@ -1,0 +1,1226 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5U01",
+    "title": "Examine how particular structural features and behaviours of living things...",
+    "unitSlug": "ac9s5u01-examine-how-particular-structural-features-and-behaviours-of",
+    "sourceOrder": 578,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "examine how particular structural features and behaviours of living things enable their survival in specific habitats",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5U01_E1",
+        "number": "E1",
+        "text": "identify physical and behavioural characteristics that enable a plant or animal to survive, such as being able to see in dim light and being nocturnal",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E2",
+        "number": "E2",
+        "text": "exploring features of plants and animals that enable them to survive in Australia\u2019s desert environments, such as bottle (or boab) trees and the water-holding frog",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E3",
+        "number": "E3",
+        "text": "investigating how camouflage is used by animals to hide from predators and to ambush prey",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E4",
+        "number": "E4",
+        "text": "using physical or digital simulations to explore how the shape of animals\u2019 body parts, such as the beak of a particular bird species, influence their ability to find food and survive in a given environment",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E5",
+        "number": "E5",
+        "text": "investigating First Nations Australians\u2019 knowledges of the structural features of certain species and how those features can be exploited",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year5/science/ac9s5u01-examine-how-particular-structural-features-and-behaviours-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5U01",
+        "label": "Content description",
+        "text": "examine how particular structural features and behaviours of living things enable their survival in specific habitats",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E1",
+        "number": "E1",
+        "text": "identify physical and behavioural characteristics that enable a plant or animal to survive, such as being able to see in dim light and being nocturnal",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E2",
+        "number": "E2",
+        "text": "exploring features of plants and animals that enable them to survive in Australia\u2019s desert environments, such as bottle (or boab) trees and the water-holding frog",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E3",
+        "number": "E3",
+        "text": "investigating how camouflage is used by animals to hide from predators and to ambush prey",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E4",
+        "number": "E4",
+        "text": "using physical or digital simulations to explore how the shape of animals\u2019 body parts, such as the beak of a particular bird species, influence their ability to find food and survive in a given environment",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U01_E5",
+        "number": "E5",
+        "text": "investigating First Nations Australians\u2019 knowledges of the structural features of certain species and how those features can be exploited",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5U02",
+    "title": "How weathering, erosion, transportation and deposition cause slow or rapid...",
+    "unitSlug": "ac9s5u02-how-weathering-erosion-transportation-and-deposition-cause-slow",
+    "sourceOrder": 579,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "describe how weathering, erosion, transportation and deposition cause slow or rapid change to Earth\u2019s surface",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5U02_E1",
+        "number": "E1",
+        "text": "identifying types of weathering caused by mechanical means such as by wind abrasion, cycles of extreme heat or cold, and frost wedging; and biological means such as by plants and tree roots",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E2",
+        "number": "E2",
+        "text": "exploring how erosion can be caused by moving air or moving water and how substances such as surface soil are relocated, and identifying examples of erosion on a local or regional scale",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E3",
+        "number": "E3",
+        "text": "analysing the difference between weathering and erosion and comparing the timescales over which these processes can occur",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E4",
+        "number": "E4",
+        "text": "modelling the effects of erosion on a simulated landscape and exploring factors that mitigate its effects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E5",
+        "number": "E5",
+        "text": "investigating how humans have changed local landscapes and predicting the effect these changes might have on rates of erosion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E6",
+        "number": "E6",
+        "text": "considering how First Nations Australians are impacted by the rapid erosion of sand dunes and the resulting effect of saltwater on culturally significant freshwater swamps",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5U02_E7",
+        "number": "E7",
+        "text": "considering the effects of significant rainfall, such as a monsoon, on the transportation and deposition of river sediments in the Asia-Pacific region",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5u02-how-weathering-erosion-transportation-and-deposition-cause-slow/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5U02",
+        "label": "Content description",
+        "text": "describe how weathering, erosion, transportation and deposition cause slow or rapid change to Earth\u2019s surface",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E1",
+        "number": "E1",
+        "text": "identifying types of weathering caused by mechanical means such as by wind abrasion, cycles of extreme heat or cold, and frost wedging; and biological means such as by plants and tree roots",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E2",
+        "number": "E2",
+        "text": "exploring how erosion can be caused by moving air or moving water and how substances such as surface soil are relocated, and identifying examples of erosion on a local or regional scale",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E3",
+        "number": "E3",
+        "text": "analysing the difference between weathering and erosion and comparing the timescales over which these processes can occur",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E4",
+        "number": "E4",
+        "text": "modelling the effects of erosion on a simulated landscape and exploring factors that mitigate its effects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E5",
+        "number": "E5",
+        "text": "investigating how humans have changed local landscapes and predicting the effect these changes might have on rates of erosion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U02_E6",
+        "number": "E6",
+        "text": "considering how First Nations Australians are impacted by the rapid erosion of sand dunes and the resulting effect of saltwater on culturally significant freshwater swamps",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5U02_E7",
+        "number": "E7",
+        "text": "considering the effects of significant rainfall, such as a monsoon, on the transportation and deposition of river sediments in the Asia-Pacific region",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5U03",
+    "title": "Sources of light, recognise that light travels in a straight...",
+    "unitSlug": "ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight",
+    "sourceOrder": 580,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "identify sources of light, recognise that light travels in a straight path and describe how shadows are formed and light can be reflected and refracted",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5U03_E1",
+        "number": "E1",
+        "text": "distinguishing between natural (such as glow worms, the sun and stars) and artificial (such as light bulbs or candles) sources of light",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E2",
+        "number": "E2",
+        "text": "investigating the shadows that are formed when light is completely or partially blocked by an object, such as when using a sundial or shadow puppets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E3",
+        "number": "E3",
+        "text": "drawing ray diagrams to show how the path of light from a source reflects off surfaces into the eye",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E4",
+        "number": "E4",
+        "text": "observing refraction of light using prisms or water droplets and examining the rainbow effect produced",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E5",
+        "number": "E5",
+        "text": "exploring how 'holograph' videos use the refractive properties of light to create an image that appears to be 3-dimensional",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E6",
+        "number": "E6",
+        "text": "exploring the use of reflection of light by mirrors such as in periscopes and mirror mazes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E7",
+        "number": "E7",
+        "text": "recognising First Nations Australians\u2019 understanding of refraction as experienced in spearfishing and in shimmering body paint, and reflection as evidenced by materials selected for construction of housing",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5U03",
+        "label": "Content description",
+        "text": "identify sources of light, recognise that light travels in a straight path and describe how shadows are formed and light can be reflected and refracted",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E1",
+        "number": "E1",
+        "text": "distinguishing between natural (such as glow worms, the sun and stars) and artificial (such as light bulbs or candles) sources of light",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E2",
+        "number": "E2",
+        "text": "investigating the shadows that are formed when light is completely or partially blocked by an object, such as when using a sundial or shadow puppets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E3",
+        "number": "E3",
+        "text": "drawing ray diagrams to show how the path of light from a source reflects off surfaces into the eye",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E4",
+        "number": "E4",
+        "text": "observing refraction of light using prisms or water droplets and examining the rainbow effect produced",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E5",
+        "number": "E5",
+        "text": "exploring how 'holograph' videos use the refractive properties of light to create an image that appears to be 3-dimensional",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E6",
+        "number": "E6",
+        "text": "exploring the use of reflection of light by mirrors such as in periscopes and mirror mazes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U03_E7",
+        "number": "E7",
+        "text": "recognising First Nations Australians\u2019 understanding of refraction as experienced in spearfishing and in shimmering body paint, and reflection as evidenced by materials selected for construction of housing",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5U04",
+    "title": "Explain observable properties of solids, liquids and gases by modelling...",
+    "unitSlug": "ac9s5u04-explain-observable-properties-of-solids-liquids-and-gases-by",
+    "sourceOrder": 581,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "explain observable properties of solids, liquids and gases by modelling the motion and arrangement of particles",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5U04_E1",
+        "number": "E1",
+        "text": "classifying substances as solids, liquids and gases and investigating their properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E2",
+        "number": "E2",
+        "text": "exploring examples that demonstrate that gases have mass, such as blowing air through straws to move objects or using a balance to compare an empty balloon to one filled with air",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E3",
+        "number": "E3",
+        "text": "using role-play to model the arrangement and motion of particles in solids, liquids and gases",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E4",
+        "number": "E4",
+        "text": "observing a virtual demonstration of coloured gases being compressed and providing an explanation for the change in colour intensity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E5",
+        "number": "E5",
+        "text": "exploring, through guided discussion, ideas about what is between particles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E6",
+        "number": "E6",
+        "text": "recognising First Nations Australians\u2019 knowledges and understandings of solids, liquids and gases and how these knowledges are applied in a range of processes and practices, including the extraction of oils, medical therapies and cooking",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year5/science/ac9s5u04-explain-observable-properties-of-solids-liquids-and-gases-by/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5U04",
+        "label": "Content description",
+        "text": "explain observable properties of solids, liquids and gases by modelling the motion and arrangement of particles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E1",
+        "number": "E1",
+        "text": "classifying substances as solids, liquids and gases and investigating their properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E2",
+        "number": "E2",
+        "text": "exploring examples that demonstrate that gases have mass, such as blowing air through straws to move objects or using a balance to compare an empty balloon to one filled with air",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E3",
+        "number": "E3",
+        "text": "using role-play to model the arrangement and motion of particles in solids, liquids and gases",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E4",
+        "number": "E4",
+        "text": "observing a virtual demonstration of coloured gases being compressed and providing an explanation for the change in colour intensity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E5",
+        "number": "E5",
+        "text": "exploring, through guided discussion, ideas about what is between particles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5U04_E6",
+        "number": "E6",
+        "text": "recognising First Nations Australians\u2019 knowledges and understandings of solids, liquids and gases and how these knowledges are applied in a range of processes and practices, including the extraction of oils, medical therapies and cooking",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5H01",
+    "title": "Examine why advances in science are often the result of...",
+    "unitSlug": "ac9s5h01-examine-why-advances-in-science-are-often-the-result-of",
+    "sourceOrder": 582,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "examine why advances in science are often the result of collaboration or build on the work of others",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5H01_E1",
+        "number": "E1",
+        "text": "researching how the recent discovery of a biofluorescent flying squirrel led to discoveries of more fluorescent mammals, such as wombats, bilbies, echidna and bandicoots as scientists collaborated with other scientists across fields of science and internationally",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E2",
+        "number": "E2",
+        "text": "researching why European naturalists and scientists first thought the platypus was a faked animal, and how scientists such as those in the Platypus Conservation Initiative are collaborating in ongoing research to understand the features and behaviours of platypuses",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E3",
+        "number": "E3",
+        "text": "investigating how contemporary soil erosion management practices adapt and build on First Nations Australians\u2019 fire management and agricultural practices",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5H01_E4",
+        "number": "E4",
+        "text": "exploring why developing new erosion mitigation techniques such as contour banks and strip cropping requires geologists, hydrologists and farmers to collaborate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E5",
+        "number": "E5",
+        "text": "exploring how understanding of light and optics has developed by comparing the ideas of Plato, Euclid, Ptolemy, Ibn al-Haytham and Roger Bacon",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5h01-examine-why-advances-in-science-are-often-the-result-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5H01",
+        "label": "Content description",
+        "text": "examine why advances in science are often the result of collaboration or build on the work of others",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E1",
+        "number": "E1",
+        "text": "researching how the recent discovery of a biofluorescent flying squirrel led to discoveries of more fluorescent mammals, such as wombats, bilbies, echidna and bandicoots as scientists collaborated with other scientists across fields of science and internationally",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E2",
+        "number": "E2",
+        "text": "researching why European naturalists and scientists first thought the platypus was a faked animal, and how scientists such as those in the Platypus Conservation Initiative are collaborating in ongoing research to understand the features and behaviours of platypuses",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E3",
+        "number": "E3",
+        "text": "investigating how contemporary soil erosion management practices adapt and build on First Nations Australians\u2019 fire management and agricultural practices",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5H01_E4",
+        "number": "E4",
+        "text": "exploring why developing new erosion mitigation techniques such as contour banks and strip cropping requires geologists, hydrologists and farmers to collaborate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H01_E5",
+        "number": "E5",
+        "text": "exploring how understanding of light and optics has developed by comparing the ideas of Plato, Euclid, Ptolemy, Ibn al-Haytham and Roger Bacon",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5H02",
+    "title": "Investigate how scientific knowledge is used by individuals and communities...",
+    "unitSlug": "ac9s5h02-investigate-how-scientific-knowledge-is-used-by-individuals-and",
+    "sourceOrder": 583,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5H02_E1",
+        "number": "E1",
+        "text": "considering how decisions are made to farm particular crops or animals depending on local habitats, such as considering their ability to withstand drought or cold weather",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E2",
+        "number": "E2",
+        "text": "examining how communities use knowledge of erosion processes to design landscape features that reduce erosion in fragile environments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E3",
+        "number": "E3",
+        "text": "examining how knowledge of erosion is used by park rangers to design rules such as keeping to the path and not climbing sandstone, and built features such as channel drains on paths, railings and barriers to protect the park environment and First Nations Australians\u2019 heritage sites",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5H02_E4",
+        "number": "E4",
+        "text": "researching the impacts of light pollution and exploring how communities have used scientific knowledge to reduce light pollution, such as through the use of covered bulbs facing downwards in streetlights, automated systems to turn off streetlights and motion sensors on outdoor lights at home and in public places",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E5",
+        "number": "E5",
+        "text": "investigating how and why people used properties of light to design signal lamps to communicate via Morse code and where they continue to be used",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5H02",
+        "label": "Content description",
+        "text": "investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E1",
+        "number": "E1",
+        "text": "considering how decisions are made to farm particular crops or animals depending on local habitats, such as considering their ability to withstand drought or cold weather",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E2",
+        "number": "E2",
+        "text": "examining how communities use knowledge of erosion processes to design landscape features that reduce erosion in fragile environments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E3",
+        "number": "E3",
+        "text": "examining how knowledge of erosion is used by park rangers to design rules such as keeping to the path and not climbing sandstone, and built features such as channel drains on paths, railings and barriers to protect the park environment and First Nations Australians\u2019 heritage sites",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5H02_E4",
+        "number": "E4",
+        "text": "researching the impacts of light pollution and exploring how communities have used scientific knowledge to reduce light pollution, such as through the use of covered bulbs facing downwards in streetlights, automated systems to turn off streetlights and motion sensors on outdoor lights at home and in public places",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5H02_E5",
+        "number": "E5",
+        "text": "investigating how and why people used properties of light to design signal lamps to communicate via Morse code and where they continue to be used",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I01",
+    "title": "Investigable questions to identify patterns and test relationships and make...",
+    "unitSlug": "ac9s5i01-investigable-questions-to-identify-patterns-and-test",
+    "sourceOrder": 584,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I01_E1",
+        "number": "E1",
+        "text": "posing questions that can be investigated scientifically, such as: \u2018Do all animals which live in desert habitats have ways to survive without water?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E2",
+        "number": "E2",
+        "text": "acknowledging and using information from First Nations Australians to guide the formulation of investigable questions about structural features and behaviours of living things",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I01_E3",
+        "number": "E3",
+        "text": "posing investigable questions about landscape features and how they were changed by weathering, erosion, transportation or deposition",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E4",
+        "number": "E4",
+        "text": "asking questions and making predictions to test relationships, such as: \u2018Will there be more erosion of steeper slopes? Will this organisation of mirrors enable me to see around corners? Are animals that camouflage well more likely to survive predation?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E5",
+        "number": "E5",
+        "text": "making reasoned predictions about the habitat a plant or animal lives in or the observable effect of light interacting with an object",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5i01-investigable-questions-to-identify-patterns-and-test/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I01",
+        "label": "Content description",
+        "text": "pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E1",
+        "number": "E1",
+        "text": "posing questions that can be investigated scientifically, such as: \u2018Do all animals which live in desert habitats have ways to survive without water?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E2",
+        "number": "E2",
+        "text": "acknowledging and using information from First Nations Australians to guide the formulation of investigable questions about structural features and behaviours of living things",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I01_E3",
+        "number": "E3",
+        "text": "posing investigable questions about landscape features and how they were changed by weathering, erosion, transportation or deposition",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E4",
+        "number": "E4",
+        "text": "asking questions and making predictions to test relationships, such as: \u2018Will there be more erosion of steeper slopes? Will this organisation of mirrors enable me to see around corners? Are animals that camouflage well more likely to survive predation?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I01_E5",
+        "number": "E5",
+        "text": "making reasoned predictions about the habitat a plant or animal lives in or the observable effect of light interacting with an object",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I02",
+    "title": "Plan and conduct repeatable investigations to answer questions, including, as...",
+    "unitSlug": "ac9s5i02-plan-and-conduct-repeatable-investigations-to-answer-questions",
+    "sourceOrder": 585,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct repeatable investigations to answer questions, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I02_E1",
+        "number": "E1",
+        "text": "considering different ways to approach investigations, such as researching, using trial and error, experimental testing, field observations, using digital tools to record observations or development of virtual simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E2",
+        "number": "E2",
+        "text": "planning and recording the method to be used in an investigation so that it could be repeated by someone else",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E3",
+        "number": "E3",
+        "text": "making decisions on the variables to be changed, measured and controlled in fair tests, such as measuring the length and size of a shadow formed by different light sources",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E4",
+        "number": "E4",
+        "text": "using a map or aerial photographs to predict local sites likely to be affected by erosion, and collaboratively planning a field excursion to collect observations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E5",
+        "number": "E5",
+        "text": "explaining rules for safe processes and use of equipment and materials, and potential risks to themselves or others when conducting an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E6",
+        "number": "E6",
+        "text": "consulting with First Nations Australians to identify local areas that require permission before accessing",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I02_E7",
+        "number": "E7",
+        "text": "consulting with First Nations Australians to guide the planning of scientific investigations, considering potential risks for field investigations",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year5/science/ac9s5i02-plan-and-conduct-repeatable-investigations-to-answer-questions/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I02",
+        "label": "Content description",
+        "text": "plan and conduct repeatable investigations to answer questions, including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E1",
+        "number": "E1",
+        "text": "considering different ways to approach investigations, such as researching, using trial and error, experimental testing, field observations, using digital tools to record observations or development of virtual simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E2",
+        "number": "E2",
+        "text": "planning and recording the method to be used in an investigation so that it could be repeated by someone else",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E3",
+        "number": "E3",
+        "text": "making decisions on the variables to be changed, measured and controlled in fair tests, such as measuring the length and size of a shadow formed by different light sources",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E4",
+        "number": "E4",
+        "text": "using a map or aerial photographs to predict local sites likely to be affected by erosion, and collaboratively planning a field excursion to collect observations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E5",
+        "number": "E5",
+        "text": "explaining rules for safe processes and use of equipment and materials, and potential risks to themselves or others when conducting an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I02_E6",
+        "number": "E6",
+        "text": "consulting with First Nations Australians to identify local areas that require permission before accessing",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I02_E7",
+        "number": "E7",
+        "text": "consulting with First Nations Australians to guide the planning of scientific investigations, considering potential risks for field investigations",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I03",
+    "title": "Equipment to observe, measure and record data with reasonable precision...",
+    "unitSlug": "ac9s5i03-equipment-to-observe-measure-and-record-data-with-reasonable",
+    "sourceOrder": 586,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I03_E1",
+        "number": "E1",
+        "text": "exploring which equipment gives the most reasonable precision for the measurements of data required in the investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E2",
+        "number": "E2",
+        "text": "exploring the precision of measurements of different equipment such as a cup compared with a measuring jug and discussing why precision is important in measurement",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E3",
+        "number": "E3",
+        "text": "recording data using standard units, such as grams, second and metre, and developing the use of standard prefixes for metric units such as kilo- and milli-",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E4",
+        "number": "E4",
+        "text": "recording data in tables and diagrams or electronically as digital images and spreadsheets",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5i03-equipment-to-observe-measure-and-record-data-with-reasonable/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I03",
+        "label": "Content description",
+        "text": "use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E1",
+        "number": "E1",
+        "text": "exploring which equipment gives the most reasonable precision for the measurements of data required in the investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E2",
+        "number": "E2",
+        "text": "exploring the precision of measurements of different equipment such as a cup compared with a measuring jug and discussing why precision is important in measurement",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E3",
+        "number": "E3",
+        "text": "recording data using standard units, such as grams, second and metre, and developing the use of standard prefixes for metric units such as kilo- and milli-",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I03_E4",
+        "number": "E4",
+        "text": "recording data in tables and diagrams or electronically as digital images and spreadsheets",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I04",
+    "title": "Construct and use appropriate representations, including tables, graphs and visual...",
+    "unitSlug": "ac9s5i04-construct-and-use-appropriate-representations-including-tables",
+    "sourceOrder": 587,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I04_E1",
+        "number": "E1",
+        "text": "using annotated digital photography or field sketches to describe structural features of plants or animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E2",
+        "number": "E2",
+        "text": "constructing a column graph to illustrate the relationship between predation and an animal feature such as colour as indicated by a simulation, and using values to represent the outcomes of repeated simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E3",
+        "number": "E3",
+        "text": "modelling landscapes using materials such as sand, gravel, soil and rocks to show effects of erosion by water",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E4",
+        "number": "E4",
+        "text": "constructing labelled ray diagrams to represent observations and compare how light interacts with different objects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E5",
+        "number": "E5",
+        "text": "using maps to identify patterns in erosion site locations or aerial photographs to show effects of erosion over time",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5i04-construct-and-use-appropriate-representations-including-tables/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I04",
+        "label": "Content description",
+        "text": "construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E1",
+        "number": "E1",
+        "text": "using annotated digital photography or field sketches to describe structural features of plants or animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E2",
+        "number": "E2",
+        "text": "constructing a column graph to illustrate the relationship between predation and an animal feature such as colour as indicated by a simulation, and using values to represent the outcomes of repeated simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E3",
+        "number": "E3",
+        "text": "modelling landscapes using materials such as sand, gravel, soil and rocks to show effects of erosion by water",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E4",
+        "number": "E4",
+        "text": "constructing labelled ray diagrams to represent observations and compare how light interacts with different objects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I04_E5",
+        "number": "E5",
+        "text": "using maps to identify patterns in erosion site locations or aerial photographs to show effects of erosion over time",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I05",
+    "title": "Methods and findings with those of others, recognise possible sources...",
+    "unitSlug": "ac9s5i05-methods-and-findings-with-those-of-others-recognise-possible",
+    "sourceOrder": 588,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I05_E1",
+        "number": "E1",
+        "text": "comparing methods and findings with those of others to determine if the investigation was a fair test",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E2",
+        "number": "E2",
+        "text": "recognising errors that could have occurred during investigations including changing too many variables, incorrect or misreading of measurements, or changes in environmental factors",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E3",
+        "number": "E3",
+        "text": "comparing, in small groups, proposed reasons for findings and explaining their reasoning and posing further questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E4",
+        "number": "E4",
+        "text": "discussing the difference between data and evidence and examining how evidence is selected",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E5",
+        "number": "E5",
+        "text": "reflecting on inferences made from observations and analysis of the data to draw a reasoned conclusion",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5i05-methods-and-findings-with-those-of-others-recognise-possible/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I05",
+        "label": "Content description",
+        "text": "compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E1",
+        "number": "E1",
+        "text": "comparing methods and findings with those of others to determine if the investigation was a fair test",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E2",
+        "number": "E2",
+        "text": "recognising errors that could have occurred during investigations including changing too many variables, incorrect or misreading of measurements, or changes in environmental factors",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E3",
+        "number": "E3",
+        "text": "comparing, in small groups, proposed reasons for findings and explaining their reasoning and posing further questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E4",
+        "number": "E4",
+        "text": "discussing the difference between data and evidence and examining how evidence is selected",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I05_E5",
+        "number": "E5",
+        "text": "reflecting on inferences made from observations and analysis of the data to draw a reasoned conclusion",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 5",
+    "levelLabel": "Year 5",
+    "yearNumber": 5,
+    "yearFolder": "year5",
+    "quizYearSegment": "year-5",
+    "code": "AC9S5I06",
+    "title": "And create texts to communicate ideas and findings for specific...",
+    "unitSlug": "ac9s5i06-and-create-texts-to-communicate-ideas-and-findings-for-specific",
+    "sourceOrder": 589,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate",
+    "levelDescription": "In Year 5 students continue to explore the relationship between form and function by investigating how features of living things enable them to survive in their habitat. They identify stable and dynamic aspects of systems and appreciate that current systems, such as Earth\u2019s surface, have characteristics that have resulted from past changes. They recognise that models are useful for investigating relationships between system components and can be used to predict the effects of changes. They explore observable phenomena associated with light and analyse patterns to identify that these phenomena have sets of characteristic behaviours. They begin to explain how matter structures the world around them. They develop explanations for the patterns they observe and recognise the importance of reflecting on their methods to identify potential sources of error before drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why has the Australian coastline changed over time? Is an empty glass really empty? Why does my shadow change? How has science shaped our community? What if emus could fly?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S5I06_E1",
+        "number": "E1",
+        "text": "exploring how language features such as vocabulary and sentence structure help shape a text and give it meaning",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E2",
+        "number": "E2",
+        "text": "acknowledging and exploring First Nations Australians\u2019 ways of representing and communicating information about anatomical features",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I06_E3",
+        "number": "E3",
+        "text": "developing a digital presentation to share information about the structural features or behaviours of animals and plants in a particular habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E4",
+        "number": "E4",
+        "text": "constructing a persuasive text for local council to argue the use of an erosion mitigation strategy in a local area",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E5",
+        "number": "E5",
+        "text": "co-authoring a scientific report on an investigation into the behaviours of light using appropriate vocabulary, data representations and sentence structures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E6",
+        "number": "E6",
+        "text": "exploring whether there is a \u2018correct\u2019 way of representing particles and creating an animation to teach other students about the particulate nature of matter",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year5/science/ac9s5i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-5/science/ac9s5i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year5/science/teacher-slides/ac9s5i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S5I06",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E1",
+        "number": "E1",
+        "text": "exploring how language features such as vocabulary and sentence structure help shape a text and give it meaning",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E2",
+        "number": "E2",
+        "text": "acknowledging and exploring First Nations Australians\u2019 ways of representing and communicating information about anatomical features",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S5I06_E3",
+        "number": "E3",
+        "text": "developing a digital presentation to share information about the structural features or behaviours of animals and plants in a particular habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E4",
+        "number": "E4",
+        "text": "constructing a persuasive text for local council to argue the use of an erosion mitigation strategy in a local area",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E5",
+        "number": "E5",
+        "text": "co-authoring a scientific report on an investigation into the behaviours of light using appropriate vocabulary, data representations and sentence structures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S5I06_E6",
+        "number": "E6",
+        "text": "exploring whether there is a \u2018correct\u2019 way of representing particles and creating an animation to teach other students about the particulate nature of matter",
+        "questionEligible": true
+      }
+    ]
+  }
+]

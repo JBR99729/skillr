@@ -48,10 +48,17 @@ def moved_page(path, banks):
     message = ('Continue to the matching practice in the SkillrHub app.' if target != APP
                else 'This older activity has retired. Browse the currently available practice in the SkillrHub app.')
     label = html.escape((' — '+code) if code else '')
+    # Preserve reviewed descriptions only on the explicitly Bing-reported routes.
+    reviewed_descriptions = {
+        'quiz/year-1/math/ac9m1n01/practice/index.html': 'Year 1 numbers to 120 practice (AC9M1N01) has moved to the SkillrHub app. Open the matching activity to continue practising.',
+        'quiz/year-7/math/ac9m7n05/practice/index.html': 'Year 7 rounding and estimation with decimals practice (AC9M7N05) has moved to the SkillrHub app. Sign in to open the matching activity.',
+    }
+    description = ('<meta name="description" content="' + html.escape(reviewed_descriptions[path], quote=True) + '">\n'
+                   if path in reviewed_descriptions else '')
     return f'''<!doctype html>
 <html lang="en-AU" data-legacy-quiz-retired="2026-11-02"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={escaped}">
+{description}<meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={escaped}">
 <link rel="canonical" href="{escaped}"><title>Practice has moved{label} | SkillrHub</title>
 <style>body{{font-family:Arial,sans-serif;line-height:1.6;max-width:42rem;margin:12vh auto;padding:1.5rem;color:#173968}}a{{display:inline-block;padding:.8rem 1.2rem;background:#173968;color:white;border-radius:.5rem}}</style>
 </head><body><main><h1>Continue practising in the SkillrHub app</h1><p>{message}</p>
@@ -82,7 +89,8 @@ def rewrite_html(source, relative, banks):
             return opening+label+closing
         text=ANCHOR.sub(anchor,text)
         return ATTR.sub(lambda m:m['lead']+m['q']+rewrite_url(m['url'],relative,banks)+m['q'],text)
-    return ''.join(part(p) for p in COMMENTS.split(source))
+    from repair_priority_seo import repair_actions
+    return repair_actions(''.join(part(p) for p in COMMENTS.split(source)), banks)
 
 def rewrite_json(value, banks):
     if isinstance(value, list): return [rewrite_json(v,banks) for v in value]
@@ -139,3 +147,4 @@ if __name__=='__main__':
     result=migrate(write=args.write)
     print(json.dumps({k:v for k,v in result.items() if k!='paths'}))
     if result['changed'] and not args.write:raise SystemExit(1)
+

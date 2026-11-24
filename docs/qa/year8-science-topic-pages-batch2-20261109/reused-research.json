@@ -1,0 +1,144 @@
+{
+  "repository": "JBR99729/research-",
+  "ref": "5e0ea90d4136d0fcfb94a2d3cfd36500deb7a78e",
+  "files": {
+    "qa/all-codes/science-7-10/batch-12-year8-inquiry-independent-source-review.json": {
+      "bytes": 71543,
+      "sha256": "0678caffd9a9a14962873c3884340e6f783f2b99d4dfa2ece0e01e77ebe4b966",
+      "git_blob_sha": "6cdd1d8fd8481c52511bab74092011b2c927f03e"
+    },
+    "qa/all-codes/science-7-10/batch-17-omitted-codes-independent-source-review.json": {
+      "bytes": 43129,
+      "sha256": "7baf107161b7d1b71ae3453d3d0ba82bb919cfa20a7929704b9a0562b59154d2",
+      "git_blob_sha": "bfad22646fdeb540922e4a0d8810a285d5dc2b66"
+    },
+    "qa/all-codes/science-7-10/batch-9-year8-u-h-independent-source-review.json": {
+      "bytes": 112051,
+      "sha256": "1544ecd249b2d696e267bfdb8f557c0e0992cb38edb20cec70bee2be980f0558",
+      "git_blob_sha": "f7d44fa06d987bc518a902dd27c08e7a10702b0a"
+    },
+    "shared-research/maths/2026-11-03-metric-instrument-evidence.json": {
+      "bytes": 9336,
+      "sha256": "07793cea6567d0e752498dfa26b85b8b3f1933dcfb1ff14b561f87ca874520a3",
+      "git_blob_sha": "75c4471c8b6788f64c0dcdcd704148c411df173b"
+    },
+    "shared-research/science/2026-11-04-habitat-conditions-growth-evidence.json": {
+      "bytes": 7025,
+      "sha256": "bb8ca325b09777e91c0f8c9c76525608a13e12001e9dd11693b5efe8e3bc1f29",
+      "git_blob_sha": "2838450984410cca7fa0d78961a0f5a2f2324f99"
+    },
+    "shared-research/science/2026-11-04-investigation-country-permissions-evidence.json": {
+      "bytes": 8023,
+      "sha256": "2d4a08df53f6f54c217e5cb75896e307c7273e9b9f15c42b797834b3a06561d8",
+      "git_blob_sha": "bdc8f826cfaa1cc42f921abc72296e34027cda14"
+    },
+    "shared-research/science/2026-11-04-scientific-audience-language-evidence.json": {
+      "bytes": 6335,
+      "sha256": "772bf849550b9dad1c006e13c7106fb403acb444334b413255590d011bbe250f",
+      "git_blob_sha": "1d5d95211862ef08014dca0da1df404f03e79c76"
+    },
+    "shared-research/science/2026-11-04-six-omitted-science-particle-separation-argument-communication-source-ledger.json": {
+      "bytes": 41481,
+      "sha256": "a11cdad48b4854dd2ee81035063d2916d57dcc1333dc684155a7c2ae7e8c0a3f",
+      "git_blob_sha": "acab77dcb8be60a35cf9cabfcd3a9734ed4e2089"
+    },
+    "shared-research/science/2026-11-04-year7-forces-mass-gravity-source-ledger.json": {
+      "bytes": 21272,
+      "sha256": "789b6ea5efc49dab5af60dcad1b91842b6677feea6485358be38d2dddf4c7c4d",
+      "git_blob_sha": "2667871de325e83c854d9f16b33f7519dd28eddb"
+    },
+    "shared-research/science/2026-11-04-year7-inquiry-methods-data-source-ledger.json": {
+      "bytes": 30596,
+      "sha256": "0be01b04497620c01e29cf39591d41aac4149f7fc6996d0fd4b6dd005e0e8411",
+      "git_blob_sha": "3c7a470458fc2f58fe3f748fb81519839bb0e3de"
+    },
+    "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json": {
+      "bytes": 23907,
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539"
+    },
+    "shared-research/science/2026-11-04-year8-inquiry-author-manifest.json": {
+      "bytes": 4022,
+      "sha256": "efe3e3538fe2a49beb632ed395ab59657726c9ff2f56fcc86798ad2980fad5fd",
+      "git_blob_sha": "59664fdf34c1f97e2d60d0c9d72162918e156af2"
+    },
+    "shared-research/science/2026-11-04-year8-inquiry-microscopy-rates-critique-source-ledger.json": {
+      "bytes": 18864,
+      "sha256": "b45d88feb811648e8660b823d5bc8be6b54b6e68a9aabb464697f80fb443e817",
+      "git_blob_sha": "cc0e0514e1af96f96bbe3d23eba2dd653be2e9fb"
+    },
+    "shared-research/science/2026-11-04-year8-inquiry-reuse-map.json": {
+      "bytes": 6167,
+      "sha256": "d5a332497587451c31d1558d3ee4d66fc28b12725c69dd27c0d1fbc3b1755400",
+      "git_blob_sha": "8e75c0da1553c031d4bb1a05f349a626db783db2"
+    },
+    "shared-research/science/2026-11-04-year8-perspectives-responses-reuse-map.json": {
+      "bytes": 5046,
+      "sha256": "47931736d04f5ae7e05052ea66f175e4d92284c1b2eadf5741450fb4bf8e3e29",
+      "git_blob_sha": "56dd9744722c13a76aebef32614ecdeb86588c02"
+    },
+    "shared-research/science/2026-11-04-year8-plant-structure-extension.json": {
+      "bytes": 6394,
+      "sha256": "1ce57eb523e52b27ec30b9ebcdbb4779bb437fd1447e4c33db355984e4c48add",
+      "git_blob_sha": "30fb4c0621e4d74dfe92cadfc5c0d9b9129a18d2"
+    },
+    "shared-research/science/2026-11-04-year8-tectonics-rocks-revision-source-ledger.json": {
+      "bytes": 28197,
+      "sha256": "f4f8bf79172fafae7ffdd3fe77560f7faa2cfba736dd6b827a3ee99baf78bcbe",
+      "git_blob_sha": "210a6cd9dc1a0cd5d189c23c7f15493a6ab31e8c"
+    },
+    "year-8/science/AC9S8H04/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7077,
+      "sha256": "4a9c1322d28d8c233137fbbfcf03c6d719a2b166ea18953a2aca9ac4a6c7d69f",
+      "git_blob_sha": "ad026e949c64c8c420f93c9f2fd31e363a943861"
+    },
+    "year-8/science/AC9S8I01/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 8081,
+      "sha256": "44a46e4b23350fbf8003134c297ebd5c50368ca7e19ee367fb3b54e93de2d1d4",
+      "git_blob_sha": "3320dd18796dda57fcbfea70bf9504a5ca94a443"
+    },
+    "year-8/science/AC9S8I02/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7862,
+      "sha256": "eda8a7a1554beb2bfdb7ee0135376adcb308872db81ed4e590ec7ec8c74bb82d",
+      "git_blob_sha": "d248521f4d1be48ed2cb17960a3e9b14d633ed80"
+    },
+    "year-8/science/AC9S8I03/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7588,
+      "sha256": "a4c1118a1e5caf35e3f3ab51be728890bf4d49323697fda5be8f571dfcbece5c",
+      "git_blob_sha": "04a001ec2e4e8ef88cbf87867cf646f2c6d2b674"
+    },
+    "year-8/science/AC9S8I04/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7761,
+      "sha256": "f1c781135466d2946252e5a7ac3a2c0cefdc7aebf39349715dbea5c585fee6e1",
+      "git_blob_sha": "e2cdc03741fc585beeed0494312bfe630e91a09d"
+    },
+    "year-8/science/AC9S8I05/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7674,
+      "sha256": "c431b20c9f80cf76466b19250459c94f86abc95eeb64784d001d9b57454de443",
+      "git_blob_sha": "37aa4863e939558f5ed7d2b8eeab5191c20ad5ca"
+    },
+    "year-8/science/AC9S8I06/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7866,
+      "sha256": "1e654d78e27846401a79d93235fc5fa907728797f7ff3a8171610f66edca2b66",
+      "git_blob_sha": "895357ef109578396fb93ca9f869ab815069c332"
+    },
+    "year-8/science/AC9S8I07/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6929,
+      "sha256": "78eb0f9570d079697d045c0f36e6f77e33b63ebdcb11ec807e9df45621df904f",
+      "git_blob_sha": "5fc77e9b5b78f268c12077d76ffc57f13abb3fb5"
+    },
+    "year-8/science/AC9S8I08/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 7005,
+      "sha256": "e0d8ca5ff4185cda98dd64730b19a7c960d4572ddf0f11692ec8f99d9f04326a",
+      "git_blob_sha": "4f32a013383c5a78008caf9166da2efdf5f40ac7"
+    },
+    "year-8/science/Year8_Science_Curriculum_Research_Master.txt": {
+      "bytes": 83992,
+      "sha256": "34dc0a94f89d8a1c2165a2bcfed949c655ce9d1ba3aa0b9fb3ca00269fb422a2",
+      "git_blob_sha": "6bee8d98f557d6ed1c59c3d0c1765f1b319b5047"
+    }
+  },
+  "scope": "Saved accepted explanations, actual tasks and methods reused. Immutable pending proposal labels reconciled with later source decisions. No new source video/practical/pixel observations claimed.",
+  "official_scope": "QCAA AC9 Year8 Science alignment PDF and exact catalogue descriptors.",
+  "sources_local": "/workspace/scratch/e8027fd1ced3/skillr-science-year7-inquiry/../year8-inquiry-build/research"
+}

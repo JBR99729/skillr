@@ -111,9 +111,9 @@ function classifyQuery(query, source, isTheme) {
     : "topic";
   const years = [...s.matchAll(/\b(?:year|grade|yr)\s*([1-9]|10)\b/g)].map(m => Number(m[1]));
   const year = years.length ? years[0] : /\bfoundation\b|\bkindergarten\b/.test(s) ? 0 : null;
-  const subject = /\bmaths?\b|multiplication|percent|fraction|decimal|time|coordinates|addition|subtract|odd and even|pattern/.test(s) ? "Maths"
+  const subject = /\bmaths?\b|multiplication|percent|fraction|decimal|time|coordinates|addition|subtract|odd and even|pattern|algebra|expand and simplify|shapes?|counting|sharing equally|equal groups|perimeter|enlargement/.test(s) ? "Maths"
     : /\benglish\b|literacy|reading|grammar|spelling|phonics/.test(s) ? "English"
-    : /\bscience\b|scientific|experiment/.test(s) ? "Science" : "";
+    : /\bscience\b|scientific|experiment|periodic table|atomic|tectonic|energy|forces?/.test(s) ? "Science" : "";
   return { diagnostic, intent, year, subject, branded: /skillrhub|skillr hub|skillr-app/.test(s) };
 }
 const records = []; const errors = []; const sources = [];
@@ -121,7 +121,7 @@ for (const [source, files] of Object.entries(inputs)) {
   for (const name of files) {
     try {
       const parsed = parseFile(name, source);
-      sources.push({ source, filename: path.basename(name), period: parsed.period, rows: parsed.rows.length, exactQueries: !parsed.themes });
+      sources.push({ source, filename: path.basename(name), period: parsed.period, rows: parsed.rows.length, exactQueries: source !== "ai" && !parsed.themes });
       for (const row of parsed.rows) {
         const isTheme = Boolean(parsed.themes) || source === "ai"; // AI grounding phrases are NOT exact user prompts.
         const query = String(value(row, "query", "top_queries", "keyword", "keywords", "search_term", "grounding_query", "query_theme", "theme")).trim();

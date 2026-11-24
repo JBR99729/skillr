@@ -1,0 +1,33 @@
+# Final independent assurance — Year 3 English LA01–LA10
+
+**PASS** for the ten exact public Topic Guides: source content, actual model pixels, sampled responsive pixels and required hosted native controls/navigation. Zero unresolved release blockers. Reviewer: fresh independent AI reviewer `/root/y3_final_review`, independent of both authors and the first complete content reviewer. This is the separate final review matched to risk, not another initial full-content review.
+
+The reviewed candidate is remote commit `e34dc1790ad9712d41d9b8a66ef52259728fdd5d`, tree `701273a431e7608b8efe9e0e8015f9e1caee3cfb`. I fetched the exact remote object and compared all **24 genuine browser-input dependencies** against their recorded blob SHA, SHA256 and actual local bytes; all agree. This includes the unchanged `site-theme.css` imported by `style.css`. A later evidence-only commit may reuse this approval only if those 24 inputs remain identical. Root will separately confirm the final head.
+
+## Independent scope and honest blind limits
+
+All 62 main guided/tricky records, 20 FAQ questions and ten activity/tier sets were selected because the new grammatical, scope and visual families are higher risk. I saved independent solutions before authored keys or earlier findings for **61 main tasks**. The three LA09 picture-dependent tasks initially stayed on HOLD; I resolved them only after opening the actual six rendered figures and saved the answers before keys. The exact LA05 guided-3 tool-navigation facts were unavailable initially and later disclosed, so I do not claim that task as my own blind solve.
+
+The faulty combined A-extra file exposed answers. My A-extra correctness review is therefore labelled **key-visible**. A fresh no-history reviewer supplied the missing independent final assurance: 23 distinct A-extra task responses saved before keys, then reconciled to the exact final source, including the tool-navigation family. Its report is `independent-extra-final-review.json`. This targeted gap repair closes the missing scope without repeating an unrelated full review. Visible inline B worked/transfer answers are also labelled checked teaching support, not fresh blind solves.
+
+I independently solved all four repaired LA07 retained sentence sets before their new explanations, then checked all eight bounded title/body replacements and dependent support. The exact prompt SHA and responses are preserved in the evidence directory.
+
+I reconciled the main keys, open-response alternatives, complete teaching/models, differentiated support and all repaired scope. I selected 11 of 41 retained sections (26.8%) across all ten codes and every retained section type for established-content checks; IDs and rationale are in the JSON. The first complete source review supplies the separate all-content coverage. Official QCAA code descriptors and the consequential Reconciliation Australia cultural-role claim were independently checked; source URLs are preserved in the checkpoint record.
+
+## Repairs and actual output
+
+The decisive “weighs almost nothing” clue resolves the ambiguous light-feather task and agrees with its key. The gaze annotation is clear below the ground line. LA07’s four old evaluation/modal entries are now complete verb-process tasks. The preserved creek map keeps its geometry while gaining accessible phone pan/focus. All affected explanations and new requirements agree with the independent criteria.
+
+I individually opened all **45 actual model PNGs**: 21 SVG instances and 24 native models. They have readable evidence, correct labels and text/image relationships, visible poem lines and paragraph groups, and no material clipping or overlap. Every one is byte-identical in the successful final artifact. I also inspected ten selected initial successful viewport frames across nine codes and all three sizes, two diagnostic failure frames, and all eight new/changed final frames: six LA05 top/lesson frames and two LA09 phone frames. No material layout blocker remains. Phone diagrams intentionally pan with visible swipe guidance; viewport boundaries require normal page scrolling.
+
+Successful hosted run **42773144997**, artifact **13743295327**, used the exact reviewed candidate. I checked the downloaded ZIP SHA256 `77749c988509da1d0f48a012e6ecb9f6f42f359a979015fa479c9e53007acbe8` against the supplied GitHub digest and inspected actual results: 30 JavaScript-disabled page visits at 1440/768/390, ten JavaScript-enabled smokes, all 24 LA05 real pointer links at each size, exact hash/visible-target assertions, native/keyboard answers and phone diagram keyboard pan; `problems` is empty. The artifact contains 105 PNGs.
+
+The failure history is retained. Initial run 42770850475 failed LA05 unstable clicks. The rAF helper attempt 42771655051 was cancelled/superseded, with no product pass or failure inferred. Node-polling run 42772259179 passed tablet links but still failed desktop/phone. The bounded LA05 product fix uses immediate hash scrolling and removes hover translation only for its prepared menus; feedback/focus remain. The same real-click assertions then pass all three sizes. These repairs did not change teaching, HTML, keys or SVG content. My source-only approval of the first timing helper was not a runtime pass.
+
+## Evidence and limits
+
+`independent-final-review.json` records decisions, all 24 pins, selection, coverage and limits. `independent-final-review-evidence/` preserves my original criteria, disclosure records, source/repair reconciliation, remote dependency checks, individual model/frame hashes and actual final result data. The hosted screenshots are identified by their artifact and exact hashes; temporary local image paths are not represented as permanent published resources.
+
+Optional backlog remains: the supplementary LA07 heading “earlier evaluation examples” can be updated; its actual clauses and verb-process explanations are correct. Some retained teacher-facing overview wording is abstract, with explicit child-facing teaching and adult support already provided. Neither is a release blocker.
+
+This is AI content/output assurance, not a learner trial, human teacher certification, screen-reader software test or evidence of independent mastery. It does not certify app banks, persistence, learner isolation, linked decks/worksheets, actual oral/AAC/group behaviour or universal device/network performance. Local Chromium failed before loading a page; the actual hosted artifact supplied the required browser evidence. This approval is separate from production authorisation and deployment verification. Stop the review here unless genuine dependencies change or a new failure appears.

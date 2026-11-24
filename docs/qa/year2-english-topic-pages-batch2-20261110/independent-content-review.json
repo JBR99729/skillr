@@ -1,0 +1,803 @@
+{
+  "date": "2026-11-10",
+  "status": "PASS — independent all-content source review complete",
+  "reviewer": "Independent research/content reviewer; no teaching-page authorship",
+  "scope": "Ten public static unscored Year2English TopicGuides AC9E2LE01–05/LY01–05 only.",
+  "baseline": "e6619543f91b72669dc7d9ca4cea69d378bdd335",
+  "initial_authored_source_checkpoint": "d63cfebfc61fb5099a167d980025191936f315bb",
+  "identity_rule": "Exact final working-tree page/asset/support SHA256 pins below govern. Three reviewed repairs follow the initial authored checkpoint; evidence-only commits may follow.",
+  "coverage": {
+    "authored_scalar_fields": 440,
+    "teaching_strings_excluding_code_ids": 430,
+    "retained_sections": 50,
+    "retained_additions": 48,
+    "recorded_retained_corrections": 13,
+    "native_disclosures": 180,
+    "earlier_svg_models": 10,
+    "native_figures_semantically_reviewed": 21,
+    "existing_raster_assets": 1
+  },
+  "method": "Read all440 authored scalars, all50 actual retained sections,48 additions,13 recorded repairs, earlier worked text and native model contents. Independently checked givens, response criteria/alternatives, language/curriculum scope, comparison and causal claims, pulse arithmetic, book/source preparation, fact/inference/invention boundaries and actual performance versus recognition. Opened the actual feeder raster and faithfully extracted/rendered/opened all ten earlier SVGs, checking labels, grouping, schematic relationships and directions. Ran scoped source QA independently with PASS440/50/180; independently resolved all440 scalars in actual HTML and compared original metadata/canonicals and whole-document commercial destinations.",
+  "per_code": {
+    "AC9E2LE01": "PASS. Brief edition-specific Grimm premises, lawful Cooee recurring guide/seasonal spreads and actual Are We There Yet? outback/contrasting spread are explicitly prepared before source-dependent claims. Creator/setting attributions match accepted primary evidence. Original kite example teaches the method without substituting for named literature. Interpretations and unknown facts distinguished; no claim every First Nations/Australian story shares a setting.",
+    "AC9E2LE02": "PASS. Complete classroom/moon animal stories, feature and reader-response cards support familiar/unfamiliar settings and animal behaviour discussion. Preferences allow differing taste with actual evidence. Mouse returning help and fox hiding then sharing are text-supported; fictional actions are not general animal-trait claims.",
+    "AC9E2LE03": "PASS. Whole contrasting passages expose action/verb groups/dialogue and seasonal/sound clues. Impressions are supported possibilities, not permanent personality or universal season labels. Actual landscape phrases are selected and pointed to on a lawful named book spread with glossary; no invented cultural quote or unseen art claim. Rewriting is labelled a changed fictional version.",
+    "AC9E2LE04": "PASS after C01. Complete original rhyme and explicit four equal spans supply actual repetition/reproduction/variation. Four spans and four sounded events verified; REST is silent and TAP+TAP shares one span. Final SUN versus two-hums language accurately distinguishes sound selection from subdivision. Again/rain accent variation acknowledged. Home-language model optional, permitted, sourced and actually modelled; no forced family performance or unheard audio claim.",
+    "AC9E2LE05": "PASS after C02. Full Nell story, complete robot adaptation, event map and draft provide recognisable structure, coherent ending, invented dialogue/detail and actual meaning edit. Optional adult-supported digital two-screen creation/reorder/edit/reread now supplies a concrete opportunity alongside drawing/writing/performance. Actual creation/edit observed, support recorded; no selection-only production claim.",
+    "AC9E2LY01": "PASS after C03. Same-topic frog poem/narrative/information sets are complete; pairwise both/onlyA/onlyB sorting now explicitly names chosen pair. Front Tilly/eggs shared-versus-unique keys match actual pair. Three prepared fruit-bowl layouts are food recipes, not craft; actual named ABC vegetable-truck recipe/video can be adult-staged for format comparison. Static/digital/transcript/viewed-media distinctions are honest and no cooking required.",
+    "AC9E2LY02": "PASS. Actual contributions, paraphrases, opinions, questions and paper directions give clear interaction/clarification tasks. Drawing sequence square/circle-inside/star-above is checkable and actual partner exchange required. Connected disagreements and alternate wording accepted; no compulsory gaze, posture, accent or speech modality.",
+    "AC9E2LY03": "PASS. Complete imaginative/factual/advertisement/sign samples show purpose and actual audience clues, with multiple supported purposes and nonexclusive audience. Poster shorthand repaired; format alone does not prove purpose. Named Jasmine Seymour work/book or authorised reading prepared before discussing its invitation/reconnection purpose. Specific cultural identity does not determine all authors’ intentions.",
+    "AC9E2LY04": "PASS. Full printed passages/word cards, useful plant+ed/compound parts, flexible phrasing and exact seats/seeds comparison support actual print-first reading. Letter mismatch checked before sentence meaning; controlled adult slip distinguished from spontaneous repair. Modelled reading versus independent attempt explicitly separated; no speed-only, fixed-accent or mandatory prosody rule claimed.",
+    "AC9E2LY05": "PASS. Complete seed/train story, earlier-to-later organiser, actual stated6seeds/Monday and4shoots/Friday fact card and actual listening directions provide all necessary evidence. Main idea/sequence, coat-protection inference, predictions and unanswered future growth are kept distinct. Actual feeder image shows seed/tray/bird clues without asserting species/next event/name. Listening and comprehension allow access support without certifying independent decoding."
+  },
+  "findings": [
+    {
+      "id": "C01",
+      "code": "AC9E2LE04",
+      "location": "Front focus3 guided question and answer",
+      "finding": "HUM is a humming action, so replacing it with spoken SUN is not only word choice. Distinguish sound choice from timing/subdivision.",
+      "repair": "Question asks which keeps one sounded event and which subdivides. Answer explicitly says SUN replaces humming with a spoken word while retaining one event in the modelled span; two hums subdivide.",
+      "status": "CLOSED; actual final JSON and HTML read and rechecked",
+      "math": "Four equal spans with TAP, REST, TAP+TAP, HUM yield1+0+2+1=4 sounded events; four pulses remain. Rests/subdivision do not imply syllable count."
+    },
+    {
+      "id": "C02",
+      "code": "AC9E2LE05",
+      "location": "Both retained creation/edit packets and front FAQ",
+      "finding": "Digital tools were named but no concrete creation/edit opportunity was supplied.",
+      "repair": "Optional adult-supported two-screen original Problem/Ending task: own robot drawings/captions, reorder, change one caption/event and reread actual revised story. FAQ points to it; no device compulsory for every learner.",
+      "status": "CLOSED; both actual final sections and FAQ rechecked"
+    },
+    {
+      "id": "C03",
+      "code": "AC9E2LY01",
+      "location": "Both retained frog comparison packets",
+      "finding": "Three texts were followed by a both/only-poem/only-narrative/only-information sorting chart, leaving both undefined and two-of-three overlap unrepresentable.",
+      "repair": "Explicitly choose two texts as A/B, then use both chosen texts/onlyA/onlyB.",
+      "status": "CLOSED; both actual final packets rechecked"
+    }
+  ],
+  "remaining_blockers": [],
+  "research_gate": "Prior independently pinned50-label/79-file/35-triple research-plan PASS reused. Authored methods stay within it; no new quota collection or bank certification.",
+  "asset_scope": "Actual complete feederPNG opened, labels/clues consistent. All ten exact earlier SVGs independently rendered/opened locally; native21 figure content semantics reviewed. Final hosted31 modelPNG geometry and60 viewport/interaction results belong to the fresh separate final review.",
+  "cultural_literature_media_limits": "Modern books/art are not republished or claimed fully inspected. Adult supplies actual lawful Cooee spreads/glossary, outback spread, real landscape phrases, authorised author-reading and knowledgeable permitted home-language model before dependent tasks. Brief premise/source summaries are identified as such. No cultural authority, pronunciation/media observation or private-family disclosure inferred.",
+  "commercial_preservation": [
+    {
+      "code": "AC9E2LE01",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LE02",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LE03",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LE04",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LE05",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LY01",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LY02",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LY03",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LY04",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LY05",
+      "original_distinct_paid_links": [],
+      "final_distinct_paid_links": [],
+      "status": "PASS"
+    }
+  ],
+  "limits": [
+    "Public unscored source/content review only; not scored-bank, human teacher, pupil trial, mastery or attainment certification.",
+    "No app-bank, linked paid-resource interior, worksheet or fixed-slide content review/change; no deployment or production availability certification.",
+    "No watched source video/heard source audio claimed. Actual video observation must precede a learner’s movement/playback comparison; transcript-only alternative remains distinct.",
+    "Local earlier-SVG pixels and native source semantics are not final hosted browser viewport approval. Fresh separate final risk/render reviewer must check repaired/high-risk content, all actual hosted models and responsive behaviour."
+  ],
+  "pages": [
+    {
+      "code": "AC9E2LE01",
+      "path": "year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/index.html",
+      "bytes": 31319,
+      "sha256": "f7190b51bd7e0e9b4f4836a38c1864ee0aa78a44103f9132403a9affaefbf7bc",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LE02",
+      "path": "year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/index.html",
+      "bytes": 26116,
+      "sha256": "50956fa4f22b469c22a0ab262326af290f45d77f8ac708277883480918e2201a",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LE03",
+      "path": "year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/index.html",
+      "bytes": 28760,
+      "sha256": "214925469a2faa09c9c64fdd74542974cf72fe23d94d796299c43a3f5606bc78",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LE04",
+      "path": "year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/index.html",
+      "bytes": 27575,
+      "sha256": "c95dc3e6ee7b40c397598b9fbfcbba0fbd45819bfb620d9adf709e6f048bb5da",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LE05",
+      "path": "year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/index.html",
+      "bytes": 29553,
+      "sha256": "26017cf0a57c20dd13df61fc2fa7ed59ae5a63b7b34cec62859e4a24dd53608b",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LY01",
+      "path": "year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/index.html",
+      "bytes": 30328,
+      "sha256": "7093cad712dcf11bdd4968f5b9d18522e4bbf61b1ef61fb16e004fd400724700",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LY02",
+      "path": "year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/index.html",
+      "bytes": 27780,
+      "sha256": "f9b5e3f37d8244d871cb7081d5a2955d509499fa2d7a2b462b20fdba130290e5",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LY03",
+      "path": "year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/index.html",
+      "bytes": 27000,
+      "sha256": "220415561a264f776c9d10480356184e1c3abcf9b448720a829d03ade7e8a181",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LY04",
+      "path": "year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/index.html",
+      "bytes": 26777,
+      "sha256": "eae996c53f0a90ef9ae51a33660fca2a0ae586478f986438e672bd5995bfe09c",
+      "all_44_scalars_present": true
+    },
+    {
+      "code": "AC9E2LY05",
+      "path": "year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "bytes": 30490,
+      "sha256": "bf3e346b0f0ee746ffeac18fe29deba92d2f838dcb21bd230c607a4d4e9e2501",
+      "all_44_scalars_present": true
+    }
+  ],
+  "retained_section_pins": [
+    {
+      "code": "AC9E2LE01",
+      "label": "Learning goals",
+      "normalized_text_sha256": "c08855f9037049839954c45d621d3b05c010551e4c05cd8a036f30d723bfd334"
+    },
+    {
+      "code": "AC9E2LE01",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "6214201ee7573ef46ccad6c4cee5ff9efefe33ee0023c5e9d1727242deacba27"
+    },
+    {
+      "code": "AC9E2LE01",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "7d3f1a92ed2f48cd0b30016ca339a2b98143374834d8f986d1fdb88f14a4b572"
+    },
+    {
+      "code": "AC9E2LE01",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "9171599a1463bd2eae5fad72b77fe43f5fe81e91649b1c684f3d0814209014b4"
+    },
+    {
+      "code": "AC9E2LE01",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "95a52c210cc45c8566c9ac36698e421f854fa4224f9082b24d46179308b54e66"
+    },
+    {
+      "code": "AC9E2LE02",
+      "label": "Learning goals",
+      "normalized_text_sha256": "c41f6d44c615ff6e9aa3b5b49355e7f8601fc7bb092c410266cf80788ff0b1f6"
+    },
+    {
+      "code": "AC9E2LE02",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "0fef2e73732103d38886ed3b36b49c718e2c484bfb4367ab3b718898d9ca580e"
+    },
+    {
+      "code": "AC9E2LE02",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "3a5eabbb002cae2c4918bdb14f2a7857f314e69d5d47ff727d8a5916d30a67c5"
+    },
+    {
+      "code": "AC9E2LE02",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "577e0bf8a8bcd0e0eaa8b5527e145072b7ede654599a037fe62e75524bd80c6d"
+    },
+    {
+      "code": "AC9E2LE02",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "8c403d469bffd51e9aec5a135ea80fbb3e14d678699278755054e2f8afce1f80"
+    },
+    {
+      "code": "AC9E2LE03",
+      "label": "Learning goals",
+      "normalized_text_sha256": "8c1235bd1ad8b4e57022b5b4bc5f5d33943c9e99b60b2b2847176d572aec382a"
+    },
+    {
+      "code": "AC9E2LE03",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "9abf81b3b6406b910431b1084001f78edfb087df19102aa7f78f0d00fbe747a1"
+    },
+    {
+      "code": "AC9E2LE03",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "4dc7f61d3a6f389c434ca4c954a3d5c96bf21417d488319a849809812f1228ea"
+    },
+    {
+      "code": "AC9E2LE03",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "18a69b3eb2006924f95267ffa5607e07f2a64d12f40c6af069661035b2f24a45"
+    },
+    {
+      "code": "AC9E2LE03",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "5ac231f89bb48c72ba25702422eea228d805b7e71d54643f4ff7f5dedeee7efe"
+    },
+    {
+      "code": "AC9E2LE04",
+      "label": "Learning goals",
+      "normalized_text_sha256": "0b9032a0995542510ceb81c978886da0a60811caac9d13dc65d0edc7d1bdf2b7"
+    },
+    {
+      "code": "AC9E2LE04",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "15dd4042f39add0526338ec811333150b3a5e4676542d3e4df9088f4d3ad82ed"
+    },
+    {
+      "code": "AC9E2LE04",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "af638af4b5dd0f793aabe12060fd2d4424424fe476550c4908ed3cd5e8b66786"
+    },
+    {
+      "code": "AC9E2LE04",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "ca8879018ceb76edee254b42bad05ceec91f8456e12a4b48eda6768cb38d9c73"
+    },
+    {
+      "code": "AC9E2LE04",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "ae574718608d311bd6a51f32488a25bad2daef9c22eda06cb189ae6893d45fed"
+    },
+    {
+      "code": "AC9E2LE05",
+      "label": "Learning goals",
+      "normalized_text_sha256": "5436f1fc6e4fce43551cbf192057b3008bb9d63690c16076a699c8dbe019763e"
+    },
+    {
+      "code": "AC9E2LE05",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "645b067b494d9e89f22e966b88bee5fcc160ed01d8844cfe98fd302472f3f4a1"
+    },
+    {
+      "code": "AC9E2LE05",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "85054da23c10061e5628c89e16b881db275dc6a4df8537042c623fcff2200e02"
+    },
+    {
+      "code": "AC9E2LE05",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "4dc4b8ba107713695aae2925616cc07cec572ebb7eb4e60e14f407eef1068f4a"
+    },
+    {
+      "code": "AC9E2LE05",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "53adf59f88d81aff4a3412feba36f2f4f6cb5ea3b55800e33858db7957470996"
+    },
+    {
+      "code": "AC9E2LY01",
+      "label": "Learning goals",
+      "normalized_text_sha256": "14f1b6503a5f17cdaae69aa7883ee13c67cbe17f72aa8929b34587cd665ce088"
+    },
+    {
+      "code": "AC9E2LY01",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "abcd77aad75bd38454fbc76b0a051f2cd8174f4023b9a07c201f786052c97b29"
+    },
+    {
+      "code": "AC9E2LY01",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "0380713db7b03c1cce52f2130176efd22008874de2f3f4df757a319450b7058e"
+    },
+    {
+      "code": "AC9E2LY01",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "55a307f8a282d26a8d8eb43455552f8ff3d82cd9436a51896747638051566deb"
+    },
+    {
+      "code": "AC9E2LY01",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "c87a498c848a11e4d9d217f49e84a4c3e85ce45eb2d0545029648fc3110c848a"
+    },
+    {
+      "code": "AC9E2LY02",
+      "label": "Learning goals",
+      "normalized_text_sha256": "a97fe15cce177d79f8bbbf76120c37f2172c1bf5f83204e9e6543b4c57aa6662"
+    },
+    {
+      "code": "AC9E2LY02",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "7cf890e3e6ef87d399e837197cafbea6076ee0da6e993506619c0adc928621f6"
+    },
+    {
+      "code": "AC9E2LY02",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "ead7faf038d32356d6fc5a6a349b5510640305cf87e249bb71d869a342b986c6"
+    },
+    {
+      "code": "AC9E2LY02",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "1409be740919311c3423462523456308d1038ed9bfc5829258599fea4791f126"
+    },
+    {
+      "code": "AC9E2LY02",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "f3d950bf085bd1ca3f6be3727d5bef2639dae699326968ae8629a4062402ff8d"
+    },
+    {
+      "code": "AC9E2LY03",
+      "label": "Learning goals",
+      "normalized_text_sha256": "20e6970f41e0db18f5cc79d827f996c58fdc598b319ddd141b63214e72622e48"
+    },
+    {
+      "code": "AC9E2LY03",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "5945012b004cae8ab27d47914f3f51af79f59521a147ecb8ce0f28d8bafc4418"
+    },
+    {
+      "code": "AC9E2LY03",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "5a025aa5d8f20a2f0100d2df6803c64f161dc1b1bfbeea1fc34cbdf826c1d405"
+    },
+    {
+      "code": "AC9E2LY03",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "84b93d56c2050c54387ae2d128ff1c075e92a71ab889963175c57bc0f809e96f"
+    },
+    {
+      "code": "AC9E2LY03",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "00b5ada929ab4c58fbc9929e70778dd383df7226464ec5d8d220d5427f9ccc59"
+    },
+    {
+      "code": "AC9E2LY04",
+      "label": "Learning goals",
+      "normalized_text_sha256": "7450a357582380825e202eebaee3b488458de3666cfc644dc3611e6a8b18c53d"
+    },
+    {
+      "code": "AC9E2LY04",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "de8c34c695704c730a99229f85bb37677e88e63c7baf51c97fe779ffc5a2d2c6"
+    },
+    {
+      "code": "AC9E2LY04",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "5c8fe7e7e794dfcb4695fff5c4d193d49f3c546aada6e5196cd0cd20eb267fc4"
+    },
+    {
+      "code": "AC9E2LY04",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "758892d9b94aab56ce0850b1bee1f1918ac9818f3754cd48ad37a41af97efc0a"
+    },
+    {
+      "code": "AC9E2LY04",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "47aa3d87e19e05d7bd9d85f12389d8e73340477c1f59bf7f43d94ec399549c00"
+    },
+    {
+      "code": "AC9E2LY05",
+      "label": "Learning goals",
+      "normalized_text_sha256": "3a06c4d9b740616587914868f19c6ae20cf7cac82ff7dd1ca5c8230305206496"
+    },
+    {
+      "code": "AC9E2LY05",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "de72c722ddd38fe9bbc1b705204f203e50ecb79ab18772b5af80786030958b05"
+    },
+    {
+      "code": "AC9E2LY05",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "d969a30c16d91c40186998fb4f5cb9cae616b2f422c6c3fdbe2d5000b5519ef1"
+    },
+    {
+      "code": "AC9E2LY05",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "170cf6f3957a0d92476f4cee8013dae4ce013db61d6c332dd6bd24aec9f2f588"
+    },
+    {
+      "code": "AC9E2LY05",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "126451e7f3acc23b47f42338cc6081cee5b86df3dfcf26c9daf8e198f5115531"
+    }
+  ],
+  "native_model_pins": [
+    {
+      "code": "AC9E2LE01",
+      "index": 1,
+      "html_sha256": "10d4481fcf5e08181079083ac2a90a059c67b9c964db08ad6dbbc1bdd07c94d3",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE01",
+      "index": 2,
+      "html_sha256": "60822f62cf29a6338edeb0bdd0a12c68414f9fb2f6251cbc88c1d2181182977e",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE01",
+      "index": 3,
+      "html_sha256": "60822f62cf29a6338edeb0bdd0a12c68414f9fb2f6251cbc88c1d2181182977e",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE02",
+      "index": 1,
+      "html_sha256": "eb17d14321dc522849c8624423e8d24fe1d0ac4fe9b33b7ff935bd1e0043fd94",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE03",
+      "index": 1,
+      "html_sha256": "4d187272c75602a466c089e4eb20e35c5b70b50c27526579c86f403d83da60f4",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE04",
+      "index": 1,
+      "html_sha256": "687b79dfdb1f9316818c5677cb422097fa534cacaeb50323fe82ef92d72803bc",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE04",
+      "index": 2,
+      "html_sha256": "f06094e6c42589267b755f5b9c6715913a477f106ccd6586b861a565a82fde18",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE04",
+      "index": 3,
+      "html_sha256": "f06094e6c42589267b755f5b9c6715913a477f106ccd6586b861a565a82fde18",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE04",
+      "index": 4,
+      "html_sha256": "f06094e6c42589267b755f5b9c6715913a477f106ccd6586b861a565a82fde18",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LE05",
+      "index": 1,
+      "html_sha256": "e183109736f7a776629fbf38254e64f76387b22e6afae23d66e29a7a99a2f632",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY01",
+      "index": 1,
+      "html_sha256": "7c5e4645074d0a27190abb050ffd264d052d7b30e0302ae5aa4f6d60111908e8",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY01",
+      "index": 2,
+      "html_sha256": "4c2dda1a895b6cc1ff027c62a2da22b767ff9a7833b809edf29a7c4c120b8d6f",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY01",
+      "index": 3,
+      "html_sha256": "4c2dda1a895b6cc1ff027c62a2da22b767ff9a7833b809edf29a7c4c120b8d6f",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY02",
+      "index": 1,
+      "html_sha256": "3d95fa94ead8b93e00e5bf9e9a0b4d6312c017a14db3d01d074eecd74bcef384",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY03",
+      "index": 1,
+      "html_sha256": "14d6b0862ccfc57ac0dabb7d750b6484bf309ee3c31c5b8361e32b9768cf4c70",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY04",
+      "index": 1,
+      "html_sha256": "d827f4a68706cff7fcafe5c8b7ef589f7a1cea903d56502d480aadfafe0d840b",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 1,
+      "html_sha256": "fa040c310d5a89cd528da9456d018142c40042c89a17dc73233bd236645d7a82",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 2,
+      "html_sha256": "70cc158e08079c49a9a968015b0c683056cbf937c5e4d6c9dff25666edc07a57",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 3,
+      "html_sha256": "2396ceabf28f775f301e685b16d702abeceb37150845ea6b0f95a25971df1982",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 4,
+      "html_sha256": "70cc158e08079c49a9a968015b0c683056cbf937c5e4d6c9dff25666edc07a57",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 5,
+      "html_sha256": "70cc158e08079c49a9a968015b0c683056cbf937c5e4d6c9dff25666edc07a57",
+      "semantic_content_review": "PASS; text, values, relationships and answer fit reviewed",
+      "hosted_pixels": "Separate fresh final review pending; not claimed here"
+    }
+  ],
+  "literal_svg_pins": [
+    {
+      "code": "AC9E2LE01",
+      "index": 1,
+      "literal_svg_sha256": "7a5dd76831d7e7a9805bace809905e98a27cca00a4de3d917ca61bbd028ee818",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LE02",
+      "index": 1,
+      "literal_svg_sha256": "1815c7c67d095ea4ead672a362a7a575dcc0944b450681285a2f5d70c155adfa",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LE03",
+      "index": 1,
+      "literal_svg_sha256": "91ed6027ea9df3e623361d2ba753ecb54e4a945ad8b34c7a3822698700c7976e",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LE04",
+      "index": 1,
+      "literal_svg_sha256": "d85d473c628c5a9d4a99f1969b032e15f28636e5de6fded7087637da42e7f562",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LE05",
+      "index": 1,
+      "literal_svg_sha256": "0f4d8e3ee4d6c7b8407938ac6105a3379314918fe680561aaed2b5297485032d",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LY01",
+      "index": 1,
+      "literal_svg_sha256": "3cfa9c75fc14ef78b8198e4e6c4d74edcddacc78f16234a26eed361d76f268c2",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LY02",
+      "index": 1,
+      "literal_svg_sha256": "a9e24d7bf6ef3500c01486ade108b279efa68a0dcbf42d1ec473ed68d5c42a28",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LY03",
+      "index": 1,
+      "literal_svg_sha256": "127e0e7e8810b7fc55a98eadff13329478cf4d3f4f03d7a6224160997fecc0e5",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LY04",
+      "index": 1,
+      "literal_svg_sha256": "94826308f68ebda52915d37232f266a53f971b2817c90b6f8db68cffc165c65a",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LY05",
+      "index": 1,
+      "literal_svg_sha256": "307d13a4a024f802d95ef0f90d7edfe9f4a6f0fee8913397eb483a4baf7458a0",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    }
+  ],
+  "assets": [
+    {
+      "path": "/assets/topic-visuals/year1/ac9e1ly05-feeder.png",
+      "bytes": 1892298,
+      "sha256": "c20a4edea2fbfd1f1b399a35bd6667c3306b68c69f7731c2895cba952acf45bf",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_identity": "PASS; exact baseline bytes",
+      "actual_pixel_inspection": "PASS; complete original opened individually; seeds pouring/hanging tray/bird are visible, species/next action not inferred"
+    }
+  ],
+  "local_svg_png_pins": [
+    {
+      "path": "independent-inline-renders/AC9E2LE01.png",
+      "bytes": 13454,
+      "sha256": "16d92ec8b4d6abe3a375387cf20720cb87134a494c99624de934923de2757c31"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LE02.png",
+      "bytes": 6725,
+      "sha256": "1e653718601c186cbc03bf53ca98f753c5f92d148d71788b6a89ff4ef42701b1"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LE03.png",
+      "bytes": 8733,
+      "sha256": "5ac738bd45b85bff8d7eb1a75a1479572215b613863bbbc53cd8adf9ec2d56a7"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LE04.png",
+      "bytes": 6690,
+      "sha256": "da8a17b4d715a20af80da4517f479427786ce5a37fc69bc9894d44af3d470212"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LE05.png",
+      "bytes": 16631,
+      "sha256": "d9c769c29974aa694b4c7ff29209c6927eadee2e217a66a862c8565508347752"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LY01.png",
+      "bytes": 16143,
+      "sha256": "a2feb25a42d0075c4899d4b7f4271e90a44b214ddc1417a86f6481cf8c05c7d6"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LY02.png",
+      "bytes": 13524,
+      "sha256": "f31d20c0c3e8e98133fc6bb89c7a6fa5eacb5444394b993529092fd260a60a8d"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LY03.png",
+      "bytes": 11754,
+      "sha256": "14af904df4d54f6f24377fb3c309d69e8018002da6b7450adc1dfa7a1179f52d"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LY04.png",
+      "bytes": 11356,
+      "sha256": "894431c54652d851ead05502dbc3ddef7e9d72a66d149c9eea5607630ae5b6df"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LY05.png",
+      "bytes": 7801,
+      "sha256": "d4256c5cee3414637626aad76f29703c785b82b3e1080e7763c4da306e49af2f"
+    }
+  ],
+  "changed_page_recheck_pins": [
+    {
+      "code": "AC9E2LE01",
+      "initial_review_checkpoint_sha256": "f7190b51bd7e0e9b4f4836a38c1864ee0aa78a44103f9132403a9affaefbf7bc",
+      "final_review_sha256": "f7190b51bd7e0e9b4f4836a38c1864ee0aa78a44103f9132403a9affaefbf7bc",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LE02",
+      "initial_review_checkpoint_sha256": "50956fa4f22b469c22a0ab262326af290f45d77f8ac708277883480918e2201a",
+      "final_review_sha256": "50956fa4f22b469c22a0ab262326af290f45d77f8ac708277883480918e2201a",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LE03",
+      "initial_review_checkpoint_sha256": "214925469a2faa09c9c64fdd74542974cf72fe23d94d796299c43a3f5606bc78",
+      "final_review_sha256": "214925469a2faa09c9c64fdd74542974cf72fe23d94d796299c43a3f5606bc78",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LE04",
+      "initial_review_checkpoint_sha256": "d1707a2cc9f436640755cf130d375acc9e830dd9c7b06d29af1badd34d6013b2",
+      "final_review_sha256": "c95dc3e6ee7b40c397598b9fbfcbba0fbd45819bfb620d9adf709e6f048bb5da",
+      "changed_since_initial_review_checkpoint": true
+    },
+    {
+      "code": "AC9E2LE05",
+      "initial_review_checkpoint_sha256": "ffd66209f2aa6eab5d031226b5a7fe087c6c135253d614a6b8eaecb474a67983",
+      "final_review_sha256": "26017cf0a57c20dd13df61fc2fa7ed59ae5a63b7b34cec62859e4a24dd53608b",
+      "changed_since_initial_review_checkpoint": true
+    },
+    {
+      "code": "AC9E2LY01",
+      "initial_review_checkpoint_sha256": "70e62d17799f248802c8ebf6f13c6e9e3a621f84f02ce65c8d82dbd89ed93fd7",
+      "final_review_sha256": "7093cad712dcf11bdd4968f5b9d18522e4bbf61b1ef61fb16e004fd400724700",
+      "changed_since_initial_review_checkpoint": true
+    },
+    {
+      "code": "AC9E2LY02",
+      "initial_review_checkpoint_sha256": "f9b5e3f37d8244d871cb7081d5a2955d509499fa2d7a2b462b20fdba130290e5",
+      "final_review_sha256": "f9b5e3f37d8244d871cb7081d5a2955d509499fa2d7a2b462b20fdba130290e5",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LY03",
+      "initial_review_checkpoint_sha256": "220415561a264f776c9d10480356184e1c3abcf9b448720a829d03ade7e8a181",
+      "final_review_sha256": "220415561a264f776c9d10480356184e1c3abcf9b448720a829d03ade7e8a181",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LY04",
+      "initial_review_checkpoint_sha256": "eae996c53f0a90ef9ae51a33660fca2a0ae586478f986438e672bd5995bfe09c",
+      "final_review_sha256": "eae996c53f0a90ef9ae51a33660fca2a0ae586478f986438e672bd5995bfe09c",
+      "changed_since_initial_review_checkpoint": false
+    },
+    {
+      "code": "AC9E2LY05",
+      "initial_review_checkpoint_sha256": "bf3e346b0f0ee746ffeac18fe29deba92d2f838dcb21bd230c607a4d4e9e2501",
+      "final_review_sha256": "bf3e346b0f0ee746ffeac18fe29deba92d2f838dcb21bd230c607a4d4e9e2501",
+      "changed_since_initial_review_checkpoint": false
+    }
+  ],
+  "support_sha256": {
+    "page-content.json": "c170e185dbd1c4db9d2ce14bd286f29f22e964c5f4308723c44a86510d253f8c",
+    "inventory.json": "84a98bb6d7612045f658e3b4c2101792466e6678634d56a9cf67bbde45fe9f5b",
+    "retained-additions.json": "6810cd33c455ff719e4c6849e01556de69dd515e63e3ce8da69f3da06e369aa9",
+    "retained-corrections.json": "de6188701de7200611dce14c69c41ca004275f13d40051a2ffb2b9699a213614",
+    "retained-section-identities.json": "ad112d2cec21356ad2267751df73a2ae6fa989e9a3f02c8cb3f2d97592a41eba",
+    "artwork-and-evidence.json": "d6efc3ecbf6d4910d23f370c5a3ccc11af855dd838728d05c4c99a265684419f",
+    "plan.json": "4eda3816a63a08c2631fe1d78572bf3e08bc5e35424598df82d3ac6387c5fe08",
+    "retained-inventory-plan.json": "654114cd60abe8f020f113fbf179752d8ae4dfbceb15a6cdc8129cc28df16327",
+    "supplemental-source-notes.json": "cda776629771412c3cdbb36fabd72c68bef1ed6566b1c927528193e1dea88d33"
+  },
+  "source_checker_sha256": "7413af5ac2aa50025c3dfe04c333af602adee5e87e5585772633cd6886df0bf7"
+}

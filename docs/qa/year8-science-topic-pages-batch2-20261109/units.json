@@ -1,0 +1,893 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8H04",
+    "title": "The role of science communication in informing individual viewpoints and...",
+    "unitSlug": "ac9s8h04-the-role-of-science-communication-in-informing-individual",
+    "sourceOrder": 630,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "explore the role of science communication in informing individual viewpoints and community policies and regulations",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8H04_E1",
+        "number": "E1",
+        "text": "investigating campaigns designed to increase rates of organ donation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E2",
+        "number": "E2",
+        "text": "exploring how seismic data is collected and shared between governments across the Asia-Pacific region and how governments use this data including for tsunami alerts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E3",
+        "number": "E3",
+        "text": "investigating how promotion of biodegradable materials and the importance of using them has informed individual viewpoints",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E4",
+        "number": "E4",
+        "text": "researching how science organisations and high-profile science communicators such as Professor Lisa Harvey-Smith or Dr Karl Kruszelnicki influence people’s attitudes to science",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8h04-the-role-of-science-communication-in-informing-individual/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8h04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8h04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8H04",
+        "label": "Content description",
+        "text": "explore the role of science communication in informing individual viewpoints and community policies and regulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E1",
+        "number": "E1",
+        "text": "investigating campaigns designed to increase rates of organ donation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E2",
+        "number": "E2",
+        "text": "exploring how seismic data is collected and shared between governments across the Asia-Pacific region and how governments use this data including for tsunami alerts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E3",
+        "number": "E3",
+        "text": "investigating how promotion of biodegradable materials and the importance of using them has informed individual viewpoints",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H04_E4",
+        "number": "E4",
+        "text": "researching how science organisations and high-profile science communicators such as Professor Lisa Harvey-Smith or Dr Karl Kruszelnicki influence people’s attitudes to science",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I01",
+    "title": "Develop investigable questions, reasoned predictions and hypotheses to explore scientific...",
+    "unitSlug": "ac9s8i01-develop-investigable-questions-reasoned-predictions-and",
+    "sourceOrder": 631,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I01_E1",
+        "number": "E1",
+        "text": "discussing what is meant by a causal relationship and examining how causation is different from correlation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E2",
+        "number": "E2",
+        "text": "developing investigable questions to test causal relationships, such as: ‘How does the concentration of a salt solution affect plant cells? How does the amount of sunlight affect the amount of electricity produced by a solar cell?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore scientific models, such as: ‘How do the shapes of the continents support the theory of plate tectonics?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E4",
+        "number": "E4",
+        "text": "predicting what will happen when conditions change in a given scenario or phenomenon, such as: ‘When materials of less resistance are used to transfer electricity there will be less heat energy produced’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E5",
+        "number": "E5",
+        "text": "formulating hypotheses such as: ‘An earthquake of greater magnitude will cause more damage because there is more energy transferred’",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i01-investigable-questions-predictions-hypotheses/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I01",
+        "label": "Content description",
+        "text": "develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E1",
+        "number": "E1",
+        "text": "discussing what is meant by a causal relationship and examining how causation is different from correlation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E2",
+        "number": "E2",
+        "text": "developing investigable questions to test causal relationships, such as: ‘How does the concentration of a salt solution affect plant cells? How does the amount of sunlight affect the amount of electricity produced by a solar cell?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore scientific models, such as: ‘How do the shapes of the continents support the theory of plate tectonics?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E4",
+        "number": "E4",
+        "text": "predicting what will happen when conditions change in a given scenario or phenomenon, such as: ‘When materials of less resistance are used to transfer electricity there will be less heat energy produced’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I01_E5",
+        "number": "E5",
+        "text": "formulating hypotheses such as: ‘An earthquake of greater magnitude will cause more damage because there is more energy transferred’",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I02",
+    "title": "Plan and conduct reproducible investigations to answer questions and test...",
+    "unitSlug": "ac9s8i02-plan-and-conduct-reproducible-investigations-to-answer",
+    "sourceOrder": 632,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I02_E1",
+        "number": "E1",
+        "text": "designing reproducible investigations that specifically test variables of the causal relationship and control the remaining variables",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E2",
+        "number": "E2",
+        "text": "identifying assumptions related to testing a hypothesis using analogous models, such as using dialysis tubing to model the properties of plant cell walls or a shake table to model the effects of an earthquake on buildings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E3",
+        "number": "E3",
+        "text": "explaining why safety procedures address identified risks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E4",
+        "number": "E4",
+        "text": "considering ethical issues relating to the access to and use of biological material and secondary data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E5",
+        "number": "E5",
+        "text": "acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance such as ceremonial grounds and traditional quarries, and ensuring they cause no harm to heritage sites and artefacts",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year8/science/ac9s8i02-plan-and-conduct-reproducible-investigations-to-answer/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I02",
+        "label": "Content description",
+        "text": "plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E1",
+        "number": "E1",
+        "text": "designing reproducible investigations that specifically test variables of the causal relationship and control the remaining variables",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E2",
+        "number": "E2",
+        "text": "identifying assumptions related to testing a hypothesis using analogous models, such as using dialysis tubing to model the properties of plant cell walls or a shake table to model the effects of an earthquake on buildings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E3",
+        "number": "E3",
+        "text": "explaining why safety procedures address identified risks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E4",
+        "number": "E4",
+        "text": "considering ethical issues relating to the access to and use of biological material and secondary data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I02_E5",
+        "number": "E5",
+        "text": "acknowledging and recognising First Nations Australians’ artefacts and heritage sites of significance such as ceremonial grounds and traditional quarries, and ensuring they cause no harm to heritage sites and artefacts",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I03",
+    "title": "Select and use equipment to generate and record data with...",
+    "unitSlug": "ac9s8i03-select-and-use-equipment-to-generate-and-record-data-with",
+    "sourceOrder": 633,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "select and use equipment to generate and record data with precision, using digital tools as appropriate",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I03_E1",
+        "number": "E1",
+        "text": "selecting and using equipment with required precision such as adjusting magnification to observe specific cell structures and recording this magnification and reading the bottom of the meniscus to determine the precise volume of liquid",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E2",
+        "number": "E2",
+        "text": "recording data with precision appropriate to the instrument such as rounding up or down with finer graduations or estimating an intermediate value with coarser graduations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E3",
+        "number": "E3",
+        "text": "using digital tools such as digital microscopes, simulations and video-recording devices when appropriate to observe, measure and record qualitative and quantitative data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E4",
+        "number": "E4",
+        "text": "using conventions related to dependent and independent variables with relevant units when constructing tables and spreadsheets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E5",
+        "number": "E5",
+        "text": "using appropriate positive and negative signs for standard units, number of decimal points and exponential notation where relevant when recording data",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I03",
+        "label": "Content description",
+        "text": "select and use equipment to generate and record data with precision, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E1",
+        "number": "E1",
+        "text": "selecting and using equipment with required precision such as adjusting magnification to observe specific cell structures and recording this magnification and reading the bottom of the meniscus to determine the precise volume of liquid",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E2",
+        "number": "E2",
+        "text": "recording data with precision appropriate to the instrument such as rounding up or down with finer graduations or estimating an intermediate value with coarser graduations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E3",
+        "number": "E3",
+        "text": "using digital tools such as digital microscopes, simulations and video-recording devices when appropriate to observe, measure and record qualitative and quantitative data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E4",
+        "number": "E4",
+        "text": "using conventions related to dependent and independent variables with relevant units when constructing tables and spreadsheets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I03_E5",
+        "number": "E5",
+        "text": "using appropriate positive and negative signs for standard units, number of decimal points and exponential notation where relevant when recording data",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I04",
+    "title": "Select and construct appropriate representations, including tables, graphs, models and...",
+    "unitSlug": "ac9s8i04-select-and-construct-appropriate-representations-including",
+    "sourceOrder": 634,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I04_E1",
+        "number": "E1",
+        "text": "using simple formulas in spreadsheets to organise and process collected data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E2",
+        "number": "E2",
+        "text": "using visual displays of large data sets, such as maps showing the location of volcanoes and earthquakes, charts showing the structure of body systems and graphs showing variable energy production, to identify temporal and spatial relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E3",
+        "number": "E3",
+        "text": "constructing graphs using correct conventions such as naming the graph and labelling the axes, using the horizontal axis for the independent variable and the vertical axis for the dependent variable",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E4",
+        "number": "E4",
+        "text": "constructing energy flow diagrams to represent energy changes in a system such as a rollercoaster or rocket launch",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E5",
+        "number": "E5",
+        "text": "constructing representations of chemical and physical changes, such as creating a visual model or symbolic representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E6",
+        "number": "E6",
+        "text": "collating data from a number of sources such as different groups in the class who performed the same investigation to create a summary",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E7",
+        "number": "E7",
+        "text": "examining the strengths and limitations of representations such as physical models, diagrams and virtual simulations and selecting the most appropriate representation to use",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i04-select-and-construct-appropriate-representations-including/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I04",
+        "label": "Content description",
+        "text": "select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E1",
+        "number": "E1",
+        "text": "using simple formulas in spreadsheets to organise and process collected data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E2",
+        "number": "E2",
+        "text": "using visual displays of large data sets, such as maps showing the location of volcanoes and earthquakes, charts showing the structure of body systems and graphs showing variable energy production, to identify temporal and spatial relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E3",
+        "number": "E3",
+        "text": "constructing graphs using correct conventions such as naming the graph and labelling the axes, using the horizontal axis for the independent variable and the vertical axis for the dependent variable",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E4",
+        "number": "E4",
+        "text": "constructing energy flow diagrams to represent energy changes in a system such as a rollercoaster or rocket launch",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E5",
+        "number": "E5",
+        "text": "constructing representations of chemical and physical changes, such as creating a visual model or symbolic representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E6",
+        "number": "E6",
+        "text": "collating data from a number of sources such as different groups in the class who performed the same investigation to create a summary",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I04_E7",
+        "number": "E7",
+        "text": "examining the strengths and limitations of representations such as physical models, diagrams and virtual simulations and selecting the most appropriate representation to use",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I05",
+    "title": "Analyse data and information to describe patterns, trends and relationships...",
+    "unitSlug": "ac9s8i05-analyse-data-and-information-to-describe-patterns-trends-and",
+    "sourceOrder": 635,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "analyse data and information to describe patterns, trends and relationships and identify anomalies",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I05_E1",
+        "number": "E1",
+        "text": "identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces a larger indentation’ and analysing this relationship for causality",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E2",
+        "number": "E2",
+        "text": "describing measures of central tendency such as mean, mode and median and identifying outliers for quantitative data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E3",
+        "number": "E3",
+        "text": "using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining anomalies such as periods of reduced output",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E4",
+        "number": "E4",
+        "text": "analysing changes in battery energy output following recharging over many cycles and relating to available chemical potential energy",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E5",
+        "number": "E5",
+        "text": "comparing temperature differences obtained by reacting different proportions of the same chemicals to determine if there is a relationship",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I05",
+        "label": "Content description",
+        "text": "analyse data and information to describe patterns, trends and relationships and identify anomalies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E1",
+        "number": "E1",
+        "text": "identifying correlational relationships in data such as: ‘Dropping a mass from a greater height produces a larger indentation’ and analysing this relationship for causality",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E2",
+        "number": "E2",
+        "text": "describing measures of central tendency such as mean, mode and median and identifying outliers for quantitative data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E3",
+        "number": "E3",
+        "text": "using spreadsheets to analyse second-hand data such as daily power output of solar panels and examining anomalies such as periods of reduced output",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E4",
+        "number": "E4",
+        "text": "analysing changes in battery energy output following recharging over many cycles and relating to available chemical potential energy",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I05_E5",
+        "number": "E5",
+        "text": "comparing temperature differences obtained by reacting different proportions of the same chemicals to determine if there is a relationship",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I06",
+    "title": "Analyse methods, conclusions and claims for assumptions, possible sources of...",
+    "unitSlug": "ac9s8i06-analyse-methods-conclusions-and-claims-for-assumptions-possible",
+    "sourceOrder": 636,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I06_E1",
+        "number": "E1",
+        "text": "identifying assumptions then examining if extra variable controls are required and how these might affect the data and conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E2",
+        "number": "E2",
+        "text": "identifying sources of error in methods such as inconsistent variable control and inaccuracies in procedures or measurements, and explaining how the method could be improved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E3",
+        "number": "E3",
+        "text": "comparing results with other groups or secondary sources to examine consistency and describing where there may be conflicting results or conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E4",
+        "number": "E4",
+        "text": "analysing conclusions or claims to determine if there are further questions which should be explored to verify the conclusion or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E5",
+        "number": "E5",
+        "text": "analysing conclusions to identify facts or premises that are taken for granted to be true, and discussing the reasonableness of those assumptions with others",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I06",
+        "label": "Content description",
+        "text": "analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E1",
+        "number": "E1",
+        "text": "identifying assumptions then examining if extra variable controls are required and how these might affect the data and conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E2",
+        "number": "E2",
+        "text": "identifying sources of error in methods such as inconsistent variable control and inaccuracies in procedures or measurements, and explaining how the method could be improved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E3",
+        "number": "E3",
+        "text": "comparing results with other groups or secondary sources to examine consistency and describing where there may be conflicting results or conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E4",
+        "number": "E4",
+        "text": "analysing conclusions or claims to determine if there are further questions which should be explored to verify the conclusion or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I06_E5",
+        "number": "E5",
+        "text": "analysing conclusions to identify facts or premises that are taken for granted to be true, and discussing the reasonableness of those assumptions with others",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I07",
+    "title": "Construct evidence-based arguments to support conclusions or evaluate claims and...",
+    "unitSlug": "ac9s8i07-construct-evidence-based-arguments-to-support-conclusions-or",
+    "sourceOrder": 637,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I07_E1",
+        "number": "E1",
+        "text": "evaluating the quality of evidence of primary and secondary sources used when constructing an argument to support a conclusion or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E2",
+        "number": "E2",
+        "text": "examining competing ideas, differences in methods and sources of error when constructing an argument",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E3",
+        "number": "E3",
+        "text": "acknowledging and considering the ethical issues or cultural protocols when using or citing secondary data, such as acknowledging sources and respecting cultural protocols around sharing of particular information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E4",
+        "number": "E4",
+        "text": "analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake area should be made of bamboo",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E5",
+        "number": "E5",
+        "text": "evaluating a claim that one brand of battery lasts longer than another brand of battery",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8i07-construct-evidence-based-arguments-to-support-conclusions-or/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I07",
+        "label": "Content description",
+        "text": "construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E1",
+        "number": "E1",
+        "text": "evaluating the quality of evidence of primary and secondary sources used when constructing an argument to support a conclusion or claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E2",
+        "number": "E2",
+        "text": "examining competing ideas, differences in methods and sources of error when constructing an argument",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E3",
+        "number": "E3",
+        "text": "acknowledging and considering the ethical issues or cultural protocols when using or citing secondary data, such as acknowledging sources and respecting cultural protocols around sharing of particular information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E4",
+        "number": "E4",
+        "text": "analysing what evidence would be necessary to support the conclusion that all buildings in an earthquake area should be made of bamboo",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I07_E5",
+        "number": "E5",
+        "text": "evaluating a claim that one brand of battery lasts longer than another brand of battery",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8I08",
+    "title": "And create texts to communicate ideas, findings and arguments for...",
+    "unitSlug": "ac9s8i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for",
+    "sourceOrder": 638,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8I08_E1",
+        "number": "E1",
+        "text": "exploring the role of active and passive voice in scientific writing and analysing contemporary journal articles to identify the use of language features such as voice or tense",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E2",
+        "number": "E2",
+        "text": "writing a report on a scientific investigation using appropriate scientific conventions and representations, including a discussion of how assumptions and possible sources of error may have affected the results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E3",
+        "number": "E3",
+        "text": "modifying the method for an investigation and explaining where and why the original was changed with reference to any assumptions and sources of error",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E4",
+        "number": "E4",
+        "text": "constructing a persuasive text on the use of artificial organs including scientific explanations and principles to influence a specified audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E5",
+        "number": "E5",
+        "text": "filming a documentary on the dynamic nature of the geosphere and selecting appropriate language, models or analogies to engage a specific audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E6",
+        "number": "E6",
+        "text": "creating a digital infographic to compare and contrast different forms of energy, highlighting examples of energy transfer and transformations within each",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E7",
+        "number": "E7",
+        "text": "acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the internal systems of organisms",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year8/science/ac9s8i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8i08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8i08-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8I08",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E1",
+        "number": "E1",
+        "text": "exploring the role of active and passive voice in scientific writing and analysing contemporary journal articles to identify the use of language features such as voice or tense",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E2",
+        "number": "E2",
+        "text": "writing a report on a scientific investigation using appropriate scientific conventions and representations, including a discussion of how assumptions and possible sources of error may have affected the results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E3",
+        "number": "E3",
+        "text": "modifying the method for an investigation and explaining where and why the original was changed with reference to any assumptions and sources of error",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E4",
+        "number": "E4",
+        "text": "constructing a persuasive text on the use of artificial organs including scientific explanations and principles to influence a specified audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E5",
+        "number": "E5",
+        "text": "filming a documentary on the dynamic nature of the geosphere and selecting appropriate language, models or analogies to engage a specific audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E6",
+        "number": "E6",
+        "text": "creating a digital infographic to compare and contrast different forms of energy, highlighting examples of energy transfer and transformations within each",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8I08_E7",
+        "number": "E7",
+        "text": "acknowledging and exploring First Nations Australians’ ways of communicating their understanding of the internal systems of organisms",
+        "questionEligible": false
+      }
+    ]
+  }
+]

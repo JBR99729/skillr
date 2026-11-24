@@ -1,0 +1,17 @@
+# Independent research and Topic Guide plan review
+
+10 November 2026 (Australia/Sydney). Reviewer: `/root/research_plan`, independent AI source/research reviewer, with no student-facing guide authorship.
+
+**PASS — READY TO DRAFT:** AC9E2LY06–LY12, each with three meaningful in-scope focuses. This is plan/source readiness only; final authored content, models and browser output still need their required independent checks.
+
+The seven exact official content descriptions and all19 elaborations were reopened on Scootle and crosschecked with the QCAA Year2 alignment. Every declared retained section was read:35 useful sections plus7 earlier SVG models. `retained-inventory-plan.json` records exact retained labels and same-code paid links before authoring.
+
+All74 saved research files match current metadata byte length and Git blob hash. All36 accepted dependency triples match Git blob, SHA256 and size. The historical research-missing file is a completed download queue, not74 missing sources. Three underlying shared packets referenced by later closures were fetched/read separately and their exact identities recorded in `reused-research.json`. The current shared compound/tone method packet, actual phoneme manipulation/encoding packet, and transcription methods support named gaps rather than merely inheriting an old SUFFICIENT label.
+
+LY06 compound meaning/complete-clause coverage is supported by actual later LA06 and shared Quill/UVic source routines; LY07 tone/rehearsal is supported by actual British Council contrast and feedback methods. LY09 deletion/substitution, complex sound preservation and separate encoding transfer are supported by the detailed code closure and NSW/FCRR source task data. LY08 handwriting evidence distinguishes actual pen movement and functional grasp from recognition. LY10 phonics methods, LY11 unusual-pattern/context reading, and LY12 prefix/suffix construction have retained directly observed task families plus current primary rechecks.
+
+Fresh primary reopens additionally checked ABC Tahlia actual suffix game, LiteracyHub explicit morphology/word-web application, multiple ea-sound generalisations, phonemic-awareness transcripts, Oak kn/thumb and compound tasks, and ABC audience/structure planning. No source media was heard/watched, no child performance was observed, and no fresh IXL adaptive progression is claimed. Older IXL methods remain within their recorded actual question/help limits. The old `svgSkillrHub-IXL-Research-Log.md` path returned404 in both research/site repositories; current per-code source registers and pinned closures supply the actual reusable evidence.
+
+Required bounded repairs and authoring safeguards: typed handwriting spacing example must be identified as typed, descenders may extend below the baseline, sound clusters are not single phonemes, igh is one vowel grapheme while t retains its own sound, compound/suffix patterns are not universal rules, and written response recognition does not establish spoken/handwriting mastery. These are encoded in the plan and must be verified in final content. All original learner prompts require complete visible evidence, or explicit adult preparation before any dependent performance task.
+
+No unresolved material source-method gap remains for this seven-guide plan. Source sufficiency does not certify new app banks, worksheets, teacher decks, software marking/progress or whole-year verification badges.

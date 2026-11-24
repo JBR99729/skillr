@@ -18,4 +18,6 @@
       {type:"single",question:"Which child shows the best understanding?",answers:["I must use exactly the same words with everyone.","I can choose words that fit who I am talking to and what is happening.","Only school words are correct."],answer:"I can choose words that fit who I am talking to and what is happening.",reason:"AC9EFLA01 is about choosing language that suits the relationship and context, not ranking home and school language.",hint:"Think about the person, place and purpose.",vocabulary:"situation"}
     ]
   };
+  // The renderer prints eight core questions and the two authored extension tasks.
+  banks.AC9EFLA01.questions.forEach((question, index) => { question.enrichment = index >= 8; });
 })();

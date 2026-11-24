@@ -9,6 +9,32 @@ export function appBanks(root = process.cwd()) {
   return new Map(JSON.parse(fs.readFileSync(path.join(root, 'data/app-question-banks.json'), 'utf8')).codes.map(bank => [bank.code, bank]));
 }
 
+// Search metadata follows the same published destinations as the visible page.
+// Retired /quiz/ aliases and paid product pages are not active learning parts.
+export function topicResourceParts(html, code, canonical, banks = appBanks()) {
+  const bank = banks.get(code);
+  const parts = new Map();
+  for (const href of hrefs(html)) {
+    let url;
+    try { url = new URL(href, canonical); } catch { continue; }
+    let type;
+    if (url.origin === 'https://app.skillrhub.com' && url.pathname === '/') {
+      if (bank?.assessment && url.searchParams.get('assessment') === code &&
+          !url.searchParams.has('skill')) type = 'Assessment';
+      if (bank?.practice && url.searchParams.get('skill') === code &&
+          url.searchParams.get(bank.guestPractice ? 'try' : 'login') === '1' &&
+          !url.searchParams.has('assessment')) type = 'Practice';
+    } else if (url.origin === 'https://skillrhub.com' &&
+        url.pathname.replace(/index\.html$/, '') === new URL('teacher-slides/', canonical).pathname) {
+      type = 'Teacher resource';
+    }
+    if (type && !parts.has(type)) parts.set(type, {
+      '@type': 'LearningResource', url: url.href, learningResourceType: type
+    });
+  }
+  return [...parts.values()];
+}
+
 // The main card no longer requires separate Practice and Test buttons. Published
 // practice uses its matching app bank; assessment is reached within that app.
 // If a page retains an assessment link, it must still match verified availability.
@@ -17,7 +43,20 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
   const bank = appBanks(root).get(code);
   const links = hrefs(html);
   const expected = `https://app.skillrhub.com/?${bank?.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
-  if (bank?.practice && !links.includes(expected)) errors.push(`${code}: missing published app practice link ${expected}`);
+  const canonical = html.match(/<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)/i)?.[1]?.replaceAll('&amp;', '&');
+  const matchingPractice = href => {
+    const url = new URL(href, 'https://skillrhub.com/');
+    if (url.searchParams.has('returnTo')) {
+      if (!canonical || url.searchParams.getAll('returnTo').length !== 1 || url.searchParams.get('returnTo') !== canonical) return false;
+      url.searchParams.delete('returnTo');
+    }
+    if (url.searchParams.has('starter')) {
+      if (code !== 'AC9M3M04' || !bank?.guestPractice || url.searchParams.getAll('starter').join(',') !== '5') return false;
+      url.searchParams.delete('starter');
+    }
+    return url.href === expected;
+  };
+  if (bank?.practice && !links.some(matchingPractice)) errors.push(`${code}: missing published app practice link ${expected}`);
   for (const href of links) {
     const url = new URL(href, 'https://skillrhub.com/');
     if (url.hostname === 'skillrhub.com' && /^\/quiz\/[^/]+\/[^/]+\/ac9[a-z0-9]+\/(practice|test|quiz)(?:\/|$)/i.test(url.pathname)) {
@@ -29,7 +68,7 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
     if (target !== code) { errors.push(`${code}: app activity points to another code (${target})`); continue; }
     if (url.searchParams.has('assessment')) {
       if (!bank?.assessment) errors.push(`${code}: advertises an unavailable assessment`);
-    } else if (!bank?.practice || href !== expected) errors.push(`${code}: practice access does not match published availability (${href})`);
+    } else if (!bank?.practice || !matchingPractice(href)) errors.push(`${code}: practice access does not match published availability (${href})`);
   }
   return errors;
 }

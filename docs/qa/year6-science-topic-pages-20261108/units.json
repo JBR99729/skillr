@@ -1,0 +1,1190 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6U01",
+    "title": "Investigate the physical conditions of a habitat and analyse how...",
+    "unitSlug": "ac9s6u01-investigate-the-physical-conditions-of-a-habitat-and-analyse-how",
+    "sourceOrder": 590,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6U01_E1",
+        "number": "E1",
+        "text": "identifying the physical conditions in an aquatic or terrestrial habitat and how they change over time",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E2",
+        "number": "E2",
+        "text": "investigating how changes to physical conditions such as salinity, soil type, sunlight or temperature affect plant growth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E3",
+        "number": "E3",
+        "text": "examining how changes in physical conditions such as temperature, light availability and rainfall affect animals, such as corals, honey bees or flying foxes, and predict impacts of these changes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E4",
+        "number": "E4",
+        "text": "investigating changes in physical conditions that are the result of human activity and exploring the impact of these on living things, such as the impact of urban lighting on nocturnal and migratory animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E5",
+        "number": "E5",
+        "text": "investigating the effect of physical conditions on the growth of bread mould colonies in sealed plastic bags",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E6",
+        "number": "E6",
+        "text": "recognising that environmental conditions can affect stages of life, such as ponds drying up, seeds requiring water to germinate, or temperatures being too hot or cold for eggs to hatch",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E7",
+        "number": "E7",
+        "text": "investigating First Nations Australians\u2019 knowledges and understandings of the physical conditions necessary for the survival of certain plants and animals",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year6/science/ac9s6u01-investigate-the-physical-conditions-of-a-habitat-and-analyse-how/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6U01",
+        "label": "Content description",
+        "text": "investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E1",
+        "number": "E1",
+        "text": "identifying the physical conditions in an aquatic or terrestrial habitat and how they change over time",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E2",
+        "number": "E2",
+        "text": "investigating how changes to physical conditions such as salinity, soil type, sunlight or temperature affect plant growth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E3",
+        "number": "E3",
+        "text": "examining how changes in physical conditions such as temperature, light availability and rainfall affect animals, such as corals, honey bees or flying foxes, and predict impacts of these changes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E4",
+        "number": "E4",
+        "text": "investigating changes in physical conditions that are the result of human activity and exploring the impact of these on living things, such as the impact of urban lighting on nocturnal and migratory animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E5",
+        "number": "E5",
+        "text": "investigating the effect of physical conditions on the growth of bread mould colonies in sealed plastic bags",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E6",
+        "number": "E6",
+        "text": "recognising that environmental conditions can affect stages of life, such as ponds drying up, seeds requiring water to germinate, or temperatures being too hot or cold for eggs to hatch",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U01_E7",
+        "number": "E7",
+        "text": "investigating First Nations Australians\u2019 knowledges and understandings of the physical conditions necessary for the survival of certain plants and animals",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6U02",
+    "title": "The movement of Earth and other planets relative to the...",
+    "unitSlug": "ac9s6u02-the-movement-of-earth-and-other-planets-relative-to-the",
+    "sourceOrder": 591,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "describe the movement of Earth and other planets relative to the sun and model how Earth\u2019s tilt, rotation on its axis and revolution around the sun relate to cyclic observable phenomena, including variable day and night length",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6U02_E1",
+        "number": "E1",
+        "text": "exploring simulations of the solar system such as a pocket solar system to appreciate the distances and relationships between the sun and planets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E2",
+        "number": "E2",
+        "text": "recognising the role of gravity in keeping the planets in orbit around the sun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E3",
+        "number": "E3",
+        "text": "using 3-dimensional models or role-play to model how Earth\u2019s rotation on its axis causes day and night",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E4",
+        "number": "E4",
+        "text": "using virtual simulations or real-time views of Earth from space to explore why different regions on Earth, such as the South Pole, experience long periods of sunlight or darkness over the cycle of one revolution of Earth around the sun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E5",
+        "number": "E5",
+        "text": "using 3-dimensional models to explore how the tilt of Earth points one hemisphere towards the sun and the other away at different times of the year, and predicting how this affects the amount of sunlight on the surface of different regions on Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E6",
+        "number": "E6",
+        "text": "researching First Nations Australians\u2019 understandings of the night sky and its use for timekeeping purposes as evidenced in oral cultural records, rock paintings, paintings and stone arrangements",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year6/science/ac9s6u02-the-movement-of-earth-and-other-planets-relative-to-the/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6U02",
+        "label": "Content description",
+        "text": "describe the movement of Earth and other planets relative to the sun and model how Earth\u2019s tilt, rotation on its axis and revolution around the sun relate to cyclic observable phenomena, including variable day and night length",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E1",
+        "number": "E1",
+        "text": "exploring simulations of the solar system such as a pocket solar system to appreciate the distances and relationships between the sun and planets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E2",
+        "number": "E2",
+        "text": "recognising the role of gravity in keeping the planets in orbit around the sun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E3",
+        "number": "E3",
+        "text": "using 3-dimensional models or role-play to model how Earth\u2019s rotation on its axis causes day and night",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E4",
+        "number": "E4",
+        "text": "using virtual simulations or real-time views of Earth from space to explore why different regions on Earth, such as the South Pole, experience long periods of sunlight or darkness over the cycle of one revolution of Earth around the sun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E5",
+        "number": "E5",
+        "text": "using 3-dimensional models to explore how the tilt of Earth points one hemisphere towards the sun and the other away at different times of the year, and predicting how this affects the amount of sunlight on the surface of different regions on Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U02_E6",
+        "number": "E6",
+        "text": "researching First Nations Australians\u2019 understandings of the night sky and its use for timekeeping purposes as evidenced in oral cultural records, rock paintings, paintings and stone arrangements",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6U03",
+    "title": "Investigate the transfer and transformation of energy in electrical circuits...",
+    "unitSlug": "ac9s6u03-investigate-the-transfer-and-transformation-of-energy-in",
+    "sourceOrder": 592,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components, insulators and conductors",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6U03_E1",
+        "number": "E1",
+        "text": "identifying necessary components for an electric circuit such as a source of electrical energy and conducting material such as metal wires",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E2",
+        "number": "E2",
+        "text": "constructing a real or virtual circuit to examine requirements to allow the flow of electricity, including exploring the construction and role of switches",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E3",
+        "number": "E3",
+        "text": "constructing representations of electrical circuits and their components using accepted conventions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E4",
+        "number": "E4",
+        "text": "examining the purpose of different components such as switches and bulbs and exploring use of ammeters to measure current",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E5",
+        "number": "E5",
+        "text": "investigating different electrical conductors and insulators and examining why they may be used",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E6",
+        "number": "E6",
+        "text": "exploring how electricity is used in the home and identifying electrical hazards and safety measures used to mitigate these hazards",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6u03-investigate-the-transfer-and-transformation-of-energy-in/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6U03",
+        "label": "Content description",
+        "text": "investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components, insulators and conductors",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E1",
+        "number": "E1",
+        "text": "identifying necessary components for an electric circuit such as a source of electrical energy and conducting material such as metal wires",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E2",
+        "number": "E2",
+        "text": "constructing a real or virtual circuit to examine requirements to allow the flow of electricity, including exploring the construction and role of switches",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E3",
+        "number": "E3",
+        "text": "constructing representations of electrical circuits and their components using accepted conventions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E4",
+        "number": "E4",
+        "text": "examining the purpose of different components such as switches and bulbs and exploring use of ammeters to measure current",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E5",
+        "number": "E5",
+        "text": "investigating different electrical conductors and insulators and examining why they may be used",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U03_E6",
+        "number": "E6",
+        "text": "exploring how electricity is used in the home and identifying electrical hazards and safety measures used to mitigate these hazards",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6U04",
+    "title": "Reversible changes, including dissolving and changes of state, and irreversible...",
+    "unitSlug": "ac9s6u04-reversible-changes-including-dissolving-and-changes-of-state",
+    "sourceOrder": 593,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting that produce new substances",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6U04_E1",
+        "number": "E1",
+        "text": "discussing what makes a change reversible or irreversible, using everyday examples",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E2",
+        "number": "E2",
+        "text": "examining the substances produced in cooking and rusting and comparing them with the original substances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E3",
+        "number": "E3",
+        "text": "comparing how the amount of heat energy added affects whether a change in state or an irreversible change occurs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E4",
+        "number": "E4",
+        "text": "describing how dissolved substances are reclaimed from solutions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E5",
+        "number": "E5",
+        "text": "exploring how reversible changes can be used to recycle materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E6",
+        "number": "E6",
+        "text": "investigating First Nations Australians\u2019 knowledges of reversible processes such as the application of adhesives and of irreversible processes such as the use of fuels for torches",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year6/science/ac9s6u04-reversible-changes-including-dissolving-and-changes-of-state/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6U04",
+        "label": "Content description",
+        "text": "compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting that produce new substances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E1",
+        "number": "E1",
+        "text": "discussing what makes a change reversible or irreversible, using everyday examples",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E2",
+        "number": "E2",
+        "text": "examining the substances produced in cooking and rusting and comparing them with the original substances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E3",
+        "number": "E3",
+        "text": "comparing how the amount of heat energy added affects whether a change in state or an irreversible change occurs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E4",
+        "number": "E4",
+        "text": "describing how dissolved substances are reclaimed from solutions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E5",
+        "number": "E5",
+        "text": "exploring how reversible changes can be used to recycle materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6U04_E6",
+        "number": "E6",
+        "text": "investigating First Nations Australians\u2019 knowledges of reversible processes such as the application of adhesives and of irreversible processes such as the use of fuels for torches",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6H01",
+    "title": "Examine why advances in science are often the result of...",
+    "unitSlug": "ac9s6h01-examine-why-advances-in-science-are-often-the-result-of",
+    "sourceOrder": 594,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "examine why advances in science are often the result of collaboration or build on the work of others",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6H01_E1",
+        "number": "E1",
+        "text": "investigating how contemporary restorative ecology adapts and builds on the traditional ecological knowledges of First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S6H01_E2",
+        "number": "E2",
+        "text": "exploring how international scientific collaboration can answer complex questions about the abiotic factors that affect the growth and survival of living things in Antarctica",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E3",
+        "number": "E3",
+        "text": "examining why ecologists collaborate with engineers and computer scientists to develop remote sensing techniques, identify patterns in habitat change and make predictions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E4",
+        "number": "E4",
+        "text": "constructing a timeline to show how contributions and collaboration of scientists, mathematicians and astronomers from many countries have advanced our ideas about space and the solar system through development of models, gathering of evidence and, more recently, space exploration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E5",
+        "number": "E5",
+        "text": "investigating how astronauts and scientists from many different countries have collaborated in the International Space Station program",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E6",
+        "number": "E6",
+        "text": "investigating why scientists changed the phosphate levels in detergents to prevent algal blooms",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6h01-examine-why-advances-in-science-are-often-the-result-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6H01",
+        "label": "Content description",
+        "text": "examine why advances in science are often the result of collaboration or build on the work of others",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E1",
+        "number": "E1",
+        "text": "investigating how contemporary restorative ecology adapts and builds on the traditional ecological knowledges of First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S6H01_E2",
+        "number": "E2",
+        "text": "exploring how international scientific collaboration can answer complex questions about the abiotic factors that affect the growth and survival of living things in Antarctica",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E3",
+        "number": "E3",
+        "text": "examining why ecologists collaborate with engineers and computer scientists to develop remote sensing techniques, identify patterns in habitat change and make predictions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E4",
+        "number": "E4",
+        "text": "constructing a timeline to show how contributions and collaboration of scientists, mathematicians and astronomers from many countries have advanced our ideas about space and the solar system through development of models, gathering of evidence and, more recently, space exploration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E5",
+        "number": "E5",
+        "text": "investigating how astronauts and scientists from many different countries have collaborated in the International Space Station program",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H01_E6",
+        "number": "E6",
+        "text": "investigating why scientists changed the phosphate levels in detergents to prevent algal blooms",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6H02",
+    "title": "Investigate how scientific knowledge is used by individuals and communities...",
+    "unitSlug": "ac9s6h02-investigate-how-scientific-knowledge-is-used-by-individuals-and",
+    "sourceOrder": 595,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6H02_E1",
+        "number": "E1",
+        "text": "exploring how communities consider the impact of aquatic noise pollution when designing guidelines for water sports",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E2",
+        "number": "E2",
+        "text": "investigating how people use knowledge of conditions that reduce mould or bacterial growth when considering food packaging and storage",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E3",
+        "number": "E3",
+        "text": "considering how people use electrical device guidelines to help ensure safety of children",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E4",
+        "number": "E4",
+        "text": "investigating why underground power cables were developed and how local government authorities use scientific knowledge about power safety when considering converting to underground power",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6H02",
+        "label": "Content description",
+        "text": "investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E1",
+        "number": "E1",
+        "text": "exploring how communities consider the impact of aquatic noise pollution when designing guidelines for water sports",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E2",
+        "number": "E2",
+        "text": "investigating how people use knowledge of conditions that reduce mould or bacterial growth when considering food packaging and storage",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E3",
+        "number": "E3",
+        "text": "considering how people use electrical device guidelines to help ensure safety of children",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6H02_E4",
+        "number": "E4",
+        "text": "investigating why underground power cables were developed and how local government authorities use scientific knowledge about power safety when considering converting to underground power",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I01",
+    "title": "Investigable questions to identify patterns and test relationships and make...",
+    "unitSlug": "ac9s6i01-investigable-questions-to-identify-patterns-and-test",
+    "sourceOrder": 596,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I01_E1",
+        "number": "E1",
+        "text": "posing investigable questions to identify patterns, such as: \u2018What type of material is the best conductor and what is the best insulator?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E2",
+        "number": "E2",
+        "text": "posing investigable questions to test relationships, such as: \u2018Will more salt dissolve in warm water than in cold water?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E3",
+        "number": "E3",
+        "text": "discussing and refining questions to enable scientific investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E4",
+        "number": "E4",
+        "text": "making reasoned predictions about the physical conditions that will result in the largest mould colonies growing on bread",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E5",
+        "number": "E5",
+        "text": "making reasoned predictions about electrical circuit function based on a picture or diagram of a circuit",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6i01-investigable-questions-to-identify-patterns-and-test/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I01",
+        "label": "Content description",
+        "text": "pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E1",
+        "number": "E1",
+        "text": "posing investigable questions to identify patterns, such as: \u2018What type of material is the best conductor and what is the best insulator?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E2",
+        "number": "E2",
+        "text": "posing investigable questions to test relationships, such as: \u2018Will more salt dissolve in warm water than in cold water?\u2019",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E3",
+        "number": "E3",
+        "text": "discussing and refining questions to enable scientific investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E4",
+        "number": "E4",
+        "text": "making reasoned predictions about the physical conditions that will result in the largest mould colonies growing on bread",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I01_E5",
+        "number": "E5",
+        "text": "making reasoned predictions about electrical circuit function based on a picture or diagram of a circuit",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I02",
+    "title": "Plan and conduct repeatable investigations to answer questions including, as...",
+    "unitSlug": "ac9s6i02-plan-and-conduct-repeatable-investigations-to-answer-questions",
+    "sourceOrder": 597,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct repeatable investigations to answer questions including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I02_E1",
+        "number": "E1",
+        "text": "considering different ways to approach investigations including researching, using trial and error, experimental testing, field observations, accessing digital tools to collect and manage data and using virtual simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E2",
+        "number": "E2",
+        "text": "determining which is the variable being tested and which variable is being measured, and which other variables might affect their investigations and need to be kept the same",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E3",
+        "number": "E3",
+        "text": "identifying potential risks to themselves or others when conducting an investigation and explaining rules for safe processes and use of equipment and materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E4",
+        "number": "E4",
+        "text": "consulting with First Nations Australians land councils in seeking permissions to conduct scientific investigations on traditional Lands and seeking guidance regarding culturally sensitive locations during field work",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year6/science/ac9s6i02-plan-and-conduct-repeatable-investigations-to-answer-questions/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I02",
+        "label": "Content description",
+        "text": "plan and conduct repeatable investigations to answer questions including, as appropriate, deciding the variables to be changed, measured and controlled in fair tests; describing potential risks; planning for the safe use of equipment and materials; and identifying required permissions to conduct investigations on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E1",
+        "number": "E1",
+        "text": "considering different ways to approach investigations including researching, using trial and error, experimental testing, field observations, accessing digital tools to collect and manage data and using virtual simulations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E2",
+        "number": "E2",
+        "text": "determining which is the variable being tested and which variable is being measured, and which other variables might affect their investigations and need to be kept the same",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E3",
+        "number": "E3",
+        "text": "identifying potential risks to themselves or others when conducting an investigation and explaining rules for safe processes and use of equipment and materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I02_E4",
+        "number": "E4",
+        "text": "consulting with First Nations Australians land councils in seeking permissions to conduct scientific investigations on traditional Lands and seeking guidance regarding culturally sensitive locations during field work",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I03",
+    "title": "Equipment to observe, measure and record data with reasonable precision...",
+    "unitSlug": "ac9s6i03-equipment-to-observe-measure-and-record-data-with-reasonable",
+    "sourceOrder": 598,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I03_E1",
+        "number": "E1",
+        "text": "selecting and using instruments with the correct scale for measuring data with appropriate accuracy, such as a multimeter",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E2",
+        "number": "E2",
+        "text": "recording data in tables and diagrams or electronically as digital images and spreadsheets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E3",
+        "number": "E3",
+        "text": "discussing why precision is important in measurement, and the possible effect of low precision on investigation findings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E4",
+        "number": "E4",
+        "text": "recording data using standard units, such as volt, ampere, gram, second and metre, and developing the use of standard prefixes for metric units such as kilo- and milli-",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E5",
+        "number": "E5",
+        "text": "using digital tools such as digital thermometers or soil moisture probes to collect data over time and record data in spreadsheets",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6i03-equipment-to-observe-measure-and-record-data-with-reasonable/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I03",
+        "label": "Content description",
+        "text": "use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E1",
+        "number": "E1",
+        "text": "selecting and using instruments with the correct scale for measuring data with appropriate accuracy, such as a multimeter",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E2",
+        "number": "E2",
+        "text": "recording data in tables and diagrams or electronically as digital images and spreadsheets",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E3",
+        "number": "E3",
+        "text": "discussing why precision is important in measurement, and the possible effect of low precision on investigation findings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E4",
+        "number": "E4",
+        "text": "recording data using standard units, such as volt, ampere, gram, second and metre, and developing the use of standard prefixes for metric units such as kilo- and milli-",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I03_E5",
+        "number": "E5",
+        "text": "using digital tools such as digital thermometers or soil moisture probes to collect data over time and record data in spreadsheets",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I04",
+    "title": "Construct and use appropriate representations, including tables, graphs and visual...",
+    "unitSlug": "ac9s6i04-construct-and-use-appropriate-representations-including-tables",
+    "sourceOrder": 599,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I04_E1",
+        "number": "E1",
+        "text": "exploring how different representations can be used to show different aspects of relationships, processes and trends",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E2",
+        "number": "E2",
+        "text": "representing circuits using virtual simulations or circuit diagrams and indicating the direction of electricity flow",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E3",
+        "number": "E3",
+        "text": "using line graphs to show changes in growth over time under different physical conditions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E4",
+        "number": "E4",
+        "text": "developing a physical model of the sun and Earth using objects or role-play to describe their relative positions when a place on Earth is in day or night",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E5",
+        "number": "E5",
+        "text": "organising information in graphic organisers to describe patterns and trends",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6i04-construct-and-use-appropriate-representations-including-tables/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I04",
+        "label": "Content description",
+        "text": "construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information and describe patterns, trends and relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E1",
+        "number": "E1",
+        "text": "exploring how different representations can be used to show different aspects of relationships, processes and trends",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E2",
+        "number": "E2",
+        "text": "representing circuits using virtual simulations or circuit diagrams and indicating the direction of electricity flow",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E3",
+        "number": "E3",
+        "text": "using line graphs to show changes in growth over time under different physical conditions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E4",
+        "number": "E4",
+        "text": "developing a physical model of the sun and Earth using objects or role-play to describe their relative positions when a place on Earth is in day or night",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I04_E5",
+        "number": "E5",
+        "text": "organising information in graphic organisers to describe patterns and trends",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I05",
+    "title": "Methods and findings with those of others, recognise possible sources...",
+    "unitSlug": "ac9s6i05-methods-and-findings-with-those-of-others-recognise-possible",
+    "sourceOrder": 600,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I05_E1",
+        "number": "E1",
+        "text": "working collaboratively to identify the strengths and weaknesses of their own and others\u2019 investigations including where testing was not fair and practices could be improved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E2",
+        "number": "E2",
+        "text": "recognising errors that could have occurred during investigations, including changing too many variables, incorrect or misreading of measurements, or changes in environmental factors",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E3",
+        "number": "E3",
+        "text": "comparing and contrasting data collected by different individuals or groups to discuss similarities and differences in their findings and posing questions about differences for further investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E4",
+        "number": "E4",
+        "text": "comparing and contrasting evidence selected by different individuals or groups from similar data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E5",
+        "number": "E5",
+        "text": "evaluating the inferences made from observations and analysis of the data to draw a reasoned conclusion",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6i05-methods-and-findings-with-those-of-others-recognise-possible/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I05",
+        "label": "Content description",
+        "text": "compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E1",
+        "number": "E1",
+        "text": "working collaboratively to identify the strengths and weaknesses of their own and others\u2019 investigations including where testing was not fair and practices could be improved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E2",
+        "number": "E2",
+        "text": "recognising errors that could have occurred during investigations, including changing too many variables, incorrect or misreading of measurements, or changes in environmental factors",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E3",
+        "number": "E3",
+        "text": "comparing and contrasting data collected by different individuals or groups to discuss similarities and differences in their findings and posing questions about differences for further investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E4",
+        "number": "E4",
+        "text": "comparing and contrasting evidence selected by different individuals or groups from similar data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I05_E5",
+        "number": "E5",
+        "text": "evaluating the inferences made from observations and analysis of the data to draw a reasoned conclusion",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 6",
+    "levelLabel": "Year 6",
+    "yearNumber": 6,
+    "yearFolder": "year6",
+    "quizYearSegment": "year-6",
+    "code": "AC9S6I06",
+    "title": "And create texts to communicate ideas and findings for specific...",
+    "unitSlug": "ac9s6i06-and-create-texts-to-communicate-ideas-and-findings-for-specific",
+    "sourceOrder": 601,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate",
+    "levelDescription": "In Year 6 students develop an understanding of interdependencies between systems as they explore the relationship between physical conditions of habitats and the growth and survival of living things and investigate the effect of the relative positions of Earth and the sun on phenomena such as day length. They identify and classify components in electrical circuits and learn to describe energy flows in terms of transfer and transformation. They are introduced to ways to classify changes to substances. Students begin to appreciate the role of controlling variables in fair testing and the value of accuracy in measurements. They generalise about relationships between events, phenomena and systems and use identified patterns, trends and relationships to develop scientific explanations and draw reasoned conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How would life be different if we couldn\u2019t harness electrical energy? What if Earth were not on a tilt? Are you more likely to win a Nobel prize in science as a team or an individual? Why is it important for a test to be \u2018fair\u2019? How does the weather affect local habitats?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S6I06_E1",
+        "number": "E1",
+        "text": "constructing a scientific report to share findings, such as how plants responded to changes in physical conditions such as temperature or salinity, and using appropriate vocabulary, data representations, units and sentence structures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E2",
+        "number": "E2",
+        "text": "creating an imaginative text about a future in which humans live on other planets with differing day lengths, and how they manage the social implications of this, such as keeping track of time or calculating human ages",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E3",
+        "number": "E3",
+        "text": "acknowledging and exploring First Nations Australians\u2019 ways of representing and communicating understandings of the night sky and its use for timekeeping purposes through rock paintings, paintings and stone arrangements",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S6I06_E4",
+        "number": "E4",
+        "text": "designing a product that uses electrical circuits and performing a sales pitch to have the product mass produced",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E5",
+        "number": "E5",
+        "text": "constructing a poster or slideshow comparing everyday examples of reversible and irreversible change",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year6/science/ac9s6i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-6/science/ac9s6i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year6/science/teacher-slides/ac9s6i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S6I06",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E1",
+        "number": "E1",
+        "text": "constructing a scientific report to share findings, such as how plants responded to changes in physical conditions such as temperature or salinity, and using appropriate vocabulary, data representations, units and sentence structures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E2",
+        "number": "E2",
+        "text": "creating an imaginative text about a future in which humans live on other planets with differing day lengths, and how they manage the social implications of this, such as keeping track of time or calculating human ages",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E3",
+        "number": "E3",
+        "text": "acknowledging and exploring First Nations Australians\u2019 ways of representing and communicating understandings of the night sky and its use for timekeeping purposes through rock paintings, paintings and stone arrangements",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S6I06_E4",
+        "number": "E4",
+        "text": "designing a product that uses electrical circuits and performing a sales pitch to have the product mass produced",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S6I06_E5",
+        "number": "E5",
+        "text": "constructing a poster or slideshow comparing everyday examples of reversible and irreversible change",
+        "questionEligible": true
+      }
+    ]
+  }
+]

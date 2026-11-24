@@ -1,0 +1,668 @@
+[
+  {
+    "code": "AC9S8H04",
+    "short": "Science communication and decisions",
+    "title": "Follow evidence into a public decision",
+    "intro": "Explore how accurate science messages can inform individual viewpoints, community policies and regulations, while other considerations also shape decisions.",
+    "exampleTitle": "A popular message is not a measured change of mind",
+    "example": "A hypothetical school refill-station pilot recorded 120 discarded bottles on a baseline day and 70 on a pilot day: 50 fewer, about 41.7% of the baseline count. Different attendance or events could also affect the counts. A message was delivered to 400 families; 60 voluntarily replied and 45 supported the proposal. That is 75% of respondents, not 75% of all families. Neither record measures a change in individual viewpoints. The school can communicate this limited evidence and seek broader feedback before deciding its own policy.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied hypothetical record</th><th scope=\"col\">What it supports</th><th scope=\"col\">What it does not establish</th></tr></thead><tbody><tr><td>Discarded bottles: 120 → 70</td><td>50 fewer; about 41.7% lower count</td><td>Total environmental impact or a cause isolated by the study</td></tr><tr><td>400 messages delivered; 60 replies; 45 supportive</td><td>45/60 = 75% of respondents supported the proposal</td><td>400 readers, representative support or changed viewpoints</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Match message, audience and evidence",
+        "A family notice needs clear quantities, a traceable source and an explanation of uncertainty. A technical report can add counting methods, dates and attendance. Both must preserve the same findings. Credibility comes from relevant expertise, transparent methods and evidence, rather than a striking image or famous speaker.",
+        "<div class=\"evidence\">Draft headline: “Refill station cuts all plastic impacts by 42%.” Only the two bottle counts above are supplied.</div>",
+        "Rewrite the headline accurately.",
+        "“The pilot day had about 42% fewer discarded bottles than the baseline day.” Add that these are two days of counts, not a measure of all plastic impacts or proof the station alone caused the difference."
+      ],
+      [
+        "Distinguish reach from influence",
+        "Delivery is possible reach; reading, understanding, trust, viewpoint and behaviour are different outcomes. To investigate influence, compare ethically collected before/after viewpoints using the same question and consider other events, non-response and voluntary participation. A change after a message does not by itself isolate the message as its cause.",
+        "<div class=\"evidence\">Of 60 voluntary respondents, 45 support the proposal. No earlier viewpoint survey was taken.</div>",
+        "Can you say the message persuaded 45 families?",
+        "No. They may already have supported it, and other influences are unknown. Report 45 supportive replies and explain the missing baseline and self-selection."
+      ],
+      [
+        "Explain the route to a rule",
+        "A policy sets an organisation’s direction; a regulation is a rule made by an authorised body. Scientific communication can inform both. Decision-makers also consider access, cost, rights, feasibility and community values. Consultation lets people question evidence and explain effects on them; a large response count does not automatically create a regulation.",
+        "<div class=\"evidence\">The school can decide its refill-station arrangements. A hypothetical council is considering a separate public-place rule and asks for evidence, costs and access concerns.</div>",
+        "Why would the council need more than the school’s support percentage?",
+        "It needs evidence relevant to public places, who responded, likely benefits and burdens, access, costs and the authority and process for the decision. School feedback can inform discussion but does not determine a council regulation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Delivered means persuaded.”",
+        "A delivered message may not be read, understood or change a viewpoint."
+      ],
+      [
+        "“75% support is the community view.”",
+        "Name the denominator: this is 75% of 60 voluntary respondents."
+      ],
+      [
+        "“Science alone creates regulations.”",
+        "Evidence informs a decision that also involves authority, values and practical considerations."
+      ]
+    ],
+    "activityTitle": "Create a balanced family notice",
+    "activity": "Write a short notice using both supplied records. Include the count reduction, the correct response denominator, one uncertainty and a voluntary invitation for feedback. Add a second sentence explaining one access or cost issue the school should consider.",
+    "adjust": "Support: use “Of the … respondents”. Core: separate findings from recommendations. Extend: propose a privacy-respecting way to investigate viewpoint change and a possible confound.",
+    "safety": "Use the fictional records. Do not collect personal opinions or identify families for this paper activity.",
+    "tricky": [
+      [
+        "Is 45/400 = 11.25% also correct?",
+        "Yes: supportive replies were received from 11.25% of all recipients. It does not tell you the opinions of those who did not reply."
+      ],
+      [
+        "Could a clear, accurate message fail to change a viewpoint?",
+        "Yes. People may already agree, weigh other considerations differently or lack the resources to act. Accuracy and influence are separate questions."
+      ],
+      [
+        "If a message hides uncertainty to win support, is it effective science communication?",
+        "It may attract support but misrepresents the evidence. Explain what is known, what remains uncertain and what action is justified."
+      ]
+    ],
+    "faq": [
+      [
+        "Must every message contain every technical detail?",
+        "No. Select relevant detail for the audience, preserve meaning and uncertainty, and provide a route to the fuller evidence."
+      ],
+      [
+        "Does disagreement mean the evidence is useless?",
+        "No. Examine whether people disagree about the evidence, its interpretation or the values and trade-offs in the decision."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I01",
+    "short": "Investigable questions and hypotheses",
+    "title": "Turn a pattern into a testable question",
+    "intro": "Develop measurable questions, explanatory hypotheses and reasoned predictions to test models, patterns and relationships.",
+    "exampleTitle": "A model prediction is a result to test",
+    "example": "An original hypothetical spring model gives extensions of 2, 4 and 6 mm for added masses of 10, 20 and 30 g. Extension means length minus the unloaded length. Assume this model proposes proportional extension within a stated 0–40 g elastic range. It predicts 8 mm at 40 g, but no 40 g result is supplied. A possible explanation is that greater weight stretches the elastic spring further until its restoring force balances the load. The prediction and explanation must be checked; these paper records do not establish a universal rule for springs.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Added mass (g)</th><th scope=\"col\">Supplied extension (mm)</th><th scope=\"col\">Evidence status</th></tr></thead><tbody><tr><td>10</td><td>2</td><td>Hypothetical observation</td></tr><tr><td>20</td><td>4</td><td>Hypothetical observation</td></tr><tr><td>30</td><td>6</td><td>Hypothetical observation</td></tr><tr><td>40</td><td>8</td><td>Prediction from the stated model; not observed</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Ask a measurable, feasible question",
+        "Replace “Is this a good spring?” with “How does added mass from 10 to 40 g affect the extension of this spring after it settles?” Identify the changed quantity, measured response and conditions. Keep the same spring, unloaded reference, vertical support and measurement method. Feasibility includes suitable equipment, time, safety and ethics.",
+        "<div class=\"evidence\">Proposed question: “Does a heavier load change the colour and extension of any spring anywhere?”</div>",
+        "What makes the worked question more investigable?",
+        "It specifies one spring, a mass range and extension measured from a defined reference after settling. The broad question mixes outcomes and an unlimited population without a feasible method."
+      ],
+      [
+        "Separate hypothesis and prediction",
+        "A prediction states an expected observation. A hypothesis offers a testable explanation that generates predictions. Here, a greater load is expected to produce greater extension because an elastic spring must deform further to exert a greater balancing restoring force. The exact 8 mm prediction additionally depends on the supplied proportional model.",
+        "<div class=\"evidence\">Statement A: “At 40 g the extension will be 8 mm.” Statement B: “Within the elastic range, a larger load stretches this spring further because a larger restoring force is needed to balance it.”</div>",
+        "Which is the numerical prediction and which provides an explanatory hypothesis?",
+        "A is the prediction. B supplies an explanatory hypothesis. Neither is an observed result; the explanation of increasing stretch alone does not determine the exact numerical factor."
+      ],
+      [
+        "Test a pattern and its limits",
+        "Use a model to predict, collect suitable evidence, then compare. A 40 g reading different from 8 mm would prompt checks of the zero reference, settling and elastic-range assumption. It could require revising the model. In observational datasets, two quantities changing together may have another cause; a pattern alone does not isolate causation.",
+        "<div class=\"evidence\">A separate observational record shows ice-cream sales and sunburn cases both rising during hot sunny weather.</div>",
+        "Does that pattern show ice-cream causes sunburn?",
+        "No. Weather can influence both. It can generate questions, but a causal claim needs evidence that addresses alternative explanations."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A hypothesis is an unexplained guess.”",
+        "Give a testable explanation and show what observations it predicts."
+      ],
+      [
+        "“8 mm is already a measured result.”",
+        "It is a conditional prediction in the supplied model."
+      ],
+      [
+        "“Every pattern proves cause.”",
+        "Check design, confounding factors and the scope of the data."
+      ]
+    ],
+    "activityTitle": "Design a model check on paper",
+    "activity": "Write the spring question, name the changed and measured variables and two controls, then give a reasoned 40 g prediction. State one observation that would challenge the proportional model and one check you would make before revising it.",
+    "adjust": "Support: use question/prediction/hypothesis cards. Core: explain the prediction’s assumptions. Extend: write a useful observational question where changing the variable experimentally would be inappropriate.",
+    "safety": "This is a paper model task. Any real spring investigation needs teacher-approved loads, equipment and safe limits; no stretching or hanging loads is required here.",
+    "tricky": [
+      [
+        "Can a useful hypothesis be unsupported by the results?",
+        "Yes. A careful test can reject or qualify an explanation and guide a better one; the investigation has still provided information."
+      ],
+      [
+        "Does doubling mass always double extension?",
+        "No. That is a feature of this stated proportional model within its assumed range, not a rule for every spring or every load."
+      ],
+      [
+        "Can scientists investigate without deliberately changing a variable?",
+        "Yes. Observational studies and model comparisons can test patterns where experiments are impractical or unethical, with appropriate limits on causal conclusions."
+      ]
+    ],
+    "faq": [
+      [
+        "Must a hypothesis use “if–then–because”?",
+        "No. That frame can help organise a testable explanation, but scientific meaning matters more than the sentence pattern."
+      ],
+      [
+        "Is a value question useless?",
+        "No. Values matter in decisions, but measurements alone cannot decide what a community should value."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I02",
+    "short": "Reproducible and responsible investigations",
+    "title": "Plan a method another team can follow",
+    "intro": "Plan reproducible investigations with clear variables, assumptions and measurement steps, while managing risks, ethics and responsibilities on Country/Place.",
+    "exampleTitle": "“Measure it three times” is not a complete method",
+    "example": "A proposed microscope investigation asks how field diameter changes with objective magnification on one instrument. Use a 10× ocular and 4×, 10× and 40× objectives. A teacher selects a calibration grid with known spacing that can be resolved at each setting. Start on the scanning objective, centre and focus the grid using the instrument instructions, count a diameter through the centre and multiply by grid spacing. For each objective, reset and realign the grid before each of three readings; record every reading, setting, spacing and unit. These are repeated measurements of one instrument, not three independent microscopes.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Planning element</th><th scope=\"col\">Record before conducting</th></tr></thead><tbody><tr><td>Changed / measured</td><td>Objective magnification / field diameter in µm</td></tr><tr><td>Held consistent</td><td>Same microscope and ocular, centre-diameter method, suitable recorded illumination</td></tr><tr><td>Scale and repeats</td><td>Known grid spacing for each setting; three reset-and-realigned readings</td></tr><tr><td>Data and checks</td><td>Objective, total magnification, grid spacing, divisions, diameter, notes; retain all readings</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Make the measurement reproducible",
+        "Specify equipment, quantities, sequence, units, measurement definition and how repeats are made. Here total magnifications are 40×, 100× and 400×. Field diameter crosses the centre; a radius reaches only from centre to edge. Another team needs the actual grid spacing and instrument settings, not just “use high power”.",
+        "<div class=\"evidence\">Draft record: “High power; 4.4 squares across.” No grid spacing, objective or ocular is stated.</div>",
+        "Why can another team not calculate the diameter from this record?",
+        "The physical spacing of a square is missing, and “high” does not identify the setting. Record objective, ocular, known spacing and the count across a centred diameter; then count × spacing gives the physical diameter."
+      ],
+      [
+        "State assumptions and manage risks",
+        "Assume the scale is correctly labelled, the image is focused and the counted line passes through the centre; check these before trusting the result. Identify hazard → possible harm → specific control. With a prepared slide, glass damage can cause cuts. A teacher checks slides and handles damaged glass. Follow the manufacturer: use coarse focus only on the scanning setting and fine focus at higher objectives as directed.",
+        "<div class=\"evidence\">A student counts an off-centre chord and records it as the full field diameter.</div>",
+        "What is the likely effect and targeted improvement?",
+        "The chord is shorter than the diameter, so it can underestimate field diameter. Re-centre the scale and measure through the centre. Extra repeats of the same off-centre method do not remove the bias."
+      ],
+      [
+        "Plan ethics and Country/Place responsibilities",
+        "Scientific value does not replace permission. Fieldwork planning distinguishes site access, disturbance or sampling, photography, recording knowledge and later sharing. Seek the relevant Traditional Owner or knowledge-holder guidance and site permissions through the teacher. Public access does not authorise collecting artefacts or publishing restricted knowledge; prefer non-disturbing alternatives where appropriate.",
+        "<div class=\"evidence\">During a proposed field survey, a learner notices a possible artefact. The class has permission to walk on the path, but no permission to collect objects.</div>",
+        "What should the plan require?",
+        "Leave it undisturbed, avoid sharing identifying details publicly, inform the teacher and seek appropriate local heritage and Traditional Owner guidance. Walking access does not authorise collection or further use."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Reproducible means identical results.”",
+        "Comparable methods can still give some natural or measurement variation."
+      ],
+      [
+        "“Repeats fix a biased method.”",
+        "Identify and correct the source of bias before relying on repeats."
+      ],
+      [
+        "“Access permission covers every activity.”",
+        "Sampling, photography, knowledge recording and publication can have separate conditions."
+      ]
+    ],
+    "activityTitle": "Peer-check an investigation plan",
+    "activity": "Using the supplied microscope proposal, write a recording table and a numbered sequence with three reset readings at each objective. A partner identifies any missing detail. Add one assumption check, one specific glass/equipment control and a separate fieldwork-permission decision.",
+    "adjust": "Support: use the planning table as headings. Core: explain how a missing detail affects evidence. Extend: distinguish repeated readings from sampling several instruments and state what each can establish.",
+    "safety": "Plan on paper. Conduct microscope work only with teacher approval, suitable prepared materials and the actual instrument’s instructions. Do not collect, move or photograph cultural material for this activity.",
+    "tricky": [
+      [
+        "Can one universal field diameter be assigned to every 10× objective?",
+        "No. It depends on the optical system. Calibrate the instrument rather than copying another microscope’s diameter."
+      ],
+      [
+        "Does eye protection alone make an investigation acceptable?",
+        "No. Consider safer methods, equipment, supervision, specific hazards and ethical permissions; one item of PPE is not a complete plan."
+      ],
+      [
+        "Can anonymising a cultural record replace knowledge-holder permission?",
+        "No. Removing names does not remove cultural authority, access conditions, context or agreed use restrictions."
+      ]
+    ],
+    "faq": [
+      [
+        "Is a control group always required?",
+        "No. Design the comparison for the question. A calibration study can vary a setting without a separate untreated group; controlled conditions still matter."
+      ],
+      [
+        "How does conducting improve the plan?",
+        "Record what actually happened, deviations and observations. Revise the method transparently so another team can reproduce the work; a written plan alone is not evidence it was conducted."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I03",
+    "short": "Equipment and measurement precision",
+    "title": "Calibrate the scale before measuring",
+    "intro": "Select suitable equipment, use it consistently and record defensible precision, including when microscopes and digital tools are appropriate.",
+    "exampleTitle": "Twelve divisions can represent sixty micrometres",
+    "example": "In this original hypothetical calibration, a 10× ocular is paired with a 10× objective: total magnification is 100×. A 60 µm stage-scale span aligns with 12 ocular divisions. Each ocular division therefore represents 60 ÷ 12 = 5 µm at this setting. An object estimated as about seven ocular divisions long is about 7 × 5 = 35 µm. Writing 35.000 µm would imply unsupported detail. These calibration values belong to the stated instrument and setting; changing the objective requires calibration again.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied record</th><th scope=\"col\">Calculation or interpretation</th></tr></thead><tbody><tr><td>Stage span 60 µm; ocular span 12 divisions</td><td>60/12 = 5 µm per ocular division at this setting</td></tr><tr><td>Object estimated at about 7 divisions</td><td>About 35 µm, not 35.000 µm</td></tr><tr><td>Ocular 10×; objective 10×</td><td>Total magnification 100×; not the physical size of a division</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Choose range and resolution for the question",
+        "Range must cover the expected values; resolution is the smallest displayed step or scale division. Accuracy concerns closeness to an accepted value, and repeatability concerns agreement among repeated readings. A fine display cannot guarantee accuracy. Choose equipment that can distinguish a change of interest without exceeding its range.",
+        "<div class=\"evidence\">You need to distinguish a 0.2 g mass difference. Balance A displays steps of 1 g; balance B displays steps of 0.01 g. Both cover the expected mass range.</div>",
+        "Which is the better initial choice, and what check remains?",
+        "B has a resolution suitable for distinguishing 0.2 g. Check its condition, zero and calibration and use it consistently; 0.01 g display steps do not by themselves prove 0.01 g accuracy."
+      ],
+      [
+        "Convert a calibrated reading honestly",
+        "An ocular scale has divisions, not fixed micrometres. Align known stage and ocular spans at the chosen setting, divide known length by ocular divisions, then multiply the object reading by that factor. Record units and the approximate nature of the reading; do not let a calculator create unsupported digits.",
+        "<div class=\"evidence\">Use the supplied 5 µm/division factor. A second object spans about 9 ocular divisions at this same setting.</div>",
+        "What size should be reported?",
+        "About 45 µm: 9 divisions × 5 µm/division. The word “about” reflects the stated estimate; the givens do not justify 45.000 µm."
+      ],
+      [
+        "Check microscopy and digital tools",
+        "Begin with the scanning objective to locate and centre a prepared specimen; use the instrument’s safe focusing method. Total magnification is ocular × objective, while resolution concerns separating nearby details. Image enlargement alone may not add detail. A camera scale bar or sensor display also needs valid calibration, units and suitable sampling.",
+        "<div class=\"evidence\">A digital image is enlarged twofold after a scale bar was inserted. The image and bar are enlarged together, but the caption still calls the displayed image “100× on every screen”.</div>",
+        "What should be checked or changed?",
+        "Display magnification varies with screen and resizing, so that claim is unreliable. Keep a correctly calibrated scale bar that scales with the image, verify its units and avoid claiming enlargement improves resolution."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“More digits mean more accuracy.”",
+        "Digits must be supported by the instrument and method."
+      ],
+      [
+        "“One ocular division is always 5 µm.”",
+        "That value is specific to this calibration and setting."
+      ],
+      [
+        "“Magnification equals resolution.”",
+        "Larger displayed features are not necessarily more distinguishable."
+      ]
+    ],
+    "activityTitle": "Write a measurement record someone can audit",
+    "activity": "Record the calibration spans, objective, ocular, calculated factor and the about-seven-division object estimate. Add an equipment-selection justification using the balances above. Explain what you must redo after changing the objective.",
+    "adjust": "Support: label length, divisions and units first. Core: show both conversion steps. Extend: explain how repeated readings could agree yet share a calibration bias.",
+    "safety": "Use the supplied scale model on paper. Any microscope use follows teacher and manufacturer instructions with suitable prepared slides; no specimen collection or chemical preparation is required.",
+    "tricky": [
+      [
+        "If an uncalibrated balance repeatedly reads 2.50 g for a 2.70 g standard, is repetition enough?",
+        "No. The agreement shows repeatability, but the repeated low reading indicates inaccuracy for that standard. Check calibration rather than averaging away the bias."
+      ],
+      [
+        "Does a digital thermometer reading to 0.01°C guarantee that accuracy?",
+        "No. Display resolution and accuracy differ. Calibration, sensor specifications, placement and conditions matter."
+      ],
+      [
+        "Can you measure an object by counting the decorative pixels in this diagram?",
+        "No. Use its stated scale alignment and records. It is an explanatory model, not a micrograph from which new measurements should be taken."
+      ]
+    ],
+    "faq": [
+      [
+        "Why record settings as well as the final size?",
+        "They make the calibration and measurement traceable and help another investigator use or check the appropriate conversion."
+      ],
+      [
+        "When is a data logger useful?",
+        "When repeated timed measurements help answer the question. Choose a suitable sampling interval and check sensor range, calibration, units and stored raw data."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I04",
+    "short": "Representing and processing data",
+    "title": "Show the time gaps honestly",
+    "intro": "Select and construct useful tables, graphs and models, and process data with transparent mathematical relationships and digital formulas.",
+    "exampleTitle": "Unequal time intervals need unequal graph spacing",
+    "example": "The hypothetical record contains temperatures of 20, 23 and 25°C at 0, 3 and 7 minutes. On a time graph, the 3-to-7-minute interval must be wider than the 0-to-3 interval. Overall change divided by total elapsed time is (25 − 20)/(7 − 0) = 5/7, about 0.71°C/min. The two interval rates are 1°C/min and 0.5°C/min. Their simple mean, 0.75°C/min, is not the overall rate because the intervals last different amounts of time.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Spreadsheet row</th><th scope=\"col\">A: Time (min)</th><th scope=\"col\">B: Temperature (°C)</th><th scope=\"col\">Status</th></tr></thead><tbody><tr><td>2</td><td>0</td><td>20</td><td>Supplied raw value</td></tr><tr><td>3</td><td>3</td><td>23</td><td>Supplied raw value</td></tr><tr><td>4</td><td>7</td><td>25</td><td>Supplied raw value</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Match form to purpose",
+        "Use a table for exact records, a bar chart for category comparisons, a time graph for ordered change and a scatter plot for paired quantitative values. A map shows spatial distribution; a labelled scientific model can explain structure or transfers. Choose the form that answers the question, and state what it leaves out.",
+        "<div class=\"evidence\">Case A compares counts in three material categories. Case B compares paired mass and extension readings. Case C shows earthquake locations.</div>",
+        "Choose a useful representation for each.",
+        "A: a bar chart with counts and separate categories. B: a scatter plot of paired quantitative values. C: a labelled map with a key. Each can be supported by a table of exact records."
+      ],
+      [
+        "Construct the graph faithfully",
+        "Label axes with quantities and units and use a consistent numerical scale. This graph has one-minute x steps and one-degree y steps. Its y-axis explicitly begins at 20°C; this can reveal changes in a time series, but disclose the restricted range. Plotted points are observations; connecting segments summarise change between them.",
+        "<div class=\"evidence\">A graph places 0, 3 and 7 minutes at equally spaced tick positions and joins all three temperatures.</div>",
+        "What should be repaired?",
+        "Use spacing proportional to elapsed time: the 4-minute interval must be four one-minute steps, and the 3-minute interval three steps. Label axes and preserve exact points. The joined line does not establish every unmeasured temperature."
+      ],
+      [
+        "Show formulas and preserve provenance",
+        "A rate is a change divided by the corresponding elapsed interval. In the supplied spreadsheet, =(B4-B2)/(A4-A2) computes the overall rate; =(B3-B2)/(A3-A2) gives the first interval. Check references and units. Keep original observations separate from processed values; a spreadsheet can calculate a wrong formula very neatly.",
+        "<div class=\"evidence\">A learner calculates =AVERAGE(1,0.5) from the two interval rates and labels it “overall rate”.</div>",
+        "Why is that label wrong, and how do you fix it?",
+        "It weights a 3-minute interval and a 4-minute interval equally. Use total change 5°C divided by total time 7 minutes, or weight each rate by its duration: (1×3 + 0.5×4)/7 = 5/7°C/min."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Equal list spacing means equal time spacing.”",
+        "Plot according to numerical time gaps, not row order."
+      ],
+      [
+        "“Every graph axis must start at zero.”",
+        "Choose and disclose a suitable scale; category bar lengths normally need a zero baseline."
+      ],
+      [
+        "“A computed cell is automatically correct.”",
+        "Audit the formula, references, units and source values."
+      ]
+    ],
+    "activityTitle": "Construct and audit the three-point graph",
+    "activity": "Draw axes, choose even scales and plot the supplied three points with correct time spacing. State the y-axis start, show the overall-rate calculation and add a sentence distinguishing observations from the connecting line. Check a partner’s graph against the table.",
+    "adjust": "Support: mark all minute ticks first. Core: justify the representation and rate. Extend: explain why a map or particle model might answer a different science question better than this graph.",
+    "safety": "Use the supplied hypothetical records. No heating or digital account is needed; an optional spreadsheet should retain the raw table and labelled formulas.",
+    "tricky": [
+      [
+        "What is the overall temperature rise?",
+        "5°C, from 20 to 25°C. This is a change, not a rate; divide by 7 minutes to obtain the average rate."
+      ],
+      [
+        "Can the graph establish an exact 24°C reading at 5 minutes?",
+        "No. A straight connecting segment would estimate 24°C there, but no 5-minute observation is supplied and the real change need not have been linear."
+      ],
+      [
+        "Can a model that omits all energy transfer to the surroundings be useful?",
+        "Only for a stated limited purpose. An energy account needs important transfers and a clear boundary; omission must not imply that transferred energy vanished."
+      ]
+    ],
+    "faq": [
+      [
+        "Should I round the raw values to make the graph simpler?",
+        "Keep the source observations intact. Choose readable scales and label any derived or rounded summary separately."
+      ],
+      [
+        "What makes a graph accessible?",
+        "Readable labels, units, sufficient contrast and non-colour cues, plus a text description and exact table where helpful."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I05",
+    "short": "Patterns, trends and anomalies",
+    "title": "Let the unusual value stay visible",
+    "intro": "Analyse patterns, group differences and relationships, and investigate anomalies without hiding evidence or overstating causes.",
+    "exampleTitle": "One value changes the group mean",
+    "example": "These hypothetical records are seven-day height increases for four independent seedlings at each lamp distance. They are the same species with similar starting sizes, equal water and soil, and the same growth period; lamp position differs. At 10 cm the values are 8, 9, 8 and 9 mm: mean and median 8.5 mm. At 30 cm they are 3, 4, 3 and 40 mm: mean 12.5 mm but median 3.5 mm. The 40 mm value is unusual relative to its group. Keep it visible and check measurement, transcription and conditions before deciding what it means.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Lamp distance</th><th scope=\"col\">Raw seven-day growth (mm)</th><th scope=\"col\">Mean / median (mm)</th><th scope=\"col\">Range (mm)</th></tr></thead><tbody><tr><td>10 cm</td><td>8, 9, 8, 9</td><td>8.5 / 8.5</td><td>9 − 8 = 1</td></tr><tr><td>30 cm</td><td>3, 4, 3, 40</td><td>12.5 / 3.5</td><td>40 − 3 = 37</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Use more than one summary",
+        "Describe centre, spread and sample size. The 30 cm mean exceeds the 10 cm mean, while its median is lower and its spread much greater. A statement such as “all seedlings farther away grew more” contradicts the raw values. The mean uses every value; the median describes the ordered middle and is less affected by an extreme value.",
+        "<div class=\"evidence\">Sorted 30 cm data: 3, 3, 4, 40 mm; four independent seedlings.</div>",
+        "How do you obtain the median, and what does it show?",
+        "Average the middle two values: (3 + 4)/2 = 3.5 mm. It describes the middle of this small group; it does not erase the 40 mm observation or prove why growth differed."
+      ],
+      [
+        "Separate relationship from explanation",
+        "A paired scatter plot can show whether two quantities tend to vary together. Here only two lamp distances and four seedlings per distance are supplied, with a wide-ranging group. Lamp distance can alter light and temperature; biological variation and measurement conditions also matter. Describe the observed groups before proposing a mechanism or predicting outside them.",
+        "<div class=\"evidence\">Claim: “Every extra 20 cm of lamp distance adds exactly 4 mm growth to all plants.”</div>",
+        "Why is this not supported by the two means?",
+        "The 4 mm mean difference is not a universal per-plant rule. Most 30 cm values are below all 10 cm values while one is far above them; the 30 cm mean is sensitive to 40 mm, and only two distances and one species/time period were tested."
+      ],
+      [
+        "Investigate and report anomalies",
+        "Check the original record, units, initial/final height calculation, labels, watering and temperature notes. The 40 mm value may be a mistake or a genuine response. If a documented error is found, retain the original and explain a correction. Without a verified reason, do not silently delete it or turn it into 4.0 mm.",
+        "<div class=\"evidence\">Exploratory comparison only: if 40 mm were excluded, the remaining 30 cm values would be 3, 4, 3 mm.</div>",
+        "What is that mean and how should you label it?",
+        "10/3, about 3.33 mm. Label it a sensitivity analysis excluding the flagged value, not a corrected final result. Show the full-data mean of 12.5 mm too and explain that no exclusion reason has been established."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“An unusual value is automatically wrong.”",
+        "It can be genuine; investigate before correcting or excluding."
+      ],
+      [
+        "“The mean tells the whole story.”",
+        "Use raw values, sample size and spread as well as a suitable centre."
+      ],
+      [
+        "“A pattern proves the cause.”",
+        "Compare conditions and plausible alternatives before making a causal claim."
+      ]
+    ],
+    "activityTitle": "Write two honest summaries",
+    "activity": "Use the full raw data to write one sentence comparing means and one comparing medians and ranges. Circle the unusual value, propose two evidence checks, then explain why a sensitivity calculation is not permission to delete it.",
+    "adjust": "Support: order each list first. Core: compare centre and spread. Extend: propose a larger, randomised design that monitors lamp-related temperature as well as light.",
+    "safety": "Analyse the paper data. No lamp, plant treatment or biological sampling is required.",
+    "tricky": [
+      [
+        "Could 40 mm be a genuine result?",
+        "Yes. The records alone cannot decide. Examine the original measurements and conditions and collect suitable further evidence."
+      ],
+      [
+        "If a spreadsheet trendline looks smooth, can it replace the raw points?",
+        "No. Keep the observations visible. A fitted line summarises selected data and does not remove anomalies or guarantee predictions."
+      ],
+      [
+        "Would more seedlings automatically remove a biased height-reading method?",
+        "No. A larger sample can reveal variation, but a consistently biased method still needs a targeted correction."
+      ]
+    ],
+    "faq": [
+      [
+        "When is the mean useful?",
+        "When you want a summary using every value and understand its sensitivity. Compare it with other summaries and the full dataset where needed."
+      ],
+      [
+        "Is a negative relationship always linear?",
+        "No. Two variables can tend to move in opposite directions along a curve or with considerable scatter; describe the form and limits."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I06",
+    "short": "Evaluating methods and claims",
+    "title": "Trace a surprising claim back to the method",
+    "intro": "Analyse assumptions, specific error mechanisms, conflicting evidence and unanswered questions before judging a scientific claim.",
+    "exampleTitle": "The image grew; the cell did not",
+    "example": "Two hypothetical readings measure the same dimension of the same fixed prepared cell. With a 10× ocular and 10× objective, eight ocular divisions at a calibrated 5 µm/division give 40 µm. With the same ocular and a 40× objective, 32 divisions at the new calibration of 1.25 µm/division also give 40 µm. Reusing the first conversion factor at the second setting gives an incorrect 160 µm. The claim “the cell grew fourfold” confuses a changed image scale with physical growth.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Objective / total magnification</th><th scope=\"col\">Cell reading</th><th scope=\"col\">Correct calibration</th><th scope=\"col\">Calculated length</th></tr></thead><tbody><tr><td>10× / 100×</td><td>8 ocular divisions</td><td>5 µm/division</td><td>40 µm</td></tr><tr><td>40× / 400×</td><td>32 ocular divisions</td><td>1.25 µm/division</td><td>40 µm</td></tr><tr><td>Wrong second calculation</td><td>32 ocular divisions</td><td>Incorrectly reused 5 µm/division</td><td>160 µm: calibration error</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Name the assumption and error mechanism",
+        "An assumption is treated as true without checking. Here the faulty method assumes that ocular divisions represent the same physical length after an objective change. Link flaw → effect on data → effect on claim → targeted correction. “Human error” does not identify what happened or how to improve it.",
+        "<div class=\"evidence\">The second reading is 32 divisions. A learner uses 5 µm/division and reports 160 µm.</div>",
+        "What exact repair addresses this error?",
+        "Use the calibration for the second setting: 32 × 1.25 = 40 µm. Record objective and calibration with every reading. Taking more readings while reusing 5 µm/division would keep the scale error."
+      ],
+      [
+        "Match the conclusion to the method",
+        "Repeated measurements can reveal random scatter, but averaging does not remove a systematic conversion error. Confirm that both measurements use the same cell dimension, preparation and appropriate calibration. In the supplied record, the calculated physical lengths agree; the records provide no evidence of cell growth between settings.",
+        "<div class=\"evidence\">A second example has warmer-water dissolving trials stirred faster than cooler trials.</div>",
+        "Why can the results not isolate temperature’s effect?",
+        "Stirring changed with temperature and can affect dissolving. Keep stirring method consistent in a targeted repeat. More trials of the confounded method would not separate the two effects."
+      ],
+      [
+        "Compare conflicts and ask a discriminating question",
+        "When reports differ, compare what was measured, samples, preparation, equipment, calibration and conditions before deciding they contradict each other. Do not select the result you prefer or automatically average incompatible measurements. Identify what missing information or controlled comparison could distinguish explanations.",
+        "<div class=\"evidence\">Report A gives a mean cell length of 40 µm; report B gives 55 µm. Cell type, preparation and calibration records for B are not supplied.</div>",
+        "What should you ask before calling one report wrong?",
+        "Ask whether both measured the same cell type and dimension, how samples were prepared and selected, and whether each setting was calibrated. A follow-up could compare the same prepared specimen with recorded calibration on both instruments."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“More repeats fix every error.”",
+        "Repeats of the same biased conversion retain the error."
+      ],
+      [
+        "“A larger image proves growth.”",
+        "Convert through the correct scale before comparing physical size."
+      ],
+      [
+        "“Conflicting evidence must be discarded.”",
+        "Compare methods and contexts and identify useful follow-up questions."
+      ]
+    ],
+    "activityTitle": "Build an error–effect–improvement chain",
+    "activity": "Use the three rows of the calibration table. Write the hidden assumption, calculate the incorrect and correct second lengths, and explain why the growth claim fails. Then write one precise question needed to compare the 40 µm and 55 µm reports.",
+    "adjust": "Support: match setting to calibration first. Core: explain the full error chain. Extend: identify which further evidence could distinguish a biological difference from a measurement difference.",
+    "safety": "Use supplied paper records. This activity does not involve preparing cells, changing microscope equipment or repeating an actual practical.",
+    "tricky": [
+      [
+        "If two measurements agree exactly, does that prove they are accurate?",
+        "No. They could share a calibration bias. Agreement is useful evidence, but accuracy also needs appropriate calibration or comparison with an accepted reference."
+      ],
+      [
+        "If an expected result is obtained, can the method still be flawed?",
+        "Yes. A confound or biased measurement can happen to produce a matching result. Evaluate the method as well as the outcome."
+      ],
+      [
+        "Can a small study support any conclusion?",
+        "Yes, a carefully qualified conclusion about the tested sample and conditions. A limited study does not justify an unlimited claim, but limitations do not make all its evidence worthless."
+      ]
+    ],
+    "faq": [
+      [
+        "Must every error have a known direction?",
+        "No. Explain the likely direction when justified; otherwise state the added uncertainty and how you would investigate it."
+      ],
+      [
+        "What makes a follow-up question useful?",
+        "It targets an unresolved condition, alternative explanation or range, and proposes evidence that could change the judgement."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I07",
+    "short": "Evidence-based scientific arguments",
+    "title": "Make the claim fit the evidence",
+    "intro": "Construct reasoned arguments, evaluate the quality and limits of secondary evidence, and respect ethical and cultural conditions on its use.",
+    "exampleTitle": "Ten minutes longer in this tested set",
+    "example": "This original hypothetical report tests three separate batteries of type A and three of type B, with the same size, chemistry, storage conditions and temperature. A regulated test draws 0.10 A from each battery until output reaches a 1.0 V cut-off; test order is randomised. A lasts 60, 63 and 57 minutes; B lasts 70, 71 and 69 minutes. Mean lifetimes are 60 and 70 minutes. B averaged 10 minutes longer in this tested set under these conditions. Six batteries do not establish that B always lasts longer in every device or that one particular chemical mechanism caused the difference.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Separate battery lifetimes (min)</th><th scope=\"col\">Mean (min)</th><th scope=\"col\">Scope</th></tr></thead><tbody><tr><td>A</td><td>60, 63, 57</td><td>(60+63+57)/3 = 60</td><td>Three independently tested units</td></tr><tr><td>B</td><td>70, 71, 69</td><td>(70+71+69)/3 = 70</td><td>Three independently tested units</td></tr><tr><td>Comparison</td><td>Same specified current and cut-off</td><td>B − A = 10 min</td><td>Tested set and conditions only</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Build claim, evidence, reasoning and limitation",
+        "State a precise claim, select relevant measurements and explain the link. The claim concerns lifetime to a defined cut-off at a fixed current, so those timed records directly bear on it. Matched conditions reduce alternatives. Add the small sample and conditions as limitations; numbers without an explanation are not a complete argument.",
+        "<div class=\"evidence\">Claim draft: “B is the best battery for everyone.” The only supplied evidence is the six-unit test.</div>",
+        "Write a defensible replacement argument.",
+        "“B averaged 70 minutes to the 1.0 V cut-off at 0.10 A, compared with A’s 60 minutes. Because current, cut-off and stated conditions matched, these times support longer mean lifetime for B in this tested set. More units and operating conditions are needed for broader claims.”"
+      ],
+      [
+        "Evaluate sources and competing evidence",
+        "Trace a secondary report to its data and methods. Examine relevance, sample, units, transparency, expertise, funding and corroboration. A manufacturer’s funding is a reason to check possible bias, not automatic proof that measurements are false. Different loads, cut-offs or storage histories can make two accurate studies answer different questions.",
+        "<div class=\"evidence\">Source X is an advert saying “B wins” with no methods. Source Y supplies the table and protocol above. A third report uses a different current and cut-off.</div>",
+        "Which source best supports the narrow worked claim, and how should you treat the third report?",
+        "Y supplies relevant, traceable measurements for the stated conditions. X lacks evidence needed to judge its claim. Compare the third report’s methods and conditions; a different result under a different load need not contradict Y."
+      ],
+      [
+        "Use secondary information responsibly",
+        "Identify creator or organisation, title, date and stable source details, distinguish the source’s result from your inference and check reuse conditions. Citation does not grant permission to republish data, images or restricted knowledge. Protect privacy and follow relevant knowledge-holder guidance, context and cultural protocols for First Nations information.",
+        "<div class=\"evidence\">A public webpage describes community knowledge but states that images and detailed records need knowledge-holder permission before republication.</div>",
+        "Can a student copy the images into a public poster by adding a source link?",
+        "No. A link provides attribution, not the required permission. Seek guidance and permission through the teacher or use an authorised alternative; preserve context and any access or sharing restrictions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“One source proves a universal claim.”",
+        "Check relevance, methods, sample and the breadth of evidence."
+      ],
+      [
+        "“A citation is the reasoning.”",
+        "Explain why the source’s evidence bears on the exact claim."
+      ],
+      [
+        "“Online means unrestricted reuse.”",
+        "Public access does not remove privacy, copyright or cultural conditions."
+      ]
+    ],
+    "activityTitle": "Construct and challenge an argument",
+    "activity": "Write a claim–evidence–reasoning paragraph from the battery table with a limitation. A partner asks one challenge about methods or scope. Revise the paragraph, then add the information needed for a source citation and one reuse condition you would check.",
+    "adjust": "Support: use the four argument headings. Core: answer a specific challenge with evidence. Extend: identify the additional lifetime, cost or lifecycle evidence needed for a broader “best battery” recommendation.",
+    "safety": "This is a paper evidence task, not instructions for battery testing, circuit construction, charging or handling damaged batteries.",
+    "tricky": [
+      [
+        "Would testing the same depleted battery three times give three independent units?",
+        "No. These records specify separate batteries. Repeated use of one battery changes its state and does not sample three units."
+      ],
+      [
+        "If every B value exceeds every A value here, is “B always wins” justified?",
+        "No. That pattern holds in this small tested set. It does not cover every battery, device, current or environment."
+      ],
+      [
+        "Should a contrary source be ignored because its author is less famous?",
+        "No. Examine its relevant methods and evidence. Reputation alone neither resolves a conflict nor determines the strength of an argument."
+      ]
+    ],
+    "faq": [
+      [
+        "Can a qualified argument still be persuasive?",
+        "Yes. Accurate scope and honest limitations let readers assess the evidence and can make the reasoning stronger."
+      ],
+      [
+        "What should I do when permission is unclear?",
+        "Do not assume unrestricted reuse. Ask the teacher to help identify the relevant rights or knowledge holders and use an authorised alternative if needed."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S8I08",
+    "short": "Communicating scientific findings",
+    "title": "Tell the same findings to two audiences",
+    "intro": "Create scientific texts for a clear purpose and audience, using suitable language, representations and digital tools while preserving evidence and uncertainty.",
+    "exampleTitle": "One dataset, a report and a family notice",
+    "example": "An original hypothetical paper-bridge report records three independently made flat bridges holding 80, 100 and 90 g, and three folded bridges holding 140, 150 and 160 g. All use the same paper type, dimensions and amount, are dry, span 15 cm and are tested with 10 g load increments. “Held” means the largest tested mass supported for 10 seconds. Means are 90 and 150 g, a 60 g difference. A peer report needs method and variation; a family notice needs a clear finding and accessible explanation. Neither should say folding makes every bridge unbreakable.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied hypothetical results</th><th scope=\"col\">Independent bridges: largest mass held 10 s (g)</th><th scope=\"col\">Mean (g)</th></tr></thead><tbody><tr><td>Flat design</td><td>80, 100, 90</td><td>90</td></tr><tr><td>Folded design</td><td>140, 150, 160</td><td>150</td></tr></tbody></table></div><div class=\"evidence\">Peer report model: “Three independently made bridges per design were tested across a 15 cm span in 10 g load increments. Mean largest supported mass was 90 g for flat and 150 g for folded bridges; each group’s range was 20 g. Folding was associated with greater supported mass in this small test. Only these paper, span and loading conditions were examined.”</div><div class=\"evidence\">Family notice model: “In our fictional paper-bridge study, folded bridges held a higher average load: 150 g compared with 90 g for flat bridges. We used the same paper amount and a 15 cm gap. Only three bridges of each design were tested, so this does not tell us how every paper bridge will behave.”</div>",
+    "steps": [
+      [
+        "Choose purpose, audience and form",
+        "A report helps peers examine and reproduce a method; a notice shares an accessible finding; a persuasive proposal supports a specified decision with evidence and trade-offs. Choose detail, vocabulary and structure for the purpose. Audience adaptation can change expression but must keep values, units, evidence strength and limitations accurate.",
+        "<div class=\"evidence\">A peer wants to repeat the bridge comparison. A family reader wants to understand the main finding.</div>",
+        "Which extra detail belongs in the peer report, and which finding must both keep?",
+        "The report needs the design specification, span, independent sample, loading steps and endpoint. Both must preserve the 90 g and 150 g means, small sample and tested-condition limits. Do not invent missing design dimensions: request them before actual replication."
+      ],
+      [
+        "Use language and text features precisely",
+        "Results describe observations; discussion interprets them and explains limitations. Use labelled tables or figures, units and a reference in the prose. Active voice can identify responsibility; passive voice can focus on process. Choose for clarity. “Supported 150 g on average” is more precise than “was amazingly strong”.",
+        "<div class=\"evidence\">Sentence A: “The folded mean was 150 g.” Sentence B: “Folding may have changed how the load was supported, but the mechanism was not isolated by these results.”</div>",
+        "Which belongs mainly in results and which in discussion?",
+        "A reports a calculated result. B interprets it and states a limitation. If a diagram explains load distribution, label it as a proposed model rather than direct measurement of the mechanism."
+      ],
+      [
+        "Create, check and revise an accessible text",
+        "Draft a short text, check it against raw records and revise after specific feedback. A spreadsheet can calculate a mean or plot a comparison, but audit references, axes and units. Add a meaningful caption and text alternative; avoid colour-only distinctions. Attribute supplied or external evidence and images and check permission before sharing.",
+        "<div class=\"evidence\">Draft poster: “Folded bridges are unbreakable! 150 versus 90.” Feedback: missing units, scope, source and an accessible explanation.</div>",
+        "Write a corrected caption.",
+        "“In this hypothetical SkillrHub dataset, three folded bridges averaged 150 g and three flat bridges 90 g for the largest mass held for 10 seconds across 15 cm. Results apply to the tested paper and loading conditions.” Include the raw table or a text alternative and label the two designs directly."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Simplifying means dropping limitations.”",
+        "Use clear words while preserving what the evidence can and cannot establish."
+      ],
+      [
+        "“Passive voice is always more scientific.”",
+        "Choose active or passive voice according to clarity and purpose."
+      ],
+      [
+        "“A polished graphic checks itself.”",
+        "Verify numbers, labels, units, attribution and accessibility."
+      ]
+    ],
+    "activityTitle": "Write, exchange and revise two texts",
+    "activity": "Write a four-sentence peer summary and a two-sentence family notice from the supplied records. Add a labelled figure or table caption. Ask a partner to check evidence, units, purpose, limitations and source label; revise one specific weakness and explain the change.",
+    "adjust": "Support: highlight facts both texts must retain. Core: distinguish results from discussion. Extend: propose a revised method addressing one limitation and explain why it would improve the evidence.",
+    "safety": "Use the fictional dataset and paper drafting. No loading experiment, physical bridge construction or public publication is required.",
+    "tricky": [
+      [
+        "Are three loads applied to one bridge three independent bridges?",
+        "No. The supplied dataset uses three separately made bridges per design. Repeated loading on one bridge can affect it and does not create independent specimens."
+      ],
+      [
+        "Can the mean difference of 60 g be called 60% stronger?",
+        "No. Grams and percent are different quantities, and “stronger” needs an operational definition. Report the 60 g difference in mean largest supported mass under these conditions."
+      ],
+      [
+        "Does “our study” prove that the student performed the practical?",
+        "No. The family notice is an explicitly fictional mentor text. When using supplied records, identify them; only describe work as personally performed when it actually was."
+      ]
+    ],
+    "faq": [
+      [
+        "Which digital tool should I use?",
+        "Choose one that serves the purpose, such as a checked spreadsheet, word processor or slide tool. A clear paper text can also meet the communication goal."
+      ],
+      [
+        "What source label is suitable for these numbers?",
+        "Identify them as the original hypothetical SkillrHub dataset on this topic page. External material needs its own creator, title, date/source and any required permission."
+      ]
+    ]
+  }
+]

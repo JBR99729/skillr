@@ -1,0 +1,184 @@
+[
+  {
+    "code": "AC9S9I01",
+    "section": "Practice and review",
+    "before": "Write a prediction and hypothesis for a supplied investigation.",
+    "after": "For identical cups starting at 50°C with 100 mL water in a 22°C room, compare 0 and 4 mm of the same insulation after 12 minutes. Write a prediction and reasoned hypothesis about temperature decrease.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I02",
+    "section": "Guided practice",
+    "before": "Identify the confounding variable in a supplied method.",
+    "after": "A proposed test changes blade length, paper grade and release height together, then attributes descent-time differences only to blade length. Identify the confounding changes.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I03",
+    "section": "Key concept",
+    "before": "A 1 m ruler cannot sensibly resolve 0.1 mm;",
+    "after": "A metre ruler marked only in 1 mm divisions cannot justify hundredths of a millimetre from its scale alone;",
+    "reason": "Instrument length alone does not determine resolution; narrow the claim to stated scale divisions and unsupported precision."
+  },
+  {
+    "code": "AC9S9I03",
+    "section": "Guided practice",
+    "before": "Round a reading to precision supported by a given scale.",
+    "after": "A digital balance displays in 0.01 g increments. Repair the raw-record entry 9.980000 g so it matches the display precision.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I03",
+    "section": "Independent practice",
+    "before": "Identify false precision in a supplied data table.",
+    "after": "A table records 9.980000 g from a balance displaying 0.01 g increments. Identify and repair the false raw precision.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I04",
+    "section": "Guided practice",
+    "before": "Add missing units/labels to a supplied graph.",
+    "after": "For time–mass pairs (0 min, 100 g), (2 min, 98 g), (5 min, 95 g) and (9 min, 91 g), specify both axis labels and units for a new graph.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I04",
+    "section": "Guided practice",
+    "before": "Compare mean and median for a dataset containing one extreme value.",
+    "after": "Compare mean and median for repeat times 4.0, 4.1, 4.2 and 8.1 s; explain why the largest value needs investigation rather than automatic removal.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I04",
+    "section": "Independent practice",
+    "before": "Calculate mean, median and range for a dataset.",
+    "after": "Calculate mean, median and range for repeat times 4.0, 4.1, 4.2 and 8.1 s; distinguish calculation precision from reporting precision.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I04",
+    "section": "Practice and review",
+    "before": "Construct a graph from a small dataset and identify one pattern.",
+    "after": "Construct a graph from time–mass pairs (0 min, 100 g), (2 min, 98 g), (5 min, 95 g) and (9 min, 91 g), then identify one pattern.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I05",
+    "section": "Guided practice",
+    "before": "Upgrade “the graph rises” into a quantified trend statement.",
+    "after": "For the saved 1990 and 2005 Mauna Loa annual CO₂ values 354.45 and 379.98 ppm, replace “the graph rises” with a quantified endpoint comparison.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I05",
+    "section": "Guided practice",
+    "before": "Identify an anomaly in a small dataset.",
+    "after": "In repeat times 29, 30, 31, 30 and 71 s, identify the value that departs from the cluster and warrants investigation.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I05",
+    "section": "Practice and review",
+    "before": "Analyse a supplied graph and write a quantified trend statement.",
+    "after": "Use the saved endpoints: Mauna Loa CO₂ 354.45 ppm in 1990 and 379.98 ppm in 2005; global temperature anomaly 0.45 and 0.68°C relative to 1951–1980. Write a quantified endpoint comparison for each quantity.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I06",
+    "section": "Guided practice",
+    "before": "Identify a validity flaw in a supplied method.",
+    "after": "A black cup is placed in a shaded room and a white cup in sunlight; their end temperatures after 10 minutes are 28 and 32°C. Identify a validity flaw in attributing the difference only to colour.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I06",
+    "section": "Independent practice",
+    "before": "Identify one assumption in a supplied conclusion.",
+    "after": "A report uses only final cup temperatures of 28 and 32°C to claim that the first cup cooled more. Identify an unverified assumption needed to compare temperature decreases.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I06",
+    "section": "Practice and review",
+    "before": "Evaluate the validity and reproducibility of a supplied method separately.",
+    "after": "Method report: put a black cup in a shaded room and a white cup in sunlight, wait 10 minutes and record final temperatures of 28 and 32°C. Starts, volumes, cup properties and measurement technique are unreported. Evaluate validity for a colour-effect claim and reproducibility separately.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I07",
+    "section": "Guided practice",
+    "before": "Label claim, evidence and reasoning in a short paragraph.",
+    "after": "Label claim, evidence and reasoning in this fictional example: “Insulation reduced cooling in the matched setup. Insulated repeats lost 4 and 5°C while matched uninsulated repeats lost 9 and 10°C. Insulating material can reduce thermal energy transfer to the cooler surroundings.”",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I07",
+    "section": "Independent practice",
+    "before": "Write a claim supported by a supplied dataset.",
+    "after": "Using saved Mauna Loa CO₂ endpoints 354.45 ppm in 1990 and 379.98 ppm in 2005, write an endpoint claim without claiming every year changed by the same amount.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I07",
+    "section": "Independent practice",
+    "before": "Select the two strongest evidence items from four and justify.",
+    "after": "Claim: both recorded quantities rose overall from 1990 to 2005. Compare four items: A, NOAA CO₂ endpoints 354.45 and 379.98 ppm; B, NASA global anomaly endpoints 0.45 and 0.68°C; C, an unattributed “always warmer” slogan; D, a poll of favourite seasons. Select the two strongest relevant items and justify.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I07",
+    "section": "Practice and review",
+    "before": "Construct a claim–evidence–reasoning response from a supplied dataset.",
+    "after": "Construct a qualified response from saved 1998/1999 pairs: CO₂ 366.84/368.54 ppm and global temperature anomaly 0.61/0.38°C. Evaluate the claim that a CO₂ rise guarantees an anomaly rise every year.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I08",
+    "section": "Guided practice",
+    "before": "Rewrite one technical sentence for a general audience while preserving meaning.",
+    "after": "Rewrite for younger learners: “At the stated midday observation, mean surface temperatures in three matched paving blocks were 29°C in shaded regions and 36°C in paired unshaded regions; human comfort was not measured.”",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I08",
+    "section": "Guided practice",
+    "before": "Improve a graph caption so it states the scientific message.",
+    "after": "Replace the caption “Amazing shade!” using this fictional result: three matched paving blocks at one midday observation had shaded mean 29°C and paired unshaded mean 36°C; comfort was not measured.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I08",
+    "section": "Guided practice",
+    "before": "Identify an overclaim introduced by an exaggerated headline.",
+    "after": "Identify the overclaim in “Shade makes every playground exactly 7°C safer”, given only a 7°C mean surface-temperature contrast across three matched blocks at one midday observation.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I08",
+    "section": "Independent practice",
+    "before": "Write a 60-word public summary of a result including uncertainty.",
+    "after": "Write a clear public summary of the fictional three-block result: shaded mean surface temperature 29°C, paired unshaded mean 36°C at one midday observation, with no direct comfort measurement. Preserve the conditions and uncertainty.",
+    "reason": "Remove inherited fixed word-count demand under latest owner wording instruction and provide complete quantitative givens."
+  },
+  {
+    "code": "AC9S9I01",
+    "section": "Worked examples",
+    "before": "“If temperature increases, reaction time will decrease because particles have greater kinetic energy and successful collisions occur more frequently.” The reason is scientifically linked to the predicted direction.",
+    "after": "“With more of the same insulation around an otherwise matched cup, the temperature decrease after 12 minutes will be smaller because insulation can reduce thermal energy transfer to cooler surroundings.” The reason is scientifically linked to the predicted direction; this is a testable prediction, not a guaranteed result.",
+    "reason": "Independent reviewer identified a Year10 collision-theory explanation in the retained Year9 inquiry example. Replace only that explanation with the supplied in-scope cup mechanism; operational reaction-variable examples remain."
+  },
+  {
+    "code": "AC9S9I04",
+    "section": "Independent practice",
+    "before": "Choose line, scatter or bar representation for three scenarios.",
+    "after": "Choose and justify a representation for each context: temperature measured over time; paired leaf length and width measurements; species counts in three named habitat categories.",
+    "reason": "Supply the missing stimulus in the same openable section, preserving the original skill demand."
+  },
+  {
+    "code": "AC9S9I05",
+    "section": "Worked examples",
+    "before": "“As light intensity increased across the tested range, mean time decreased, with the largest change between the first two settings.”",
+    "after": "“In the saved Mauna Loa annual record, CO₂ increased from 354.45 ppm in 1990 to 379.98 ppm in 2005: an endpoint rise of 25.53 ppm.”",
+    "reason": "Independent review identified a model labelled quantified that lacked actual numbers. Use the supplied source-attributed endpoints to demonstrate a genuinely quantitative statement."
+  }
+]

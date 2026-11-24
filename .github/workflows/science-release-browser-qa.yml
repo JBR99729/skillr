@@ -1,0 +1,35 @@
+name: Science release browser QA
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/science-release-browser-qa.yml'
+      - 'scripts/qa_science_release_browser.cjs'
+      - 'docs/qa/science-release-20261107/pages.json'
+permissions:
+  contents: read
+concurrency:
+  group: science-release-browser-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Check 41 authored pages at three screen widths
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/science-qa-server.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          node scripts/qa_science_release_browser.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: science-release-browser
+          path: artifacts/science-release-browser/
+          retention-days: 7

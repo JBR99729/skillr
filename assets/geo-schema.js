@@ -46,7 +46,9 @@
   const ensureVisibleBreadcrumb = (items) => {
     const nav = document.querySelector('nav[aria-label="Breadcrumb"]');
     const list = nav ? nav.querySelector("ol") : null;
-    if (!list || list.children.length >= items.length) return;
+    // A compact authored breadcrumb may combine year and subject in one link.
+    // Preserve it rather than replacing it based on the number of items.
+    if (!list || list.children.length) return;
     list.innerHTML = "";
     items.forEach((item, index) => {
       const li = document.createElement("li");
@@ -64,6 +66,8 @@
   };
 
   const addBreadcrumbSchema = (items) => {
+    // Static HTML owns the canonical breadcrumb, including any strand steps.
+    if (document.getElementById("skillrhub-breadcrumb-jsonld")) return;
     upsertJsonLd("skillrhub-breadcrumb-jsonld", {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
@@ -87,11 +91,14 @@
     const subject = SUBJECTS[subjectSlug];
     const code = topicMatch ? extractCurriculumCode() : "";
     const currentName = topicMatch ? (code || topicTitle(code)) : subject;
+    const yearNumber = yearSlug === "foundation" ? "0" : yearSlug.slice(4);
+    const learnYear = `/learn/?year=${yearNumber}`;
+    const learnSubject = `${learnYear}&subject=${subjectSlug}`;
 
     const items = [
       { name: "Home", url: absoluteUrl("/") },
-      { name: year, url: absoluteUrl(`/${yearSlug}/`) },
-      { name: subject, url: absoluteUrl(`/${yearSlug}/curriculum/${subjectSlug}/`) }
+      { name: year, url: absoluteUrl(topicMatch ? learnYear : learnSubject) },
+      { name: subject, url: absoluteUrl(topicMatch ? learnSubject : path) }
     ];
     if (topicMatch) items.push({ name: currentName, url: absoluteUrl(path) });
 

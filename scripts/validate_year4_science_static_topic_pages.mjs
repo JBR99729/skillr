@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
 const hasClass = (html, token) => [...html.matchAll(/\bclass=["']([^"']*)["']/g)].some((match) => match[1].split(/\s+/).includes(token));
 import fs from 'node:fs';
 import path from 'node:path';
@@ -43,10 +44,7 @@ for (const unit of units) {
 
   failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-4/science/${lowerCode}/worksheet/`]) {
-    if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
-    if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
-  }
+  failures.push(...validatePaidWorksheetNavigation(html, code, root));
   if (!links.some(href => /^(?:\.\/)?teacher-slides\/$/i.test(href))) failures.push(`${code}: topic page must link to clean local teacher-slides/ viewer`);
   if (links.some(href => /\/worksheets\/year4\/science\/teacher-slides\/viewer\//i.test(href))) failures.push(`${code}: topic page must not point Teacher Slides at shared viewer route`);
 

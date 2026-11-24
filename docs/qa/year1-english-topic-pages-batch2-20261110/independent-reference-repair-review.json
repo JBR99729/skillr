@@ -1,0 +1,81 @@
+{
+  "reviewer": "/root/year1_english_batch2_review, independent AI",
+  "status": "PASS narrow reference-anchor-only change",
+  "browser_content_head": "e8071f86c273a628a70c9693bf588bf4826a5320",
+  "reason": "Changed-page architecture validator rejects all direct PDF anchors, including official QCAA reference. Replace only the reference anchor with the existing approved official overview route; fixed Teacher Slides links and all teaching remain identical.",
+  "before_anchor": "<a href=\"https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr1_as_cd_alignment.pdf\">QCAA Year 1 English v9 curriculum alignment</a>",
+  "after_anchor": "<a href=\"https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-english/p-10-english-overview\">QCAA English v9 curriculum overview</a>",
+  "records": [
+    {
+      "code": "AC9E1LE01",
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "before_sha256": "3738ab94449ee81018d88f092515729f76b2a8b76280b7083606bd8190188e16",
+      "after_sha256": "84d8969efd8b361ecd3f64962834ec220f4fc359b25cc4526bb1164070e6bef6",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LE02",
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "before_sha256": "316d4a5c33eed5fe5b7705228da4e1f5dc2d956a9171d232325ce712003eaa12",
+      "after_sha256": "e33fb156cc33b25156eef6bf0c1a03dcd62ad1b7761d2c0bc59528ec65938fd4",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LE03",
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "before_sha256": "444300d2f535788fba7a93d953c191edbe41ce840f0445c21821941315d43730",
+      "after_sha256": "ea03ab30803deb8586075a16fcd221fb21029567d3f4bbfb5ab91b0a9351a2ef",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LE04",
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "before_sha256": "d98bf55fe0840cf5c722576b6db73cb660322844f4333ef4c71693cb5a859f1a",
+      "after_sha256": "1abed4292bbb0ff74c371eeaaf8a1e32f778c9b43b5f41f49a4c1af9a4b4b0da",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LE05",
+      "path": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "before_sha256": "3176f2802fba589ebd78a7d9ef196eb8ba258a692fd30ef062f7db212c6bc6b0",
+      "after_sha256": "c88413d9b8329bdc6fa9804f28c72884dc4565da706367a04bde591f18a58738",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LY01",
+      "path": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "before_sha256": "26df55ab479a2b5ae8c39ab070c2e5090957dbf1c1024d4866b0bf88f2626193",
+      "after_sha256": "e24a863b3c18ce5c4dd3243bdf7c2628be3177ef28f35ba07bfb261f315ff664",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LY02",
+      "path": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "before_sha256": "cf11cae2f02000ea53a8c21bc1a08de2240dc3bb4358166ace7706fb1275a2f1",
+      "after_sha256": "1192dd92d6944012dd57a7a0b55b3d4b704f37cd67d7733f7a6cbfd5e0a6b0d7",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LY03",
+      "path": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "before_sha256": "43ddf89c98d9b04182756846a6837ca7222ba6a3e635683afe96e7bab76ce767",
+      "after_sha256": "3b7b61583f97b3f5b2de5af9a435986d98e52fc1f6eae96f714769073d70e3f5",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LY04",
+      "path": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "before_sha256": "3f845bdb0c7c07694d6b7bd3c149a125693890cc483ed98a21b9d15384b94591",
+      "after_sha256": "76a2dca470ff748d9f2e8c577c0f5dd519586778e5811bc8704d4bb3d17b3aec",
+      "entire_file_only_recorded_anchor_diff": true
+    },
+    {
+      "code": "AC9E1LY05",
+      "path": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "before_sha256": "2907e5886eb214254b4f9f2a3d8333b0d3356f96af888a45b4d05fabd7c86324",
+      "after_sha256": "8dec009e9593e1415fed6f2c0d65f8eca1fd04c2a87579982f04ef069e4c77ea",
+      "entire_file_only_recorded_anchor_diff": true
+    }
+  ],
+  "verification": "For every complete file, replacing exactly the one recorded anchor in the browser-head bytes reproduces current bytes. All teaching, models, metadata, resource links and utility scripts therefore remain unchanged. Inventory hashes alone updated. Final hosted rerender remains root gate."
+}

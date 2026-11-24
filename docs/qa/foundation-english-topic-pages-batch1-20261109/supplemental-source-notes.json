@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-09",
+  "scope": "Targeted authentic-text fulfilment for FoundationLE01, not arbitrary fresh collection quota. QCAA Prep3pagealignment reopened and allten code descriptors matched.",
+  "sources": [
+    {
+      "id": "MILROY",
+      "url": "https://fremantlepress.com.au/2019/05/22/three-free-extracts-from-fremantle-press-titles-to-use-in-your-classroom-this-naidoc-week/",
+      "file": "milroy-source.html",
+      "locator": "Junior readers ages six to nine; creator identity and complete publisher classroom extract. Foundation transfer is a short benign adult-scaffolded scene, not a claim this source is labelled for Foundation.",
+      "observed": "Complete publicly offered classroom extract read; author HelenMilroy is identified as Palyku. Wombat responds to loneliness with conversation/stories; MotherEarth offers a burrow.",
+      "transfer": "One attributed9word quotation and concise scene summary only; adult can read the linked authorised extract. No publisher illustration copied. Compare a named event with own experience; one story never represents every FirstNations person.",
+      "limits": "No source audio/video/child response observed; classroom-use availability is not a blanket commercial reproduction licence.",
+      "sha256": "db312688ff90405621bb2c59721505718fc497dd0fb4a69265071e82c44dfc55"
+    },
+    {
+      "id": "DENNIS",
+      "url": "https://www.gutenberg.org/files/16251/16251-h/16251-h.htm",
+      "file": "dennis-source.html",
+      "locator": "A BookforKids1921, TheAntExplorer firsttwo lines.",
+      "observed": "Opening20words describe an ant choosing to travel away from home; read complete poem for context, but scaffold only opening two lines at Foundation.",
+      "transfer": "Attribute C.J.Dennis, define roam as travel/wander, ask own similar/different experience; no independent reading fluency requirement.",
+      "limits": "No full anthology endorsement, later story episodes or untaught historical vocabulary assessed.",
+      "sha256": "676b30d90d210b4f42dfc0cf57fb07799e0cbce6369334398d3c2a6d96e292d0"
+    },
+    {
+      "id": "POTTER",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "file": "potter-source.html",
+      "locator": "TheTaleofPeterRabbit1902, opening rabbit-family image and home sentence.",
+      "observed": "Read opening facts; actually viewed firstfamily illustration showing adult rabbit facingfour little rabbits beside tree roots.",
+      "transfer": "One short home sentence; attributed BeatrixPotter author/illustrator, actual1902illustration, compare visible detail and words; home difference without ranking.",
+      "limits": "Only selected benign opening, not later frightening garden/pie narrative. New Skillr artwork elsewhere is not attributed toPotter.",
+      "sha256": "b2ef0ccff3b6ddf14f910079162706062f7ceef8134dbcbe9c6e9f938158ef7f"
+    },
+    {
+      "id": "POTTER-IMAGE",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/images/peter08.jpg",
+      "file": "peter-rabbit-family-1902.jpg",
+      "sha256": "690baa2d2e36d33d51814143ef47c7d281875a46238f05829f71f459ac45a901",
+      "observed": "Actual first rabbit-family image viewed; mother and four little rabbits beside tree roots. Natural JPEG dimensions (487, 575).",
+      "transfer": "Unmodified1902public-domain illustration with title/creator/year/source credit, never labelled as Skillr original."
+    }
+  ],
+  "source_counts": "Three primarytextreads+one actual originalillustration; do not count derived questions as external source tasks."
+}

@@ -1,0 +1,19 @@
+{
+  "base_commit": "f35e2ebfa6cc4f53e7ac4528df5ffa2ac456e325",
+  "base_tree": "1b485f375cf2eb86a61d398cfdfd12a49bd1460c",
+  "initial_commit": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
+  "initial_complete_tree": "88925be7ac4b96897b4039fc84b15fa09419fbfe",
+  "local_and_api_complete_tree_equal": true,
+  "before_files": 20210,
+  "after_files": 20246,
+  "deleted_paths": [],
+  "initial_changed_paths": 46,
+  "core_and_CNAME_preserved": true,
+  "branch_update": "Non-forced; expected base SHA used",
+  "scope": "Review PR988 only; main unchanged after authorized PR987 merge",
+  "final_evidence_files": 20275,
+  "final_evidence_scope": "Only docs/qa/year3-english-topic-pages-batch1-20261110 evidence changes after e34dc179; all24 rendering inputs unchanged",
+  "reviewed_render_head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+  "reviewed_render_tree": "701273a431e7608b8efe9e0e8015f9e1caee3cfb",
+  "final_tree_identity": "Published complete-tree identity and final exact-head CI are recorded in the PR to avoid a self-referential commit hash."
+}

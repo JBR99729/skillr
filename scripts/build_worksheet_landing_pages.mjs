@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import fs from "node:fs";
+import { execFileSync } from "node:child_process";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -189,3 +190,6 @@ for (const year of years) {
 }
 
 console.log(`Generated ${years.length * subjects.length} worksheet landing pages.`);
+
+// Apply the current owner-approved paid-worksheet access model.
+execFileSync("python3", [path.join(ROOT, "scripts/normalize_resource_messaging.py")], { cwd: ROOT, stdio: "inherit" });

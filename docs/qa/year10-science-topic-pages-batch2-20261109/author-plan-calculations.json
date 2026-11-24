@@ -1,0 +1,80 @@
+{
+  "role": "Author calculation checks; independent plan review separate",
+  "H04": {
+    "weights": [
+      0.4,
+      0.4,
+      0.2
+    ],
+    "scores": [
+      4.0,
+      4.2,
+      4.4
+    ],
+    "pairs": [
+      105,
+      115,
+      100
+    ]
+  },
+  "I02_means": [
+    35.0,
+    38.0
+  ],
+  "I03": {
+    "offset": 0.4,
+    "corrected": 29.4,
+    "records": 11
+  },
+  "I04": {
+    "linear": [
+      -2,
+      4,
+      10,
+      16,
+      22
+    ],
+    "quadratic": [
+      0,
+      3,
+      8,
+      15,
+      24
+    ],
+    "residual_L": [
+      2.1,
+      -1,
+      -1.8,
+      -1.1,
+      2.1
+    ],
+    "residual_Q": [
+      0.1,
+      0,
+      0.2,
+      -0.1,
+      0.1
+    ],
+    "repeat_mean": 8.8,
+    "repeat_median": 8.2,
+    "repeat_range": 3.4
+  },
+  "I06_means": [
+    16,
+    19,
+    17.5,
+    18
+  ],
+  "I07_I08": {
+    "means": [
+      9,
+      4
+    ],
+    "difference": 5,
+    "relative_reduction_in_rise_percent": 55.55555555555556,
+    "opaque_absorbed_fractions": [
+      0.8,
+      0.3
+    ]
+  }
+}

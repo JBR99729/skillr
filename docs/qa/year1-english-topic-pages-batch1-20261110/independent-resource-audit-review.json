@@ -1,0 +1,24 @@
+{
+  "reviewer": "/root/year1_english_review, independent AI",
+  "status": "PASS bounded compatibility repair",
+  "script": "scripts/audit_years1_7_curriculum_resources.mjs",
+  "script_sha256": "f8734edc3c23278d38c09480c25d739ac47853da6ba81a47bf5309121d17343e",
+  "evidence_sha256": "0e722660dba79061743c6a44f923bcbe84754410781a1bcec618ad869ea5c11b",
+  "independently_executed_command": "node scripts/audit_years1_7_curriculum_resources.mjs",
+  "independent_result": {
+    "exit_code": 0,
+    "discovered": 427,
+    "pass": 427,
+    "fail": 0
+  },
+  "independently_inspected_diff": [
+    "Only explicitly marked retired indices use the authoritative current catalogue.",
+    "Exact year/subject Learn destination required in both refresh and anchor.",
+    "Empty catalogue group still fails.",
+    "Live index regex discovery is unchanged.",
+    "Only retired shim individual Teacher Display links are exempt; canonical topic/viewer validation remains.",
+    "Topic static coverage, runtime-shell, resource, legacy and no-download guards remain."
+  ],
+  "negative_guard_evidence": "Inspected author-recorded wrong redirect, empty catalogue group and broken runtime-guide checks (all exit 1); did not independently rerun mutations.",
+  "scope_limit": "No re-review of the educational content of all 427 topics."
+}

@@ -1,0 +1,18 @@
+/* Scoped teaching models for ten Year 2 English language guides. */
+.year2-english-batch1 #skillr-topic-variants .retained-teaching figure{margin:16px 0}
+.year2-english-batch1 #skillr-topic-variants .complete-stimulus,.year2-english-batch1 #skillr-topic-variants .demo-navigation,.year2-english-batch1 #skillr-topic-variants .model-book-page{padding:14px;margin:14px 0;background:#f4f7fc;border:1px solid #b8cce5;border-radius:8px}
+.year2-english-batch1 #skillr-topic-variants .complete-stimulus p{line-height:1.7}
+.year2-english-batch1 #skillr-topic-variants table{width:100%;border-collapse:collapse;table-layout:fixed}
+.year2-english-batch1 #skillr-topic-variants th,.year2-english-batch1 #skillr-topic-variants td{padding:10px;border:1px solid #b8cce5;text-align:left;overflow-wrap:anywhere;vertical-align:top}
+.year2-english-batch1 #skillr-topic-variants .demo-navigation a{display:inline-block;min-height:44px;padding:10px 4px;box-sizing:border-box}
+.year2-english-batch1 #skillr-topic-variants .demo-navigation section:target,.year2-english-batch1 #skillr-topic-variants .model-book-page:target{outline:3px solid #bd8120;outline-offset:2px}
+.year2-english-batch1 #skillr-topic-variants .picture-evidence img{max-width:100%;height:auto}
+.year2-english-batch1 #skillr-topic-variants .bubble-model{display:grid;gap:24px;padding:16px;margin:16px 0}
+.year2-english-batch1 #skillr-topic-variants .speech-bubble{border:2px solid #245bd5;border-radius:12px;padding:18px;position:relative;background:white}
+.year2-english-batch1 #skillr-topic-variants .speech-bubble:after{content:"";position:absolute;bottom:-12px;left:30px;border-width:12px 12px 0 0;border-style:solid;border-color:#245bd5 transparent transparent transparent}
+.year2-english-batch1 #skillr-topic-variants .thought-bubble{border:2px dotted #425c78;border-radius:45%;padding:24px;position:relative;background:white}
+.year2-english-batch1 #skillr-topic-variants .thought-bubble:after{content:"○ ○";position:absolute;bottom:-24px;left:30px;font-size:18px;letter-spacing:5px}
+.year2-english-batch1 #skillr-topic-variants .bubble-model figcaption{margin-top:14px}
+.year2-english-batch1 #skillr-topic-variants .retained-teaching .english-card-row{display:flex;flex-wrap:wrap;gap:8px}
+.year2-english-batch1 #skillr-topic-variants .retained-teaching .english-card-row span{padding:9px;border:1px solid #b8cce5;border-radius:6px;background:white}
+.year2-english-batch1 #skillr-topic-variants .retained-teaching .english-panels{display:grid;gap:12px}

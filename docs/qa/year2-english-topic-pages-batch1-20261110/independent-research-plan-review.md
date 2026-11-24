@@ -1,0 +1,13 @@
+# Independent research and plan review — Year 2 English batch 1
+
+**PASS — ready to draft AC9E2LA01–LA10 public Topic Guides.** All ten code scopes, three-focus plans and 51 retained teaching labels were checked against exact original pages and accepted/current methods. The reference and originals match baseline `15e71b375ff546c365f103a257cddd0808a9bf67`. Exact input/page identities and per-code boundaries are recorded in the JSON.
+
+All 91 saved research/SOP files independently match complete current remote metadata, and all 46 accepted byte/SHA256/Gitblob triples match. Current SOPs are unchanged from the versions already read. The historical LA04/05/06/10 source gaps are genuinely closed by the underlying shared residual methods, independent delta review and later actual task records; no new quota collection is required.
+
+The reviewer read the actual method and late correction records plus the original teaching and worked models, and independently reopened the official Year 2 descriptors, Reconciliation Australia’s protocol explanation, Magabala publisher/teacher notes, British Council ellipsis and UVic compound-clause methods. These support bounded Year 2 original teaching, not an import of adult/older-grade language demands.
+
+Required implementation follows the concrete preparation plan: two same-section packets per code must supply all otherwise unnamed cards, passages, clauses and edit targets. LA05 requires actual miniature print destinations and functioning screen links. LA08 must replace the absent steep-rock/cloud image example with its actual kitten image and matching words, use a real table and clearly distinguish authored speech/thought from visible source evidence. Its retained earlier SVG does contain schematic action pictures and arrows; a text extraction initially hid those shapes, and that provisional concern was withdrawn after literal SVG inspection. LA10’s earlier title prompt should declare the convention and provide an actual edit target.
+
+Cultural contexts use a lawfully supplied named book/glossary and attributable Darug words; the publisher’s description is not treated as the full inspected book. An adult must prepare actual relevant pages and a locally approved greeting source before dependent tasks. The Welcome role includes Traditional Owners or Aboriginal/Torres Strait Islander people with their permission; anyone can Acknowledge. No local authority, universal translation or heard pronunciation is inferred.
+
+No material research blocker remains. Final all-content review and a fresh separate final risk/render review are still required. This is public unscored guide research/plan approval, not scored-bank, app, paid-product, pupil, human-teacher, attainment or publication certification.

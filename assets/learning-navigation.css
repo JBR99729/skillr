@@ -1,0 +1,6 @@
+[data-learning-navigation-links]{margin:2rem auto 0;padding:1.25rem 0;border-top:1px solid #d9e2ed;max-width:72rem;color:inherit}
+[data-learning-navigation-links] h2{font-size:1.2rem;margin:0 0 .75rem}
+[data-learning-navigation-links] .learning-return-links{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;margin:0 0 1rem}
+[data-learning-navigation-links] ul{display:grid;gap:.6rem;padding-left:1.25rem;margin:.5rem 0}
+[data-learning-navigation-links] a{color:#173968;text-decoration:underline;text-underline-offset:.15em;line-height:1.5}
+[data-learning-navigation-links] a:focus-visible{outline:3px solid #3178c6;outline-offset:4px}

@@ -1,0 +1,135 @@
+[
+  {
+    "code": "AC9S7I01",
+    "path": "year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/",
+    "title": "Turn a model into a testable question",
+    "retained_sections": [
+      "What students learn in AC9S7I01",
+      "Key concept",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes"
+    ],
+    "retained_section_count": 6,
+    "sha256": "a28a9466f1cdc7e1452675570b3071b150eb1d2d9abf3b52bcf71dfee6764b28",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I02",
+    "path": "year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/",
+    "title": "Write a plan another group can repeat",
+    "retained_sections": [
+      "What students learn in AC9S7I02",
+      "Key concept",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Revision Notes"
+    ],
+    "retained_section_count": 5,
+    "sha256": "1af0019e65a6ce9a379c988597b8e167d96fdeb7d29e0bf06d3c739571d6cace",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I03",
+    "path": "year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "title": "Choose a tool, then check the reading",
+    "retained_sections": [
+      "Key concept",
+      "Topic guide",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes",
+      "Curriculum coverage and elaborations"
+    ],
+    "retained_section_count": 6,
+    "sha256": "db58f85ea165c9b0e5f8bc946623f52436154d0520d70d774cbc593b54a782a7",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I04",
+    "path": "year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/",
+    "title": "Choose a representation that answers the question",
+    "retained_sections": [
+      "Key concept",
+      "Topic guide",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes"
+    ],
+    "retained_section_count": 6,
+    "sha256": "4c08b939810fd191743ea79fa754379de219cf6d602639a9b1362dd4e8bad7ef",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I05",
+    "path": "year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+    "title": "Describe the pattern, then check the exception",
+    "retained_sections": [
+      "What students learn in AC9S7I05",
+      "Key concept",
+      "Curriculum coverage and elaborations",
+      "Common mistakes to watch for"
+    ],
+    "retained_section_count": 4,
+    "sha256": "6f3b97a9a1a6ee16ef0eaad0abce8d73dd1f103b5fcd895876773c366d536568",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I06",
+    "path": "year7/science/ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/",
+    "title": "Connect a method weakness to its consequence",
+    "retained_sections": [
+      "Key concept",
+      "Topic guide",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes"
+    ],
+    "retained_section_count": 6,
+    "sha256": "23e89a1cd3cf1007a91641e8368dd5fefab14c52c998ad672238719ba662e46e",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I07",
+    "path": "year7/science/ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or/",
+    "title": "Build a claim that the evidence can carry",
+    "retained_sections": [
+      "Key concept",
+      "Topic guide",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes"
+    ],
+    "retained_section_count": 6,
+    "sha256": "217c862b046f71624bd917bba78ccc38d35d2b0bfb1fdf818f584396174638f4",
+    "publishedPractice": false
+  },
+  {
+    "code": "AC9S7I08",
+    "path": "year7/science/ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/index.html",
+    "canonical": "https://skillrhub.com/year7/science/ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/",
+    "title": "Keep the evidence while changing the audience",
+    "retained_sections": [
+      "Key concept",
+      "Topic guide",
+      "Curriculum coverage and elaborations",
+      "10 Important Questions & Answers",
+      "Common mistakes",
+      "Revision Notes"
+    ],
+    "retained_section_count": 6,
+    "sha256": "4156f33ca1adf5a4a241b95cf063c43a80594252c9836272a058969b025bf375",
+    "publishedPractice": false
+  }
+]

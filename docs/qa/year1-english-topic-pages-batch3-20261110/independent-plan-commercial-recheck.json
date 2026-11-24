@@ -1,0 +1,119 @@
+{
+  "status": "PASS",
+  "original_gate_plan_sha256": "11b46cc507f4e602b0ef834204969c1c2334c7b72ae02b15cb7739b95a9e15db",
+  "current_plan_sha256": "a81b44af9caa79b13fdc45a6e6ae4a9fadeb2dace8003b0478adb3e544b6e077",
+  "original_gate_inventory_plan_sha256": "22b1de7c72fa8a93b82a8fb1baa5b48b55d4677eeb36ba0a8c9f5a066d41b9d3",
+  "current_inventory_plan_sha256": "c871e9c2a8228a62c01de70694653503d974caea949d358559522a04ff5eea2c",
+  "scope": "Narrow commercial-map correction after research gate. Whole original documents include LY06/LY07 hero offers that main-only selection had omitted. Rechecked all ten original/final documents, every distinct TPT destination and retained cover. Current descriptor, three entry focuses and 67 retained teaching labels remain within the accepted research/plan scope. No repeated research collection.",
+  "distinct_paid_links": 9,
+  "resources": [
+    {
+      "code": "AC9E1LY06",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Writing-Short-Texts-AC9E1LY06-50-Practice-15-Test-Tasks-17913803"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Writing-Short-Texts-AC9E1LY06-50-Practice-15-Test-Tasks-17913803"
+      ],
+      "preserved_covers": [
+        "/assets/tpt-17913803-cover.png"
+      ],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY07",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY08",
+      "baseline_entire_document_paid_links": [],
+      "final_entire_document_paid_links": [],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY09",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY10",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY11",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY12",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY13",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY14",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    },
+    {
+      "code": "AC9E1LY15",
+      "baseline_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280"
+      ],
+      "final_entire_document_paid_links": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280"
+      ],
+      "preserved_covers": [],
+      "pass": true
+    }
+  ]
+}

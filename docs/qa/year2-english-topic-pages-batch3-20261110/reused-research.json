@@ -1,0 +1,820 @@
+{
+  "research_commit": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+  "actual_files": [
+    {
+      "path": "TEACHER_QA_SOP.md",
+      "bytes": 14313,
+      "git_blob_sha": "e5cbb36db6a0b8bd529baafeb547cfa247458a82",
+      "sha256_utf8": "958695b5721269584aaa6c9d7ba5296f4b68393e1bbcdfca3bab0648b6091b06"
+    },
+    {
+      "path": "TEACHING_PRODUCT_RESEARCH_PREFLIGHT_SOP.md",
+      "bytes": 12741,
+      "git_blob_sha": "24863d3f993c2bb41e12b0aa03edc47a4a95c15e",
+      "sha256_utf8": "e212289e5399ad9eaffa9e0de406968d106f77cfe1a97fbdb5233939e8ad6ead"
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+      "bytes": 5921,
+      "git_blob_sha": "a2dc3e47801f29fadab01b591be35c9df040ac02",
+      "sha256_utf8": "34ab87379217748bfdf7a62c1dc9edef8052ba4192ac2d4ad6c45733a77971ab"
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+      "bytes": 2217,
+      "git_blob_sha": "6cd2d361ead8010924255ea3626a4705844e83b8",
+      "sha256_utf8": "d96ca791e4b8ef885daf49114fe2f0570aac78257806acd0bb942b472ced5b76"
+    },
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1972,
+      "git_blob_sha": "fc390e9e3a06fced7be18a6617a0aa1b06e45f10",
+      "sha256_utf8": "1b88732af5783eb93bb27fd5410a3b5c8381cf6c38b4555115e4dcf85574e24e"
+    },
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-map.json",
+      "bytes": 19330,
+      "git_blob_sha": "802de7426a9873a8a1836c3ea3abbdf904564a31",
+      "sha256_utf8": "5adbf16fb2400d6f580902506e34341f4b5d512905ac5bc12a102f68ac7d9f9d"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 606,
+      "git_blob_sha": "6bedb90084a8ea5e373fa3f83d4d59bcd1f75898",
+      "sha256_utf8": "f3496da7a6779fa73a679fc6615d446f4604aa8ecaaffcd8d0b3fa02d26069e2"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-map.json",
+      "bytes": 22634,
+      "git_blob_sha": "3b43d02dbcada67442274ceb3db5427e93db70b2",
+      "sha256_utf8": "ee1fa3601ae770e26046ed0b866f310a0502bce810111a4971cfbaad9e83a99e"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teacher-qa.md",
+      "bytes": 1883,
+      "git_blob_sha": "b90d2b99f88e74406e1cd5edbdc05a80315f3844",
+      "sha256_utf8": "5e5ce62c1072258757b51e67749c6a158513704f14b82464a2f3c41a55513139"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json",
+      "bytes": 3175,
+      "git_blob_sha": "6adc8bf92efb5fb95729af60c09ac21b62f286e5",
+      "sha256_utf8": "37298a96bf9164515ecca581999306446fb2208734a6e01578d43b152e16a4a6"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 33150,
+      "git_blob_sha": "6f46385cde8d254f4273366fc0879a49b0971380",
+      "sha256_utf8": "12820819895a89c2d343249762201f14dffb4e2af8d52d270caec2602efc061e"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1697,
+      "git_blob_sha": "bd40c4faad3850b2b38863dab15bea5383bf346b",
+      "sha256_utf8": "df2052297ea55ab7007e3bcaad36abe276bbc9204a163ed2cb3b6886877a64b6"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json",
+      "bytes": 19186,
+      "git_blob_sha": "809ff0c3abd8053a48b9af2a609e9efdfb76f9b9",
+      "sha256_utf8": "37c74099dc88509e43a310a6175a63e98a4026eff1a4108d04c9d28fd7f399ab"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 2969,
+      "git_blob_sha": "e703e57f41414b1874a92756a707675f798d72ae",
+      "sha256_utf8": "e83405899638ed84e4ec915517b4076e04a0c385d1f36a81584a773d93194448"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 778,
+      "git_blob_sha": "49a0b0f5299005a6adc594b04a1686b220ec0078",
+      "sha256_utf8": "75c135694ecbd66671175a2e8516de7f64d5395d0504c0a20bc566bac4c63510"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-map.json",
+      "bytes": 22933,
+      "git_blob_sha": "b37816c93bca409f91c691d01b852b51325b93fe",
+      "sha256_utf8": "645725a0c1a36dce8f26e6b8fdb5f7b47d0edfeec5b57b67e75a68e65c9a39ca"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teacher-qa.md",
+      "bytes": 1816,
+      "git_blob_sha": "d38044eff21f6b33c5705d70cbb653be0f40aa98",
+      "sha256_utf8": "0636ccaab5edfa9b64ec42a493c78d922c7f01d3a1c76032bc9f8d2da5a03682"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teaching.json",
+      "bytes": 2518,
+      "git_blob_sha": "1e5826c745b04aed1cb2cfde12aa177f3b0e30aa",
+      "sha256_utf8": "08a19c8cc46d4672fbb3824d324964989a71c584460d44a615b56155adc9f94d"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 2905,
+      "git_blob_sha": "25b8e72677e94309ea562fd7bdbc48577b72d51c",
+      "sha256_utf8": "20c38441d071002b4d3abcfbd95f46cc97969dcb055fd77a66e0aeb48929b9dc"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 435,
+      "git_blob_sha": "704be5b93a2a9995a16947eb8ce4441aa60a3683",
+      "sha256_utf8": "1b8cad90e142c8331f83616597c8db3302c4d6048db19681f78d8188187e9acf"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-map.json",
+      "bytes": 19439,
+      "git_blob_sha": "a7728871234414d6a5d34a95bc0668c977d35394",
+      "sha256_utf8": "2e80a7d6ba17fd17710a2cc270def05b10069edaaadfb7705aa202618cfc8cd1"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teacher-qa-alignment.md",
+      "bytes": 1867,
+      "git_blob_sha": "dc0518f2b1b477c4331632a2956e714f5904a0c6",
+      "sha256_utf8": "e282747ffe9a29035beb2ac1d86c3da06d4cf776081a7ef9054855e6a8591cec"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+      "bytes": 2341,
+      "git_blob_sha": "52f3607a55581630684e6e998601d527e222dad3",
+      "sha256_utf8": "a7024fbd6780d33cde9902710e300523d66b3a10c61aca5e7a5fa94874095e2b"
+    },
+    {
+      "path": "qa/all-codes/english-f3/transcription-transfer-check.json",
+      "bytes": 4660,
+      "git_blob_sha": "7ead9f70ad907ea266fe1e69fd16da49f6b18eda",
+      "sha256_utf8": "72a915f7388d16bcc2479009f68b09ce6138005abebfbb43b500084be2fef65e"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY06.json",
+      "bytes": 7517,
+      "git_blob_sha": "8092bf27fd27736a0a9ecd0652aa4ba29fd11220",
+      "sha256_utf8": "7b6290f7ec80b1857e6db054fca68a61583605bd7981fcecc742d432d0a6c266"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY07.json",
+      "bytes": 8525,
+      "git_blob_sha": "019dcad33dd23db6299dd37902c874670fa77cc5",
+      "sha256_utf8": "a7033b30fa8bedd2a260be7fe716eee7a188e649ed57d9ff32718db020d6104d"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY08.json",
+      "bytes": 9371,
+      "git_blob_sha": "6df3467e33215f3e24ff034a6cec8660ba795d51",
+      "sha256_utf8": "bc131e0e0380993a6c70ad97748c458304a45c1896a44dccd3713bf8844a6265"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY09.json",
+      "bytes": 11140,
+      "git_blob_sha": "18ee7e40483bbeb55761395c20b80c0e959f3891",
+      "sha256_utf8": "6ec2c1543ccc5beb3677f76a84da85e204d2851cffd458cb439649fc2d3a5206"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY10.json",
+      "bytes": 8892,
+      "git_blob_sha": "e8d8e786a819c8209932d3b158d128de5d8e103a",
+      "sha256_utf8": "a3bff7552aaddbecde54274de455003de85de03163e56b70aac664dd12f61f49"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY11.json",
+      "bytes": 10111,
+      "git_blob_sha": "5eda7c6d257cb0d447c3033d9289faa7fa2f9438",
+      "sha256_utf8": "aa2527ee3451f3dd1dd211d81463c2df1fcc01fe32be113bcacdf1a7f64e7b49"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-2/AC9E2LY12.json",
+      "bytes": 7228,
+      "git_blob_sha": "5c2d0e4876720cdc0752c6c3b79eae0d1ae170e6",
+      "sha256_utf8": "97cf2996da879ba0a7fa568230b0899e5d24790d17b64dd8829af5feca7c29e8"
+    },
+    {
+      "path": "year-1/english/AC9E1LE05/le05.txt",
+      "bytes": 187221,
+      "git_blob_sha": "ea1c906beebdb91fde9078792b4e0e79a0e4e42c",
+      "sha256_utf8": "0e353847f60690227705656a1a478fca9437b5ec87a90de2b660ab391f4f27c7"
+    },
+    {
+      "path": "year-1/english/AC9E1LY04/ly04.txt",
+      "bytes": 232328,
+      "git_blob_sha": "2c699d9ea7955a882ec2295ba3fbcd09805afd2b",
+      "sha256_utf8": "44d2f35704eae5cca4edccbdc4283a644a77d2fdb188d2b287a64546a2006101"
+    },
+    {
+      "path": "year-1/english/AC9E1LY06/ly06.txt",
+      "bytes": 113771,
+      "git_blob_sha": "9d426e096c36ce16ca83a70f26e1d665764990c0",
+      "sha256_utf8": "fbb8185d06d415c43ebc00df283fa24af8832dd525dcb45eb481c0e3ec2e3547"
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+      "bytes": 110059,
+      "git_blob_sha": "1dda1ad36e1faa000fab2c64b0b2bb1018631bbd",
+      "sha256_utf8": "f06b38bab649bb10d6f025436ddb0b3ab31d987d00e595fde6966d2f4776c847"
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/ly07.txt",
+      "bytes": 694,
+      "git_blob_sha": "00ef7317eb9912dfdcede51fa1e300db5888c4a0",
+      "sha256_utf8": "1d83962a7d0e1c057d22bed6a8b8f7c76cf70c43204cebdacdc7d23fda755794"
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+      "bytes": 56035,
+      "git_blob_sha": "10ede10f53fff7ba0df2f33a5349ac79b0558d22",
+      "sha256_utf8": "164322282e211c78af3ff1302f1c85e01e32f13bcb4ea6f08f95c9eb8d35f6bc"
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/ly08.txt",
+      "bytes": 7928,
+      "git_blob_sha": "e04967008fcac885b0c6586433f12bf8e52e2b23",
+      "sha256_utf8": "a2183481ca6ced76f29114b00787df0e9de1555453f0fc3e40485f0edab49f03"
+    },
+    {
+      "path": "year-1/english/AC9E1LY09/ly09.txt",
+      "bytes": 7432,
+      "git_blob_sha": "560441032cb60c7f41dc89fd8b7b9d24b5fd3f9d",
+      "sha256_utf8": "b5baa94e9283b42aeaf3c52c917b7f7a4933f23dea21f8fd170db69c216366bf"
+    },
+    {
+      "path": "year-1/english/AC9E1LY14/ly14.txt",
+      "bytes": 7224,
+      "git_blob_sha": "cc36af994ffe5906359fdb67d65b5702867f9ed5",
+      "sha256_utf8": "63fa0ed328821b2b7d1fef427386fa99f0925b8997628c437e30d3f6dfe58e6d"
+    },
+    {
+      "path": "year-1/english/AC9E1LY15/ly15.txt",
+      "bytes": 7175,
+      "git_blob_sha": "962d60ab7bae958e4c522770068243a98004a2d0",
+      "sha256_utf8": "7bc824f4fc167367afb24f83b9f45d70f9b8114683cf80814651513242994a88"
+    },
+    {
+      "path": "year-2/english/AC9E2LA06/question-bank-draft-tracker.json",
+      "bytes": 1185,
+      "git_blob_sha": "6965738d47b9907a533f4a9fca0cf2fca32d2d4d",
+      "sha256_utf8": "9458033d22861168bdc1c5367a1d0eec48dd15e2f009d3f6bbea0bce7b984a7d"
+    },
+    {
+      "path": "year-2/english/AC9E2LA06/research/2026-11-03-residual-methods.json",
+      "bytes": 4146,
+      "git_blob_sha": "4eba137167103ac6cd416ad6a17b0c028ccdac4e",
+      "sha256_utf8": "79a1f5687e336967ec7457cebb1145cff4a06dfe6114565647ae614ff61cde4e"
+    },
+    {
+      "path": "year-2/english/AC9E2LA06/research/2026-11-04-free-question-collection-02.json",
+      "bytes": 2329,
+      "git_blob_sha": "1c71e55f902e954e1d3a35f57dd90b1ffe767c7d",
+      "sha256_utf8": "3058dc3fcd4bbcbea82fb020e2284668ccb086afc4617b2de7c6fe3036b6e205"
+    },
+    {
+      "path": "year-2/english/AC9E2LA06/research/2026-11-04-targeted-gap-closure.md",
+      "bytes": 1863,
+      "git_blob_sha": "05677201dc3f398990b7bb54797a14ddbfe00e1d",
+      "sha256_utf8": "bc2e6aca84ef59526112be98bfcbc04e9040335e5f761964803290c41b11fb11"
+    },
+    {
+      "path": "year-2/english/AC9E2LY06/independent-teacher-qa.json",
+      "bytes": 2928,
+      "git_blob_sha": "a879974e9046f760dea6e8b534a79061682c0729",
+      "sha256_utf8": "da9a8cfacc540e771d35a682cdd920be6e8f1a2ac1575023cc4b2e8fae47409e"
+    },
+    {
+      "path": "year-2/english/AC9E2LY06/question-bank-draft-tracker.json",
+      "bytes": 589,
+      "git_blob_sha": "245fad92e2478ef7d387d9ebb71a754ebe37bf93",
+      "sha256_utf8": "b9bb5074077c9a9b1045874bfba167a62088eda1d521a07d4a04ba19e03aaee8"
+    },
+    {
+      "path": "year-2/english/AC9E2LY06/research/2026-11-03-residual-methods.json",
+      "bytes": 4811,
+      "git_blob_sha": "8a144bed5273a80ec63315eefea5478df0d7d829",
+      "sha256_utf8": "0dddade09ce9c90256404269b51aede000f7c182a3e0de9ae1f60c7aa772ac38"
+    },
+    {
+      "path": "year-2/english/AC9E2LY06/source-and-review.md",
+      "bytes": 5588,
+      "git_blob_sha": "b9327f4c782e8fbcf7e17b67b9ea02ec5a3efd31",
+      "sha256_utf8": "401ba948906a0e546be65d9b691a4bee665ffc75ce968af861d1d04b087bc81b"
+    },
+    {
+      "path": "year-2/english/AC9E2LY07/independent-teacher-qa.json",
+      "bytes": 3107,
+      "git_blob_sha": "61cb763972a7ee55d49346c53415fac9504b53de",
+      "sha256_utf8": "8ce4abfa0c7f2ae317803088dc6b5a56918cf8bdfe98d6bfe9803dfe670fc0fb"
+    },
+    {
+      "path": "year-2/english/AC9E2LY07/question-bank-draft-tracker.json",
+      "bytes": 628,
+      "git_blob_sha": "eb733fd004538379c310ce687566fba1f389e17a",
+      "sha256_utf8": "e68d455dc7c4da9064a68e0075457be577035d9e72e924e63b693313b11e0aea"
+    },
+    {
+      "path": "year-2/english/AC9E2LY07/research/2026-11-03-residual-methods.json",
+      "bytes": 5822,
+      "git_blob_sha": "0b2de513d51f384e58144106d602d27ec681e2c2",
+      "sha256_utf8": "ca0ecbf931a7b9d324701e26f77faa1455d9c0f4fe3467b7254aa7510bf8788b"
+    },
+    {
+      "path": "year-2/english/AC9E2LY07/source-and-review.md",
+      "bytes": 3919,
+      "git_blob_sha": "71776282fad02aa094546f3b79c389c66867fedd",
+      "sha256_utf8": "80c3d8c7b0a6edcdea5a409088b463a904e8db05a2610797437bcd6fd50be701"
+    },
+    {
+      "path": "year-2/english/AC9E2LY08/independent-teacher-qa.json",
+      "bytes": 2711,
+      "git_blob_sha": "d84fb7df109a5cdf10ed93ea99b0a3f42ba363f6",
+      "sha256_utf8": "215b400e0bbd208cc30454f4ee1409e212bc390461085c88fd640ea9d5f18e0f"
+    },
+    {
+      "path": "year-2/english/AC9E2LY08/question-bank-draft-tracker.json",
+      "bytes": 574,
+      "git_blob_sha": "f50c848b6558e9e22b863f9202352bd3f3d05435",
+      "sha256_utf8": "602ccbb662e7a7c35825f44cf92bbafd5ba93f87f808571bd8a705f921789302"
+    },
+    {
+      "path": "year-2/english/AC9E2LY08/source-and-review.md",
+      "bytes": 3668,
+      "git_blob_sha": "2f296689510ff9e81f58fa3e276c536afcd11245",
+      "sha256_utf8": "b2636c18502e2392d91128a094b92e485df8f169f1e6ea7e4b759004655d9502"
+    },
+    {
+      "path": "year-2/english/AC9E2LY09/independent-teacher-qa.json",
+      "bytes": 2872,
+      "git_blob_sha": "6b5ad4e0d6ac1dcd2d97a6ee6d884248eb6b7f69",
+      "sha256_utf8": "d220c3edcdc2861569c74840feb241cb571d8a1a73fb2a5de67926494d3d33a3"
+    },
+    {
+      "path": "year-2/english/AC9E2LY09/question-bank-draft-tracker.json",
+      "bytes": 655,
+      "git_blob_sha": "84393e056a31418ded0ad787856ba31d72a6e2c4",
+      "sha256_utf8": "c4a25a514d427efe3695d7575c9073d8735d86c3980aa38d28b00b66ec4f6820"
+    },
+    {
+      "path": "year-2/english/AC9E2LY09/research/2026-11-03-phoneme-gap-closure.json",
+      "bytes": 13469,
+      "git_blob_sha": "05ff7797fd80679e716a60fd544a8480fb01c4ce",
+      "sha256_utf8": "30cef02e3cb54b5d45d732cb73281ac4a2ff29b864d73ebe8e5b432e3930940a"
+    },
+    {
+      "path": "year-2/english/AC9E2LY09/source-and-review.md",
+      "bytes": 3441,
+      "git_blob_sha": "768647b79edf2b3b3d1190f11eb91b4aefe3d308",
+      "sha256_utf8": "46c56bb6ca7e73303a53e781a08ad7548a4d77037f176df66ce6110d6271ec7b"
+    },
+    {
+      "path": "year-2/english/AC9E2LY10/independent-teacher-qa.json",
+      "bytes": 2811,
+      "git_blob_sha": "96bccde0f7065d5806d9ec7fcd29f59d69b47ebd",
+      "sha256_utf8": "7cd2fb061ac7ef712d30e6659dff890a6b83e56b1d3c5cc53594a809f551c960"
+    },
+    {
+      "path": "year-2/english/AC9E2LY10/question-bank-draft-tracker.json",
+      "bytes": 579,
+      "git_blob_sha": "d1dc39bc7fd9b8877ef0998fc57ee8e38025a424",
+      "sha256_utf8": "ed9468efd8f9b2b09deb3b3300dfaee410031b34fe03e9afa899b9fdc5f15b72"
+    },
+    {
+      "path": "year-2/english/AC9E2LY10/source-and-review.md",
+      "bytes": 3452,
+      "git_blob_sha": "5dccbe663302d1364493558af8bdecbd064655b1",
+      "sha256_utf8": "f5a08ce98488c69a4b0c1f4027e4aec87322c42c4060d23ba20d6b67aad83fde"
+    },
+    {
+      "path": "year-2/english/AC9E2LY11/independent-teacher-qa.json",
+      "bytes": 2732,
+      "git_blob_sha": "a657f6a78a75dd56376f5e79b27160d86ab4dc20",
+      "sha256_utf8": "a20cf820a1f57a7394305810d03887229b3a9fdbfadff8f0021cd7b01aa72318"
+    },
+    {
+      "path": "year-2/english/AC9E2LY11/question-bank-draft-tracker.json",
+      "bytes": 572,
+      "git_blob_sha": "45c199e81f21435cda894aeb0dd2c58edae27d55",
+      "sha256_utf8": "b811a4d5e98ac2bece416ff4cc3d57b295aefc03c4572280d56015eb63cdc232"
+    },
+    {
+      "path": "year-2/english/AC9E2LY11/source-and-review.md",
+      "bytes": 2476,
+      "git_blob_sha": "f253c485e80bdff627eecf908f052da677a158ce",
+      "sha256_utf8": "1d682871f52eb1ebb17d092e22ce77ee1891bbcb51b82f1830fd5cebad649dca"
+    },
+    {
+      "path": "year-2/english/AC9E2LY12/independent-teacher-qa.json",
+      "bytes": 2729,
+      "git_blob_sha": "bb70ac4094ebab11044572026f5ab84cd183b4c5",
+      "sha256_utf8": "650737d05104225c55102ee3d29e7259bb4effa3f6acab702b3ba6a997ad034e"
+    },
+    {
+      "path": "year-2/english/AC9E2LY12/question-bank-draft-tracker.json",
+      "bytes": 572,
+      "git_blob_sha": "5b2b4d77ba33e34d072c333fa381fc17e5e321ba",
+      "sha256_utf8": "458fff691cce75ef364e4ef08513bcd953c2c88fe49aa8a2f9a40495d51680e7"
+    },
+    {
+      "path": "year-2/english/AC9E2LY12/source-and-review.md",
+      "bytes": 2345,
+      "git_blob_sha": "6e7d893732432e3c14b0b566d57e15d0f6b2500b",
+      "sha256_utf8": "b0d03a726bcd62b2c9515230e991197591f3c8811ded6841f4a1bac683a5ef51"
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-all-codes.md",
+      "bytes": 1766,
+      "git_blob_sha": "686cd8a76f88f165761f7293dc06db4b575d3484",
+      "sha256_utf8": "7f52c8381406a5f7b5fc18780aff25a079ba6521b19e09788a0165125824fe74"
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-first-five.md",
+      "bytes": 7025,
+      "git_blob_sha": "6172e0d76d860187087c6f655e7fc264418e26d6",
+      "sha256_utf8": "4eed5555abf4c7bd33d56c74da36a1dc086fd75386371d3a85b43c1abffbda8e"
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-ixl-sweep.md",
+      "bytes": 3569,
+      "git_blob_sha": "5e8e5ec48f5b31cd002d715e734770691ad5207d",
+      "sha256_utf8": "812bb1ac5392164430245c07faf6e23cecaf49b8925a61a886999dc0ae219000"
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+      "bytes": 18548,
+      "git_blob_sha": "0b132a93150f9d2aa23ad0d6b30ad49ef7da1bab",
+      "sha256_utf8": "6413d348d70757626f278de16a3ad53ba90c957bd16b5188bb9d5c1514b27cc1"
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/NEXT-TEN-SWEEP.md",
+      "bytes": 25882,
+      "git_blob_sha": "60d4e208535dd2bfbaa2186befd9bcdf03054c5f",
+      "sha256_utf8": "c556404a1d44d91e09b4d8a648747aa66e1bb2fbb2a017065a6dd3bd419a45a9"
+    }
+  ],
+  "accepted_dependencies": [
+    {
+      "path": "year-1/english/AC9E1LY06/ly06.txt",
+      "git_blob_sha": "9d426e096c36ce16ca83a70f26e1d665764990c0",
+      "sha256_utf8": "fbb8185d06d415c43ebc00df283fa24af8832dd525dcb45eb481c0e3ec2e3547",
+      "bytes": 113771,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LE05/le05.txt",
+      "git_blob_sha": "ea1c906beebdb91fde9078792b4e0e79a0e4e42c",
+      "sha256_utf8": "0e353847f60690227705656a1a478fca9437b5ec87a90de2b660ab391f4f27c7",
+      "bytes": 187221,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-all-codes.md",
+      "git_blob_sha": "686cd8a76f88f165761f7293dc06db4b575d3484",
+      "sha256_utf8": "7f52c8381406a5f7b5fc18780aff25a079ba6521b19e09788a0165125824fe74",
+      "bytes": 1766,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-first-five.md",
+      "git_blob_sha": "6172e0d76d860187087c6f655e7fc264418e26d6",
+      "sha256_utf8": "4eed5555abf4c7bd33d56c74da36a1dc086fd75386371d3a85b43c1abffbda8e",
+      "bytes": 7025,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-2/english/supporting-research/docs/question-bank-reviews/2026-09-06-year2-english-ixl-sweep.md",
+      "git_blob_sha": "5e8e5ec48f5b31cd002d715e734770691ad5207d",
+      "sha256_utf8": "812bb1ac5392164430245c07faf6e23cecaf49b8925a61a886999dc0ae219000",
+      "bytes": 3569,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/NEXT-TEN-SWEEP.md",
+      "git_blob_sha": "60d4e208535dd2bfbaa2186befd9bcdf03054c5f",
+      "sha256_utf8": "c556404a1d44d91e09b4d8a648747aa66e1bb2fbb2a017065a6dd3bd419a45a9",
+      "bytes": 25882,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "fc390e9e3a06fced7be18a6617a0aa1b06e45f10",
+      "sha256_utf8": "1b88732af5783eb93bb27fd5410a3b5c8381cf6c38b4555115e4dcf85574e24e",
+      "bytes": 1972,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "802de7426a9873a8a1836c3ea3abbdf904564a31",
+      "sha256_utf8": "5adbf16fb2400d6f580902506e34341f4b5d512905ac5bc12a102f68ac7d9f9d",
+      "bytes": 19330,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+      "git_blob_sha": "1dda1ad36e1faa000fab2c64b0b2bb1018631bbd",
+      "sha256_utf8": "f06b38bab649bb10d6f025436ddb0b3ab31d987d00e595fde6966d2f4776c847",
+      "bytes": 110059,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/ly07.txt",
+      "git_blob_sha": "00ef7317eb9912dfdcede51fa1e300db5888c4a0",
+      "sha256_utf8": "1d83962a7d0e1c057d22bed6a8b8f7c76cf70c43204cebdacdc7d23fda755794",
+      "bytes": 694,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "6bedb90084a8ea5e373fa3f83d4d59bcd1f75898",
+      "sha256_utf8": "f3496da7a6779fa73a679fc6615d446f4604aa8ecaaffcd8d0b3fa02d26069e2",
+      "bytes": 606,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json",
+      "git_blob_sha": "6adc8bf92efb5fb95729af60c09ac21b62f286e5",
+      "sha256_utf8": "37298a96bf9164515ecca581999306446fb2208734a6e01578d43b152e16a4a6",
+      "bytes": 3175,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "3b43d02dbcada67442274ceb3db5427e93db70b2",
+      "sha256_utf8": "ee1fa3601ae770e26046ed0b866f310a0502bce810111a4971cfbaad9e83a99e",
+      "bytes": 22634,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teacher-qa.md",
+      "git_blob_sha": "b90d2b99f88e74406e1cd5edbdc05a80315f3844",
+      "sha256_utf8": "5e5ce62c1072258757b51e67749c6a158513704f14b82464a2f3c41a55513139",
+      "bytes": 1883,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+      "git_blob_sha": "10ede10f53fff7ba0df2f33a5349ac79b0558d22",
+      "sha256_utf8": "164322282e211c78af3ff1302f1c85e01e32f13bcb4ea6f08f95c9eb8d35f6bc",
+      "bytes": 56035,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/ly08.txt",
+      "git_blob_sha": "e04967008fcac885b0c6586433f12bf8e52e2b23",
+      "sha256_utf8": "a2183481ca6ced76f29114b00787df0e9de1555453f0fc3e40485f0edab49f03",
+      "bytes": 7928,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+      "git_blob_sha": "6f46385cde8d254f4273366fc0879a49b0971380",
+      "sha256_utf8": "12820819895a89c2d343249762201f14dffb4e2af8d52d270caec2602efc061e",
+      "bytes": 33150,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "bd40c4faad3850b2b38863dab15bea5383bf346b",
+      "sha256_utf8": "df2052297ea55ab7007e3bcaad36abe276bbc9204a163ed2cb3b6886877a64b6",
+      "bytes": 1697,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "809ff0c3abd8053a48b9af2a609e9efdfb76f9b9",
+      "sha256_utf8": "37c74099dc88509e43a310a6175a63e98a4026eff1a4108d04c9d28fd7f399ab",
+      "bytes": 19186,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/preview-observations.json",
+      "git_blob_sha": "e703e57f41414b1874a92756a707675f798d72ae",
+      "sha256_utf8": "e83405899638ed84e4ec915517b4076e04a0c385d1f36a81584a773d93194448",
+      "bytes": 2969,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "49a0b0f5299005a6adc594b04a1686b220ec0078",
+      "sha256_utf8": "75c135694ecbd66671175a2e8516de7f64d5395d0504c0a20bc566bac4c63510",
+      "bytes": 778,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teaching.json",
+      "git_blob_sha": "1e5826c745b04aed1cb2cfde12aa177f3b0e30aa",
+      "sha256_utf8": "08a19c8cc46d4672fbb3824d324964989a71c584460d44a615b56155adc9f94d",
+      "bytes": 2518,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "b37816c93bca409f91c691d01b852b51325b93fe",
+      "sha256_utf8": "645725a0c1a36dce8f26e6b8fdb5f7b47d0edfeec5b57b67e75a68e65c9a39ca",
+      "bytes": 22933,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teacher-qa.md",
+      "git_blob_sha": "d38044eff21f6b33c5705d70cbb653be0f40aa98",
+      "sha256_utf8": "0636ccaab5edfa9b64ec42a493c78d922c7f01d3a1c76032bc9f8d2da5a03682",
+      "bytes": 1816,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY09/ly09.txt",
+      "git_blob_sha": "560441032cb60c7f41dc89fd8b7b9d24b5fd3f9d",
+      "sha256_utf8": "b5baa94e9283b42aeaf3c52c917b7f7a4933f23dea21f8fd170db69c216366bf",
+      "bytes": 7432,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+      "git_blob_sha": "a2dc3e47801f29fadab01b591be35c9df040ac02",
+      "sha256_utf8": "34ab87379217748bfdf7a62c1dc9edef8052ba4192ac2d4ad6c45733a77971ab",
+      "bytes": 5921,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+      "git_blob_sha": "6cd2d361ead8010924255ea3626a4705844e83b8",
+      "sha256_utf8": "d96ca791e4b8ef885daf49114fe2f0570aac78257806acd0bb942b472ced5b76",
+      "bytes": 2217,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY04/ly04.txt",
+      "git_blob_sha": "2c699d9ea7955a882ec2295ba3fbcd09805afd2b",
+      "sha256_utf8": "44d2f35704eae5cca4edccbdc4283a644a77d2fdb188d2b287a64546a2006101",
+      "bytes": 232328,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+      "git_blob_sha": "0b132a93150f9d2aa23ad0d6b30ad49ef7da1bab",
+      "sha256_utf8": "6413d348d70757626f278de16a3ad53ba90c957bd16b5188bb9d5c1514b27cc1",
+      "bytes": 18548,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/preview-observations.json",
+      "git_blob_sha": "25b8e72677e94309ea562fd7bdbc48577b72d51c",
+      "sha256_utf8": "20c38441d071002b4d3abcfbd95f46cc97969dcb055fd77a66e0aeb48929b9dc",
+      "bytes": 2905,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "704be5b93a2a9995a16947eb8ce4441aa60a3683",
+      "sha256_utf8": "1b8cad90e142c8331f83616597c8db3302c4d6048db19681f78d8188187e9acf",
+      "bytes": 435,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+      "git_blob_sha": "52f3607a55581630684e6e998601d527e222dad3",
+      "sha256_utf8": "a7024fbd6780d33cde9902710e300523d66b3a10c61aca5e7a5fa94874095e2b",
+      "bytes": 2341,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "a7728871234414d6a5d34a95bc0668c977d35394",
+      "sha256_utf8": "2e80a7d6ba17fd17710a2cc270def05b10069edaaadfb7705aa202618cfc8cd1",
+      "bytes": 19439,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teacher-qa-alignment.md",
+      "git_blob_sha": "dc0518f2b1b477c4331632a2956e714f5904a0c6",
+      "sha256_utf8": "e282747ffe9a29035beb2ac1d86c3da06d4cf776081a7ef9054855e6a8591cec",
+      "bytes": 1867,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY14/ly14.txt",
+      "git_blob_sha": "cc36af994ffe5906359fdb67d65b5702867f9ed5",
+      "sha256_utf8": "63fa0ed328821b2b7d1fef427386fa99f0925b8997628c437e30d3f6dfe58e6d",
+      "bytes": 7224,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY15/ly15.txt",
+      "git_blob_sha": "962d60ab7bae958e4c522770068243a98004a2d0",
+      "sha256_utf8": "7bc824f4fc167367afb24f83b9f45d70f9b8114683cf80814651513242994a88",
+      "bytes": 7175,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    }
+  ],
+  "additional_shared_inputs": [
+    {
+      "path": "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json",
+      "local_review_input": "/workspace/scratch/e8027fd1ced3/year2-english-build3/independent-source-inputs/shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json",
+      "bytes": 14130,
+      "git_blob_sha": "1d0e657f82ef18406231d469125c84894bdea59c",
+      "sha256_utf8": "2cf0f8e9e39d42b154657f1cdbffe06187e225c6a50409360dfe1ef28a4080f1",
+      "repository": "JBR99729/research-",
+      "ref": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+      "inspection": "Current GitHub UTF8 content fetched and underlying source methods read; not inferred from a source-readiness label.",
+      "identity_check": "Exact bytes match the returned GitHub content blob SHA; no added trailing newline."
+    },
+    {
+      "path": "shared-research/english/2026-11-03-phoneme-alphabet-evidence.json",
+      "local_review_input": "/workspace/scratch/e8027fd1ced3/year2-english-build3/independent-source-inputs/shared-research/english/2026-11-03-phoneme-alphabet-evidence.json",
+      "bytes": 21823,
+      "git_blob_sha": "926430b2d19c3151fa5b85de15d836d56375d734",
+      "sha256_utf8": "9e14a3bc4d5e76c6dc24032257126e446e68c7663b075b90a9d8fa4b4441307f",
+      "repository": "JBR99729/research-",
+      "ref": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+      "inspection": "Current GitHub UTF8 content fetched and underlying source methods read; not inferred from a source-readiness label.",
+      "identity_check": "Exact bytes match the returned GitHub content blob SHA; no added trailing newline."
+    },
+    {
+      "path": "year-4/english/supporting-research/2026-11-03-transcription-evidence.json",
+      "local_review_input": "/workspace/scratch/e8027fd1ced3/year2-english-build3/independent-source-inputs/year-4/english/supporting-research/2026-11-03-transcription-evidence.json",
+      "bytes": 15632,
+      "git_blob_sha": "93f60e2feca5559c579c727c475bbd24c592ba35",
+      "sha256_utf8": "a2f076ba1521ec6948ebad17310f1398daa4883d895878aecc1f965179372919",
+      "repository": "JBR99729/research-",
+      "ref": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+      "inspection": "Current GitHub UTF8 content fetched and underlying source methods read; not inferred from a source-readiness label.",
+      "identity_check": "Exact bytes match the returned GitHub content blob SHA; no added trailing newline."
+    }
+  ],
+  "metadata": [
+    {
+      "path": "qa",
+      "sha": "662ec186fac44c4fa5a17e3c7ea9f9f971b7b983",
+      "entries": 579,
+      "truncated": false
+    },
+    {
+      "path": "year-2",
+      "sha": "ab1f6f94967d9f7c4c83bb6498fcdd8aaa954c95",
+      "entries": 1828,
+      "truncated": false
+    },
+    {
+      "path": "year-1",
+      "sha": "14d8ab6e8f9a97534190abd41d226a7b1a4e4d89",
+      "entries": 766,
+      "truncated": false
+    },
+    {
+      "path": "foundation",
+      "sha": "4f27f8f3f144565c9a09d04b4a9447b70718d1a5",
+      "entries": 524,
+      "truncated": false
+    },
+    {
+      "path": "year-3",
+      "sha": "c56b097669034c541b0ac5ce00025ffa8fff3ee3",
+      "entries": 813,
+      "truncated": false
+    },
+    {
+      "path": "shared-research",
+      "sha": "60a5f9df4e4e8a75322d3b5b00f253eec21985d5",
+      "entries": 711,
+      "truncated": false
+    }
+  ],
+  "identity_result": "74/74 current metadata identities and 36/36 accepted dependency triples match. The earlier research-missing list is a retrieval queue, not a current missing-file finding: all listed files now exist.",
+  "later_evidence": "Nov3 per-code residual LY06/LY07 closures and actual shared compound/tone packet; Nov4 LA06 result-clause repair; LY09 complete oral/encoding gap closure; LY10 transfer-check and direct Oak/LiteracyHub evidence; LY11/12 direct ABC suffix methods plus retained IXL grammar/morphology methods. Source statuses alone do not certify these guides.",
+  "limits": [
+    "No fresh IXL dot progression or new authenticated student submissions. Reused observed IXL task/help methods remain bounded to their actual recorded progression.",
+    "Research-log legacy filename returned404 in both repositories; current source ledgers, per-code QA and pinned later closures were used instead.",
+    "Source videos/audio not watched/heard, pupil handwriting/speech not observed, and finished guide renders not yet reviewed.",
+    "Older source grade labels supply methods only; units exact Year2 scope controls language and demands."
+  ]
+}

@@ -1,0 +1,60 @@
+name: Consolidate duplicate pages and embed authored worksheets
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/seo-maintenance/**'
+      - 'scripts/build_india_bridge_pages.mjs'
+      - '.github/workflows/consolidate-seo-content.yml'
+permissions:
+  contents: write
+concurrency:
+  group: consolidate-seo-content
+  cancel-in-progress: false
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install the pinned build-only HTML renderer
+        run: npm ci --prefix scripts/seo-maintenance --ignore-scripts --no-audit --no-fund
+      - name: Consolidate aliases and reuse authored worksheet content
+        run: |
+          node scripts/seo-maintenance/consolidate-pages.cjs
+          node scripts/seo-maintenance/prerender-worksheets.cjs
+          python3 scripts/generate_sitemap.py
+          python3 scripts/prepare_google_sitemap.py
+          python3 scripts/tidy_sitemap_html.py
+      - name: Check content, navigation and indexing
+        run: |
+          node scripts/seo-maintenance/validate.cjs
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          python3 scripts/validate_discovery_navigation.py
+          node scripts/audit_search_ai_integrity.mjs
+          git diff --check
+      - name: Preserve the complete site and publish generated content
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' data/print-and-go-products.json scripts/seo-maintenance/worksheet-manifest.json sitemap.xml 'sitemap-*.xml' assets/site-search-index.json
+          if git diff --cached --quiet; then
+            echo 'Consolidation and static worksheets are already current.'
+            exit 0
+          fi
+          git commit -m 'Consolidate duplicate discovery pages and embed authored worksheet content'
+          node scripts/check_release_integrity.mjs "$release_base" HEAD
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$release_base" ]; then
+            echo 'Main advanced during consolidation; rerun on current main.'
+            exit 1
+          fi
+          git push origin HEAD:main

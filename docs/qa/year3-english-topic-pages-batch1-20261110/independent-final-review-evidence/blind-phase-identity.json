@@ -1,0 +1,19 @@
+{
+  "reviewer_type": "AI",
+  "reviewer_id": "/root/y3_final_review",
+  "created_utc": "2026-11-10T06:27:35.725003+00:00",
+  "phase": "blind B saved before final authored artifacts/keys/prior findings",
+  "sha256": {
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/blind-prompts-b.json": "66ceda2924ab4955e0bd196c8181748c972a71da124ce813cd95839f303eaf15",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/blind-supplement-b.json": "7939d199c7610223e3c770a0f403f1a2ffa7ce4de5165e705e48686f91fc9f80",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/independent-final/blind-solutions-b.json": "2449671a617cd4314989bf5af1fd7db58909f1525b80171eee5ec70159636199",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/independent-final/blind-supplement-solutions-b.json": "1bb5fe798eff3eddd9a1bd829b213b7b10c9dff2cb683931a970b59fe633ec6c"
+  },
+  "pending": [
+    "LA01\u201305 blind prompt pack",
+    "actual LA09 gate/library/arrival stimuli",
+    "actual referenced activity cards",
+    "exact final authored artifacts and relevant dependency identities",
+    "all model image pixel inspection and selected responsive frames"
+  ]
+}

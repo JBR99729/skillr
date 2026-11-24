@@ -1,0 +1,865 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10H04",
+    "title": "Examine how the values and needs of society influence the...",
+    "unitSlug": "ac9s10h04-examine-how-the-values-and-needs-of-society-influence-the",
+    "sourceOrder": 668,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "examine how the values and needs of society influence the focus of scientific research",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10H04_E1",
+        "number": "E1",
+        "text": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H04_E2",
+        "number": "E2",
+        "text": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10H04_E3",
+        "number": "E3",
+        "text": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H04_E4",
+        "number": "E4",
+        "text": "examining the link between scientific research and real-world applications such as space research and new material development",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10h04-society-values-scientific-research-priorities/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10h04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10h04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10H04",
+        "label": "Content description",
+        "text": "examine how the values and needs of society influence the focus of scientific research",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H04_E1",
+        "number": "E1",
+        "text": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H04_E2",
+        "number": "E2",
+        "text": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10H04_E3",
+        "number": "E3",
+        "text": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H04_E4",
+        "number": "E4",
+        "text": "examining the link between scientific research and real-world applications such as space research and new material development",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10h04-examine-how-the-values-and-needs-of-society-influence-the/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I01",
+    "title": "Develop investigable questions, reasoned predictions and hypotheses to test relationships...",
+    "unitSlug": "ac9s10i01-develop-investigable-questions-reasoned-predictions-and",
+    "sourceOrder": 669,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I01_E1",
+        "number": "E1",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E2",
+        "number": "E2",
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E3",
+        "number": "E3",
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E4",
+        "number": "E4",
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E5",
+        "number": "E5",
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i01-investigable-questions-hypotheses-predictions/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I01",
+        "label": "Content description",
+        "text": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E1",
+        "number": "E1",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E2",
+        "number": "E2",
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E3",
+        "number": "E3",
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E4",
+        "number": "E4",
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I01_E5",
+        "number": "E5",
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i01-develop-investigable-questions-reasoned-predictions-and/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I02",
+    "title": "Plan and conduct valid, reproducible investigations to answer questions and...",
+    "unitSlug": "ac9s10i02-plan-and-conduct-valid-reproducible-investigations-to-answer",
+    "sourceOrder": 670,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I02_E1",
+        "number": "E1",
+        "text": "addressing possible sources of error through choice of equipment, variable control or further testing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E2",
+        "number": "E2",
+        "text": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E3",
+        "number": "E3",
+        "text": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E4",
+        "number": "E4",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E5",
+        "number": "E5",
+        "text": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I02_E6",
+        "number": "E6",
+        "text": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I02_E7",
+        "number": "E7",
+        "text": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i02-valid-reproducible-investigations/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I02",
+        "label": "Content description",
+        "text": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E1",
+        "number": "E1",
+        "text": "addressing possible sources of error through choice of equipment, variable control or further testing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E2",
+        "number": "E2",
+        "text": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E3",
+        "number": "E3",
+        "text": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E4",
+        "number": "E4",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I02_E5",
+        "number": "E5",
+        "text": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I02_E6",
+        "number": "E6",
+        "text": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I02_E7",
+        "number": "E7",
+        "text": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i02-plan-and-conduct-valid-reproducible-investigations-to-answer/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I03",
+    "title": "Select and use equipment to generate and record data with...",
+    "unitSlug": "ac9s10i03-select-and-use-equipment-to-generate-and-record-data-with",
+    "sourceOrder": 671,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I03_E1",
+        "number": "E1",
+        "text": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E2",
+        "number": "E2",
+        "text": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E3",
+        "number": "E3",
+        "text": "identifying how human error can affect replicability and reproducibility",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E4",
+        "number": "E4",
+        "text": "deciding how much data is needed to produce valid conclusions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i03-precise-replicable-data/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I03",
+        "label": "Content description",
+        "text": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E1",
+        "number": "E1",
+        "text": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E2",
+        "number": "E2",
+        "text": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E3",
+        "number": "E3",
+        "text": "identifying how human error can affect replicability and reproducibility",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I03_E4",
+        "number": "E4",
+        "text": "deciding how much data is needed to produce valid conclusions",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i03-select-and-use-equipment-to-generate-and-record-data-with/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I04",
+    "title": "Select and construct appropriate representations, including tables, graphs, descriptive statistics...",
+    "unitSlug": "ac9s10i04-select-and-construct-appropriate-representations-including",
+    "sourceOrder": 672,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I04_E1",
+        "number": "E1",
+        "text": "using spreadsheet software to carry out mathematical analyses of data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E2",
+        "number": "E2",
+        "text": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E3",
+        "number": "E3",
+        "text": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E4",
+        "number": "E4",
+        "text": "considering how the scales used for representing data affect interpretation of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E5",
+        "number": "E5",
+        "text": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E6",
+        "number": "E6",
+        "text": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i04-data-representations-models-statistics/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I04",
+        "label": "Content description",
+        "text": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E1",
+        "number": "E1",
+        "text": "using spreadsheet software to carry out mathematical analyses of data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E2",
+        "number": "E2",
+        "text": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E3",
+        "number": "E3",
+        "text": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E4",
+        "number": "E4",
+        "text": "considering how the scales used for representing data affect interpretation of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E5",
+        "number": "E5",
+        "text": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I04_E6",
+        "number": "E6",
+        "text": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i04-select-and-construct-appropriate-representations-including/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I05",
+    "title": "Analyse and connect a variety of data and information to...",
+    "unitSlug": "ac9s10i05-analyse-and-connect-a-variety-of-data-and-information-to",
+    "sourceOrder": 673,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I05_E1",
+        "number": "E1",
+        "text": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E2",
+        "number": "E2",
+        "text": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E3",
+        "number": "E3",
+        "text": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E4",
+        "number": "E4",
+        "text": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E5",
+        "number": "E5",
+        "text": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i05-analyse-patterns-relationships-evidence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I05",
+        "label": "Content description",
+        "text": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E1",
+        "number": "E1",
+        "text": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E2",
+        "number": "E2",
+        "text": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E3",
+        "number": "E3",
+        "text": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E4",
+        "number": "E4",
+        "text": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I05_E5",
+        "number": "E5",
+        "text": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i05-analyse-and-connect-a-variety-of-data-and-information-to/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I06",
+    "title": "Assess the validity and reproducibility of methods and evaluate the...",
+    "unitSlug": "ac9s10i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate",
+    "sourceOrder": 674,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I06_E1",
+        "number": "E1",
+        "text": "evaluating the strength of a conclusion that can be inferred from a particular data set",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E2",
+        "number": "E2",
+        "text": "distinguishing between random and systematic errors and how these can affect investigation results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E3",
+        "number": "E3",
+        "text": "judging the validity of science-related media reports and how these reports might be interpreted by the public",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E4",
+        "number": "E4",
+        "text": "identifying assumptions in methods then examining if further testing or extra variable control is needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E5",
+        "number": "E5",
+        "text": "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E6",
+        "number": "E6",
+        "text": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i06-validity-reproducibility-evidence-quality/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I06",
+        "label": "Content description",
+        "text": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E1",
+        "number": "E1",
+        "text": "evaluating the strength of a conclusion that can be inferred from a particular data set",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E2",
+        "number": "E2",
+        "text": "distinguishing between random and systematic errors and how these can affect investigation results",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E3",
+        "number": "E3",
+        "text": "judging the validity of science-related media reports and how these reports might be interpreted by the public",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E4",
+        "number": "E4",
+        "text": "identifying assumptions in methods then examining if further testing or extra variable control is needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E5",
+        "number": "E5",
+        "text": "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I06_E6",
+        "number": "E6",
+        "text": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I07",
+    "title": "Construct arguments based on analysis of a variety of evidence...",
+    "unitSlug": "ac9s10i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence",
+    "sourceOrder": 675,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10I07_E1",
+        "number": "E1",
+        "text": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E2",
+        "number": "E2",
+        "text": "engaging in evidence-based debates about the role of human activity in global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E3",
+        "number": "E3",
+        "text": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E4",
+        "number": "E4",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E5",
+        "number": "E5",
+        "text": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I07_E6",
+        "number": "E6",
+        "text": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E7",
+        "number": "E7",
+        "text": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E8",
+        "number": "E8",
+        "text": "preparing an argument for increased funding for a particular scientific research focus",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10i07-evidence-based-scientific-arguments/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I07",
+        "label": "Content description",
+        "text": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E1",
+        "number": "E1",
+        "text": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E2",
+        "number": "E2",
+        "text": "engaging in evidence-based debates about the role of human activity in global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E3",
+        "number": "E3",
+        "text": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E4",
+        "number": "E4",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E5",
+        "number": "E5",
+        "text": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10I07_E6",
+        "number": "E6",
+        "text": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E7",
+        "number": "E7",
+        "text": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10I07_E8",
+        "number": "E8",
+        "text": "preparing an argument for increased funding for a particular scientific research focus",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10I08",
+    "title": "And create texts to communicate ideas, findings and arguments effectively...",
+    "unitSlug": "ac9s10i08-and-create-texts-to-communicate-ideas-findings-and-arguments",
+    "sourceOrder": 676,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [],
+    "url": "/year10/science/ac9s10i08-scientific-communication-audience-purpose/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10i08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10i08-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10I08",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10i08-and-create-texts-to-communicate-ideas-findings-and-arguments/"
+  }
+]

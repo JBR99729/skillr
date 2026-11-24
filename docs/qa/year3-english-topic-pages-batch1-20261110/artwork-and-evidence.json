@@ -1,0 +1,277 @@
+{
+  "models": [
+    {
+      "code": "AC9E3LA01",
+      "index": 1,
+      "literal_svg_sha256": "99c0ad6f3c6c8fbda8f1051c7122b871c185a73a7ff05326d2743871146047d5",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA02",
+      "index": 1,
+      "literal_svg_sha256": "145b90fe296fb146f10220c9b2c89ca1e8ed99c5ecf2195402ff71bb0763c7c6",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA03",
+      "index": 1,
+      "literal_svg_sha256": "6f4bba4c20c0b8b20b5a4e6efb2db5837194e378a17f8462b03e81204fac93c5",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA04",
+      "index": 1,
+      "literal_svg_sha256": "1381486625d21eaf8b539347b92847741daf94277401f944eec1fecfd4bd531a",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 1,
+      "literal_svg_sha256": "0fe3289875e490eac8e5e23da5859205a58ae93690dd5033c9443ca07213d793",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA06",
+      "index": 1,
+      "literal_svg_sha256": "60b493e98fedc819a05f264e388e1c179edb82ddd05e31e30f959cd7a8352944",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA07",
+      "index": 1,
+      "literal_svg_sha256": "70184461c916d93434aa7f36b81ac97f1dec90fc9c1a5a17ae7727fb6bd964a3",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA08",
+      "index": 1,
+      "literal_svg_sha256": "235e6543287c84df473f0af3bc49519257f7ce94bdd797195df7a81fef083f61",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 1,
+      "literal_svg_sha256": "66d9f33c1e41fefe6a819780f7196c292ca9f87938ba32941def55ffda65a1c4",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 2,
+      "literal_svg_sha256": "44da181620ab7e29db034930ea19277d7b99ad246d7efbd48d3a431d9e8a52af",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 3,
+      "literal_svg_sha256": "a1b90bdcda912bb997b9fee72a77e153b8d7a618e762ed0263c3f286dc10206a",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 4,
+      "literal_svg_sha256": "4ab2d592cb95c8948006eec98aeb67c53cacf74748bd95982c92c125ebb86bd9",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 5,
+      "literal_svg_sha256": "141c8fb6693240c3bfa7a4496fa36e66ce006f88c24079da7c90cfb5a841bec9",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 6,
+      "literal_svg_sha256": "6f8d4a508599eefa59198173824e185661ed8c333d0730d246c5609e9c9b251b",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 7,
+      "literal_svg_sha256": "876fee275f05cf4eb6570bd9d9fd75b1167df73ea856bf2aadca1a8c8f8c8d90",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 8,
+      "literal_svg_sha256": "587a66fc1c37035f1a96c7f6f00a698dd7234402d505790b712402a02ea9f8ef",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 9,
+      "literal_svg_sha256": "260f5151777e869a47714cd221522bf155127e077ef02a8c6681730828ee6c42",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 10,
+      "literal_svg_sha256": "455f8f944ace3f6219b945aaa43c60421179e605e0f0b6185de5b73cccc3bb72",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 11,
+      "literal_svg_sha256": "d9635b97460541c7ffa3cd5d2a29360c9f8a55eae69b5d4f63b0f656d457a898",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 12,
+      "literal_svg_sha256": "6ceddd75ad43e4af053b650314868687993215712e6af86556f6df520bc59eeb",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    },
+    {
+      "code": "AC9E3LA10",
+      "index": 1,
+      "literal_svg_sha256": "b11a123d8690f5ddee9c036d2d03ada73f5532bed8d2a24c706826b60cfb4986",
+      "origin": "Inline SVG model: source preservation checks protect all original geometry; declared new diagrams receive independent source and browser pixel review."
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9E3LA01",
+      "index": 1,
+      "html_sha256": "4f7e2d1dd00fc8fa9c58a1d9e8e03079f0d7494253ee413427dc33b2c53dc061",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA02",
+      "index": 1,
+      "html_sha256": "fd25dd1e4edfc346746a97a4bc6cd74fbbdd56a3218b8394d2c25fe24e2f510e",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA03",
+      "index": 1,
+      "html_sha256": "e103390099956fcc1c8b75e2453e9197ba182bbeb0bdecb76381d24fb2dcdfad",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA03",
+      "index": 2,
+      "html_sha256": "c3557fbb6d958e74e68fb6404026f32f2c27d385b941087946ab58912c3b8505",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA04",
+      "index": 1,
+      "html_sha256": "6032399ba4c2be78b7d65010526b37b654d940581fd3004974a79a9fc6d9dd17",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA04",
+      "index": 2,
+      "html_sha256": "4fbd624bcfa24ceb6af2fca1befb67cb09639fafacf58921a89dc4eaf569860f",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA04",
+      "index": 3,
+      "html_sha256": "302f650eb806ea3c34342d4b51ecfae169f50a4533de082c71d84f40eb6f144f",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA04",
+      "index": 4,
+      "html_sha256": "961f9e373173d3ca84aca35e01eb1a507f6d2c42c936980a01d710486ec9a660",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 1,
+      "html_sha256": "e3f79aa49f2c374ea1670d539763998f6c9c6ff45cc453a017597a68ca84358a",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 2,
+      "html_sha256": "bc922569af88d662206f3ddcf814c8276ad597c421b2ddd63d0135cac5681507",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 3,
+      "html_sha256": "9312bfbd1c986ce39b4ef94c3c4a8fd7085a824c98923a7f3505a234e425adb5",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 4,
+      "html_sha256": "bc922569af88d662206f3ddcf814c8276ad597c421b2ddd63d0135cac5681507",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 5,
+      "html_sha256": "bc922569af88d662206f3ddcf814c8276ad597c421b2ddd63d0135cac5681507",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 6,
+      "html_sha256": "9312bfbd1c986ce39b4ef94c3c4a8fd7085a824c98923a7f3505a234e425adb5",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA05",
+      "index": 7,
+      "html_sha256": "bc922569af88d662206f3ddcf814c8276ad597c421b2ddd63d0135cac5681507",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA06",
+      "index": 1,
+      "html_sha256": "24009b837e58eab4a4ef28ee38613cd7ce9ea237eecf43a6fc3c58858a96af81",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA06",
+      "index": 2,
+      "html_sha256": "facd29c0f4a8361ba4c48a009b2cd97fac1f3310030b67c274a6b202a8c872f9",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA07",
+      "index": 1,
+      "html_sha256": "ee889b7b4ae09a105a3d8a2b31a3a1e74a4e8434b681762d14f0f21ca2b66d65",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA07",
+      "index": 2,
+      "html_sha256": "1ce003bacb1e013f0d475b3cbd8f91bb6c8076d2069b93670ded9b341f01162b",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA08",
+      "index": 1,
+      "html_sha256": "194e72e1496b797ecb11b25e3e74d632cffab1eb6c0e94662256f7f6ab5ce879",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA08",
+      "index": 2,
+      "html_sha256": "7dfab59426368cfd282fc5e49afe3a7a7bf6b7c7a861e2615e4471a812ef1a20",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA09",
+      "index": 1,
+      "html_sha256": "f8a969519a60edffe2907f8587925c9ae0456ad4c2090ea08fd218cd30e098db",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA10",
+      "index": 1,
+      "html_sha256": "c6e1f76ff72f83918cc5bed07322124c5158ed340e63859728e8a9a2b530f595",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E3LA10",
+      "index": 2,
+      "html_sha256": "d8a3bae0e259c936fb12e7c8e622f813ef26bb2788deec20c194cf82ad49d27a",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    }
+  ],
+  "image_assets": []
+}

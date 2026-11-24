@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
@@ -7,8 +8,17 @@ import {YEAR8_MATHS_EXPECTED_CODES,YEAR8_MATHS_V2_MIGRATED} from './year8_maths_
 const ROOT=process.cwd();
 const ids=['learn','prerequisites','teaching','examples','misconceptions','guided-practice','independent-practice','reasoning','important-questions','assessment','mastery','guidance','alignment','resources','related','official-references'];
 const errors=[];
-const hub=fs.readFileSync(path.join(ROOT,'year8/curriculum/maths/index.html'),'utf8');
-const hubCodes=[...hub.matchAll(/class=["']curriculum-badge["']>(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))</gi)].map(m=>m[1].toUpperCase());
+const legacyHub=fs.readFileSync(path.join(ROOT,'year8/curriculum/maths/index.html'),'utf8');
+// The owner consolidated subject hubs into Learn on 7 November. Validate
+// the active Year 8 Maths inventory, while retaining legacy-hub compatibility.
+const consolidated=legacyHub.includes('data-learning-hub-retired=');
+const hub=consolidated
+  ? fs.readFileSync(path.join(ROOT,'learn/index.html'),'utf8').match(/<section class="cb-group" data-group="8-maths">([\s\S]*?)<\/section>/)?.[1] || ''
+  : legacyHub;
+const hubCodePattern=consolidated
+  ? /<small>[^<]*\b(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))<\/small>/gi
+  : /class=["']curriculum-badge["']>(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))</gi;
+const hubCodes=[...hub.matchAll(hubCodePattern)].map(m=>m[1].toUpperCase());
 const uniqueHub=[...new Set(hubCodes)].sort();
 const expected=[...YEAR8_MATHS_EXPECTED_CODES].sort();
 const migratedCodes=YEAR8_MATHS_V2_MIGRATED.map(x=>x.code).sort();
@@ -51,11 +61,12 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
   const resourceLabelGroups=[
     ['Teacher Slides','Classroom View'],
-    ['Homework','Practice Sheet','Worksheet']
+    ['View paid worksheets','Browse paid worksheets']
   ];
   for(const labels of resourceLabelGroups){
     if(!labels.some(label=>html.includes(`>${label}<`)))errors.push(`${item.code}: ${labels.join(' / ')} link missing`);
   }
+  errors.push(...validatePaidWorksheetNavigation(html,item.code,ROOT));
   errors.push(...validateTopicActivities(html,item.code,ROOT));
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
@@ -98,3 +109,4 @@ if(errors.length){
   process.exit(1);
 }
 console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory migrated and permanently locked; authored depth, preservation/differentiation, locked order, SEO/resources/schema and state alignment verified.`);
+

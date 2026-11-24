@@ -1,0 +1,814 @@
+{
+  "scope": "Ten public static Topic Guides only; not app banks, slide/worksheet products or group certification",
+  "base_main": "039e98aa9aa2fe09052e588dd8c0c47ac2b82043",
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "reference_sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395",
+  "research_commit": "f82f0c8a6b76da24fc7946376b1c8ad8a89ae3eb",
+  "research_tree": "672b3ec4d2fa4e1b216e995cd247dee92f8a3ba2",
+  "reuse": "31 unique accepted dependencies verified byte count/SHA256/Gitblob; ten code researchQA records reviewed; no new source question count or source playback claimed",
+  "codes": [
+    {
+      "code": "AC9EFLE02",
+      "descriptor": "respond to stories and share feelings and thoughts about their events and characters",
+      "elaborations": [
+        {
+          "code": "AC9EFLE02_E1",
+          "number": "E1",
+          "text": "using drawing and beginning forms of writing to express personal responses to stories, poems or films",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE02_E2",
+          "number": "E2",
+          "text": "discussing events and characters in texts, and connecting them to their own experiences",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Notice a character/event that prompts a response",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE02/le02.txt"
+          ],
+          "method_boundary": "Year1LE02 full RWT text-to-self think-aloud/think-pair-share and actual narrative teaching support shorter Foundation oral/drawn responses. A learner need not disclose private experience or share one teacher-selected feeling."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Share own feeling or thought with a reason/clue",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE02/le02.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Listen and allow different supported responses",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE02/le02.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Complete original lost-boot story; reader feeling versus character inference; share fruit contrasting character action.",
+      "guided_check": "Point to event, express own response, connect by choice; no private disclosure.",
+      "boundary": "Drawing/words/AAC response; distinguish story and own experience; differing supported feelings allowed.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLE03",
+      "descriptor": "recognise different types of literary texts and identify features including events, characters, and beginnings and endings",
+      "elaborations": [
+        {
+          "code": "AC9EFLE03_E1",
+          "number": "E1",
+          "text": "recognising that stories often have similar beginnings; for example, “Once upon a time”, “A long, long time ago” in fairytales or introducing the character: “A girl called Amira …”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE03_E2",
+          "number": "E2",
+          "text": "exploring literature by First Nations Australian authors and their cultural patterns of storytelling",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9EFLE03_E3",
+          "number": "E3",
+          "text": "identifying how stories are told in poetry",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE03_E4",
+          "number": "E4",
+          "text": "identifying typical features of fairytales such as princes and princesses or the moral of the story",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Identify a literary type from a supplied example",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE03/le03.txt",
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Year1LE03 actual picture-event, action/dialogue, ordering and ABC story-map methods support simple story features. Year1LE04 poems/rhymes provides a second literary form; type recognition is lower demand than later narrative analysis."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Recognise characters and connected events",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE03/le03.txt",
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Find beginning/ending and retell their connection",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE03/le03.txt",
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Mina shell complete story; actual four-line bird story poem; original magical fox opening/ending.",
+      "guided_check": "Identify characters vs events, compare forms, locate first/final event.",
+      "boundary": "First Nations cultural-pattern extension explicitly needs actual lawfully available Little Bird’s Day book, named creators; no invented culture pattern or full-book observation claim.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLE04",
+      "descriptor": "explore and replicate the rhythms and sound patterns of literary texts such as poems, rhymes and songs",
+      "elaborations": [
+        {
+          "code": "AC9EFLE04_E1",
+          "number": "E1",
+          "text": "using music and actions to enhance appreciation of rhymes, poems, chants and songs",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE04_E2",
+          "number": "E2",
+          "text": "reciting rhymes with actions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE04_E3",
+          "number": "E3",
+          "text": "exploring rhythms used in poems by First Nations Australians",
+          "questionEligible": false
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Hear and echo a repeated rhythm",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Reuse Year1LA04 cohesion/rhyme/rhythm sources and Year1LE04 actual IXL ending-sound and ABC rhythm/generation lessons. Keep source transcript/notation inspection distinct from heard audio; a teacher can perform original lines later."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Recognise and replicate rhyme or sound patterns",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare and create a short patterned line",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LA04/la04.txt",
+            "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LE04/le04.txt",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Actual original chant with four steady beats and separate spoken rhythm; original repeated bird action chant.",
+      "guided_check": "Adult models/child echoes actual words, listens to rhyme, copies duration/pause pattern using optional accessible motion.",
+      "boundary": "A real poem by Daisy Utemorrah from adult-selected lawful book needed for cultural-poem activity; no source audio/child performance inferred from static notation.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLE05",
+      "descriptor": "retell and adapt familiar literary texts through play, performance, images or writing",
+      "elaborations": [
+        {
+          "code": "AC9EFLE05_E1",
+          "number": "E1",
+          "text": "drawing and role-playing characters or events",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLE05_E2",
+          "number": "E2",
+          "text": "sequencing pictures, which may involve using digital tools, to retell a story",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Retell connected key events",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Year1LE05 actual sequencing, ABC story-map/new-ending and RWT oral/partner/retelling guidance supplies complete methods and task families. Different Foundation response modes are original adaptations; do not claim a tap establishes performance."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Represent a retelling through play/pictures",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Adapt a familiar character/event while preserving a coherent story",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Complete Tama planting story and actual three event drawings; distinguish accurate retell from changed ending.",
+      "guided_check": "Order evidence, show event via drawing/play, adapt one part while preserving anchors.",
+      "boundary": "No real climbing or performance evidence from an answer; imaginary vine scene remains pretend.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY01",
+      "descriptor": "identify some familiar texts, such as stories and informative texts, and their purpose",
+      "elaborations": [
+        {
+          "code": "AC9EFLY01_E1",
+          "number": "E1",
+          "text": "recognising symbols in everyday environments and discussing why they are used; for example, exit signs, school crossing signs, emblems or badges on school uniforms",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY01_E2",
+          "number": "E2",
+          "text": "using book covers to group imaginative and informative texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY01_E3",
+          "number": "E3",
+          "text": "grouping texts according to topic; for example, grouping a set of texts, which may include informative and imaginative texts, about farm animals",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Identify a familiar story text",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Year1LY01 actual ABC procedure/story and RWT kindergarten report/invitation activities support Foundation purpose recognition; preserve plausible mixed purposes rather than rigid picture-type rules."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Identify a familiar informative/functional text",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Choose a text for a stated everyday purpose",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Actual invented story/fact covers with corresponding inside mini texts; original exit symbol; recipe directions.",
+      "guided_check": "Name familiar type, infer purpose from content, group farm texts by shared topic/different purpose.",
+      "boundary": "Symbols explained in context; not rigid colour/photo rules; original scene/diagram artwork rather than claimed official sign.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY02",
+      "descriptor": "interact in informal and structured situations by listening while others speak and using features of voice including volume levels",
+      "elaborations": [
+        {
+          "code": "AC9EFLY02_E1",
+          "number": "E1",
+          "text": "exchanging ideas with peers in pairs and small groups, engaging in class discussions, listening to others and contributing ideas",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY02_E2",
+          "number": "E2",
+          "text": "showing understanding of appropriate listening behaviour, such as listening without interrupting, and looking at the speaker, if culturally appropriate",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY02_E3",
+          "number": "E3",
+          "text": "altering volume for inside and outside situations and when speaking to an audience",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY02_E4",
+          "number": "E4",
+          "text": "participating in informal interaction situations; for example, play-based experiences that involve the imaginative use of spoken language",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY02_E5",
+          "number": "E5",
+          "text": "listening to and following instructions",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Listen and take a relevant turn",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/README.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/focus-map.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/source-ledger-v12.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teaching-guide.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teacher-qa/independent-teacher-final-v203.md",
+            "year-1/english/AC9E1LA01/la01.txt",
+            "year-1/english/AC9E1LY02/ly02.txt"
+          ],
+          "method_boundary": "Year1LY02 full Victoria conversation/barrier-game roles and ABC inclusive interaction guidance support Foundation listening/voice tasks and observation criteria. No eye-contact, stillness or accent score."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Choose understandable volume for a situation",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/README.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/focus-map.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/source-ledger-v12.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teaching-guide.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teacher-qa/independent-teacher-final-v203.md",
+            "year-1/english/AC9E1LA01/la01.txt",
+            "year-1/english/AC9E1LY02/ly02.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Contribute in informal and structured exchanges",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/README.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/focus-map.md",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/source-ledger-v12.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teaching-guide.json",
+            "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teacher-qa/independent-teacher-final-v203.md",
+            "year-1/english/AC9E1LA01/la01.txt",
+            "year-1/english/AC9E1LY02/ly02.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Complete listening dialogue; two-step blue-card/book instruction; named nearby/distant audiences.",
+      "guided_check": "Recall partner idea and relevant turn, adjust actual voice comfortably, informal role play and structured exchange.",
+      "boundary": "AAC/movement/comfortable orientation accepted; no compulsory eye contact/still hands, no loudest-best rule; static choice does not prove conversation performance.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY03",
+      "descriptor": "identify some differences between imaginative and informative texts",
+      "elaborations": [
+        {
+          "code": "AC9EFLY03_E1",
+          "number": "E1",
+          "text": "talking about what is “real” and what is imagined in texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY03_E2",
+          "number": "E2",
+          "text": "identifying and selecting texts for information purposes and commenting on how the text might help with a task",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY03_E3",
+          "number": "E3",
+          "text": "comparing images in imaginative texts with images in informative texts",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Notice imagined and information-giving content",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/source-coverage.json",
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Direct KWB four observations and worked example retained; ABC source/model and Year1LY03 RWT comparing fiction/nonfiction actual sessions fill meaning/purpose comparison. Photos/drawings are clues, not guaranteed categories."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use words and pictures as evidence of purpose",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/source-coverage.json",
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare two texts on a familiar topic",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY03/research/2026-10-30-round1/source-coverage.json",
+            "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+            "year-1/english/AC9E1LA03/la03.txt",
+            "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+            "year-1/english/AC9E1LY01/ly01.txt",
+            "year-1/english/AC9E1LY03/ly03.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Complete frog imaginary paragraph and information text/labelled life cycle; actual compared story/diagram.",
+      "guided_check": "Contrast imagined/checkable content, choose info for question, compare image jobs.",
+      "boundary": "Frog life cycle schematic not anatomical specimen; drawings/photos do not guarantee type; realistic fiction allowed.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY04",
+      "descriptor": "read decodable and authentic texts using developing phonic knowledge, and monitor meaning using context and emerging grammatical knowledge",
+      "elaborations": [
+        {
+          "code": "AC9EFLY04_E1",
+          "number": "E1",
+          "text": "navigating a text correctly, starting at the right place and reading in the right direction, returning to the next line as needed and matching one spoken word to one written word",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY04_E2",
+          "number": "E2",
+          "text": "attempting to work out unknown words by using phonic decoding and knowledge of high-frequency words",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY04_E3",
+          "number": "E3",
+          "text": "pausing or asking for support when meaning breaks down",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Blend and read a decodable text",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+            "year-1/english/AC9E1LY04/ly04.txt"
+          ],
+          "method_boundary": "Direct FS2/YJZ/DDT twelve complete visible tasks and full worked descriptions plus ABC Foundation segment/blend/reread transcript. Keep decoding primary; context checks do not justify guessing instead of reading letters."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Read common words in meaningful context",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+            "year-1/english/AC9E1LY04/ly04.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Reread and repair using print plus meaning/grammar checks",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+            "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+            "year-1/english/AC9E1LY04/ly04.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Two-line CVC microtext using taught correspondences; close-word mat/map and den/din; short authentic everyday note adult supported.",
+      "guided_check": "Track/return sweep, blend all letters then reread, pause/reblend/ask when meaning or grammar mismatches.",
+      "boundary": "Decodable relative to taught phonics; context confirms/repairs not guessing; no claim that a sentence gap has a unique plausible word without printed-letter evidence.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY05",
+      "descriptor": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning to understand and discuss texts listened to, viewed or read independently",
+      "elaborations": [
+        {
+          "code": "AC9EFLY05_E1",
+          "number": "E1",
+          "text": "sequencing ideas in spoken texts, retelling well-known stories, retelling stories with picture cues, retelling information using prompts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY05_E2",
+          "number": "E2",
+          "text": "listening for specific purposes; for example, details of a character or to answer a given question",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY05_E3",
+          "number": "E3",
+          "text": "relating one or two key facts from informative texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY05_E4",
+          "number": "E4",
+          "text": "retelling events from First Nations Australians’ stories and cultural accounts in sequence",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9EFLY05_E5",
+          "number": "E5",
+          "text": "predicting what might happen in a text based on the title and cover",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Visualise/predict using clues",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-map.json",
+            "year-1/english/AC9E1LY05/ly05.txt"
+          ],
+          "method_boundary": "Direct LLK/DEG/HCB/L94 observations, complete saved source teaching and ABC Tale/Questioners open activities, with Year1LY05 deeper ledgers. Source response criteria support original lawful stimuli and avoid unsupported feeling keys."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Retell and summarise central actions",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-map.json",
+            "year-1/english/AC9E1LY05/ly05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Connect and ask a relevant question about a supplied text",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/preview-observations.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-coverage.json",
+            "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-map.json",
+            "year-1/english/AC9E1LY05/ly05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Original Missing Boot actual cover and complete ending; basket listening mini text; frog/bee supplied information; original sequence drawings.",
+      "guided_check": "Visualise/predict withclue, summarise important events/facts, connect and ask relevant question/revise.",
+      "boundary": "First Nations retell uses actual adult-supplied Little Bird’s Day/source guidance; no fictional source retell; visualisation can be verbal/gesture, eyes need not close.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    },
+    {
+      "code": "AC9EFLY06",
+      "descriptor": "create and participate in shared editing of short written texts to record and report ideas and events using some learnt vocabulary, basic sentence boundary punctuation and spelling some consonant-vowel-consonant words correctly",
+      "elaborations": [
+        {
+          "code": "AC9EFLY06_E1",
+          "number": "E1",
+          "text": "using beginning writing knowledge, sound-letter relationships, known words and punctuation to create short texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY06_E2",
+          "number": "E2",
+          "text": "using writing and drawing, which may include digital tools, to represent and communicate personal responses to ideas and events experienced through texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY06_E3",
+          "number": "E3",
+          "text": "“reading” their own texts back to an experienced writer",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9EFLY06_E4",
+          "number": "E4",
+          "text": "participating in shared editing by circling the capital letters at the beginning of sentences",
+          "questionEligible": true
+        }
+      ],
+      "focuses": [
+        {
+          "id": "F1",
+          "learning_intention": "Record an idea/event using words and images",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Year1LY06 later gate supersedes initial7candidate status:75selected actual source tasks across report/opinion/recount/caption/edit methods plus separately recorded full examples. Reduce to Foundation shared writing and CVC/boundary demand; no new count from cross-code reuse."
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Compose a short understandable sentence",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Reread and participate in shared editing",
+          "readiness": "SUFFICIENT",
+          "research_files": [
+            "year-1/english/AC9E1LY06/ly06.txt",
+            "year-1/english/AC9E1LE05/le05.txt"
+          ],
+          "method_boundary": "Use the same pinned bundle for this distinct meaning/method demand; complete source-to-focus boundaries are in the code-level finding."
+        }
+      ],
+      "original_models": "Complete short event draft, actual before/after text, CVC cat segmentation, two-sentence capital-circling display.",
+      "guided_check": "Say/draw/write message, read back and sound-spell CVC, collaboratively edit meaning/boundaries.",
+      "boundary": "For the initial single-letter short-vowel CVC target, supply cat. Seed has three phonemes but ee is a vowel digraph; grew has an initial consonant cluster and ew. Full stop must be visible when requested. One S can be both name and sentence capital; no fake separate capitals.",
+      "retained_sections": [
+        "Key vocabulary",
+        "Key concept",
+        "See it, then try it",
+        "Australian Curriculum elaborations",
+        "Common misconceptions",
+        "Explain and apply",
+        "Try these",
+        "Check your understanding"
+      ],
+      "earlier_preview": "Preserve exact text and SVG geometry",
+      "readiness": "INDEPENDENT PLAN REVIEW PENDING"
+    }
+  ]
+}

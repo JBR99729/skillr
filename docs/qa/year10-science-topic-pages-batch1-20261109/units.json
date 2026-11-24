@@ -1,0 +1,1154 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U01",
+    "title": "Explain the role of meiosis and mitosis and the function...",
+    "unitSlug": "ac9s10u01-explain-the-role-of-meiosis-and-mitosis-and-the-function",
+    "sourceOrder": 658,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "explain the role of meiosis and mitosis and the function of chromosomes, DNA and genes in heredity and predict patterns of Mendelian inheritance",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U01_E1",
+        "number": "E1",
+        "text": "using models and diagrams to represent the relationship between genes, chromosomes, and DNA of an organism’s genome",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E2",
+        "number": "E2",
+        "text": "explaining how genetic information passed on to offspring from both parents by meiosis and fertilisation increases the variation of a species",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E3",
+        "number": "E3",
+        "text": "using Mendelian inheritance to predict the ratio of offspring genotypes and phenotypes in monohybrid crosses involving dominant and recessive alleles or in genes that are sex-linked",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E4",
+        "number": "E4",
+        "text": "using pedigree diagrams to show patterns of inheritance of simple dominant and recessive characteristics through multigenerational families",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E5",
+        "number": "E5",
+        "text": "investigating First Nations Australians’ knowledges of heredity as evidenced by the strict adherence to kinship and family structures, especially marriage laws",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U01_E6",
+        "number": "E6",
+        "text": "exploring environmental and other factors that cause mutations and identifying changes in DNA or chromosomes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E7",
+        "number": "E7",
+        "text": "exploring the role of DNA in cancer or genetic disorders such as haemochromatosis, sickle cell anaemia, cystic fibrosis or Klinefelter syndrome",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u01-genetics-meiosis-mitosis-heredity/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U01",
+        "label": "Content description",
+        "text": "explain the role of meiosis and mitosis and the function of chromosomes, DNA and genes in heredity and predict patterns of Mendelian inheritance",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E1",
+        "number": "E1",
+        "text": "using models and diagrams to represent the relationship between genes, chromosomes, and DNA of an organism’s genome",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E2",
+        "number": "E2",
+        "text": "explaining how genetic information passed on to offspring from both parents by meiosis and fertilisation increases the variation of a species",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E3",
+        "number": "E3",
+        "text": "using Mendelian inheritance to predict the ratio of offspring genotypes and phenotypes in monohybrid crosses involving dominant and recessive alleles or in genes that are sex-linked",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E4",
+        "number": "E4",
+        "text": "using pedigree diagrams to show patterns of inheritance of simple dominant and recessive characteristics through multigenerational families",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E5",
+        "number": "E5",
+        "text": "investigating First Nations Australians’ knowledges of heredity as evidenced by the strict adherence to kinship and family structures, especially marriage laws",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U01_E6",
+        "number": "E6",
+        "text": "exploring environmental and other factors that cause mutations and identifying changes in DNA or chromosomes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U01_E7",
+        "number": "E7",
+        "text": "exploring the role of DNA in cancer or genetic disorders such as haemochromatosis, sickle cell anaemia, cystic fibrosis or Klinefelter syndrome",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u01-explain-the-role-of-meiosis-and-mitosis-and-the-function/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U02",
+    "title": "The theory of evolution by natural selection to explain past...",
+    "unitSlug": "ac9s10u02-the-theory-of-evolution-by-natural-selection-to-explain-past",
+    "sourceOrder": 659,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "use the theory of evolution by natural selection to explain past and present diversity and analyse the scientific evidence supporting the theory",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U02_E1",
+        "number": "E1",
+        "text": "outlining processes involved in natural selection including variation, isolation and selection",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E2",
+        "number": "E2",
+        "text": "examining biodiversity as a function of evolution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E3",
+        "number": "E3",
+        "text": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E4",
+        "number": "E4",
+        "text": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E5",
+        "number": "E5",
+        "text": "relating genetic characteristics to survival and reproductive rates",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E6",
+        "number": "E6",
+        "text": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year10/science/ac9s10u02-evolution-natural-selection-evidence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U02",
+        "label": "Content description",
+        "text": "use the theory of evolution by natural selection to explain past and present diversity and analyse the scientific evidence supporting the theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E1",
+        "number": "E1",
+        "text": "outlining processes involved in natural selection including variation, isolation and selection",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E2",
+        "number": "E2",
+        "text": "examining biodiversity as a function of evolution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E3",
+        "number": "E3",
+        "text": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E4",
+        "number": "E4",
+        "text": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E5",
+        "number": "E5",
+        "text": "relating genetic characteristics to survival and reproductive rates",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U02_E6",
+        "number": "E6",
+        "text": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+        "questionEligible": false
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u02-the-theory-of-evolution-by-natural-selection-to-explain-past/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U03",
+    "title": "How the big bang theory models the origin and evolution...",
+    "unitSlug": "ac9s10u03-how-the-big-bang-theory-models-the-origin-and-evolution",
+    "sourceOrder": 660,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "describe how the big bang theory models the origin and evolution of the universe and analyse the supporting evidence for the theory",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U03_E1",
+        "number": "E1",
+        "text": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E2",
+        "number": "E2",
+        "text": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E3",
+        "number": "E3",
+        "text": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E4",
+        "number": "E4",
+        "text": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E5",
+        "number": "E5",
+        "text": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U03_E6",
+        "number": "E6",
+        "text": "identifying the different technologies used to collect astronomical data and the types of data collected",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E7",
+        "number": "E7",
+        "text": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u03-big-bang-evidence-expanding-universe/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U03",
+        "label": "Content description",
+        "text": "describe how the big bang theory models the origin and evolution of the universe and analyse the supporting evidence for the theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E1",
+        "number": "E1",
+        "text": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E2",
+        "number": "E2",
+        "text": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E3",
+        "number": "E3",
+        "text": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E4",
+        "number": "E4",
+        "text": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E5",
+        "number": "E5",
+        "text": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U03_E6",
+        "number": "E6",
+        "text": "identifying the different technologies used to collect astronomical data and the types of data collected",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U03_E7",
+        "number": "E7",
+        "text": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u03-how-the-big-bang-theory-models-the-origin-and-evolution/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U04",
+    "title": "Models of energy flow between the geosphere, biosphere, hydrosphere and...",
+    "unitSlug": "ac9s10u04-models-of-energy-flow-between-the-geosphere-biosphere",
+    "sourceOrder": 661,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "use models of energy flow between the geosphere, biosphere, hydrosphere and atmosphere to explain patterns of global climate change",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U04_E1",
+        "number": "E1",
+        "text": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E2",
+        "number": "E2",
+        "text": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E3",
+        "number": "E3",
+        "text": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E4",
+        "number": "E4",
+        "text": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E5",
+        "number": "E5",
+        "text": "investigating how quantum computers enhance modelling of complex weather and climate systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E6",
+        "number": "E6",
+        "text": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u04-earth-energy-balance-global-climate-change/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U04",
+        "label": "Content description",
+        "text": "use models of energy flow between the geosphere, biosphere, hydrosphere and atmosphere to explain patterns of global climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E1",
+        "number": "E1",
+        "text": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E2",
+        "number": "E2",
+        "text": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E3",
+        "number": "E3",
+        "text": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E4",
+        "number": "E4",
+        "text": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E5",
+        "number": "E5",
+        "text": "investigating how quantum computers enhance modelling of complex weather and climate systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U04_E6",
+        "number": "E6",
+        "text": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u04-models-of-energy-flow-between-the-geosphere-biosphere/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U05",
+    "title": "Investigate Newton’s laws of motion and quantitatively analyse the relationship...",
+    "unitSlug": "ac9s10u05-investigate-newton-s-laws-of-motion-and-quantitatively-analyse",
+    "sourceOrder": 662,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "investigate Newton’s laws of motion and quantitatively analyse the relationship between force, mass and acceleration of objects",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U05_E1",
+        "number": "E1",
+        "text": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E2",
+        "number": "E2",
+        "text": "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E3",
+        "number": "E3",
+        "text": "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U05_E4",
+        "number": "E4",
+        "text": "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E5",
+        "number": "E5",
+        "text": "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E6",
+        "number": "E6",
+        "text": "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E7",
+        "number": "E7",
+        "text": "investigating how driverless vehicles apply Newton’s laws of motion to brake in time",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U05",
+        "label": "Content description",
+        "text": "investigate Newton’s laws of motion and quantitatively analyse the relationship between force, mass and acceleration of objects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E1",
+        "number": "E1",
+        "text": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E2",
+        "number": "E2",
+        "text": "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E3",
+        "number": "E3",
+        "text": "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U05_E4",
+        "number": "E4",
+        "text": "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E5",
+        "number": "E5",
+        "text": "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E6",
+        "number": "E6",
+        "text": "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U05_E7",
+        "number": "E7",
+        "text": "investigating how driverless vehicles apply Newton’s laws of motion to brake in time",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u05-investigate-newton-s-laws-of-motion-and-quantitatively-analyse/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U06",
+    "title": "Explain how the structure and properties of atoms relate to...",
+    "unitSlug": "ac9s10u06-explain-how-the-structure-and-properties-of-atoms-relate-to",
+    "sourceOrder": 663,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "explain how the structure and properties of atoms relate to the organisation of the elements in the periodic table",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U06_E1",
+        "number": "E1",
+        "text": "examining how elements are organised in the periodic table and analysing patterns to discern that elements in the same group of the periodic table have similar properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E2",
+        "number": "E2",
+        "text": "investigating the physical properties of some metals and non-metals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E3",
+        "number": "E3",
+        "text": "using the Bohr model of the atom to describe the structure of atoms in terms of electron shells and relating this to their properties and position in the periodic table",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E4",
+        "number": "E4",
+        "text": "deducing that repeating patterns of the periodic table reflect patterns of electrons in outer electron shells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E5",
+        "number": "E5",
+        "text": "conducting flame tests for a selection of elements and examining emission spectra",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E6",
+        "number": "E6",
+        "text": "examining how the development of the spectroscope led to further development of the model of the atom",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U06",
+        "label": "Content description",
+        "text": "explain how the structure and properties of atoms relate to the organisation of the elements in the periodic table",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E1",
+        "number": "E1",
+        "text": "examining how elements are organised in the periodic table and analysing patterns to discern that elements in the same group of the periodic table have similar properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E2",
+        "number": "E2",
+        "text": "investigating the physical properties of some metals and non-metals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E3",
+        "number": "E3",
+        "text": "using the Bohr model of the atom to describe the structure of atoms in terms of electron shells and relating this to their properties and position in the periodic table",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E4",
+        "number": "E4",
+        "text": "deducing that repeating patterns of the periodic table reflect patterns of electrons in outer electron shells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E5",
+        "number": "E5",
+        "text": "conducting flame tests for a selection of elements and examining emission spectra",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U06_E6",
+        "number": "E6",
+        "text": "examining how the development of the spectroscope led to further development of the model of the atom",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u06-explain-how-the-structure-and-properties-of-atoms-relate-to/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10U07",
+    "title": "Patterns in synthesis, decomposition and displacement reactions and investigate the...",
+    "unitSlug": "ac9s10u07-patterns-in-synthesis-decomposition-and-displacement-reactions",
+    "sourceOrder": 664,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "identify patterns in synthesis, decomposition and displacement reactions and investigate the factors that affect reaction rates",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10U07_E1",
+        "number": "E1",
+        "text": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E2",
+        "number": "E2",
+        "text": "identifying reaction type and predicting the products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E3",
+        "number": "E3",
+        "text": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E4",
+        "number": "E4",
+        "text": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E5",
+        "number": "E5",
+        "text": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U07_E6",
+        "number": "E6",
+        "text": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U07_E7",
+        "number": "E7",
+        "text": "examining reactions that are used to produce a range of useful products",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10u07-chemical-reaction-patterns-reaction-rates/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10u07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10u07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10U07",
+        "label": "Content description",
+        "text": "identify patterns in synthesis, decomposition and displacement reactions and investigate the factors that affect reaction rates",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E1",
+        "number": "E1",
+        "text": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E2",
+        "number": "E2",
+        "text": "identifying reaction type and predicting the products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E3",
+        "number": "E3",
+        "text": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E4",
+        "number": "E4",
+        "text": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10U07_E5",
+        "number": "E5",
+        "text": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U07_E6",
+        "number": "E6",
+        "text": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S10U07_E7",
+        "number": "E7",
+        "text": "examining reactions that are used to produce a range of useful products",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10u07-patterns-in-synthesis-decomposition-and-displacement-reactions/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10H01",
+    "title": "Explain how scientific knowledge is validated and refined, including the...",
+    "unitSlug": "ac9s10h01-explain-how-scientific-knowledge-is-validated-and-refined",
+    "sourceOrder": 665,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10H01_E1",
+        "number": "E1",
+        "text": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E2",
+        "number": "E2",
+        "text": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E3",
+        "number": "E3",
+        "text": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E4",
+        "number": "E4",
+        "text": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E5",
+        "number": "E5",
+        "text": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E6",
+        "number": "E6",
+        "text": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10h01-scientific-validation-peer-review-evidence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10H01",
+        "label": "Content description",
+        "text": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E1",
+        "number": "E1",
+        "text": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E2",
+        "number": "E2",
+        "text": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E3",
+        "number": "E3",
+        "text": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E4",
+        "number": "E4",
+        "text": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E5",
+        "number": "E5",
+        "text": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H01_E6",
+        "number": "E6",
+        "text": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10h01-explain-how-scientific-knowledge-is-validated-and-refined/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10H02",
+    "title": "Investigate how advances in technologies enable advances in science, and...",
+    "unitSlug": "ac9s10h02-investigate-how-advances-in-technologies-enable-advances-in",
+    "sourceOrder": 666,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10H02_E1",
+        "number": "E1",
+        "text": "examining karyotypes and applications of gene technologies, such as gene therapy and genetic engineering and biotechnologies used to produce therapeutic proteins",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E2",
+        "number": "E2",
+        "text": "recognising that the development of fast computers has made possible the analysis of DNA sequencing, radio astronomy signals and other data generated by major international science projects such as the Event Horizon Telescope, Large Hadron Collider, the Laser Interferometer Gravitational-Wave Observatory and the Square Kilometre Array",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E3",
+        "number": "E3",
+        "text": "considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E4",
+        "number": "E4",
+        "text": "investigating how satellites generate global data including ocean temperatures, sea levels and forest and ice cover and examining how that data is used to evaluate the effects of climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E5",
+        "number": "E5",
+        "text": "researching how an understanding of the way DNA stores data has been applied to DNA bar coding to accelerate the pace of research in fields such as chemical engineering, materials science and nanotechnology",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E6",
+        "number": "E6",
+        "text": "examining how the recent use of female crash test dummies has shown women are at greater risk of injury in a car accident and considering implications for changing car safety features",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E7",
+        "number": "E7",
+        "text": "exploring how the development of new materials and thin films has led to better computer chips and solar cells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E8",
+        "number": "E8",
+        "text": "investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year10/science/ac9s10h02-science-technology-engineering-advances/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10H02",
+        "label": "Content description",
+        "text": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E1",
+        "number": "E1",
+        "text": "examining karyotypes and applications of gene technologies, such as gene therapy and genetic engineering and biotechnologies used to produce therapeutic proteins",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E2",
+        "number": "E2",
+        "text": "recognising that the development of fast computers has made possible the analysis of DNA sequencing, radio astronomy signals and other data generated by major international science projects such as the Event Horizon Telescope, Large Hadron Collider, the Laser Interferometer Gravitational-Wave Observatory and the Square Kilometre Array",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E3",
+        "number": "E3",
+        "text": "considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E4",
+        "number": "E4",
+        "text": "investigating how satellites generate global data including ocean temperatures, sea levels and forest and ice cover and examining how that data is used to evaluate the effects of climate change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E5",
+        "number": "E5",
+        "text": "researching how an understanding of the way DNA stores data has been applied to DNA bar coding to accelerate the pace of research in fields such as chemical engineering, materials science and nanotechnology",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E6",
+        "number": "E6",
+        "text": "examining how the recent use of female crash test dummies has shown women are at greater risk of injury in a car accident and considering implications for changing car safety features",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E7",
+        "number": "E7",
+        "text": "exploring how the development of new materials and thin films has led to better computer chips and solar cells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H02_E8",
+        "number": "E8",
+        "text": "investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers",
+        "questionEligible": true
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10h02-investigate-how-advances-in-technologies-enable-advances-in/"
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 10",
+    "levelLabel": "Year 10",
+    "yearNumber": 10,
+    "yearFolder": "year10",
+    "quizYearSegment": "year-10",
+    "code": "AC9S10H03",
+    "title": "Analyse the key factors that contribute to science knowledge and...",
+    "unitSlug": "ac9s10h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and",
+    "sourceOrder": 667,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+    "levelDescription": "In Year 10 students explore the biological, chemical, geological and astronomical evidence for different theories, such as the theory of natural selection and the big bang theory. Through investigating natural selection and processes of heredity they come to understand the evolutionary feedback mechanisms that ensure the continuity of life. They appreciate how energy drives the Earth system and how climate models simulate the flow of energy and matter within and between Earth’s spheres. Students develop a more sophisticated understanding of atomic theory to understand patterns and relationships within the periodic table. They understand that motion and forces are related by applying physical laws and can be modelled mathematically. Students analyse and synthesise data from systems at multiple scales to develop evidence-based explanations for phenomena. They learn that all models involve assumptions and approximations, and that this can limit the reliability of predictions based on those models. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why is the periodic table such a big deal? How do we know what is science and what is pseudoscience? Why is accelerating climate change a threat to biodiversity? Just because we can, should we? How have advanced computing and big data changed science?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S10H03_E1",
+        "number": "E1",
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E2",
+        "number": "E2",
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E3",
+        "number": "E3",
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E4",
+        "number": "E4",
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E5",
+        "number": "E5",
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E6",
+        "number": "E6",
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year10/science/ac9s10h03-science-adoption-evidence-trust-values/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-10/science/ac9s10h03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year10/science/teacher-slides/ac9s10h03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S10H03",
+        "label": "Content description",
+        "text": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E1",
+        "number": "E1",
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E2",
+        "number": "E2",
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E3",
+        "number": "E3",
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E4",
+        "number": "E4",
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E5",
+        "number": "E5",
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S10H03_E6",
+        "number": "E6",
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+        "questionEligible": false
+      }
+    ],
+    "catalogue_url": "/year10/science/ac9s10h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/"
+  }
+]

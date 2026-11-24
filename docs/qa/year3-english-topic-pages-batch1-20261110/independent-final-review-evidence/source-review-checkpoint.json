@@ -1,0 +1,75 @@
+{
+  "reviewer_type": "AI",
+  "reviewer": "/root/y3_final_review",
+  "captured_utc": "2026-11-10T06:43:12.890080+00:00",
+  "state": "source checkpoint before pending LA07 retained-scope and LA09 map-wrapper repairs; not final frozen approval",
+  "files_sha256": {
+    "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387",
+    "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33",
+    "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73",
+    "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572",
+    "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e",
+    "year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html": "a12aca7ac41e23bc6fc6f5e4b0cf182282a35dfc0d3f2a10c9dd09e22288c9be",
+    "year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html": "89193d7abc720f8385d76d862d9395547f723c044973fb22e48cc1d0a0914448",
+    "year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html": "ddd38bc8da50dc7f7064a97798739a067f735e0f4b41ee9b04016a78b4061ac8",
+    "year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html": "edf922e7c8ac313dd20e9b1959ae7302450171936f936b67186644b932587e0c",
+    "year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html": "3fb421782fd130386e6aa0ec9070b2518750eb379e4c697de8e35d64da88a274",
+    "assets/css/foundation-english-topic-pages.css": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+    "assets/css/science-topic-release.css": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+    "assets/css/year1-english-topic-pages.css": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+    "assets/css/year3-english-topic-pages-batch1.css": "8f7fe93de14185e618ceebf4e3337cea4945ec6dae146662abc9a2862dedb81d",
+    "assets/css/year3-science-topic-pages.css": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+    "assets/curriculum.css": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+    "assets/learning-navigation.js": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+    "assets/report-issue.js": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+    "assets/topic-practice-link.css": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+    "pwa-register.js": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+    "style.css": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae"
+  },
+  "external_source_checks": [
+    {
+      "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr3_as_cd_alignment.pdf",
+      "result": "All ten descriptor boundaries inspected in official QCAA ACv9 alignment PDF; main tasks address communication/formality, forceful evaluation/emotion, text purpose/structure, paragraph grouping, layout/navigation, clauses/agreement, verb process, time, image meaning and vocabulary/context respectively."
+    },
+    {
+      "url": "https://www.reconciliation.org.au/reconciliation/acknowledgement-of-country-and-welcome-to-country/",
+      "result": "Actual official page confirms Traditional Owner/permission delivery role for Welcome and anyone may offer Acknowledgement; consult local representative bodies. Supports LA01 claim."
+    }
+  ],
+  "main_key_reconciliation": "62 main task expected answers and20 FAQ response criteria agree semantically with authored keys, with LA05 guided3 exact route facts key-visible rather than blind for this reviewer; actual navigation still pending. Independent LA09 image answers were saved from actual PNGs before keys.",
+  "repairs_rechecked": [
+    {
+      "id": "CR-LA10-LIGHT",
+      "source_result": "PASS: explicit weighs almost nothing disambiguates intended weight sense; associated key now cites that clue. Correctness checked from revised sentence; original ambiguity independently recorded before first finding released."
+    },
+    {
+      "id": "ROOT-LA09-LABEL",
+      "source_and_standalone_pixel_result": "PASS: actual revised PNG annotation below ground line no longer crosses gaze lines; final served representation pending."
+    }
+  ],
+  "retained_sample_selection": {
+    "method": "Reviewer-selected11 of41 retained sections (26.8%), one or more per code, all retained summary types represented; chose curriculum boundary, force/context, paragraph effect, clause subject, tense, map evidence and vocabulary support claims. The review concerns unscored teaching/support; no new blind-solve claim for already disclosed extra examples.",
+    "selected": [
+      "LA01 Learning goals",
+      "LA02 Subject-Specific Content & Key Examples",
+      "LA03 Practice Thought & Formative Assessment",
+      "LA04 Common Student Misconceptions",
+      "LA05 Learning goals",
+      "LA06 Learning goals",
+      "LA07 Common Student Misconceptions",
+      "LA08 Learning goals",
+      "LA09 Subject-Specific Content & Key Examples",
+      "LA09 Worked example and reasoning checks",
+      "LA10 Common Student Misconceptions"
+    ],
+    "result": "No new discrepancy found in selected claims. Pending affected LA07 retained families will be completely rechecked after fresh prompt-only recasts; sample does not supersede that mandatory affected scope."
+  },
+  "gate": "BLOCKED pending bounded LA07 changed-prompt blind solve/key recheck, fresh A-extra final assurance, final hosted actual-model/frame evidence and exact final dependency identities",
+  "limitations": [
+    "No authored-page changes or publication by this reviewer",
+    "Not app-bank QA, linked deck/worksheet certification or actual learner performance assessment",
+    "A-extra answer disclosures recorded; no retroactive blind claim",
+    "Standalone PNG inspection is not served-browser layout inspection",
+    "Headless Chromium blank-page attempt failed socket Operation not permitted; parent hosted browser evidence awaited"
+  ]
+}

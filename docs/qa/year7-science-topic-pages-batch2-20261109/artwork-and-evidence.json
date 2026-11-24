@@ -1,0 +1,166 @@
+{
+  "models": [
+    {
+      "code": "AC9S7I01",
+      "index": 0,
+      "png": "AC9S7I01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "eba42cb341dba3b91dfaeec0f22e5bcb7c47f368cf06b2124fc1cee75032f2f7",
+      "prepared_render_svg_sha256": "eba42cb341dba3b91dfaeec0f22e5bcb7c47f368cf06b2124fc1cee75032f2f7",
+      "png_sha256": "b14d96747a40933ba6db76eba9fbab920e5ee9eca266f6ee4605db9f0077e897"
+    },
+    {
+      "code": "AC9S7I03",
+      "index": 0,
+      "png": "AC9S7I03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "3ed8ea1b080faf7ed461a03761a3a919a0ebe8946d86434794b5760cd2bd8f69",
+      "prepared_render_svg_sha256": "3ed8ea1b080faf7ed461a03761a3a919a0ebe8946d86434794b5760cd2bd8f69",
+      "png_sha256": "855f6deff7c8b58fe2153f385ee02da920a44387d4c7c2cb070f13853743a66f"
+    },
+    {
+      "code": "AC9S7I04",
+      "index": 0,
+      "png": "AC9S7I04-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "f55c3eafbba22f7ab087b60455b2f605f935cdeacdfed762cddf80815bf369b4",
+      "prepared_render_svg_sha256": "f55c3eafbba22f7ab087b60455b2f605f935cdeacdfed762cddf80815bf369b4",
+      "png_sha256": "befc9758d8e29d8d6e760728a444e9c43359d47555f68a40f239746f92c23c94"
+    },
+    {
+      "code": "AC9S7I05",
+      "index": 0,
+      "png": "AC9S7I05-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "198ad8c38dada5bfe695a137e53043a621d1cb5ad3e310ba1f46fbc51e74aceb",
+      "prepared_render_svg_sha256": "198ad8c38dada5bfe695a137e53043a621d1cb5ad3e310ba1f46fbc51e74aceb",
+      "png_sha256": "18b866b8bf0ec1f48ac7c25f0f3845a5acda711e042a42307ddc16a247e36770"
+    },
+    {
+      "code": "AC9S7I06",
+      "index": 0,
+      "png": "AC9S7I06-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "91bdb85d514cf687a237c64f9b838c0ae9551ac51b9d7899d10520e2a837e686",
+      "prepared_render_svg_sha256": "91bdb85d514cf687a237c64f9b838c0ae9551ac51b9d7899d10520e2a837e686",
+      "png_sha256": "0e73ff926e38794f0fa69b9df77d4af64b37831cba23be48a1b648609646f7a5"
+    },
+    {
+      "code": "AC9S7I06",
+      "index": 1,
+      "png": "AC9S7I06-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "5d04405dcc6a70267d7ebaf3862a29da44551a49f86ef433ce382c36d27f31b0",
+      "prepared_render_svg_sha256": "bf43e4c20c7f70faa25423acc438a7ef5283457b332532d53482188c5bbb2bc9",
+      "png_sha256": "3fcdc19552a7b7c23b2caea29880ddb0fcf9a7fa2953550085b494f64944d0e0"
+    },
+    {
+      "code": "AC9S7I06",
+      "index": 2,
+      "png": "AC9S7I06-2.png",
+      "kind": "retained",
+      "literal_svg_sha256": "0cf9e27e4e0a5e6407286851f4d65df6e10ba5561d206fa24a09ebe0e394c8c3",
+      "prepared_render_svg_sha256": "4134b8e3c411c5a9426f2380c1893c9c18f577d2776340ec40ddfcd65ce58480",
+      "png_sha256": "dc1817e215368ccda1997b5d4f4fcee689e996e22928c108c79e99e1f35af4dd"
+    },
+    {
+      "code": "AC9S7I06",
+      "index": 3,
+      "png": "AC9S7I06-3.png",
+      "kind": "retained",
+      "literal_svg_sha256": "2e2c3536826bdf924bbcde60346a0fb18360002003554a0371f879a6041e5fab",
+      "prepared_render_svg_sha256": "9db5ca19a5f7ef2e0a63cd74770366d319f994050bc3bb1794b8af11b20cf755",
+      "png_sha256": "ffe3b5235b5f0f14d2c48e7f66d11bdfaffbdf2e8e672d71fcf092294fccebdd"
+    },
+    {
+      "code": "AC9S7I07",
+      "index": 0,
+      "png": "AC9S7I07-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "8d721f0f97fabbe9a5f70dd2f0f1e5c282446cb0b79bfe046da64a42b82fa749",
+      "prepared_render_svg_sha256": "8d721f0f97fabbe9a5f70dd2f0f1e5c282446cb0b79bfe046da64a42b82fa749",
+      "png_sha256": "de0b0a7f49c7e847f8add581707cb284917b63ccbbab2c948186b24b14ee44bf"
+    },
+    {
+      "code": "AC9S7I07",
+      "index": 1,
+      "png": "AC9S7I07-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "1297c382c03e10cc5ed23a7f2d5826d6638b2cdef6d7c211bbf88457b1313ac0",
+      "prepared_render_svg_sha256": "301f7ee2f911d464ba7f8c22ec4926b2827c45e58597ad5301f6e436ea31f93f",
+      "png_sha256": "3131dc8e13adae9678bd2dd23cc6bd2dd76be787fa0730bc1caeb728083bf9ce"
+    },
+    {
+      "code": "AC9S7I07",
+      "index": 2,
+      "png": "AC9S7I07-2.png",
+      "kind": "retained",
+      "literal_svg_sha256": "fbc5337e8b868903d06487d5c5947a878a8249bc1adb5426138667eb1c66c01e",
+      "prepared_render_svg_sha256": "c56fcdccb57d032d5ae02e8b4fe1723121b42ab089f5d43ce07b50dd9e74470f",
+      "png_sha256": "4cccd412b2c35f1bd414494659dc5f9c0672b3b88c74fd08ed365376831564a1"
+    },
+    {
+      "code": "AC9S7I07",
+      "index": 3,
+      "png": "AC9S7I07-3.png",
+      "kind": "retained",
+      "literal_svg_sha256": "ac944d1649cea7bee031d471d764ab028ab88f15befe432200cdb644311d6920",
+      "prepared_render_svg_sha256": "1d43f65c073972f551e112b062fe32695eaf9d76b708fc5313224d14b606c7b6",
+      "png_sha256": "93b4f5d54fb19c103819f347173781f2a8985af229a9ca93040148620e2477da"
+    },
+    {
+      "code": "AC9S7I08",
+      "index": 0,
+      "png": "AC9S7I08-0.png",
+      "kind": "retained",
+      "literal_svg_sha256": "99110481b7a30b48c726db3ac025a7da7d5b3a2e9ddcd5756de91210d3f17d33",
+      "prepared_render_svg_sha256": "d9f7752ce1f90681caa02137a6ea824987a14812610a87b98efdc478ba9982d4",
+      "png_sha256": "758d0ec32691e38829cd2472763ddb1b1382c88138a3ee9a845ef3172b236acd"
+    },
+    {
+      "code": "AC9S7I08",
+      "index": 1,
+      "png": "AC9S7I08-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "33bb1b450914cf4e35b650be82ffe2b8183a85abbe5a9fad83f35a581e3576f6",
+      "prepared_render_svg_sha256": "946194cdfcbe732bb7be1138a627b6c59a4089362e60ce2989e973e3ee2d5fa1",
+      "png_sha256": "59ebb0553007ed9bdb42af50361f99700d0d053a0e8b8d1b7ef176fbd3101b29"
+    },
+    {
+      "code": "AC9S7I08",
+      "index": 2,
+      "png": "AC9S7I08-2.png",
+      "kind": "retained",
+      "literal_svg_sha256": "f07da3a728aa5d8a89f5d6c9cc8613493b7a813a04fff9f2c26e5c634a3e90e9",
+      "prepared_render_svg_sha256": "2608929f06a60843c69159743783ea58b8fb72a69d5b2046cdf1113ca3dd2695",
+      "png_sha256": "c61acaf4a18fba1828549827d749009c8152f391ee025557133ea71cc71d8cf8"
+    }
+  ],
+  "context_images": [
+    {
+      "path": "assets/images/year7-science-inquiry/garden-observation.webp",
+      "sha256": "c6a6461abaf83191f373dd598d1397170da74c55beca6d73cf3ab10df8960e74"
+    },
+    {
+      "path": "assets/images/year7-science-inquiry/measurement-planning-bench.webp",
+      "sha256": "f5aecd915afee8425fcd22cef875dfb365602ad9773e87ba09b7a4e137c4528e"
+    }
+  ],
+  "prompts": [
+    {
+      "asset": "measurement-planning-bench.webp",
+      "design": "Original calm realistic watercolour/pencil classroom bench with notebook, ruler, unlabelled force meter, block, felt/plastic samples and blank digital balance; no reading or active trial."
+    },
+    {
+      "asset": "garden-observation.webp",
+      "design": "Original matching garden with sunlit/shaded patches, safe path and blank clipboard; no quantitative or controlled experiment implied."
+    }
+  ],
+  "source_limits": "All new numerical records are explicitly hypothetical, given models or fictional classroom reports. No source art, measured learner result, practical, source pixel, cultural permission or digital execution claimed. Context artwork is not answer-bearing. Exact HTML/SVG supplies quantities and geometry.",
+  "rendering": "Standalone PNGs include the retained head style rules relevant to SVG appearance, scoped to this QA render; white background. Original inline SVG IDs/references and required camelCase attributes preserved.",
+  "hash_definitions": {
+    "literal_svg_sha256": "SHA256 of exact literal <svg\u2026</svg> UTF-8 substring from final page source, in DOM/source order.",
+    "prepared_render_svg_sha256": "SHA256 of standalone renderer input: literal plus missing xmlns and retained SVG-relevant head styles with removed ancestor prefixes and default Arial font.",
+    "png_sha256": "SHA256 of actual standalone white-background 1000-pixel-width PNG bytes inspected by reviewer. Browser renders remain separately checked."
+  }
+}

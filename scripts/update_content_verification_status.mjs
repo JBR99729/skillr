@@ -43,7 +43,26 @@ function findGroups() {
       // the canonical code inventory and verify those codes are present on hub.
       const yearNumber = yearDirectory === 'foundation' ? 0 : Number(yearDirectory.slice(4));
       const codes = unique(curriculumUnits.filter(unit => unit.yearNumber === yearNumber && unit.subjectSlug === subject).map(unit => unit.code));
-      for (const code of codes) if (!html.includes(code)) throw new Error(`${code} is missing from ${yearDirectory}/${subject} hub`);
+      if (/data-learning-hub-retired="2026-11-07"/.test(html)) {
+        // Retired hubs route to a filtered static Learn catalogue. Check its
+        // actual code inventory and every redirect boundary, without restoring
+        // the old duplicated hub cards or changing verification badges.
+        const target = `https://skillrhub.com/learn/?year=${yearNumber}&subject=${subject}`;
+        const decoded = html.replaceAll('&amp;', '&');
+        const refresh = decoded.match(/<meta\b[^>]*http-equiv=["']refresh["'][^>]*content=["']0;url=([^"']+)/i)?.[1];
+        const fallback = [...decoded.matchAll(/<a\b[^>]*href=["']([^"']+)/gi)].some(match => match[1] === target);
+        const script = decoded.match(/location\.replace\(("(?:[^"\\]|\\.)*")\)/)?.[1];
+        if (!/content=["']noindex,follow["']/.test(html) || refresh !== target || !fallback || !script || JSON.parse(script) !== target) {
+          throw new Error(`Invalid retired ${yearDirectory}/${subject} catalogue entrance`);
+        }
+        const catalogue = fs.readFileSync(path.join(ROOT, 'learn/index.html'), 'utf8');
+        const groupKey = `${yearNumber}-${subject}`;
+        const groupHtml = catalogue.match(new RegExp(`<section\\b[^>]*data-group=["']${groupKey}["'][^>]*>([\\s\\S]*?)<\\/section>`, 'i'))?.[1];
+        if (!groupHtml) throw new Error(`Missing Learn catalogue group ${groupKey}`);
+        for (const code of codes) if (!groupHtml.includes(code)) throw new Error(`${code} is missing from the filtered Learn catalogue`);
+      } else {
+        for (const code of codes) if (!html.includes(code)) throw new Error(`${code} is missing from ${yearDirectory}/${subject} hub`);
+      }
       if (!codes.length) continue;
       groups.push({ yearDirectory, yearLabel: displayYear(yearDirectory), subject, subjectLabel: meta.label, subjectRoute: meta.route, hub, codes });
     }

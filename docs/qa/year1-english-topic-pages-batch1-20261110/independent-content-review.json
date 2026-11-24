@@ -1,0 +1,329 @@
+{
+  "reviewer": "/root/year1_english_review, independent AI",
+  "date": "2026-11-10",
+  "scope": "Ten public static Topic Guides; unscored teaching prompts. No app-bank or linked-product certification.",
+  "status": "PASS current educational/source content; hosted browser pixels and interactions pending",
+  "coverage": {
+    "authored_scalar_fields": 400,
+    "front_focuses": 30,
+    "retained_educational_sections": 90,
+    "retained_deeper_focuses": 60,
+    "retained_addition_packets": 7,
+    "retained_correction_records": 1,
+    "retained_vocabulary_preludes": 10,
+    "native_models": 33,
+    "inline_svg_models": 10,
+    "unchanged_external_assets": 24,
+    "preserved_paid_routes": 9,
+    "preserved_paid_covers": 7
+  },
+  "files": [
+    {
+      "code": "AC9E1LA01",
+      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+      "sha256": "20270fd4b0474ada0c31580f407fba47e769fd892ae931dc1e0e23df076524f9",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA02",
+      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+      "sha256": "08a662c8a69f3ad208b4393bdf08f2ec7b6a60b37e994ce4caea2884dd582f96",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA03",
+      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+      "sha256": "db721ae9d5a17de9f50b03f8af9b6badb1accd7a4a630821936d87a622f3a699",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA04",
+      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+      "sha256": "4ed1bff5f4f6a6129e18d38ba3354b5905c9d1b423a0e52420d516c56004a9aa",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA05",
+      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+      "sha256": "5a4ed816cea9ae998d4fd6aed0cd62fc2c5d680004aed0fe97d1e0e083c2858b",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 3,
+      "baseline_image_instances": 2,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA06",
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "sha256": "e913c29935762a1967a3d74032d79db9158bca223af0e4412c10902b427648c2",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA07",
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "sha256": "123952046f0d96bba794941bebfdc7bf2b141111ee0d83373802659ce500023a",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA08",
+      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+      "sha256": "2dc8c6ddde8b68b84808caf27fc543a040006a032ef0c1ea4bab3f9c8db450db",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 13,
+      "baseline_image_instances": 7,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA09",
+      "path": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+      "sha256": "9be5ae21a1ef8f6a59c3cdd5087bd94878611879cfad4e432d9504dc04c9ced2",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 3,
+      "baseline_image_instances": 2,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    },
+    {
+      "code": "AC9E1LA10",
+      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+      "sha256": "671a62c747d95212f8b66f3a3317edd9cfc121178b7284a35900c44b9a7539cd",
+      "retained_sections": 9,
+      "inline_svg_models": 1,
+      "native_models": 2,
+      "baseline_image_instances": 1,
+      "metadata_preserved": true,
+      "baseline_text_plus_declared_changes": true,
+      "earlier_geometry_preserved": true
+    }
+  ],
+  "support_file_sha256": {
+    "page-content.json": "54933d1849b1d8ecba4f4d70eb50ccbe7d1c40d6ff42db34ac1f24d4a12141bf",
+    "plan.json": "8c5ccf6b6b3dcdfc2dcdd530dac19c4b1018848892f14cb26b056f92a195cca4",
+    "retained-inventory-plan.json": "3ac5f33dd773f4f74a7ac536dae769c9329f546ef09e98fd1b8a3c2589dcc555",
+    "retained-additions.json": "0f091a93fc8610f6f61eed08a478af030c75a44fca4bec15548da02aa4894276",
+    "retained-corrections.json": "4cb4e1072075e669a86076573be98f53cf57ca440e424b58c4ad3954962ea4fc",
+    "retained-preludes.json": "0d7a62859c54ca8bc08a5c41f0f8ab36737aa76de6d37428ce7bfb46690a9f3a",
+    "resource-preservation.json": "4797d2c3ec6f992d41de2ebabcb90b23fe3512f884c45778b82778e598a8b0fe",
+    "artwork-and-evidence.json": "27eaab4819db5f5122ae6fb1a1a048674f4d1d782d15a9f209f9ed859e7e6899",
+    "inventory.json": "9cfd8c63dbdb31189f7c6c67455fb93ed582ebf89ea937346b9112e195a16515",
+    "units.json": "624f1f46884ea20010c61b68a69d8035d63c7870f6e2800d81d43d6bcdd48ba5"
+  },
+  "independent_response_checks": {
+    "AC9E1LA01": {
+      "front_try_outcomes": [
+        "What did you put in the bag invites contents; the supplied hat/book reply gives them.",
+        "I can carry = offer; could you carry = request; put it on bench = command; huge-box reaction = exclamation.",
+        "A clarification needs to identify both the object and place; no unseen point or assumed feeling is sufficient."
+      ],
+      "retained_and_application": [
+        "Useful replies answer the requested time/person/place, rather than an unrelated fact.",
+        "An offer commits the speaker to help; a request can benefit someone else. Calm commands remain commands.",
+        "Actual partner exchange, signing/AAC and source-prepared cultural/film work retain meaningful observation criteria; title now permits the five listed message turns."
+      ]
+    },
+    "AC9E1LA02": {
+      "front_try_outcomes": [
+        "Personal drawing/building/another/neither choices remain valid.",
+        "The funny-ending reason gives specific information; because I like it restates a preference.",
+        "Six-crayon tray fits the stated single-container job; the two-capacity facts, not visual guesses, determine the practical choice."
+      ],
+      "retained_and_application": [
+        "Because does not make unrelated information relevant; puzzle/bus example needs a new connection.",
+        "Bigger/better comparisons are purpose-dependent, and better is not an -er form.",
+        "Supplied Book A/B descriptions close the worked-book choice gap. Actual preferences and respectful disagreement are open, while explanation relevance is assessable."
+      ]
+    },
+    "AC9E1LA03": {
+      "front_try_outcomes": [
+        "Puppy brings an empty bowl before Jo fills it: preceding events explain the response.",
+        "Sweeping belongs under Jobs rather than Tools.",
+        "The procedure directs actions, the water-freezing explanation describes change, and the shade opinion supplies a view and reason."
+      ],
+      "retained_and_application": [
+        "Recount time order differs from grouped report information; complete comparison texts are now supplied in the check.",
+        "Narrative organisation is not reduced to a universal problem/solution rule; recounts can be imagined.",
+        "Headings, sequence, pictures and because are evidence of organisation, not exclusive genre proofs."
+      ]
+    },
+    "AC9E1LA04": {
+      "front_try_outcomes": [
+        "Here comes repeats; a meaningful new ending such as night continues the frame.",
+        "Dog rhymes with log and fits the supplied tired-animal context; hen does not preserve rhyme.",
+        "Four steady taps persist while the two syllables of little fit in the third beat; actual model/echo is required."
+      ],
+      "retained_and_application": [
+        "Day/play, tree/me, sun/run and light/bright are spoken-ending matches in ordinary Australian pronunciation.",
+        "Returning words connect lines even without rhyme; not every poem needs a tune or rhyme.",
+        "Pulse, rhythm and syllable count remain distinct, and creation/performance is not inferred from a paper selection."
+      ]
+    },
+    "AC9E1LA05": {
+      "front_try_outcomes": [
+        "Growing starts on page6; check page number and heading.",
+        "Menu then Watering follows the explicitly supplied model.",
+        "Read aloud plays text; Back or enabled Go back returns under these model rules."
+      ],
+      "retained_and_application": [
+        "Original watering-can illustration gives a visible object/name link.",
+        "Nests/page4 and Food/page6 worked model is self-contained; the separate Watering/page4 check now repeats its own contents and menu rules.",
+        "Real book/digital navigation is adult-staged and separately observed; paper rules are not device-performance evidence."
+      ]
+    },
+    "AC9E1LA06": {
+      "front_try_outcomes": [
+        "The bag is heavy is a complete state statement; The heavy bag is a naming group in this context.",
+        "Our small class is the full naming group, planted seeds the happening, and in the garden a place detail.",
+        "The puppy rested plus a sensible where detail preserves the one main clause."
+      ],
+      "retained_and_application": [
+        "Is shut/is full/is small are complete states without visible movement.",
+        "The bird sings is a complete ordered statement; the fragment sat beside the fence requires its intended participant in the recount task.",
+        "A command can omit visible you; a question can be complete; length, capital/full stop and printed verb counts are insufficient alone."
+      ]
+    },
+    "AC9E1LA07": {
+      "front_try_outcomes": [
+        "They refers to books; We replaces Jo and I and includes the speaker.",
+        "Runs, is and thinks are verbs; tired describes the state in its supplied sentence.",
+        "Slowly/how, outside/where, today/when; small describes ducks; beside the reeds is a detail group, not a single adverb word."
+      ],
+      "retained_and_application": [
+        "Child/bag and koala/library are nouns in their supplied contexts.",
+        "Water functions as a verb in watering the garden and a noun in cold water.",
+        "Supplied pronouns, thinking/being verbs, precise verbs and accurate qualities prevent position-, gender- or movement-only guessing."
+      ]
+    },
+    "AC9E1LA08": {
+      "front_try_outcomes": [
+        "The scarf and smile visibly support a playful duck character; careful drawing is not a photograph.",
+        "Visible kitten complicates the statement that the room was empty; no name/time/hidden-frame facts are inferred.",
+        "The labelled flower identifies leaf; the staged sequence shows growth but supplies no number of days."
+      ],
+      "retained_and_application": [
+        "Left/right arrow signs contribute direction missing from identical words.",
+        "Actual three-panel duck picture beside the activity distinguishes story character, real-duck information and story-time invitation.",
+        "All seven instructional raster assets were actually opened independently: five LA08 images, LA05 can and LA09 plant. They agree with the named clues/counts/labels.",
+        "Generic frame question now avoids an absent-picture reference. NMA work uses actual attributed Porter artwork with adult preparation, not invented symbols."
+      ]
+    },
+    "AC9E1LA09": {
+      "front_try_outcomes": [
+        "Pencil is outside the stated rain/wind/cloud weather group.",
+        "Seedling is a young plant; length is how long the ribbon is, using the supplied definitions.",
+        "Route is a way to go; turn changes meaning between page action and participation time."
+      ],
+      "retained_and_application": [
+        "Leaf/root/stem meanings are taught before use, and the cutaway plant genuinely shows roots.",
+        "Gate–hall–garden tracing now explicitly requires an actual adult-drawn labelled path before the response.",
+        "Shelter definition is supplied before the fresh sentence; local Country/Traditional Owners/Acknowledgement vocabulary is accurate and does not authorise a Welcome."
+      ]
+    },
+    "AC9E1LA10": {
+      "front_try_outcomes": [
+        "Gate statement/full stop, direct question/question mark and specified excited reaction/exclamation mark fit their supplied contexts.",
+        "Sam visits Canberra on Australia Day capitalises supplied person/place/two-word holiday names; visits/on remain lower case.",
+        "I have a book. Can I read it? separates the calm statement and permission question; fresh learner pairs have open meaning criteria and explicit boundary/capital checks."
+      ],
+      "retained_and_application": [
+        "Moss, Tuesday, Sam, July, Mia, Ben and Canberra are explicit names, not inferred proper-noun labels for every word.",
+        "Calm Wait here. and urgent Wait here! can both fit their stated contexts; ordinary summer need not be capitalised.",
+        "Actual reading/intonation/pauses are separately observed; not every pause requires a full stop and rising voice alone does not prove a question."
+      ]
+    }
+  },
+  "closed_findings": [
+    {
+      "id": "P01",
+      "finding": "LA02 missing concrete books for worked choice",
+      "repair": "Same-section complete BookA/BookB descriptions or staged actual books.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "P02",
+      "finding": "LA03 check texts in different collapsed focuses",
+      "repair": "Complete recount/report repeated within check section.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "P03",
+      "finding": "LA05 check contents/rules in different collapsed focuses",
+      "repair": "Watering page4 and Menu route repeated within check.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "P04",
+      "finding": "LA09 tracing task lacks an actual map",
+      "repair": "Explicit adult-drawn labelled gate–hall–garden map before task.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "C01",
+      "finding": "LA01 activity title counts four messages but gives five",
+      "repair": "Title now One object, several messages.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "C02",
+      "finding": "LA08 activity relies on a picture hidden in collapsed focus6",
+      "repair": "Actual picture-jobs image supplied beside the activity.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "C03",
+      "finding": "LA08 tricky question references picture elsewhere",
+      "repair": "Replaced with a generic frame/unsupported-inference question.",
+      "status": "CLOSED"
+    }
+  ],
+  "unresolved_confirmed_content_defects": [],
+  "limitations": [
+    "Not a blind scored-bank examination or human teacher approval.",
+    "Source image opening does not certify native HTML layout; hosted pixel review remains pending.",
+    "No source audio/video, pupil speech/gesture/rhythm, independent writing or live device use observed.",
+    "App routes checked against the published ledger and exact source query/return only; no app login/marking/save audit.",
+    "Linked worksheets/slides and whole-year verification badge are outside scope."
+  ]
+}

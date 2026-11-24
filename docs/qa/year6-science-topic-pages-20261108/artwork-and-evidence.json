@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-08",
+  "scope": "Twelve Year6Science topicpages only",
+  "research": {
+    "records": 20,
+    "original_bytes": "Every saved input independently matches its remote Git blob; one extra archival blank line from an initial save was removed before authoring.",
+    "historical_master": "Read complete September11 master and reconcile November3-4 code closures and actual source-task records. Historical COMPLETE/ContentVerified is not certification of these new page additions or of app banks.",
+    "no_new_source_activity": "No fresh IXL session, submitted source questions, watched video, performed experiment or measured learner result claimed."
+  },
+  "artwork": {
+    "method": "Built-in image generation; original PNG retained, original scene encoded as WebP only",
+    "prompts": [
+      "Use case: scientific-educational. Asset type: contextual textbook illustration for Australian Year 6 Science habitat and inquiry topic pages. Landscape 3:2. Create an elegant realistic watercolour and coloured-pencil illustration of a tidy school plant-study bench near a window: several identical small terracotta pots containing young green bean seedlings, a small clear graduated measuring cylinder with no readable scale numerals, a plain ruler and blank open observation notebook. Seedlings healthy and similar in size, plausible simple paired leaves, ordinary soil, natural daylight, restrained blue and warm earth colours, light cream paper edge. Educational materials context only: do not depict treatment labels, data, exact results or a causal before/after. No animals, fertiliser, chemicals, sunlight lens or powered apparatus. No text, numbers, logos, arrows or watermark. Pots rest on a dry stable tray; no spilled water.",
+      "Use case: scientific-educational. Asset type: contextual textbook illustration for Australian Year 6 reversible/irreversible change topic page. Landscape 3:2. A polished watercolour and coloured-pencil still life on a clean light wooden classroom table, with three clearly separated small observation groups: a clear bowl holding a few ice cubes and liquid water; a shallow glass dish with white salt crystals beside a clear glass of salt solution; and a closed transparent sample jar containing an old reddish-brown rusty iron screw, with a small piece of toasted bread on a separate plate. Natural plausible materials and subdued warm/blue palette, white paper margin. These are contextual examples, not a step-by-step experiment or measured results. No heat source, flame, toaster, electrical leads, chemical bottles, sharp tools or hands. No text, labels, numerals, logos, arrows or watermark."
+    ],
+    "assets": [
+      {
+        "path": "assets/images/year6-science/seedling-study-bench.webp",
+        "original": "generated_images/exec-97a5a9c2-1c9d-4c13-b2bb-c0550af6c6be.png",
+        "role": "Contextual materials only. Six pictured pots do not represent the twelve-plant model dataset; visible caption makes that distinction."
+      },
+      {
+        "path": "assets/images/year6-science/materials-changes-still-life.webp",
+        "original": "generated_images/exec-e03ddf86-f9e2-47cc-9c6d-0804cedee839.png",
+        "role": "Contextual still life, not measured results or an experimental procedure. Labels/text supply named material examples."
+      }
+    ]
+  },
+  "model_data": {
+    "classification": "Original invented teaching data",
+    "baseline_mm": 20,
+    "water_mL_per_pot_per_day": [
+      2,
+      6,
+      12
+    ],
+    "final_heights_mm": [
+      [
+        30,
+        32,
+        31,
+        31
+      ],
+      [
+        42,
+        44,
+        43,
+        43
+      ],
+      [
+        36,
+        35,
+        37,
+        36
+      ]
+    ],
+    "mean_final_heights_mm": [
+      31,
+      43,
+      36
+    ],
+    "mean_height_increase_mm": [
+      11,
+      23,
+      16
+    ],
+    "alive_day9": [
+      4,
+      4,
+      4
+    ],
+    "limits": "Matched controlled model, nine-day endpoint only; not proof of universal dose, health, future survival or exact optimum."
+  },
+  "new_primary_check": "https://www.qcaa.qld.edu.au/downloads/aciqv9/science/curriculum/ac9_science_yr6_as_cd_alignment.pdf",
+  "exact_visuals": [
+    "Parallel-axis June/December illumination model",
+    "Complete one-cell closed-switch incandescent-lamp circuit",
+    "2mL interval cylinder bottom-meniscus reading36mL",
+    "Zero-based categorical meanheight columns31/43/36mm"
+  ],
+  "limits": "Existing Classroom Views and worksheets are linked/preserved, not reauthored or independently recertified. No app-bank counts or question-bank6passQA claimed."
+}

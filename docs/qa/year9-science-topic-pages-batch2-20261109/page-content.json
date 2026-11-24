@@ -1,0 +1,668 @@
+[
+  {
+    "code": "AC9S9H04",
+    "short": "Society and research priorities",
+    "title": "Explain how needs become research priorities",
+    "intro": "Connect societal needs and values to research questions, compare funding choices under constraints, and protect the evidence from a preferred outcome.",
+    "exampleTitle": "A limited budget makes the trade-off visible",
+    "example": "A fictional research panel has 100 budget units. Project W would investigate local water-quality variation and costs 60 units; S would compare shade materials and costs 40; I would study building insulation and costs 55. Each project must be funded in full. W + S costs 100 and S + I costs 95, so either pair is feasible. W + I costs 115 and exceeds the budget. Choosing between feasible options requires stated priorities and evidence about need, feasibility and benefit. Cost alone does not establish which research is most valuable. These are invented proposals, not actual grant prices or promised results.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Proposal</th><th scope=\"col\">Research question</th><th scope=\"col\">Cost</th><th scope=\"col\">Potential priority</th></tr></thead><tbody><tr><td>W</td><td>How does local water quality vary across sites?</td><td>60 units</td><td>Water security and equitable monitoring</td></tr><tr><td>S</td><td>Which shade design reduces surface heating under matched conditions?</td><td>40 units</td><td>Heat exposure and accessible shared spaces</td></tr><tr><td>I</td><td>How do insulation designs affect thermal energy transfer?</td><td>55 units</td><td>Energy use and long-term capability</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Turn needs into researchable questions",
+        "A need describes a problem; a value describes what matters when responding. Water security may motivate monitoring, while fairness may direct sampling toward an underserved area. Community experience can reveal neglected questions, and scientific expertise helps decide what evidence would answer them.",
+        "<div class=\"evidence\">Residents report that one neighbourhood has never been included in water monitoring.</div>",
+        "How can this change research focus without deciding the result?",
+        "Include a justified question and sampling plan for that neighbourhood. Measure and report the findings honestly, including results that do not match residents’ expectations."
+      ],
+      [
+        "Compare stakeholders and funding criteria",
+        "Government, communities, industry and researchers can influence topics through funding, advocacy, expertise and access. Declare criteria such as urgency, equity, feasible methods, uncertainty and long-term benefit before judging proposals. No group’s preference makes a scientific conclusion true.",
+        "<div class=\"evidence\">Panel A gives urgent local need greatest weight; Panel B gives long-term energy capability greatest weight.</div>",
+        "Can the panels reasonably select different feasible pairs?",
+        "Yes. W + S and S + I are both affordable. Different transparent weights can justify different choices; each panel must explain whose needs are served and what is postponed."
+      ],
+      [
+        "State the opportunity cost and preserve evidence",
+        "Funding one question can delay another. A defensible decision explains this opportunity cost and how priorities will be reviewed. Changing methods to meet ethical requirements is legitimate; changing observations to satisfy a funder is not.",
+        "<div class=\"evidence\">A sponsor offers to fund W only if the final report says every site is safe.</div>",
+        "What should be challenged?",
+        "The predetermined conclusion compromises evidence standards. Funding can support the question, but the method, analysis and reporting must allow any supported result, with appropriate safeguards and disclosure."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Funding proves the answer.”",
+        "Funding determines what can be investigated; evidence determines support for a finding."
+      ],
+      [
+        "“The cheapest project must come first.”",
+        "Cost is a constraint and one criterion, not a complete account of value."
+      ],
+      [
+        "“Community concerns are unscientific.”",
+        "They can identify important questions; proposed explanations still need testing."
+      ]
+    ],
+    "activityTitle": "Defend a transparent allocation",
+    "activity": "Choose W + S or S + I. State three criteria, explain the needs and values behind them, check the total cost and identify the research postponed. Write one reason to revisit the decision if new evidence or needs emerge.",
+    "adjust": "Support: sort need, value, cost and evidence statements. Core: justify a feasible pair. Extend: explain how different legitimate weights could change the choice.",
+    "safety": "Use the fictional proposals only. No real grant application, public consultation or funding commitment is required.",
+    "tricky": [
+      [
+        "Why can the panel not fund all three projects?",
+        "Their total cost is 155 units, exceeding 100. The projects are indivisible in this scenario."
+      ],
+      [
+        "Does unused funding make S + I invalid?",
+        "No. It costs 95, leaving 5 units. A justified allocation need not spend every unit, and 5 cannot fund another complete listed project."
+      ],
+      [
+        "Can a small affected community justify priority?",
+        "Yes. Severity, equity, neglected need and feasibility can matter alongside population size. Explain the criteria rather than assuming a universal ranking."
+      ]
+    ],
+    "faq": [
+      [
+        "Are priorities fixed forever?",
+        "No. New needs, evidence, capabilities and consultation can change which questions deserve resources."
+      ],
+      [
+        "Do values belong only outside science?",
+        "Values can shape questions and ethical methods. They cannot justify inventing or suppressing inconvenient results."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I01",
+    "short": "Questions, hypotheses and model tests",
+    "title": "Make a question testable and use results to refine a model",
+    "intro": "Develop operational questions, distinguish explanations from observable predictions, and revise an explanatory model when evidence does not fit.",
+    "exampleTitle": "An overall pattern can support one idea and challenge a simpler model",
+    "example": "An invented record compares identical lidded cups with 0, 4 or 8 mm of the same insulating material. Each starts with 100 mL of water at 50°C in a 22°C room; after 12 minutes the temperature losses are 9, 6 and 5°C. A suitable question is: how does insulation thickness affect the temperature decrease after 12 minutes under these conditions? Insulation can reduce thermal energy transfer to the cooler surroundings, so a reasoned prediction is less cooling with thicker insulation. A separate constant-change model predicts that each extra 4 mm reduces loss by 3°C: it predicts 3°C loss at 8 mm, whereas the record gives 5°C. Revise that simple model; do not discard the whole insulation explanation. One record per thickness does not establish a general law.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Thickness (mm)</th><th scope=\"col\">Start (°C)</th><th scope=\"col\">Loss after 12 min (°C)</th><th scope=\"col\">Final (°C)</th></tr></thead><tbody><tr><td>0</td><td>50</td><td>9</td><td>41</td></tr><tr><td>4</td><td>50</td><td>6</td><td>44</td></tr><tr><td>8</td><td>50</td><td>5</td><td>45</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Generate an operational question",
+        "Name what is compared, what is measured, when it is measured and the relevant conditions. An investigable question can also be observational; changing a variable is not compulsory in every scientific inquiry.",
+        "<div class=\"evidence\">Available record: the three cup thicknesses and temperature losses above, with equal initial temperature, water volume, cup and lid.</div>",
+        "Why would “Does insulation work?” be weaker?",
+        "It does not define “work”, the comparison or timing. Naming temperature decrease after 12 minutes and insulation thickness makes the question answerable by this record."
+      ],
+      [
+        "Connect hypothesis, mechanism and prediction",
+        "A hypothesis is a tentative explanatory claim. A prediction is an expected observable result if that explanation and the stated conditions apply. Reasoning links the two. An if–then sentence without a scientific reason is not a complete explanation.",
+        "<div class=\"evidence\">Hypothesis: insulation reduces transfer to cooler surroundings. Prediction: an 8 mm layer will give a smaller 12-minute temperature decrease than no layer, with other conditions matched.</div>",
+        "What makes the prediction testable, and what does it not guarantee?",
+        "The losses can be measured and compared. The explanation supports the expected direction but does not guarantee an exact numerical loss or prove that every unmeasured condition was controlled."
+      ],
+      [
+        "Use a mismatch to improve the model",
+        "Compare the actual result with the specific prediction, then check measurement quality, controls and assumptions. A useful revision remains testable. Do not fit a universal formula to three unreplicated conditions.",
+        "<div class=\"evidence\">Constant-change model: loss falls by 3°C for every extra 4 mm. Starting loss at 0 mm is 9°C; observed loss at 8 mm is 5°C.</div>",
+        "What is the model’s 8 mm prediction, and what is a useful next check?",
+        "The prediction is 3°C, so it differs from the 5°C record by 2°C. Repeat matched tests and add intermediate thicknesses to examine diminishing benefit and variation; the mismatch alone does not establish the exact cause."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A hypothesis is the question.”",
+        "It proposes a testable explanation rather than asks for one."
+      ],
+      [
+        "“A supported prediction proves the model.”",
+        "Other explanations and untested conditions may remain."
+      ],
+      [
+        "“Unexpected results make inquiry useless.”",
+        "They can reveal limits and guide a better test."
+      ]
+    ],
+    "activityTitle": "Write a question–explanation–test chain",
+    "activity": "Write a precise question from the cup record, a mechanism-based hypothesis and a directional prediction. Calculate the constant-change model’s 8 mm prediction, compare it with the record and propose one discriminating follow-up.",
+    "adjust": "Support: identify comparison, outcome and timing first. Core: explain every link. Extend: design an observational temperature question and state its causal limits.",
+    "safety": "Analyse the supplied fictional record on paper. Do not heat water or test body temperature.",
+    "tricky": [
+      [
+        "What is the 4 mm cup’s final temperature?",
+        "50 − 6 = 44°C."
+      ],
+      [
+        "Is the 8 mm result evidence that insulation increases cooling?",
+        "No. Its loss is smaller than the uninsulated loss. It challenges the constant-change numerical model, not the observed overall direction."
+      ],
+      [
+        "If cup size also changes, what becomes harder to infer?",
+        "The effect of thickness alone. Cup geometry and other changed features could affect thermal transfer."
+      ]
+    ],
+    "faq": [
+      [
+        "Must a hypothesis predict a number?",
+        "No. A clear directional or qualitative prediction can be testable; an exact number needs a justified quantitative model."
+      ],
+      [
+        "Can a question be investigable without being safe or feasible here?",
+        "A question may be scientifically testable in principle but unsuitable for a school investigation. Check practical, ethical and safety limits before choosing a method."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I02",
+    "short": "Valid and responsible investigation plans",
+    "title": "Make the method answerable, repeatable and responsible",
+    "intro": "Align methods to questions, control and document error sources, and integrate risk, ethics and Country/Place responsibilities before conducting an investigation.",
+    "exampleTitle": "The unit being repeated matters as much as the number of trials",
+    "example": "This paper plan compares two specified paper-spinner configurations. Each template is 20 mm wide with a 60 mm body and two 10 mm-wide blades; blade length is 30 mm in A and 50 mm in B. Split the blade region down its centre to the body line and fold one blade forward and the other backward at 90° to the body. Use the same paper grade, no clips and no additional folds. Release each constructed spinner without a push at 1.0 m above the same clear landing surface in still air. Time release to first floor contact, make five drops of each spinner in alternating A/B order, and record every trial. These are repeated drops of two objects, not ten independent specimens. Longer blades also change paper area and mass; this design compares the configurations, rather than isolating an aerodynamic mechanism. No trial has actually been performed.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Plan feature</th><th scope=\"col\">Specified decision</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Question</td><td>How do A and B differ in descent time from 1.0 m?</td><td>Matches the actual design comparison</td></tr><tr><td>Controls</td><td>Paper grade, body, folds, release/landing conditions</td><td>Reduces other differences</td></tr><tr><td>Records</td><td>Configuration, drop number, time (s), notes, timing method</td><td>Makes variation and deviations visible</td></tr><tr><td>Stop/review</td><td>Unsafe release position, people in landing area or damaged template</td><td>Changes the method before harm or misleading data</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Align the comparison and document the method",
+        "Record exact dimensions, construction, release-height reference point, timing device/resolution, start/finish rules and collection order. Another group needs the method, not instructions to obtain the same answer. For a later approved run, follow the method, record raw results immediately and document deviations.",
+        "<div class=\"evidence\">Flawed alternative: use longer blades, change to heavier paper, drop from a different height and report only the fastest trial.</div>",
+        "Which changes prevent a useful comparison?",
+        "Paper grade and height change alongside blade configuration, and selecting the fastest trial hides variation. Match those conditions, retain all trials and state the configuration comparison precisely."
+      ],
+      [
+        "Separate repeats, errors and risk controls",
+        "Repeated drops reveal variation from release and timing. They do not test variation among separately built spinners or remove a consistent timing offset. A safe plan identifies a harm mechanism, prevention and stop condition, then follows school approval and supervision.",
+        "<div class=\"evidence\">Proposed release: stand on a chair while classmates move through the landing area.</div>",
+        "How should the method change?",
+        "Use a teacher-approved release position reachable without climbing; clear and supervise the landing area and stop if it becomes occupied. Record timing uncertainty and use a consistent timing method. A warning alone does not fix the procedure."
+      ],
+      [
+        "Build ethics and local responsibilities into field plans",
+        "An approved school activity does not automatically authorise entry, sampling, moving artefacts, recording knowledge or public sharing. Identify the relevant local authority and requirements through school/community guidance before planning those actions; respect conditions and refusal.",
+        "<div class=\"evidence\">Separate fictional field proposal: school approval exists, but a route may include a heritage place and no cultural/access or recording permissions have been checked.</div>",
+        "What must happen before visiting or collecting?",
+        "The teacher must establish the appropriate local custodians/authority, land-manager requirements and proposed activities, seek necessary guidance/permissions and redesign if not authorised. Leave heritage sites and artefacts undisturbed and follow applicable local reporting guidance; do not invent one rule for every Country/Place."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Five drops are five independent spinners.”",
+        "They are repeated measurements of the same constructed object."
+      ],
+      [
+        "“Repeats remove systematic bias.”",
+        "A shared offset can persist through every repeat."
+      ],
+      [
+        "“Scientific interest grants access.”",
+        "Authority and permissions depend on the place, activity and knowledge involved."
+      ]
+    ],
+    "activityTitle": "Audit a plan before conducting it",
+    "activity": "On paper, write a trial-record header for the spinner plan, identify two controls and two uncertainty sources, and repair the chair-release proposal. Then write the next responsible action for the fictional field proposal and an alternative if access is refused.",
+    "adjust": "Support: sort validity, documentation, risk and permission decisions. Core: justify each repair. Extend: add independently constructed spinners and explain what new variation that would test.",
+    "safety": "This activity is a paper audit. Any later practical or visit needs teacher-approved equipment, risk assessment, supervision and relevant local permissions; no approval is supplied here.",
+    "tricky": [
+      [
+        "What would five separately built spinners add?",
+        "They could reveal construction-to-construction variation, which repeated drops of one object cannot estimate by themselves."
+      ],
+      [
+        "Would identical times prove the method is valid?",
+        "No. Timing could be consistently biased or the question could exceed the design. Judge controls, outcome and claim separately."
+      ],
+      [
+        "May a found artefact be moved if replaced later?",
+        "Do not assume so. Leave it undisturbed, follow school and applicable local guidance and seek the appropriate authority’s direction."
+      ]
+    ],
+    "faq": [
+      [
+        "Does reproducible mean identical numbers?",
+        "No. Sufficiently clear methods allow others to check the result within relevant variation. State whether the check uses saved data or new measurements."
+      ],
+      [
+        "What if an unsafe condition appears during an approved run?",
+        "Stop and follow the agreed safety procedure. Document the change and review the plan; prior approval does not make changing conditions safe."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I03",
+    "short": "Equipment, precision and useful samples",
+    "title": "Keep raw measurements distinct from calculated results",
+    "intro": "Select equipment by range and resolution, record traceable measurements with justified precision, and distinguish repeated readings from useful independent samples.",
+    "exampleTitle": "Cumulative readings are not four separate delivered masses",
+    "example": "An invented balance record uses a 200 g-range balance displaying 0.01 g increments. A receiving container is tared once, then left on the balance between four deliveries. Cumulative readings are 0.00, 9.98, 19.99, 29.97 and 39.98 g. Subtract successive readings: delivered masses are 9.98, 10.01, 9.98 and 10.01 g. Their total is 39.98 g. The calculated mean is 9.995 g, which can be reported as approximately 10.00 g at the original display precision; the calculation does not create a calibration certificate. Summing the cumulative readings would count earlier deliveries repeatedly.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Delivery</th><th scope=\"col\">Before (g)</th><th scope=\"col\">After (g)</th><th scope=\"col\">Difference (g)</th></tr></thead><tbody><tr><td>1</td><td>0.00</td><td>9.98</td><td>9.98</td></tr><tr><td>2</td><td>9.98</td><td>19.99</td><td>10.01</td></tr><tr><td>3</td><td>19.99</td><td>29.97</td><td>9.98</td></tr><tr><td>4</td><td>29.97</td><td>39.98</td><td>10.01</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Match range, resolution and technique to the task",
+        "Range covers the expected total load, including the container; resolution describes the display increment, not guaranteed accuracy. Check zero/reference behaviour and use the relevant instrument procedure. A flask contains a specified fixed volume; a burette measures variable delivered volumes from reading differences.",
+        "<div class=\"evidence\">Option A: balance range 200 g, increment 0.01 g. Option B: range 5 kg, increment 1 g. Container plus contents stays below 100 g.</div>",
+        "Which better distinguishes deliveries differing by a few hundredths of a gram?",
+        "A has adequate range and finer resolution for that purpose. A reference check and technique still matter; finer digits alone do not demonstrate accuracy."
+      ],
+      [
+        "Preserve raw endpoints and show derivation",
+        "Keep instrument settings, units, trial IDs and observations with raw readings. Mark subtractions and averages as derived values. Do not add digits to raw readings because a spreadsheet can display them; keep guard digits during calculations and round the final report sensibly.",
+        "<div class=\"evidence\">Delivery 3: before 19.99 g; after 29.97 g. A learner records “29.970000 g delivered”.</div>",
+        "What two problems need repair?",
+        "The reading is cumulative rather than the delivery difference, and its extra zeros imply unsupported raw precision. The delivered mass is 29.97 − 19.99 = 9.98 g."
+      ],
+      [
+        "Choose useful sampling and digital settings",
+        "Record the device, mode, rate/interval, start/stop rule and sampling unit. Rapid serial points from one object are not independent objects. Useful sample size depends on the question, variability, selection, ethics and resources; no single number fits all investigations.",
+        "<div class=\"evidence\">Hypothetical logger: one reading every 2 s from time 0 through 20 s inclusive, same sensor in the same cup.</div>",
+        "How many readings are saved, and are they eleven independent cups?",
+        "There are 11 readings at 0, 2, …, 20 s, a rate of 0.5 readings/s. They describe one time series, not eleven independent cups. Sample different independent cups if cup-to-cup variation is the target."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Display resolution equals accuracy.”",
+        "Accuracy also depends on calibration, conditions and method."
+      ],
+      [
+        "“Sum every displayed mass.”",
+        "First determine whether readings are cumulative or separate."
+      ],
+      [
+        "“Many sensor points fix biased sampling.”",
+        "A biased selection remains biased even with many serial measurements."
+      ]
+    ],
+    "activityTitle": "Reconstruct a traceable record",
+    "activity": "Recalculate each delivery and the total, label raw and derived columns and list the metadata another team would need. Design a separate sample of independent objects for a population question and explain how it differs from repeated measurements of one object.",
+    "adjust": "Support: subtract neighbouring readings with a number line. Core: check total and mean. Extend: explain why treating final gross mass as contents without subtracting the container creates an offset, while subtracting successive endpoints cancels a constant container or zero offset.",
+    "safety": "Use the fictional data on paper. No laboratory delivery, calibration or sensor operation is claimed or required.",
+    "tricky": [
+      [
+        "What is the range of the four delivered masses?",
+        "10.01 − 9.98 = 0.03 g; this describes spread in these values, not the instrument’s full uncertainty."
+      ],
+      [
+        "Can the first four cumulative readings be averaged to estimate a delivery?",
+        "No. They measure different accumulated totals. Use successive differences for the individual deliveries."
+      ],
+      [
+        "If the balance scale factor reads 1% high, will taking more repeats remove that bias?",
+        "No. A persistent scale-factor bias affects the differences too; more repeats do not remove it. By contrast, a constant additive container or zero offset cancels when successive endpoints are subtracted. Investigate reference checks and method rather than assuming all calibration errors behave alike."
+      ]
+    ],
+    "faq": [
+      [
+        "Why keep endpoints after calculating a difference?",
+        "They allow the calculation, offsets and transcription to be checked later."
+      ],
+      [
+        "Is one reading every 2 s always suitable?",
+        "No. Match the question’s timescale and the sensor’s response. Faster recording does not make a slow sensor respond instantly."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I04",
+    "short": "Scientific representations and summaries",
+    "title": "Make the table, graph and relationship tell the same story",
+    "intro": "Select and construct representations for a purpose, calculate useful summaries, and explain the assumptions and limits of mathematical models.",
+    "exampleTitle": "Unequal times need unequal horizontal spacing",
+    "example": "An illustrative record gives total measured mass at 0, 2, 5 and 9 minutes as 100, 98, 95 and 91 g. A table preserves the exact pairs; a time graph makes the steady change visible. Place times proportionally, not at four equally spaced category positions. These values fit the simple relationship m = 100 − t when m is in grams and t in minutes: mass decreases by 1 g per minute over this supplied interval. This idealised model describes the record; it does not establish a universal process or justify extrapolation indefinitely.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Time t (min)</th><th scope=\"col\">Mass m (g)</th><th scope=\"col\">Calculation from m = 100 − t</th></tr></thead><tbody><tr><td>0</td><td>100</td><td>100 − 0 = 100</td></tr><tr><td>2</td><td>98</td><td>100 − 2 = 98</td></tr><tr><td>5</td><td>95</td><td>100 − 5 = 95</td></tr><tr><td>9</td><td>91</td><td>100 − 9 = 91</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Choose and construct for the question",
+        "Use a table for exact lookup, a time graph for change, a scatter plot for paired numerical association and separated bars for categories. Label variables, units, scales and source. A continuous time axis must preserve actual intervals.",
+        "<div class=\"evidence\">The four recorded times are 0, 2, 5 and 9 min.</div>",
+        "Why would equally spaced positions labelled 0, 2, 5 and 9 mislead?",
+        "They would make 2-, 3- and 4-minute intervals appear equal and distort the apparent rate. Use a numerical axis with positions proportional to time."
+      ],
+      [
+        "Choose summaries while retaining the data",
+        "Mean uses every value; median locates the middle; range describes the distance between extremes. Each summary hides information, so keep the raw values and investigate unusual observations before excluding them.",
+        "<div class=\"evidence\">Separate fictional repeat times: 4.0, 4.1, 4.2 and 8.1 s.</div>",
+        "Calculate the mean, median and range, and explain the effect of 8.1 s.",
+        "Mean = 20.4 ÷ 4 = 5.1 s; median = (4.1 + 4.2) ÷ 2 = 4.15 s before reporting to a suitable precision (about 4.2 s here); range = 4.1 s. The high value raises the mean. It may be real or erroneous; investigate rather than delete it automatically."
+      ],
+      [
+        "Connect a model to units, domain and assumptions",
+        "Define equation symbols and check that the model reproduces the data. A rate is change divided by elapsed time, with units. Do not treat a fitted relationship as a cause, or use a valid short interval as permission for unrealistic distant predictions.",
+        "<div class=\"evidence\">At t = 9 min, m = 91 g. The toy model is m = 100 − t over the recorded 0–9 min interval.</div>",
+        "What is the endpoint rate, and why not predict a negative mass far later?",
+        "The rate of mass change is (91 − 100) ÷ 9 = −1 g/min, a loss rate of 1 g/min. Extrapolating beyond the supported interval can fail as conditions or available material change; negative mass signals misuse of the model."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The same numbers make any graph valid.”",
+        "Spacing, variable type and labels also encode meaning."
+      ],
+      [
+        "“An unusual value must be wrong.”",
+        "Check records and context before deciding on exclusion."
+      ],
+      [
+        "“An equation applies forever.”",
+        "State its variables, assumptions and supported range."
+      ]
+    ],
+    "activityTitle": "Construct and reconcile representations",
+    "activity": "Draw a correctly scaled time–mass graph, label the four points and check each against the equation. Then calculate the three summaries for the four repeat times and explain what a summary cannot reveal on its own.",
+    "adjust": "Support: mark every minute before plotting. Core: connect table, graph and equation. Extend: propose another representation for comparing categories and explain why this time graph would not suit it.",
+    "safety": "Use the supplied illustrative records on paper. No real mass-loss process or school experiment is being reported.",
+    "tricky": [
+      [
+        "What mass does this model give at 5 min?",
+        "95 g, matching the supplied record."
+      ],
+      [
+        "Must every graph start its vertical axis at zero?",
+        "No. A clearly labelled restricted axis may reveal small changes. Explain the scale and avoid interpreting an exaggerated visual slope as a larger numerical change."
+      ],
+      [
+        "Does a line through all four values explain why mass fell?",
+        "No. It describes the relationship. A mechanism needs evidence about the system and what crossed its boundary."
+      ]
+    ],
+    "faq": [
+      [
+        "Why keep a table as well as a graph?",
+        "The table supports exact lookup and checking; the graph reveals pattern and rate more quickly."
+      ],
+      [
+        "Why not report every calculator digit?",
+        "Derived calculations can carry guard digits, but final reported precision must reflect the measurements and purpose."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I05",
+    "short": "Patterns, relationships and anomalies",
+    "title": "Connect datasets without forcing every year to agree",
+    "intro": "Align variables and dates across sources, quantify patterns and exceptions, and use scientific explanations without claiming that association alone establishes causation.",
+    "exampleTitle": "Two quantities can rise overall while individual years differ",
+    "example": "The saved NOAA station record and NASA global temperature-anomaly record cover the same calendar years, 1990–2005. CO₂ rises from 354.45 to 379.98 ppm, an increase of 25.53 ppm. The temperature anomaly rises from 0.45 to 0.68°C, an endpoint increase of 0.23°C. There are 15 elapsed years between those endpoints, not 16. Temperature does not increase every year: from 1998 to 1999, CO₂ rises by 1.70 ppm while the anomaly falls by 0.23°C. This exception challenges an “every year” claim. It does not alone refute a greenhouse influence or identify the contribution of each cause.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Calendar year</th><th scope=\"col\">Mauna Loa CO₂ (ppm)</th><th scope=\"col\">Global temperature anomaly (°C)</th></tr></thead><tbody><tr><td>1990</td><td>354.45</td><td>0.45</td></tr><tr><td>1991</td><td>355.70</td><td>0.41</td></tr><tr><td>1992</td><td>356.54</td><td>0.22</td></tr><tr><td>1993</td><td>357.21</td><td>0.23</td></tr><tr><td>1994</td><td>358.96</td><td>0.31</td></tr><tr><td>1995</td><td>360.97</td><td>0.45</td></tr><tr><td>1996</td><td>362.74</td><td>0.33</td></tr><tr><td>1997</td><td>363.88</td><td>0.47</td></tr><tr><td>1998</td><td>366.84</td><td>0.61</td></tr><tr><td>1999</td><td>368.54</td><td>0.38</td></tr><tr><td>2000</td><td>369.71</td><td>0.39</td></tr><tr><td>2001</td><td>371.32</td><td>0.53</td></tr><tr><td>2002</td><td>373.45</td><td>0.63</td></tr><tr><td>2003</td><td>375.98</td><td>0.62</td></tr><tr><td>2004</td><td>377.70</td><td>0.53</td></tr><tr><td>2005</td><td>379.98</td><td>0.68</td></tr></tbody></table></div><p class=\"note\">Saved research snapshot inspected 4 November 2026: <a href=\"https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt\">NOAA Global Monitoring Laboratory, Mauna Loa annual CO₂</a>; <a href=\"https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt\">NASA GISS GISTEMP v4, global land–ocean annual J–D index</a>, baseline 1951–1980, original hundredths divided by 100. These are published secondary data, not our measurements or a fresh latest-data download. NOAA’s supplied 0.12 ppm uncertainty is the standard deviation of differences between independently determined NOAA and Scripps annual means, not a 95% confidence interval. This NASA table supplies no numerical annual uncertainty; none is invented here.</p>",
+    "steps": [
+      [
+        "Match the quantities before connecting them",
+        "CO₂ is a dry-air mole fraction measured at a station, expressed in parts per million. Temperature anomaly is a global land–ocean index relative to 1951–1980, not an absolute temperature or a faulty reading. Use the same dates but keep the units, spatial coverage and methods distinct.",
+        "<div class=\"evidence\">1990: 354.45 ppm and +0.45°C anomaly. 2005: 379.98 ppm and +0.68°C anomaly.</div>",
+        "Why not subtract a CO₂ value from a temperature value?",
+        "They are different measured quantities with different units and spatial coverage. Compare each series with itself across the matched years; do not invent a shared numerical unit."
+      ],
+      [
+        "Quantify a trend and distinguish description from explanation",
+        "An endpoint change describes the selected interval; an endpoint rate is not a fitted trend. Greenhouse gases absorb and re-emit outgoing infrared radiation, affecting energy loss to space under comparable conditions. That mechanism is separate evidence; these paired values alone cannot isolate causation or estimate climate sensitivity.",
+        "<div class=\"evidence\">CO₂ endpoint change: 25.53 ppm across 1990–2005. Elapsed time: 15 years.</div>",
+        "What is the average endpoint rate, and what does it not establish?",
+        "25.53 ÷ 15 = 1.702 ppm/year, about 1.70 ppm/year. It is an endpoint average over this window, not the increase in every year and not a causal temperature response per ppm."
+      ],
+      [
+        "Keep exceptions and investigate context",
+        "A departure from a simple pattern may reflect genuine variation, different influences, error or a limited model. Check metadata and independent context before excluding a point. Volcanic aerosols can reduce surface heating, and ocean–atmosphere variability such as El Niño can alter annual temperature; the table does not assign an exact share to either.",
+        "<div class=\"evidence\">1998: 366.84 ppm, +0.61°C. 1999: 368.54 ppm, +0.38°C.</div>",
+        "How should the apparent countertrend be reported?",
+        "CO₂ increased by 1.70 ppm while the anomaly decreased by 0.23°C. Retain both years, reject a strictly year-by-year monotonic claim, and examine additional influences and uncertainty without assigning the whole difference to one cause."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Anomaly means erroneous data.”",
+        "Here a temperature anomaly is a difference from a defined reference climate."
+      ],
+      [
+        "“Similar graph shapes prove causation.”",
+        "Mechanisms, methods and competing explanations require further evidence."
+      ],
+      [
+        "“A cooling year must be deleted.”",
+        "Short-term variation is relevant evidence, not automatically a recording error."
+      ]
+    ],
+    "activityTitle": "Write a connected evidence analysis",
+    "activity": "Use the table to calculate both endpoint changes and the 1998–1999 contrast. Write a paragraph containing the overall pattern, a quantified exception, a relevant mechanism and one limit. Keep station/global coverage and units visible.",
+    "adjust": "Support: match years and label quantities before calculating. Core: connect the two series and exception. Extend: compare selected windows and explain why a different window can change a numerical summary.",
+    "safety": "This is secondary-data analysis. No climate measurement, forecast or field activity is required.",
+    "tricky": [
+      [
+        "Why is 0.68°C not the world’s absolute temperature?",
+        "It is an index difference from the 1951–1980 reference climate."
+      ],
+      [
+        "Does a 0.12 ppm uncertainty entry mean a 95% interval?",
+        "No. The saved NOAA definition is a standard deviation of differences between independently determined annual means; do not relabel it as a confidence interval."
+      ],
+      [
+        "What is the 1991–1992 contrast?",
+        "CO₂ increases from 355.70 to 356.54 ppm, +0.84 ppm; the anomaly decreases from 0.41 to 0.22°C, −0.19°C. This is another counterexample to an every-year claim."
+      ]
+    ],
+    "faq": [
+      [
+        "Where does the greenhouse explanation come from?",
+        "The saved research includes NASA’s greenhouse mechanism explanation: gases absorb and re-emit outgoing infrared radiation. Its physical reasoning adds evidence beyond the paired table; the table alone is not an attribution study."
+      ],
+      [
+        "Should missing numerical uncertainty be treated as zero?",
+        "No. State that the selected table does not supply it and avoid inventing error bars or assuming perfect certainty."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I06",
+    "short": "Method and conclusion evaluation",
+    "title": "Judge what a method can show before accepting its claim",
+    "intro": "Assess validity and reproducibility separately, expose assumptions, and reconcile conflicting evidence with conclusions proportional to the methods and uncertainty.",
+    "exampleTitle": "The end temperatures do not isolate cup colour",
+    "example": "A fictional report puts a black cup in a shaded room and a white cup in direct sunlight. After 10 minutes, their recorded temperatures are 28 and 32°C. It concludes that black cups always cool better. Location and illumination changed with colour, and initial temperatures, water volumes, cup materials, measurement procedure and repeat structure are not reported. The end readings describe these two arrangements; they do not isolate colour, establish temperature decreases or justify “always”. The 10-minute duration is supplied and must not be criticised as missing. A stronger plan would define the question and outcome, match important conditions, randomise positions, document the method and retain repeated raw results.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Reported</th><th scope=\"col\">Missing or confounded</th><th scope=\"col\">Effect on the claim</th></tr></thead><tbody><tr><td>Black in shaded room; white in sunlight</td><td>Colour changes with exposure/location</td><td>Cannot isolate colour</td></tr><tr><td>28°C and 32°C at 10 minutes</td><td>Initial temperatures and detailed method absent</td><td>Cannot calculate cooling amounts or reproduce the full procedure</td></tr><tr><td>Two end readings</td><td>Independent repeats and uncertainty not given</td><td>Cannot estimate variability or generalise to all cups</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Separate validity from reproducibility",
+        "Validity asks whether the method addresses the question appropriately. Reproducibility needs enough detail for a meaningful check; a well-described confounded method can reproduce a misleading comparison. Name the specific check because terms vary across scientific fields.",
+        "<div class=\"evidence\">A second team receives only: “Use the two colours, wait 10 minutes and read temperature.”</div>",
+        "What separate criticisms apply?",
+        "Validity: exposure/location changes with colour. Documentation: initial conditions, quantities, cup properties and measurement details are missing. Repeating vague directions does not repair either problem."
+      ],
+      [
+        "Identify an assumption and its effect",
+        "End temperatures alone do not show how much cooling occurred. Assuming equal starts when they are unreported may change or reverse the inferred temperature decreases. A small spread in repeats would not eliminate a shared calibration or design bias.",
+        "<div class=\"evidence\">The conclusion assumes that both cups started at the same temperature, but the report does not state any start readings.</div>",
+        "What measurement would test that assumption?",
+        "Record each initial temperature and define the temperature-change calculation with matched exposure and other controls. Without starts, 28°C versus 32°C is an endpoint comparison, not a comparison of cooling amounts."
+      ],
+      [
+        "Use conflicts to refine the claim and next test",
+        "Compare methods, samples, conditions and uncertainty before deciding why results differ. Two outcomes can disagree because the settings differ. Do not treat conflict as proof of fraud, and do not suppress the inconvenient result.",
+        "<div class=\"evidence\">Follow-up proposal: compare the same cup materials, equal starting water volumes/temperatures, matched illumination and measured independent repeats, with colour as the intended difference.</div>",
+        "What could this improve, and what cannot be promised?",
+        "It can better test a colour effect under the specified conditions and reveal variability. It does not guarantee any preferred result or justify an all-cups claim. Record and report the actual outcomes, including conflicts."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Repeatable means valid.”",
+        "A shared confound or bias can persist through repeats."
+      ],
+      [
+        "“A plausible explanation proves the result.”",
+        "The method still needs to test competing explanations."
+      ],
+      [
+        "“Uncertainty means nothing is known.”",
+        "It helps set the appropriate strength and scope of a conclusion."
+      ]
+    ],
+    "activityTitle": "Write an evidence-weighted evaluation",
+    "activity": "Write two separate judgements on the cup report: method validity and reproducibility. Name an assumption, explain its effect and rewrite the conclusion. Propose a specific improvement and state what evidence would still be needed.",
+    "adjust": "Support: sort reported facts from assumptions. Core: connect each flaw to its effect. Extend: distinguish recomputing saved data, collecting new data under the method and testing another context.",
+    "safety": "Critique the fictional record on paper. Do not heat cups, use sunlight exposures or carry out a practical without appropriate school approval.",
+    "tricky": [
+      [
+        "Is the 10-minute interval missing?",
+        "No. It is explicitly given. Critique the information actually absent, rather than adding a false defect."
+      ],
+      [
+        "Can a larger sample fix different illumination between colours?",
+        "Not by sample size alone. The confound must be addressed in the design."
+      ],
+      [
+        "Does this report establish that black cups are ineffective in every context?",
+        "No. Failure to support the universal claim is not proof of the universal opposite."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a better conclusion here?",
+        "In the two different arrangements, the reported endpoints were 28°C and 32°C after 10 minutes. The design does not isolate colour or establish cooling amounts."
+      ],
+      [
+        "Does an author’s commercial interest automatically make the measurements false?",
+        "No. Disclose and examine possible conflicts, methods and evidence; an interest alone does not establish fraud or invalidate every result."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I07",
+    "short": "Scientific arguments and secondary-data ethics",
+    "title": "Build the warrant and keep the limits visible",
+    "intro": "Synthesise varied evidence into a qualified scientific argument, evaluate contrary evidence, and respect provenance, privacy and cultural authority when using secondary information.",
+    "exampleTitle": "Numbers support a claim only when reasoning connects them",
+    "example": "A defensible argument distinguishes two claims. The saved 1990–2005 NOAA and NASA records support an overall increase in their respective quantities, but do not support “global temperature rises every year whenever CO₂ rises”. The 1998–1999 counterexample is relevant: CO₂ increases by 1.70 ppm while the anomaly decreases by 0.23°C. Greenhouse absorption and re-emission of infrared radiation provide a physical warrant for an influence on energy balance; they do not turn this short paired record into a complete causal attribution. The conclusion should integrate the trend, mechanism, counterevidence and scope, rather than hide an awkward year.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Calendar year</th><th scope=\"col\">Mauna Loa CO₂ (ppm)</th><th scope=\"col\">Global temperature anomaly (°C)</th></tr></thead><tbody><tr><td>1990</td><td>354.45</td><td>0.45</td></tr><tr><td>1991</td><td>355.70</td><td>0.41</td></tr><tr><td>1992</td><td>356.54</td><td>0.22</td></tr><tr><td>1993</td><td>357.21</td><td>0.23</td></tr><tr><td>1994</td><td>358.96</td><td>0.31</td></tr><tr><td>1995</td><td>360.97</td><td>0.45</td></tr><tr><td>1996</td><td>362.74</td><td>0.33</td></tr><tr><td>1997</td><td>363.88</td><td>0.47</td></tr><tr><td>1998</td><td>366.84</td><td>0.61</td></tr><tr><td>1999</td><td>368.54</td><td>0.38</td></tr><tr><td>2000</td><td>369.71</td><td>0.39</td></tr><tr><td>2001</td><td>371.32</td><td>0.53</td></tr><tr><td>2002</td><td>373.45</td><td>0.63</td></tr><tr><td>2003</td><td>375.98</td><td>0.62</td></tr><tr><td>2004</td><td>377.70</td><td>0.53</td></tr><tr><td>2005</td><td>379.98</td><td>0.68</td></tr></tbody></table></div><p class=\"note\">Saved research snapshot inspected 4 November 2026: <a href=\"https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt\">NOAA Global Monitoring Laboratory, Mauna Loa annual CO₂</a>; <a href=\"https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt\">NASA GISS GISTEMP v4, global land–ocean annual J–D index</a>, baseline 1951–1980, original hundredths divided by 100. These are published secondary data, not our measurements or a fresh latest-data download. NOAA’s supplied 0.12 ppm uncertainty is the standard deviation of differences between independently determined NOAA and Scripps annual means, not a 95% confidence interval. This NASA table supplies no numerical annual uncertainty; none is invented here.</p>",
+    "steps": [
+      [
+        "Construct claim, evidence and scientific warrant",
+        "A claim answers the question. Evidence supplies relevant observations or measurements. The warrant explains why they matter using science. Varied evidence adds strength when it addresses different weaknesses; ten reposts of one table are not ten independent datasets.",
+        "<div class=\"evidence\">Claim: both recorded quantities increase overall from 1990 to 2005. Evidence: CO₂ +25.53 ppm; anomaly +0.23°C. Mechanism: greenhouse gases affect outgoing infrared energy transfer.</div>",
+        "What is missing from “The graph rises, so CO₂ caused all of the change”?",
+        "It jumps from a pattern to complete causal attribution. It needs the physical reasoning, treatment of other influences and uncertainty, and a narrower conclusion. The paired window alone cannot assign all change to CO₂."
+      ],
+      [
+        "Address alternatives and contrary evidence",
+        "An argument should test the strongest relevant alternative, not merely repeat a preferred position. A counterexample can defeat a universal claim while leaving a qualified relationship worth investigating. Compare methods and coverage, not source labels alone.",
+        "<div class=\"evidence\">Counterclaim: “A rising CO₂ value guarantees a higher temperature anomaly in every following year.” The 1998 and 1999 pairs are 366.84/0.61 and 368.54/0.38, in ppm/°C.</div>",
+        "Construct a qualified response.",
+        "The pairs contradict the guarantee: CO₂ rose while the anomaly fell. They do not by themselves reject greenhouse influence. Annual temperature has other influences; the overall 1990–2005 pattern and physical mechanism must be considered with those limits."
+      ],
+      [
+        "Make secondary evidence traceable and responsibly usable",
+        "Record creator, dataset/title, dates, variables, units, baseline, method, version/snapshot and a locator. Preserve context when paraphrasing or adapting. Citation does not substitute for privacy, licence or culturally specific authority and permissions.",
+        "<div class=\"evidence\">Fictional separate case: a knowledge holder allowed a class to hear an explanation but expressly refused public posting. A learner proposes posting the notes with a citation.</div>",
+        "Does attribution make publication acceptable?",
+        "No. Respect the refusal and the agreed purpose. Seek appropriate guidance only through the relevant school/community process; otherwise omit the restricted material and use an authorised alternative. Do not assume a universal protocol or disclose the withheld knowledge."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Evidence speaks for itself.”",
+        "Explain the scientific warrant and the conditions of the claim."
+      ],
+      [
+        "“More sources must be stronger.”",
+        "Check relevance, methods and independence."
+      ],
+      [
+        "“Citation grants permission.”",
+        "Attribution, consent, authority and licence answer different questions."
+      ]
+    ],
+    "activityTitle": "Construct and challenge an argument",
+    "activity": "Write a claim using the climate record, two quantified evidence statements, a scientific warrant and a limitation. Challenge the every-year counterclaim, then list the source metadata needed for checking. Explain how the refusal scenario changes what may be published.",
+    "adjust": "Support: colour-code claim, evidence, warrant and limit in your own paragraph, also labelling them in words. Core: answer the counterclaim. Extend: compare a source with complete methods against an unattributed repost without assuming authority labels settle quality.",
+    "safety": "Use the supplied public-data snapshot and fictional permissions case. Do not collect personal information, reproduce restricted knowledge or contact anyone as part of this activity.",
+    "tricky": [
+      [
+        "Are the sixteen yearly pairs sixteen independent studies?",
+        "No. They are paired observations within two series with their own methods and dependence. Do not inflate evidence counts."
+      ],
+      [
+        "Can a quotation be accurate but ethically inappropriate to publish?",
+        "Yes. Accurate wording and a citation do not override a restriction on publication or sensitive personal/cultural information."
+      ],
+      [
+        "What makes an argument different from a list of facts?",
+        "A clear claim, relevant evidence, a reasoning link, consideration of limits and an appropriately qualified judgement."
+      ]
+    ],
+    "faq": [
+      [
+        "Why cite the saved version as well as link the live table?",
+        "The live dataset can be revised. A date/window and snapshot identity explain exactly which values were analysed."
+      ],
+      [
+        "Does an argument need a preferred policy recommendation?",
+        "No. It may explain what the evidence supports, what it cannot decide and which additional checks would help. Value choices should remain transparent."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9I08",
+    "short": "Communicating scientific evidence",
+    "title": "Change the explanation for the audience and preserve the result",
+    "intro": "Create and revise scientific texts for a defined purpose and audience, selecting useful language, figures and digital features while retaining evidence and uncertainty.",
+    "exampleTitle": "Two audiences need different wording for the same measured difference",
+    "example": "An invented school record uses three independent matched paving blocks, each with one shaded and one unshaded region of the same surface material. Temperatures are recorded at the same stated midday observation using a consistent infrared measurement method; instrument settings and viewing conditions are held consistent within the comparison. Shaded readings are 28, 29 and 30°C; paired unshaded readings are 35, 36 and 37°C. The means are 29 and 36°C, a 7°C difference. A committee summary can foreground the paired method and limitations. A Year 6 explanation can define surface temperature plainly. Both must retain the numbers and explain that this record does not directly measure human comfort or all future weather. The pairs are linked within blocks, not six independent observations.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Independent matched block</th><th scope=\"col\">Shaded region (°C)</th><th scope=\"col\">Unshaded region (°C)</th><th scope=\"col\">Paired difference (°C)</th></tr></thead><tbody><tr><td>1</td><td>28</td><td>35</td><td>7</td></tr><tr><td>2</td><td>29</td><td>36</td><td>7</td></tr><tr><td>3</td><td>30</td><td>37</td><td>7</td></tr></tbody></table></div><div class=\"report-model\"><h3>Committee version</h3><p>Across three matched paving blocks at the stated midday observation, mean surface temperature was 29°C in shaded regions and 36°C in paired unshaded regions. This 7°C contrast describes these conditions; comfort, installation cost and other weather were not measured.</p><h3>Year 6 version</h3><p>The shaded paving surfaces were cooler in our invented comparison: 29°C on average, compared with 36°C without shade. That is 7°C cooler at this observation. We measured the surface, so this does not tell us exactly how every person would feel.</p></div>",
+    "steps": [
+      [
+        "Choose content for the purpose and audience",
+        "Ask what the audience needs to understand or decide. A scientific report needs sufficient method and evidence; a public explanation may lead with the finding and define unfamiliar terms. Adapt detail and structure without changing the result.",
+        "<div class=\"evidence\">Purpose A: help a committee assess the strength of the comparison. Purpose B: explain the result to younger learners.</div>",
+        "Which details change emphasis, and which must remain?",
+        "A emphasises matched units, procedure and missing evidence. B defines the measured surface quantity simply. Both retain the 29/36°C means, 7°C difference, stated conditions and limits; neither promises a universal result."
+      ],
+      [
+        "Give every text feature a scientific job",
+        "Tables preserve exact values; graphs reveal patterns; captions identify quantities, comparison and conditions. Use headings to organise reasoning and an equivalent text description for meaningful visual evidence. Do not rely only on colour to distinguish groups.",
+        "<div class=\"evidence\">Weak caption: “Amazing shade!” The table supplies three paired surface-temperature comparisons at one midday observation.</div>",
+        "Write a more informative caption.",
+        "Example: “Surface temperatures in three matched paving blocks at the stated midday observation. Shaded mean: 29°C; paired unshaded mean: 36°C; difference: 7°C. The record does not measure human comfort.”"
+      ],
+      [
+        "Create, check and revise with suitable tools",
+        "Choose a spreadsheet for transparent calculations, a graphing tool for scaled axes or a document for a clear brief. Keep raw data and check the export: numbers, units, pairing, sources, legibility, reading order and alternative descriptions. A polished digital output can still be scientifically wrong.",
+        "<div class=\"evidence\">Draft headline: “Shade makes every playground exactly 7°C safer.”</div>",
+        "What revision preserves the evidence?",
+        "Example: “Shaded paving averaged 7°C cooler in this three-block comparison.” Add the measurement conditions and limit. Safety and universal playground effects were not measured; “exactly” overstates certainty."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Simpler wording permits simpler facts.”",
+        "Simplify expression while preserving quantities, conditions and certainty."
+      ],
+      [
+        "“A figure needs no explanation.”",
+        "A useful caption or description tells the reader what the evidence means."
+      ],
+      [
+        "“Software guarantees quality.”",
+        "Check the science, calculation and exported reading experience."
+      ]
+    ],
+    "activityTitle": "Create two useful messages from one record",
+    "activity": "Write a committee results paragraph and a younger-audience explanation using the paving table. Add a caption and a text description of your chosen visual, then annotate the audience choices. Check that both versions preserve the same finding and limitation.",
+    "adjust": "Support: underline quantities and limits before rewriting. Core: produce two accurate versions. Extend: justify a digital tool and describe how you would check the exported result without claiming you have already tested it.",
+    "safety": "Use the supplied fictional packet. No hot-surface measurement, student survey, real publication or audience testing is required.",
+    "tricky": [
+      [
+        "Does the record contain six independent paving blocks?",
+        "No. There are three independent matched blocks, each contributing a linked shaded/unshaded pair."
+      ],
+      [
+        "Can these temperatures tell us exactly how comfortable people feel?",
+        "No. Surface temperature is one quantity. Comfort also depends on other conditions and was not directly measured here."
+      ],
+      [
+        "Must a useful communication include many visuals?",
+        "No. Include features that serve the purpose. One clear table or graph with a meaningful caption may be sufficient."
+      ]
+    ],
+    "faq": [
+      [
+        "How much method detail belongs in a public explanation?",
+        "Keep the conditions needed to understand the finding and its limits. A brief version can link to a fuller method; it must not hide a limitation that changes the meaning."
+      ],
+      [
+        "What should change after checking a draft?",
+        "Repair any factual, numerical, audience or accessibility mismatch. Preserve the underlying result while improving wording, structure and features."
+      ]
+    ]
+  }
+]

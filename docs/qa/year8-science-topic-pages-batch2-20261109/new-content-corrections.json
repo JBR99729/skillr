@@ -1,0 +1,16 @@
+[
+  {
+    "code": "AC9S8I04",
+    "field": "evidence",
+    "finding": "Derived-rate formula and rate appeared under raw Time/Temperature headings.",
+    "repair": "Remove derived summary row; retain correctly labelled rate calculations in worked prose and focus3."
+  },
+  {
+    "code": "AC9S8I05",
+    "field": "steps[1][4]",
+    "before": "The groups overlap differently in their raw values",
+    "after": "Most 30 cm values are below all 10 cm values while one is far above them",
+    "finding": "The two raw-value sets do not overlap.",
+    "repair": "Describe actual raw values and variation."
+  }
+]

@@ -1,0 +1,400 @@
+{
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "codes": [
+    {
+      "code": "AC9E2LA01",
+      "descriptor": "investigate how interpersonal language choices vary depending on the context, including the different roles taken on in interactions",
+      "elaborations": [
+        {
+          "code": "AC9E2LA01_E1",
+          "number": "E1",
+          "text": "exploring culturally specific greetings and expressions of politeness",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA01_E2",
+          "number": "E2",
+          "text": "exploring First Nations Australian cultural protocols in Welcome to Country and Acknowledgement of Country, and the greeting words used by local First Nations Australians",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E2LA01_E3",
+          "number": "E3",
+          "text": "exploring how familiarity with a group or individual influences language choices",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Choose wording for context and familiarity",
+        "Compare interaction roles and repair meaning",
+        "Learn cultural greeting/protocol choices with verified local guidance"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA02",
+      "descriptor": "explore how language can be used for appreciating texts and providing reasons for preferences",
+      "elaborations": [
+        {
+          "code": "AC9E2LA02_E1",
+          "number": "E1",
+          "text": "exploring how language is used to appreciate texts using more precise vocabulary; for example, \u201cI liked how the author described the setting because \u2026\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA02_E2",
+          "number": "E2",
+          "text": "exploring verbs used to express degree of preference; for example, \u201cliked\u201d, \u201cpreferred\u201d, \u201cenjoyed\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA02_E3",
+          "number": "E3",
+          "text": "identifying First Nations Australian language words specific to Country/Place that help the reader to be specific when appreciating the setting in a text",
+          "questionEligible": false
+        }
+      ],
+      "entry_focuses": [
+        "Name a precise response to an actual text",
+        "Explain and compare supported preferences",
+        "Appreciate Country/Place language in an actual authorised text"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA03",
+      "descriptor": "identify how texts across the curriculum are organised differently and use language features depending on purposes",
+      "elaborations": [
+        {
+          "code": "AC9E2LA03_E1",
+          "number": "E1",
+          "text": "identifying the typical features of a text; for example, a typical introduction to a narrative or the use of dot points in instructions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA03_E2",
+          "number": "E2",
+          "text": "identifying that different types of texts might have different forms; for example, an expression of opinion might be in the form of a poster, email or brochure",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA03_E3",
+          "number": "E3",
+          "text": "identifying the organisation and language features in texts such as narratives, recounts, information reports, simple procedures, expression of opinion and responses to texts (including poetry), and discuss their purposes",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Compare complete story,recount and information texts",
+        "Explain procedure/opinion forms and language",
+        "Discuss a response to actual poetry and explain structure choices"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA04",
+      "descriptor": "understand how texts are made cohesive by using personal and possessive pronouns and by omitting words that can be inferred",
+      "elaborations": [
+        {
+          "code": "AC9E2LA04_E1",
+          "number": "E1",
+          "text": "identifying language used to build information across a text; for example, through connecting similar and dissimilar things",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA04_E2",
+          "number": "E2",
+          "text": "mapping examples of word associations in texts; for example, words that refer to the main character in a story: \u201cIsy\u201d, \u201cshe\u201d, \u201cI\u201d, \u201csister\u201d, \u201cstudent\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA04_E3",
+          "number": "E3",
+          "text": "tracking how a person or thing is identified through a section of a text; for example, \u201ceggs\u201d, \u201cthey\u201d, \u201cthem\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA04_E4",
+          "number": "E4",
+          "text": "identifying words left out that can be inferred from the surrounding text; for example, \u201cXanthe went to school. She had a lovely day.\u201d (at school is inferred)",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA04_E5",
+          "number": "E5",
+          "text": "using personal and possessive pronouns to link entities previously mentioned in the text",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Track personal and possessive references",
+        "Recover understood omitted words",
+        "Repair unclear reference without changing meaning"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA05",
+      "descriptor": "navigate print and screen texts using chapters, tables of contents, indexes, side-bar menus, drop-down menus or links",
+      "elaborations": [
+        {
+          "code": "AC9E2LA05_E1",
+          "number": "E1",
+          "text": "recognising how numbered chapters, organisation of tables of content and alphabetical order of indexes operate to support access to information",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA05_E2",
+          "number": "E2",
+          "text": "exploring how the navigation tools of different websites can be used to locate information",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Navigate chapters and contents",
+        "Use an alphabetical index and verify page information",
+        "Follow real static screen menus/links and check destination"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA06",
+      "descriptor": "understand that connections can be made between ideas by using a compound sentence with 2 or more independent clauses usually linked by a coordinating conjunction",
+      "elaborations": [
+        {
+          "code": "AC9E2LA06_E1",
+          "number": "E1",
+          "text": "using coordinating conjunctions; for example, \u201cand\u201d, \u201cbut\u201d, \u201cso\u201d to construct compound sentences; for example, \u201cThe wolf huffed / and he puffed / and he blew the house down!\u201d",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Find complete independent clauses",
+        "Choose a coordinating conjunction for a stated relationship",
+        "Build and repair compound sentences preserving meaning"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes",
+        "Worked example and reasoning checks"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA07",
+      "descriptor": "understand that in sentences nouns may be extended into noun groups using articles and adjectives, and verbs may be expressed as verb groups",
+      "elaborations": [
+        {
+          "code": "AC9E2LA07_E1",
+          "number": "E1",
+          "text": "identifying nouns that refer to people, places, concrete objects and ideas in sentences in texts, and identifying the articles and adjectives that extend those nouns",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA07_E2",
+          "number": "E2",
+          "text": "building extended noun groups using articles and adjectives; for example, \u201cthe longest side\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA07_E3",
+          "number": "E3",
+          "text": "building extended verb groups using verbs; for example, \u201cwas touched\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA07_E4",
+          "number": "E4",
+          "text": "investigating how noun groups can be built up by asking questions about the noun such as \u201chow many?\u201d, \u201cwhat\u2019s it like?\u201d, \u201cwhat type?\u201d; for example, \u201ctwo pairs of old walking shoes\u201d",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Expand nouns with articles and adjectives",
+        "Find and build complete verb groups",
+        "Choose useful groups in whole sentences"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA08",
+      "descriptor": "understand that images add to or multiply the meanings of a text",
+      "elaborations": [
+        {
+          "code": "AC9E2LA08_E1",
+          "number": "E1",
+          "text": "identifying images and graphics in a text that add ideas or information not included in the written text; for example, a map or table in a factual text or an illustration in a story, which gives clues about the setting",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA08_E2",
+          "number": "E2",
+          "text": "identifying visual representations of characters\u2019 actions, reactions, speech and thought processes in narratives, and considering how these images add to or multiply the meaning of accompanying words",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Compare the actual words and visible picture evidence",
+        "Read additional information from an actual table",
+        "Explain action,reaction,speech and thought in an authored visual model"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA09",
+      "descriptor": "experiment with and begin to make conscious choices of vocabulary to suit the topic",
+      "elaborations": [
+        {
+          "code": "AC9E2LA09_E1",
+          "number": "E1",
+          "text": "selecting vocabulary appropriate to the topic to replace everyday language",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA09_E2",
+          "number": "E2",
+          "text": "discussing new vocabulary encountered in learning area texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA09_E3",
+          "number": "E3",
+          "text": "exploring language used to describe characters in narratives, including nouns; for example, \u201cmagician\u201d, \u201cwizard\u201d, \u201csorcerer\u201d, and adjectives such as \u201cgentle\u201d, \u201ctimid\u201d or \u201cfrightened\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA09_E4",
+          "number": "E4",
+          "text": "identifying words from First Nations Australians\u2019 languages relevant to a topic",
+          "questionEligible": false
+        }
+      ],
+      "entry_focuses": [
+        "Learn topic words and choose precise meanings",
+        "Compare character nouns/adjectives in context",
+        "Use verified First Nations language words with attribution"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    },
+    {
+      "code": "AC9E2LA10",
+      "descriptor": "recognise that capital letters are used in titles and commas are used to separate items in lists",
+      "elaborations": [
+        {
+          "code": "AC9E2LA10_E1",
+          "number": "E1",
+          "text": "identifying how capital letters are used in the titles of texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E2LA10_E2",
+          "number": "E2",
+          "text": "identifying commas used in lists in a variety of types of texts; for example, \u201cThis class has students who speak Vietnamese, Thai and Arabic at home.\u201d",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Compare declared title styles and their capitals",
+        "Separate complete list items with commas",
+        "Edit title/list writing and explain valid alternatives"
+      ],
+      "retained_sections": [
+        "Learning goals",
+        "Subject-Specific Content & Key Examples",
+        "Common Student Misconceptions",
+        "Practice Thought & Formative Assessment",
+        "Revision Notes"
+      ],
+      "paid_resources": [],
+      "status": "READY TO DRAFT subject to independent plan review",
+      "evidence": "Current shared/cross-year actual method files and later code-specific closures, separately classified from original item drafts; see reused-research.json.",
+      "complete_stimuli": "Add complete original text/cards in Subject-Specific Content and Formative Assessment where required; actualstaticnavigation/illustrations inline beside dependent tasks. Supply cultural books/local sources explicitly, not invented language or ceremony role-play."
+    }
+  ]
+}

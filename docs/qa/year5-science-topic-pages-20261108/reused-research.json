@@ -1,0 +1,87 @@
+[
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5H01/research/2026-11-03-collaboration-case-gap-closure.json",
+    "git_blob": "192bb650a49a408343d747b7b417857042341780"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5I02/research/2026-11-04-source-gap-closure.json",
+    "git_blob": "edf2b39934cd17bb126b9568e9e71783e78389b6"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5I03/research/2026-11-03-metric-instrument-source-scope.json",
+    "git_blob": "96bfdda331d1d5e8d988e5823e0f079f0fb1743f"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5I06/research/2026-11-04-scientific-audience-source-gap-closure.json",
+    "git_blob": "e6837b52febdc574ecd5a38728009b2e0847c248"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U01/research/2026-11-04-free-question-collection-02.json",
+    "git_blob": "9ea8243d287c2e18552cbff72b8f9e91917101d7"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U01/research/2026-11-04-source-gap-closure.json",
+    "git_blob": "804d858959b57749076eac3a4750dc1c12895af1"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U02/research/2026-11-04-free-question-collection-02.json",
+    "git_blob": "ea00af286ee84a566df047c67e990e464d1a7e5c"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U02/research/2026-11-04-source-gap-closure.json",
+    "git_blob": "aa81b26504480c51784f7b6643a6cc7d7ec921a4"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U03/research/2026-11-03-source-gap-closure.json",
+    "git_blob": "b90bc9fde944733fead94a49db028aa3b8c5f62b"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U03/research/2026-11-04-free-question-collection-02.json",
+    "git_blob": "cc0d5235d777b70334367777aae7b95bbcb88dda"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "year-5/science/AC9S5U04/research/2026-11-03-source-gap-closure.json",
+    "git_blob": "66ac05c5caccf7a9ebfcf488dba24030a878e3fe"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/maths/2026-11-03-metric-instrument-evidence.json",
+    "git_blob": "75c4471c8b6788f64c0dcdcd704148c411df173b"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/science/2026-11-03-light-particles-inquiry-evidence.json",
+    "git_blob": "e0db73d5c3616fbcaec39549edc17f57175e67ed"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/science/2026-11-04-adaptation-habitat-evidence.json",
+    "git_blob": "fd1024fce1c9b454278a76775c2c3b16e26ccd93"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/science/2026-11-04-investigation-country-permissions-evidence.json",
+    "git_blob": "bdc8f826cfaa1cc42f921abc72296e34027cda14"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/science/2026-11-04-scientific-audience-language-evidence.json",
+    "git_blob": "1d5d95211862ef08014dca0da1df404f03e79c76"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "path": "shared-research/science/2026-11-04-weathering-deposition-evidence.json",
+    "git_blob": "3c6b84c26321aaaff6f335227cc95e00014afbe5"
+  }
+]

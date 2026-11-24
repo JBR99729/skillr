@@ -1,0 +1,296 @@
+{
+  "date": "2026-11-23",
+  "scope": "Existing 48-page strong-topic shortlist; NSW and Victorian search metadata, not verified state outcome equivalence.",
+  "selection_source": "data/seo-priority-48-20261028.json",
+  "evidence_limit": "The owner reports 80% from NSW/VIC. No fresh state-level traffic or keyword-volume measurement was available or inferred. Historical shortlist evidence is retained.",
+  "pages": [
+    {
+      "code": "AC9MFN01",
+      "path": "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+      "title": "Foundation Counting to 20 | NSW & VIC Curriculum | AC9MFN01",
+      "description": "Count, represent and order numbers to 20 in Foundation. Free examples; NSW and Victorian curriculum links (AC9MFN01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9MFN02",
+      "path": "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+      "title": "Foundation Subitising to 5 | NSW & VIC Curriculum | AC9MFN02",
+      "description": "Recognise small collections to 5 without counting in Foundation. Free examples; NSW and Victorian curriculum links (AC9MFN02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9MFN04",
+      "path": "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+      "title": "Foundation Number Bonds to 10 | NSW & VIC Curriculum | AC9MFN04",
+      "description": "Explore Foundation number bonds and part-part-whole models to 10. Free examples; NSW and Victorian curriculum links (AC9MFN04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9MFA01",
+      "path": "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+      "title": "Foundation Repeating Patterns | NSW & VIC Curriculum | AC9MFA01",
+      "description": "Copy, continue and create Foundation repeating patterns. Free examples; NSW and Victorian curriculum links (AC9MFA01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9MFSP01",
+      "path": "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+      "title": "Foundation Shapes | NSW & VIC Curriculum | AC9MFSP01",
+      "description": "Name and sort familiar shapes using their features in Foundation. Free examples; NSW and Victorian curriculum links (AC9MFSP01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1N01",
+      "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+      "title": "Year 1 Numbers to 120 | NSW & VIC Curriculum | AC9M1N01",
+      "description": "Read, represent and order Year 1 numbers to 120. Free examples; NSW and Victorian curriculum links (AC9M1N01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1N02",
+      "path": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+      "title": "Year 1 Tens & Ones | NSW & VIC Curriculum | AC9M1N02",
+      "description": "Partition Year 1 two-digit numbers into tens and ones. Free examples; NSW and Victorian curriculum links (AC9M1N02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1N03",
+      "path": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/index.html",
+      "title": "Year 1 Counting in Twos | NSW & VIC Curriculum | AC9M1N03",
+      "description": "Count Year 1 collections in twos using equal groups. Free examples; NSW and Victorian curriculum links (AC9M1N03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1N04",
+      "path": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html",
+      "title": "Year 1 Addition & Subtraction to 20 | NSW & VIC Curriculum | AC9M1N04",
+      "description": "Explore Year 1 addition and subtraction strategies within 20. Free examples; NSW and Victorian curriculum links (AC9M1N04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1N06",
+      "path": "year1/maths/ac9m1n06-equal-sharing-and-grouping/index.html",
+      "title": "Year 1 Sharing & Grouping | NSW & VIC Curriculum | AC9M1N06",
+      "description": "Model Year 1 division through equal sharing and grouping. Free examples; NSW and Victorian curriculum links (AC9M1N06). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1A01",
+      "path": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
+      "title": "Year 1 Skip Counting | NSW & VIC Curriculum | AC9M1A01",
+      "description": "Explore Year 1 skip-counting patterns by 2s, 5s and 10s. Free examples; NSW and Victorian curriculum links (AC9M1A01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1A02",
+      "path": "year1/maths/ac9m1a02-repeating-patterns/index.html",
+      "title": "Year 1 Repeating Patterns | NSW & VIC Curriculum | AC9M1A02",
+      "description": "Find the repeating unit and create Year 1 patterns. Free examples; NSW and Victorian curriculum links (AC9M1A02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1SP01",
+      "path": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+      "title": "Year 1 2D & 3D Shapes | NSW & VIC Curriculum | AC9M1SP01",
+      "description": "Compare Year 1 two-dimensional shapes and three-dimensional objects. Free examples; NSW and Victorian curriculum links (AC9M1SP01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M1M02",
+      "path": "year1/maths/ac9m1m02-measuring-length-with-informal-units/index.html",
+      "title": "Year 1 Measuring Length | NSW & VIC Curriculum | AC9M1M02",
+      "description": "Measure and compare Year 1 lengths with equal informal units. Free examples; NSW and Victorian curriculum links (AC9M1M02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2N01",
+      "path": "year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/index.html",
+      "title": "Year 2 Numbers to 1000 | NSW & VIC Curriculum | AC9M2N01",
+      "description": "Read, represent and order Year 2 numbers to at least 1000. Free examples; NSW and Victorian curriculum links (AC9M2N01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2N02",
+      "path": "year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/index.html",
+      "title": "Year 2 Regrouping Place Value | NSW & VIC Curriculum | AC9M2N02",
+      "description": "Regroup and rename Year 2 hundreds, tens and ones. Free examples; NSW and Victorian curriculum links (AC9M2N02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2N03",
+      "path": "year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/index.html",
+      "title": "Year 2 Halves, Quarters & Eighths | NSW & VIC Curriculum | AC9M2N03",
+      "description": "Explore equal parts, halves, quarters and eighths in Year 2. Free examples; NSW and Victorian curriculum links (AC9M2N03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2N04",
+      "path": "year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/index.html",
+      "title": "Year 2 Addition & Subtraction | NSW & VIC Curriculum | AC9M2N04",
+      "description": "Add and subtract Year 2 one- and two-digit numbers. Free examples; NSW and Victorian curriculum links (AC9M2N04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2N05",
+      "path": "year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/index.html",
+      "title": "Year 2 Arrays & Division | NSW & VIC Curriculum | AC9M2N05",
+      "description": "Use Year 2 arrays and equal groups to multiply and divide. Free examples; NSW and Victorian curriculum links (AC9M2N05). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2A03",
+      "path": "year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/index.html",
+      "title": "Year 2 Doubling & Halving | NSW & VIC Curriculum | AC9M2A03",
+      "description": "Connect Year 2 multiplication by 2 with doubling and halving. Free examples; NSW and Victorian curriculum links (AC9M2A03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M2M04",
+      "path": "year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/index.html",
+      "title": "Year 2 Telling Time | NSW & VIC Curriculum | AC9M2M04",
+      "description": "Read Year 2 analogue clocks to the hour, half-hour and quarter-hour. Free examples; NSW and Victorian curriculum links (AC9M2M04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3N01",
+      "path": "year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/index.html",
+      "title": "Year 3 Place Value | NSW & VIC Curriculum | AC9M3N01",
+      "description": "Read, represent and order Year 3 numbers beyond 10,000. Free examples; NSW and Victorian curriculum links (AC9M3N01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3N02",
+      "path": "year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/index.html",
+      "title": "Year 3 Unit Fractions | NSW & VIC Curriculum | AC9M3N02",
+      "description": "Represent Year 3 unit fractions with models and number lines. Free examples; NSW and Victorian curriculum links (AC9M3N02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3N03",
+      "path": "year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/index.html",
+      "title": "Year 3 Addition & Subtraction | NSW & VIC Curriculum | AC9M3N03",
+      "description": "Use Year 3 place-value strategies to add and subtract larger numbers. Free examples; NSW and Victorian curriculum links (AC9M3N03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3N04",
+      "path": "year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/index.html",
+      "title": "Year 3 Multiplication & Division | NSW & VIC Curriculum | AC9M3N04",
+      "description": "Explore Year 3 multiplication and division with equal-group models. Free examples; NSW and Victorian curriculum links (AC9M3N04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3A03",
+      "path": "year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/index.html",
+      "title": "Year 3 Times Tables | NSW & VIC Curriculum | AC9M3A03",
+      "description": "Connect Year 3 multiplication and division facts for 3, 4, 5 and 10. Free examples; NSW and Victorian curriculum links (AC9M3A03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3M03",
+      "path": "year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/index.html",
+      "title": "Year 3 Time & Duration | NSW & VIC Curriculum | AC9M3M03",
+      "description": "Convert Year 3 seconds, minutes and hours and compare durations. Free examples; NSW and Victorian curriculum links (AC9M3M03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M3M04",
+      "path": "year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/index.html",
+      "title": "Year 3 Time to the Minute | NSW & VIC Curriculum | AC9M3M04",
+      "description": "Read Year 3 analogue and digital clocks to the nearest minute. Free examples; NSW and Victorian curriculum links (AC9M3M04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4N01",
+      "path": "year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html",
+      "title": "Year 4 Tenths & Hundredths | NSW & VIC Curriculum | AC9M4N01",
+      "description": "Represent Year 4 tenths and hundredths using decimal place value. Free examples; NSW and Victorian curriculum links (AC9M4N01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4N02",
+      "path": "year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html",
+      "title": "Year 4 Odd & Even Numbers | NSW & VIC Curriculum | AC9M4N02",
+      "description": "Explain Year 4 odd and even number patterns with pairs and operations. Free examples; NSW and Victorian curriculum links (AC9M4N02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4N03",
+      "path": "year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html",
+      "title": "Year 4 Equivalent Fractions | NSW & VIC Curriculum | AC9M4N03",
+      "description": "Connect Year 4 equivalent fractions and decimal representations. Free examples; NSW and Victorian curriculum links (AC9M4N03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4A02",
+      "path": "year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/index.html",
+      "title": "Year 4 Times Tables & Division | NSW & VIC Curriculum | AC9M4A02",
+      "description": "Connect Year 4 times tables to 10 x 10 with division facts. Free examples; NSW and Victorian curriculum links (AC9M4A02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4M02",
+      "path": "year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/index.html",
+      "title": "Year 4 Area & Perimeter | NSW & VIC Curriculum | AC9M4M02",
+      "description": "Measure and estimate Year 4 area and perimeter using suitable units. Free examples; NSW and Victorian curriculum links (AC9M4M02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M4M03",
+      "path": "year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/index.html",
+      "title": "Year 4 Elapsed Time | NSW & VIC Curriculum | AC9M4M03",
+      "description": "Solve Year 4 duration problems using am, pm and elapsed time. Free examples; NSW and Victorian curriculum links (AC9M4M03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N01",
+      "path": "year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/index.html",
+      "title": "Year 5 Comparing Decimals | NSW & VIC Curriculum | AC9M5N01",
+      "description": "Compare and order Year 5 decimals with more than two decimal places. Free examples; NSW and Victorian curriculum links (AC9M5N01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N02",
+      "path": "year5/maths/ac9m5n02-express-natural-numbers-as-products-of-their-factors-recognise/index.html",
+      "title": "Year 5 Factors & Multiples | NSW & VIC Curriculum | AC9M5N02",
+      "description": "Explore Year 5 factors, multiples and divisibility strategies. Free examples; NSW and Victorian curriculum links (AC9M5N02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N03",
+      "path": "year5/maths/ac9m5n03-and-order-fractions-with-the-same-and-related-denominators/index.html",
+      "title": "Year 5 Comparing Fractions | NSW & VIC Curriculum | AC9M5N03",
+      "description": "Compare Year 5 fractions and mixed numbers with related denominators. Free examples; NSW and Victorian curriculum links (AC9M5N03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N04",
+      "path": "year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/index.html",
+      "title": "Year 5 Percentages & Decimals | NSW & VIC Curriculum | AC9M5N04",
+      "description": "Connect Year 5 percentages, fractions and decimals. Free examples; NSW and Victorian curriculum links (AC9M5N04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N05",
+      "path": "year5/maths/ac9m5n05-solve-problems-involving-addition-and-subtraction-of-fractions/index.html",
+      "title": "Year 5 Add & Subtract Fractions | NSW & VIC Curriculum | AC9M5N05",
+      "description": "Add and subtract Year 5 fractions with related denominators. Free examples; NSW and Victorian curriculum links (AC9M5N05). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N06",
+      "path": "year5/maths/ac9m5n06-solve-problems-involving-multiplication-of-larger-numbers-by/index.html",
+      "title": "Year 5 Multiplication Strategies | NSW & VIC Curriculum | AC9M5N06",
+      "description": "Explore Year 5 strategies for multiplying larger numbers. Free examples; NSW and Victorian curriculum links (AC9M5N06). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5N07",
+      "path": "year5/maths/ac9m5n07-solve-problems-involving-division-choosing-efficient-strategies/index.html",
+      "title": "Year 5 Division & Remainders | NSW & VIC Curriculum | AC9M5N07",
+      "description": "Choose Year 5 division strategies and interpret remainders in context. Free examples; NSW and Victorian curriculum links (AC9M5N07). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5M03",
+      "path": "year5/maths/ac9m5m03-12-and-24-hour-time-systems-and-solve-practical-problems/index.html",
+      "title": "Year 5 12- & 24-Hour Time | NSW & VIC Curriculum | AC9M5M03",
+      "description": "Convert between Year 5 12-hour and 24-hour times in practical problems. Free examples; NSW and Victorian curriculum links (AC9M5M03). Paid worksheets optional."
+    },
+    {
+      "code": "AC9M5M04",
+      "path": "year5/maths/ac9m5m04-estimate-construct-and-measure-angles-in-degrees-using/index.html",
+      "title": "Year 5 Measuring Angles | NSW & VIC Curriculum | AC9M5M04",
+      "description": "Estimate, measure and construct Year 5 angles with a protractor. Free examples; NSW and Victorian curriculum links (AC9M5M04). Paid worksheets optional."
+    },
+    {
+      "code": "AC9E1LA06",
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "title": "Year 1 Simple Sentences | NSW & VIC Curriculum | AC9E1LA06",
+      "description": "Explore Year 1 simple sentences and independent clauses. Free examples; NSW and Victorian curriculum links (AC9E1LA06). Paid worksheets optional."
+    },
+    {
+      "code": "AC9E1LA07",
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "title": "Year 1 Nouns, Verbs & Adjectives | NSW & VIC Curriculum | AC9E1LA07",
+      "description": "Explore how Year 1 nouns, verbs and adjectives represent meaning. Free examples; NSW and Victorian curriculum links (AC9E1LA07). Paid worksheets optional."
+    },
+    {
+      "code": "AC9S1U01",
+      "path": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+      "title": "Year 1 Plant & Animal Needs | NSW & VIC Curriculum | AC9S1U01",
+      "description": "Explore Year 1 plant and animal needs and their habitats. Free examples; NSW and Victorian curriculum links (AC9S1U01). Paid worksheets optional."
+    },
+    {
+      "code": "AC9S1U02",
+      "path": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+      "title": "Year 1 Daily & Seasonal Changes | NSW & VIC Curriculum | AC9S1U02",
+      "description": "Observe Year 1 daily and seasonal changes in the environment. Free examples; NSW and Victorian curriculum links (AC9S1U02). Paid worksheets optional."
+    },
+    {
+      "code": "AC9S1U03",
+      "path": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+      "title": "Year 1 Pushes & Pulls | NSW & VIC Curriculum | AC9S1U03",
+      "description": "Explore how Year 1 pushes and pulls change an object's movement. Free examples; NSW and Victorian curriculum links (AC9S1U03). Paid worksheets optional."
+    }
+  ]
+}

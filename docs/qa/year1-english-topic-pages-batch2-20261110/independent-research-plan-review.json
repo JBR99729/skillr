@@ -1,0 +1,181 @@
+{
+  "reviewer": "/root/year1_english_batch2_review",
+  "reviewer_type": "Independent AI researcher/reviewer, separate from author; not human teacher or pupil validation",
+  "date": "2026-11-10 Australia/Sydney",
+  "status": "PASS research and current public Topic Guide plan; final authored/rendered gates remain",
+  "baseline": "309dfaed2ade55de7e45dbd2f98ff37e6a6a3b85",
+  "research_commit": "ca38efffad0b478c8730c982387890d5895f658d",
+  "plan_sha256": "aab98475bce5f3553f6cb8f7e9cc01ed547fb46cfe181ecd3f8fa75ef540bd81",
+  "retained_plan_sha256": "eb3b5b830e3a4b11ee74a5066a09f239adba6a9530a6be06348f47f61b4cc523",
+  "units_sha256": "27b36e7421cf6383db833f025cba2be00677261a7a515498f4e719753a41fd42",
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395",
+    "independently_recomputed_sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395",
+    "actual_reference_source_inspected": true
+  },
+  "identity_checks": "All41actualfiles/currentmetadata and31accepted dependency triples independently recomputed; details in independent-research-input-identities.json.",
+  "official_scope_reopen": {
+    "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr1_as_cd_alignment.pdf",
+    "actual": "Reopened complete3page QCAA PDF10Nov; all10target descriptors match. Exact elaborations compared with current catalogue and accepted saved official-source observations; no new claim of directly opening every dynamic elaboration page."
+  },
+  "retention": {
+    "selected_sections": 121,
+    "finding": "All121selected sections resolve to existing baseline teaching. Each code preserves existing deeper curriculum breadth; LY04 has6teaching strands inside one retained section and LY05 has5strategies. Legacy outer resource/metadata wrappers are deliberately removed, with actual vocabulary/models/products preserved separately."
+  },
+  "codes": [
+    {
+      "code": "AC9E1LE01",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Connect actual word/image clues",
+        "Explain character and setting choices",
+        "Compare actual attributed literature"
+      ],
+      "retained_sections": 9,
+      "inspected_source_basis": "Actual saved IXL character/prediction/order states, full supporting Khan2:41 transcript observations, Magabala publisher notes and later1November required-authentic-reading guide. Read all three named book protocols and six teaching explanations.",
+      "checked_teaching_and_boundary": "Connect actual word/image contribution, supported character/setting/event clues, and three-context attributed literature discussion. Original scenes supplementary; require actual lawful spreads and publisher/cultural guidance; no creator-name substitute or generic cultural symbols."
+    },
+    {
+      "code": "AC9E1LE02",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Anchor a personal response in text",
+        "Explain a safe own-experience connection",
+        "Exchange different supported responses"
+      ],
+      "retained_sections": 9,
+      "inspected_source_basis": "RWT making-connections think-aloud/relevant versus surface connections, think-pair-share and ABC complete narrative transcript methods; no direct IXL connection/discussion claim.",
+      "checked_teaching_and_boundary": "Text anchor plus voluntary safe own-experience connection, supported different responses, actual partner exchange; preserve narrator/speaker distinction. Repeat Nia and poem in sections needing them; imagined alternative supports participation without claiming own experience."
+    },
+    {
+      "code": "AC9E1LE03",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Separate character/setting/events",
+        "Connect a problem with its solution",
+        "Compare story features and realistic/imagined settings"
+      ],
+      "retained_sections": 16,
+      "inspected_source_basis": "Actual initial IXL picture-gist/action-dialogue/sequence examples, ABC whole narrative/story-map/new-ending transcript, RWT organiser/partner routines, ArtsNOW shared-story drama. Later10October whole-text refinement read.",
+      "checked_teaching_and_boundary": "Who/where-when/events, dependency-based plot order, goal-obstacle-solution and no-stated-problem contrast, supported character inference and cross-form/real-imagined setting comparison. Formal plot taxonomy not compulsory child language."
+    },
+    {
+      "code": "AC9E1LE04",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Hear and distinguish sound patterns",
+        "Imitate with deliberate delivery",
+        "Invent and discuss meaningful new patterns"
+      ],
+      "retained_sections": 17,
+      "inspected_source_basis": "Four IXL rhyme methods and actual initial tasks, ABC Year1 alliteration transcript, Victorian sound/shared-reading/generation guidance, ABC/PETAA effect explanation adapted from older teacher background. Later10October scene correction read.",
+      "checked_teaching_and_boundary": "Sound-first alliteration/rhyme; actual adult echo/short original tune, meaningful invention, delivery choice and discussion. Preserve actual authorised cultural performances and haiku context; original neutral verse does not replace these, and written recognition is not listening/singing evidence."
+    },
+    {
+      "code": "AC9E1LE05",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Retell a familiar complete story",
+        "Use story language and a clear order",
+        "Adapt deliberately and keep the links coherent"
+      ],
+      "retained_sections": 14,
+      "inspected_source_basis": "ABC complete narrative/new-ending transcript plus IXL sequence support, RWT story map/partner exchange and ArtsNOW character-movement/alternative-ending routine. Later frozen-workbook corrections read as historical evidence, not new product QA.",
+      "checked_teaching_and_boundary": "Make whole original story familiar, retain meaningful events and speech, explain an intentional coherent change, then actually retell/adapt through accessible communication. Do not score handwriting/accent or claim selected choice establishes performance."
+    },
+    {
+      "code": "AC9E1LY01",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Identify the message job using content",
+        "Explain useful structure/features",
+        "Compare evidence and choose a text for a task"
+      ],
+      "retained_sections": 14,
+      "inspected_source_basis": "ABC narrative/procedure transcripts; RWT report, invitation/audience and short persuasion actual teaching sessions. Source limitations distinguish headings/catalogue from actual inspected methods.",
+      "checked_teaching_and_boundary": "Complete same-topic text pairs; materials and ordered actions; request/reason and invitation details; whole-message evidence rather than one-feature rules; mixed purposes allowed."
+    },
+    {
+      "code": "AC9E1LY02",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Take an accessible fair turn and listen",
+        "Make clear messages and relevant replies",
+        "Ask useful follow-ups and include participants"
+      ],
+      "retained_sections": 14,
+      "inspected_source_basis": "Victorian conversation and barrier-game preparation/role/clarification/assessment model; teacher-talk expansions; NSW adjustments and ABC inclusive interaction guidance. Source registers explicitly record no direct IXL/Khan match.",
+      "checked_teaching_and_boundary": "Actual exchange, turn repair, clear instructions/restatement, contingent follow-up, fair invitation and checked group plan. Permit sign/AAC/choice-to-pass; no forced gaze, stillness, speech or accent imitation."
+    },
+    {
+      "code": "AC9E1LY03",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Identify three text purposes from whole messages",
+        "Compare supported similarities/differences",
+        "Choose and justify a text while allowing mixed purpose"
+      ],
+      "retained_sections": 14,
+      "inspected_source_basis": "Actual limited IXL plausibility example; RWT conceptual fiction/nonfiction text sets and K2 persuasion sessions; ABC older text-detective transcript as teacher background. Later topic refinement distinguishes realistic invented story from factual text.",
+      "checked_teaching_and_boundary": "Whole messages for three purposes; meaningful same-topic comparisons; information can support persuasion; possible events/photos/headings alone do not classify purpose. Supply actual repeated matching image in each compared card for focus5."
+    },
+    {
+      "code": "AC9E1LY04",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Use taught letter-sound knowledge to decode",
+        "Read meaningful phrases and monitor printed meaning",
+        "Self-correct/ask for help and reread suitable texts"
+      ],
+      "retained_sections": 8,
+      "inspected_source_basis": "Saved actual phonic/phrase/dialogue/repeated-reading source ledger and later metadata corrections, Khan phonics/fluency explanations, NSW explicit phonics/fluency routines. Inaccessible native-app books and unplayed audio excluded.",
+      "checked_teaching_and_boundary": "Taught letter-sound decoding first, whole-word checks, grammatical/context meaning monitoring, phrasing and accurate rereading; supported authentic notice separate from independently decodable text. High-frequency word analysis and asking for help retained; no speed/mastery claim."
+    },
+    {
+      "code": "AC9E1LY05",
+      "status": "SUFFICIENT source basis / PASS current public-page teaching handoff",
+      "entry_focuses": [
+        "Visualise/predict and check actual clues",
+        "Connect/infer with vocabulary and uncertainty",
+        "Summarise/question using stated/inferred/missing evidence"
+      ],
+      "retained_sections": 6,
+      "inspected_source_basis": "Actual75selected plus1supplement source/teaching map; IXL supported prediction/gist/context example, constructive visualisation, complete reading questions, vocabulary and literal/inferred/notgiven boundaries; unseen Khan stories excluded. Later source/mapping/image refinements read.",
+      "checked_teaching_and_boundary": "Actual images and complete short passages with prediction then later revealed continuation; meaningful connections, evidence-based uncertain inference, topic vocabulary, summaries and questioning. Include actual adult-spoken informative detail; do not score art quality/private disclosure."
+    }
+  ],
+  "confirmed_stimulus_findings_and_planned_repairs": [
+    {
+      "code": "AC9E1LE02",
+      "finding": "Focus6usesrainpoemfromseparatecollapsedfocus;focus2/3refertomini-story.",
+      "accepted_plan": "Repeat complete4linepoem and3sentenceNia text whereverneeded."
+    },
+    {
+      "code": "AC9E1LE04",
+      "finding": "Focus6refers to separately collapsed focus4chant/focus5tune.",
+      "accepted_plan": "Repeat complete original refrain and adult six-note model protocol beside task."
+    },
+    {
+      "code": "AC9E1LY03",
+      "finding": "Focus5claims2cardswithsamegardenpicturebutnoactualpictureinthatsection.",
+      "accepted_plan": "Supply exact same existing plant/garden illustration beside both complete A/Bmessages with accurate image-specific captions/alt."
+    },
+    {
+      "code": "AC9E1LE01",
+      "finding": "Generic adult-book guidance can be strengthened from later accepted named authentic-book programme.",
+      "accepted_plan": "Add lawful supplied LittleBirdsDay/TimeforBed/DearZoo word-image discussion and evidence-limited comparison."
+    }
+  ],
+  "release_conditions": [
+    "Author and independently recheck all new teaching and any retained edits; plan acceptance is not final-content acceptance.",
+    "Inspect all actual teaching models and responsive page captures, not only file/geometry manifests.",
+    "Retain complete actual stimuli in the same openable section; real books/materials/performance require explicit adult preparation.",
+    "Check exact same-code resources and availability-aware app links; do not rebuild/certify linked products or app banks."
+  ],
+  "limits": [
+    "Read codeQAdecisions and relevant actual source/method/teaching portions and late corrections; not an exhaustive independent re-solve of every historical app/workbook item in1.8MB saved bundle.",
+    "No fresh IXL/audio/video-performance/pupil observations. Saved limited previews/actual task methods are reused without count inflation.",
+    "These public unscored teaching guides are not a scored bank; no claim of six-pass blind scored-bank solve, DEV smoke, human approval or whole-subject badge."
+  ]
+}

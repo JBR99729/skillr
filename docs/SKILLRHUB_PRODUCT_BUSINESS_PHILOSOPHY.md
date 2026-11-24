@@ -288,3 +288,25 @@ Progress summaries support homeschool reporting to education departments and par
 ## 15. Bounded US resource discovery — 23 October 2026
 
 The owner explicitly promoted a US resources section within the existing SkillrHub website into active scope. Preserve Australia-first positioning, one brand and the existing TPT checkout. Provide a useful, indexable US landing page and additional catalogue filter. Distinguish US-labelled samples from Australian supplementary packs; do not claim complete US/Common Core coverage or a finished US question bank. Explain the organized workbook/visual-slide sequence and time-saving value for teachers, parents, tutors and homeschoolers. State that digital learning is currently free and the question bank is still developing; do not invent a release date or future pricing.
+
+
+## 16. Worksheet access and SEO copy — 15 November 2026
+
+Owner clarification: printable worksheets are paid packs; online practice is a separate pathway. Do not promote free website worksheet PDFs or an app worksheet generator. Public titles, descriptions, social previews, structured data and calls to action must match this model. Use “paid worksheets” in resource labels. Preserve existing URLs and canonical tags during this correction. Withdrawn free worksheet/PDF entry pages and their obsolete standalone quick check remain accessible for old bookmarks, but must be noindex and excluded from search inventories. Keep active topic guides and paid product pages indexable.
+
+Link a curriculum code only to an available matching printable product in the current catalogue. If none is listed, use the general paid-printable catalogue without claiming a matching pack exists. Keep actual product prices, contents and genuine separately listed TpT samples unchanged. Online practice access follows the current app and verified bank availability.
+
+After using an older public-page generator, run `python scripts/normalize_resource_messaging.py` and `python scripts/normalize_resource_messaging.py --check`. Do not restore free worksheet/PDF promises in regenerated pages.
+
+The owner further clarified the three existing public offerings: detailed topic explanations with examples, paid printable worksheets, and free online practice in the web app. SEO maintenance must describe and connect these existing offerings. Do not duplicate lesson content or add free worksheet previews as part of this copy correction.
+
+
+## 17. Genuine free TpT resource discovery — 16 November 2026
+
+The owner authorised using the complete verified collection of genuinely free TpT resources to increase useful public resource value. Present these as a distinct, year-and-subject directory on the existing worksheet hub, with exact TpT listing links and matching learning guides where available. Separate printable worksheet resources from teaching-slide and reading PowerPoint resources, and distinguish Australian and US resources. Verify the full live Free-filter inventory before changing the collection; do not rely on stale catalogue free flags. TpT download requirements must be clear. Paid complete packs remain separately purchased, and withdrawn website PDF/player routes remain noindex. Keep llms.txt, llms-full.txt and ai-index.json aligned with the current verified collection.
+
+## 18. TpT catalogue prices and curriculum metadata — 24 November 2026
+
+The owner requires SkillrHub to show no numerical TpT prices or savings. Use a direct **View price on TpT** link; TpT is the source for the current price. Keep genuine free samples labelled separately. Omit numerical prices from current public catalogue data and structured data as well as visible product and resource-directory pages. Use LearningResource metadata for teaching resources without publishing incomplete Product offers. Preserve historical evidence and existing routes.
+
+Use natural, specific long-tail phrases in product titles and descriptions, grounded in the actual listing: year/grade, topic, resource type and verified curriculum identifier. US products use US grade labels and verified US/Common Core references; Australian products use Australian year labels and verified Australian Curriculum references. Do not invent cross-curriculum equivalence or publish meta-keywords tags as a Google SEO measure.

@@ -1,0 +1,67 @@
+{
+  "before_full_keys": true,
+  "reviewer": "/root/y3_content_review",
+  "extras_pack_sha256": "4da1c6912dbf662e7aca6d6731d2b7d3e7e7d41b2835b3be2e3d6f2a3a83a4d4",
+  "diagram_identities": [
+    {
+      "name": "MEETING",
+      "source_svg_sha256": "66d9f33c1e41fefe6a819780f7196c292ca9f87938ba32941def55ffda65a1c4",
+      "png_sha256": "950a9e3d1d5ebb7c76453de8cb46d8b59985d902869cd3d258c30c937eb8d6b2",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    },
+    {
+      "name": "GATE_MODEL",
+      "source_svg_sha256": "a5e70b38b48627207fd4e5b6f4089a0b43f17b936172eb8393309f5d4ab05fcc",
+      "png_sha256": "3b3e76e1d149b27704c0a07fd3c5eca7d65015814c697155360c77725930d302",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    },
+    {
+      "name": "GATE_TRY",
+      "source_svg_sha256": "a1b90bdcda912bb997b9fee72a77e153b8d7a618e762ed0263c3f286dc10206a",
+      "png_sha256": "f4732d8d078b67891548c5358c44ec96967a1adeaecb6ac124d4a463070dcd7c",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    },
+    {
+      "name": "VIEWER",
+      "source_svg_sha256": "4ab2d592cb95c8948006eec98aeb67c53cacf74748bd95982c92c125ebb86bd9",
+      "png_sha256": "0f572d762ad345f467b8c8df66fe7a59ad7dcca2b8961d116cfff6e67fce2e20",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    },
+    {
+      "name": "LIBRARY_TRY",
+      "source_svg_sha256": "141c8fb6693240c3bfa7a4496fa36e66ce006f88c24079da7c90cfb5a841bec9",
+      "png_sha256": "d64695ca56529c2ab5851baf3253c0f519b81eb7db85bf2925f2a853f693de16",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    },
+    {
+      "name": "ARRIVAL",
+      "source_svg_sha256": "6f8d4a508599eefa59198173824e185661ed8c333d0730d246c5609e9c9b251b",
+      "png_sha256": "4e6190ab7a16ae4e75e15d4917912c25e5a2354362764533200f658086c6d381",
+      "renderer": "Inkscape CLI, 1080px width; served-browser layout review pending"
+    }
+  ],
+  "solutions": {
+    "LA06-card1": "The small rabbit / is; quiet description.",
+    "LA06-card2": "The rabbits beside the pond / are; rabbits head plural.",
+    "LA06-card3": "The basket of leaves / rests (repair rest); basket singular.",
+    "LA06-card4": "Mina and Jo / carry (repair carries); two people.",
+    "LA06-card5": "the wind / blew; the children / were reading; whole group includes were.",
+    "LA06-join": "While the dog slept, the children painted. Also While the children painted, the dog slept. Accept trailing while-clause order without forcing same punctuation. While part needs companion message.",
+    "LA06-freshcheck": "the bell / rang; the children / were packing (repair was); The bag of books / rests (repair rest). Children past plural; bag singular present.",
+    "LA07-story": "opened doing; said saying; remembered thinking; loved feeling; had relating possession. Is in Here it is relates present location/existence. Meanings given by whole context.",
+    "LA07-freshcheck": "carried doing; said saying; remembered thinking; disliked feeling; had relating feature; is in It is heavy also relating description. Accept either valid relating choice with explanation.",
+    "LA08-cards": "1 waters (present habit Jo);2 watered,went (past);3 water after will;4 carry->carried; made/put already valid past. Original message criteria retained.",
+    "LA08-freshcheck": "Jo carried it home. Will play whole future group; future plan intentionally follows past caught/carried.",
+    "LA09-guided1-pixels": "GATE_TRY two similarly sized people widely separated, facing opposite outside directions, folded arms, straight mouths. These can suggest distance or unwillingness to interact, but could be separate waiting; no proven quarrel. Caption alone only says waited.",
+    "LA09-guided2-pixels": "Left close view foregrounds smiling face and eyes towards viewer; right wide view shows shelves and open floor around small profile May. Both show waiting/choosing-caption context without mandatory reader emotion.",
+    "LA09-guided3-pixels": "They arrived from text; actual ARRIVAL pixels show brown patches on both figures and map split with jagged edges. Mud interpretation supported by supplied neutral labels; exact muddy-event cause unknown, creek fall not established.",
+    "LA09-visual-creation": "Require drawn far-separated offering pair and close pair both reaching, then a supported possible relationship comparison (offering/helping/sharing versus shared interest/cooperation). Caption names friends, so do not claim friendship uncertain there; identities/history/box contents remain unknown.",
+    "LA09-model-pixels": "MEETING facing smiling similar-size figures reach shared box, supports cooperation. GATE_MODEL relative size and explicit dotted gaze line connect larger looking down/smaller looking up; extended arm points, possible authority without cruelty. VIEWER face large direct gaze vs small profile turned to right/away in open space. Actual diagrams inspected individually at rendered PNG scale; source-specific content consistent.",
+    "LA10-card1": "Card length 9 centimetres; strip width 3 millimetres. Width 4 centimetres is optional extra correct fact, not substituted for asked strip width.",
+    "LA10-card2": "Characters Dot/duck and frog; setting noon beside pond; plot Dot loses feather, frog finds, Dot places in nest. Accept connected subset if prompt allows summary.",
+    "LA10-card3": "Light feather could mean not heavy OR pale in colour; bird/feather alone does not distinguish senses. Second light = illumination supported by see. FIRST SENSE AMBIGUOUS: accept both supported possibilities or clarify low weight via lifting/weighing clue.",
+    "LA10-card4": "Redraw = draw again, re- again; helpful clue sentence expresses useful aid. This specific replacement is already visible in prompt, a supported demonstration not blind scored answer.",
+    "LA10-freshcheck": "Label 7 centimetres long; setting at night in tent; plot losing torch/finding in bag. Bright torch=strong light, clue lit tent; bright idea=clever/good idea, context idea. Rewrite replaces write again using re-."
+  },
+  "limitations": "Visible teaching examples and inline answers in this answer-disclosure-redacted pack were checked, not claimed blind. Hidden Check answers not read."
+}

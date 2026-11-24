@@ -1,0 +1,148 @@
+#!/usr/bin/env python3
+"""Describe existing free topic examples/practice; preserve access and authored lessons."""
+import html
+import json
+import re
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+STATE_TOPIC_SEO = {
+    page['code']: page
+    for page in json.loads((ROOT / 'data/state-topic-seo-20261123.json').read_text())['pages']
+}
+CCSS_EXPERIMENT = json.loads((ROOT / 'data/us-ccss-experiment-20261123.json').read_text())
+CCSS_TREATMENTS = {page['code']: page for page in CCSS_EXPERIMENT['treatments']}
+EXACT_CURRICULUM_HEADINGS = {
+    page['code']: page
+    for page in json.loads((ROOT / 'data/exact-curriculum-headings-20261123.json').read_text())['pages']
+}
+
+# Page-specific copy reviewed against Bing's reported >70-character title warning.
+# Preserve unrelated topic titles during this focused maintenance change.
+REVIEWED_TITLES = {
+    'AC9E4LA10': 'Year 4 Framing, Placement & Salience | Free Examples | AC9E4LA10',
+    'AC9E6LA06': 'Year 6 Verbs & Adverb Groups | Free Examples & Practice | AC9E6LA06',
+    'AC9M1N03': 'Year 1 Skip Counting in Twos | Free Sample & Practice | AC9M1N03',
+    'AC9M1N06': 'Year 1 Equal Sharing & Grouping | Free Sample & Practice | AC9M1N06',
+    'AC9M1SP02': 'Year 1 Position & Direction | Free Sample & Practice | AC9M1SP02',
+    'AC9M2N02': 'Year 2 Partitioning & Place Value | Free Sample & Practice | AC9M2N02',
+    'AC9M2SP02': 'Year 2 Maps & Plans | Free Sample & Practice | AC9M2SP02',
+    'AC9M3M03': 'Year 3 Units of Time and Duration | SkillrHub',
+    'AC9M3M04': 'Year 3 Telling Time to the Nearest Minute | SkillrHub',
+    'AC9M4N02': 'Year 4 Odd and Even Numbers | SkillrHub',
+    'AC9M5A01': 'Year 5 Multiplication & Division Fact Families | SkillrHub',
+    'AC9M5N07': 'Year 5 Division & Remainders | Practice & Worksheets | AC9M5N07',
+}
+
+REVIEWED_DESCRIPTIONS = {
+    'AC9M1N03': 'Learn Year 1 counting in twos with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M1N06': 'Learn Year 1 equal sharing and grouping with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M1SP02': 'Learn Year 1 position and direction with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M2N02': 'Learn Year 2 partitioning and place value with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M2SP02': 'Learn Year 2 maps and plans with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M3M03': 'Year 3 units of time and duration: convert seconds, minutes and hours, estimate everyday activities and compare times with worked examples | AC9M3M03.',
+    'AC9M3M04': 'Year 3 telling time to the nearest minute: read analogue clock hands, count minute marks and practise digital times. Free lesson and practice | AC9M3M04.',
+    'AC9M4N02': 'Year 4 odd and even numbers: explain parity with pairs, predict odd/even results for addition and multiplication, and practise patterns | AC9M4N02.',
+    'AC9M5A01': 'Learn Year 5 multiplication and division fact families with worked examples and online practice. Explore optional paid worksheets and a free TpT sample.',
+    'AC9M5N07': 'Learn Year 5 division and remainders with worked examples and online practice. Explore optional paid worksheets, teaching slides and a bundle.',
+}
+
+
+def copy_for(source, unit, sample=False):
+    exact = EXACT_CURRICULUM_HEADINGS.get(unit['code'])
+    if exact:
+        assert exact['path'] == unit['url'].strip('/') + '/index.html', unit['code']
+        return exact['title'], exact['description']
+    # Preserve the owner's bounded NSW/Victoria search update during sample
+    # maintenance. These are curriculum references, not outcome-equivalence claims.
+    regional = STATE_TOPIC_SEO.get(unit['code'])
+    if regional:
+        assert regional['path'] == unit['url'].strip('/') + '/index.html', unit['code']
+        if CCSS_EXPERIMENT['status'] == 'active' and unit['code'] in CCSS_TREATMENTS:
+            treatment = CCSS_TREATMENTS[unit['code']]
+            assert treatment['path'] == regional['path'], unit['code']
+            return regional['title'], treatment['description']
+        return regional['title'], regional['description']
+    old = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
+    core = re.split(r'\s+\|\s+', old)[0]
+    suffix = 'Free Examples, Practice & Sample Worksheet' if sample else 'Free Examples & Practice'
+    title = REVIEWED_TITLES.get(unit['code'], core + ' | ' + suffix + ' | ' + unit['code'])
+    topic = html.unescape(re.sub('<[^>]+>', '', re.search(r'<h1[^>]*>(.*?)</h1>', source, re.S)[1]))
+    year = unit['levelLabel']
+    subject = {'maths': 'Maths', 'english': 'English', 'science': 'Science'}[unit['subjectSlug']]
+    description = f"Free examples and practice for {year} {subject}: {topic} ({unit['code']})."
+    description += ' Free sample worksheet on TpT; account needed to download. Complete paid packs are optional.' if sample else ' Read the topic guide, try learning activities and explore available online practice. Paid worksheet packs are optional.'
+    return title, REVIEWED_DESCRIPTIONS.get(unit['code'], description)
+
+
+def metadata(source, unit, sample=False):
+    old_title = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
+    title, description = copy_for(source, unit, sample)
+    source = re.sub(r'<title>.*?</title>', lambda _: '<title>' + html.escape(title) + '</title>', source, count=1, flags=re.S)
+    def meta(m):
+        tag = m[0]
+        key = re.search(r'(?:name|property)=[\"\']([^\"\']+)', tag, re.I)
+        if key and key[1] in ('description', 'og:description', 'twitter:description', 'og:title', 'twitter:title'):
+            value = title if key[1].endswith(':title') else description
+            tag = re.sub(r'content=([\"\']).*?\1', lambda _: 'content="' + html.escape(value, quote=True) + '"', tag, flags=re.S)
+        return tag
+    source = re.sub(r'<meta\b[^>]*>', meta, source, flags=re.I)
+    canonical = 'https://skillrhub.com' + unit['url']
+    def schema(m):
+        obj = json.loads(m[2]); original = json.dumps(obj, sort_keys=True)
+        def visit(value):
+            if isinstance(value, list):
+                for x in value: visit(x)
+            elif isinstance(value, dict):
+                if value.get('@type') == 'LearningResource' and value.get('url') == canonical and not str(value.get('@id', '')).endswith('#curriculum-equivalents'):
+                    if 'description' in value: value['description'] = description
+                    if value.get('name') == old_title: value['name'] = title
+                for x in value.values(): visit(x)
+        visit(obj)
+        if json.dumps(obj, sort_keys=True) == original: return m[0]
+        pretty = '\n' in m[2].strip()
+        text = json.dumps(obj, ensure_ascii=False, indent=2 if pretty else None, separators=None if pretty else (',', ':')).replace('</', '<\\/')
+        return m[1] + ('\n' if pretty else '') + text + ('\n' if pretty else '') + m[3]
+    return re.sub(r'(<script\b[^>]*type="application/ld\+json"[^>]*>)([\s\S]*?)(</script>)', schema, source, flags=re.S)
+
+
+def topic_units():
+    for original in json.loads((ROOT / 'data/curriculum-units.json').read_text())['units']:
+        unit = dict(original)
+        source = (ROOT / unit['url'].strip('/') / 'index.html').read_text()
+        canonical = re.search(r'<link[^>]*rel="canonical"[^>]*href="([^"]+)"', source)
+        if canonical and canonical[1].startswith('https://skillrhub.com/'):
+            url = canonical[1].removeprefix('https://skillrhub.com')
+            assert unit['code'].lower() in url.lower(), (unit['code'], url)
+            unit['url'] = url
+        yield unit
+
+
+def main():
+    from apply_free_sample_topic_seo import targets, update
+    from generate_sitemap import page_title, visible_search_text
+    samples = targets(); pages = {}
+    for unit in topic_units():
+        name = unit['url'].strip('/') + '/index.html'; path = ROOT / name
+        before = path.read_text()
+        assert re.search('example|worked|try it', before, re.I), unit['code']
+        after = update(before, unit, samples[unit['code']][1]) if unit['code'] in samples else metadata(before, unit)
+        assert re.findall(r'<meta[^>]*name="robots"[^>]*>', before) == re.findall(r'<meta[^>]*name="robots"[^>]*>', after)
+        assert re.findall(r'<link[^>]*rel="canonical"[^>]*>', before) == re.findall(r'<link[^>]*rel="canonical"[^>]*>', after)
+        if '--check' in sys.argv: assert before == after, unit['code']
+        else: path.write_text(after)
+        pages[unit['url']] = (path, after)
+    if '--check' not in sys.argv:
+        path = ROOT / 'assets/site-search-index.json'; data = json.loads(path.read_text())
+        for item in data['items']:
+            if item.get('e') or item['u'] not in pages: continue
+            page, source = pages[item['u']]
+            item['t'] = page_title(source, page); item['x'] = visible_search_text(source)
+        path.write_text(json.dumps(data, ensure_ascii=False, separators=(',', ':')) + '\n')
+    print(f'{len(pages)} topic pages: free examples/practice; {len(samples)} with verified free sample worksheets')
+
+
+if __name__ == '__main__':
+    main()
+

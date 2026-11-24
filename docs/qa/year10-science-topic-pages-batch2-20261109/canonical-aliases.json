@@ -1,0 +1,56 @@
+[
+  {
+    "code": "AC9S10H04",
+    "preserved_redirect_path": "year10/science/ac9s10h04-examine-how-the-values-and-needs-of-society-influence-the/index.html",
+    "sha256": "120b0b994f58585e51dccbc5b1b6265f031fb3a6e6da52d707d8214e56755ffe",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10h04-society-values-scientific-research-priorities/"
+  },
+  {
+    "code": "AC9S10I01",
+    "preserved_redirect_path": "year10/science/ac9s10i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+    "sha256": "27d95237f9fe40e054143aefef1de9788f54379084a6aaf8bc929aa2997ff187",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i01-investigable-questions-hypotheses-predictions/"
+  },
+  {
+    "code": "AC9S10I02",
+    "preserved_redirect_path": "year10/science/ac9s10i02-plan-and-conduct-valid-reproducible-investigations-to-answer/index.html",
+    "sha256": "447d54377e7a7f164d55d374d073b5b75aa93f8141a32c6c640be49da0dd951b",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i02-valid-reproducible-investigations/"
+  },
+  {
+    "code": "AC9S10I03",
+    "preserved_redirect_path": "year10/science/ac9s10i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+    "sha256": "b14c4b9c1734b5d7e13c8fad825c2c9bf24aedb833f3186b133d040151946098",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i03-precise-replicable-data/"
+  },
+  {
+    "code": "AC9S10I04",
+    "preserved_redirect_path": "year10/science/ac9s10i04-select-and-construct-appropriate-representations-including/index.html",
+    "sha256": "ffbc867b8f4c75928e87ab49bc57cdf192564b5cbf723b009029e3d7a554c3ac",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i04-data-representations-models-statistics/"
+  },
+  {
+    "code": "AC9S10I05",
+    "preserved_redirect_path": "year10/science/ac9s10i05-analyse-and-connect-a-variety-of-data-and-information-to/index.html",
+    "sha256": "1cbacb19268ee903eb4e5f5ed993e92b1d568f7e008592ffd12471c6ac59b9e1",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i05-analyse-patterns-relationships-evidence/"
+  },
+  {
+    "code": "AC9S10I06",
+    "preserved_redirect_path": "year10/science/ac9s10i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/index.html",
+    "sha256": "923c9af051445155047001c454ea4637174468643dd6439586d3685ad7dbb56f",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i06-validity-reproducibility-evidence-quality/"
+  },
+  {
+    "code": "AC9S10I07",
+    "preserved_redirect_path": "year10/science/ac9s10i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/index.html",
+    "sha256": "bc43d8aebe9a12065a4c6fb8fb51f53c0a3074c4ce509572207d3ad5e757ce1f",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i07-evidence-based-scientific-arguments/"
+  },
+  {
+    "code": "AC9S10I08",
+    "preserved_redirect_path": "year10/science/ac9s10i08-and-create-texts-to-communicate-ideas-findings-and-arguments/index.html",
+    "sha256": "5f1d9a960e7ca23d948dcea30ca55b17d875be9f6b6a1587ca1e678e8eb1e539",
+    "canonical": "https://skillrhub.com/year10/science/ac9s10i08-scientific-communication-audience-purpose/"
+  }
+]

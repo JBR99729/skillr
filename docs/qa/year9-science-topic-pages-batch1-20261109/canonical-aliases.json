@@ -1,0 +1,72 @@
+[
+  {
+    "code": "AC9S9U01",
+    "catalogue_url": "/year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/",
+    "canonical_url": "/year9/science/ac9s9u01-body-systems-homeostasis-coordination/",
+    "preserved_redirect_path": "year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/index.html",
+    "sha256": "8de7b6e211c8903dcf4788b606ac46a312a158f081ce96d2bd69385487610ad1"
+  },
+  {
+    "code": "AC9S9U02",
+    "catalogue_url": "/year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/",
+    "canonical_url": "/year9/science/ac9s9u02-reproductive-cells-organs-plants-animals/",
+    "preserved_redirect_path": "year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/index.html",
+    "sha256": "35503579822be206ae9105ea8ca7afa00225b9aa8ae403fcf0a901deaaed375b"
+  },
+  {
+    "code": "AC9S9U03",
+    "catalogue_url": "/year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/",
+    "canonical_url": "/year9/science/ac9s9u03-carbon-cycle-processes-human-impacts/",
+    "preserved_redirect_path": "year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/index.html",
+    "sha256": "deec307e189dbee208cff28100ab1337ad8449315ee375cc7821c69b974be239"
+  },
+  {
+    "code": "AC9S9U04",
+    "catalogue_url": "/year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/",
+    "canonical_url": "/year9/science/ac9s9u04-wave-particle-models-energy-transfer/",
+    "preserved_redirect_path": "year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/index.html",
+    "sha256": "7171c08bca3b1b1fe954b7342691db879ed93844e675adcf7e048404cb71e7fa"
+  },
+  {
+    "code": "AC9S9U05",
+    "catalogue_url": "/year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/",
+    "canonical_url": "/year9/science/ac9s9u05-conservation-energy-systems/",
+    "preserved_redirect_path": "year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/index.html",
+    "sha256": "e5dd02e5869ec122f05719f6cddd46090e1e92c5b25b5920ebee06a863dafb65"
+  },
+  {
+    "code": "AC9S9U06",
+    "catalogue_url": "/year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/",
+    "canonical_url": "/year9/science/ac9s9u06-atomic-model-evidence-history/",
+    "preserved_redirect_path": "year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/index.html",
+    "sha256": "a65383aa1cf76f1f313d395f6e96f75e310302f63e4bfa1922716f947cb0ac8c"
+  },
+  {
+    "code": "AC9S9U07",
+    "catalogue_url": "/year9/science/ac9s9u07-model-the-rearrangement-of-atoms-in-chemical-reactions-using-a/",
+    "canonical_url": "/year9/science/ac9s9u07-atoms-rearrange-chemical-reactions/",
+    "preserved_redirect_path": "year9/science/ac9s9u07-model-the-rearrangement-of-atoms-in-chemical-reactions-using-a/index.html",
+    "sha256": "30033a4417d00d1c9001f6bdb4d9ae4e67e8200e8e2adb7e639b1d49760a11c9"
+  },
+  {
+    "code": "AC9S9H01",
+    "catalogue_url": "/year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/",
+    "canonical_url": "/year9/science/ac9s9h01-scientific-validation-peer-review-evidence/",
+    "preserved_redirect_path": "year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+    "sha256": "30ff6d0e3a50f58706185051684d246255cf80e74ddcf538c3f9ebc6d0c80cd8"
+  },
+  {
+    "code": "AC9S9H02",
+    "catalogue_url": "/year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/",
+    "canonical_url": "/year9/science/ac9s9h02-technology-enables-scientific-advances/",
+    "preserved_redirect_path": "year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+    "sha256": "b0ee108851c61abc80f9f7bcb0c7577f48209bdd3b0d1f7a09f08bd649150334"
+  },
+  {
+    "code": "AC9S9H03",
+    "catalogue_url": "/year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/",
+    "canonical_url": "/year9/science/ac9s9h03-science-adoption-evidence-trust-values/",
+    "preserved_redirect_path": "year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+    "sha256": "1eca369f7ee779b41bc75dc62d5c2144fe17cc3284a52907933493f186de4fa3"
+  }
+]

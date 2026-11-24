@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "scope": "Reviewed public-page title defects, 7 November 2026. Preserve authored lessons, routes and indexing settings.",
+  "pages": [
+    {
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "previousTitle": "Year 3 English: Rainforests | AC9E3LA05",
+      "title": "Year 3 English: Layout and Navigation in Print and Digital Texts | AC9E3LA05",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Rainforests",
+      "topic": "Layout and Navigation in Print and Digital Texts"
+    },
+    {
+      "path": "year3/science/ac9s3i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html",
+      "previousTitle": "Year 3 Science: Which material insulates best? | AC9S3I06",
+      "title": "Year 3 Science: Communicating Scientific Findings and Ideas | AC9S3I06",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Which material insulates best?",
+      "topic": "Communicating Scientific Findings and Ideas"
+    },
+    {
+      "path": "year5/english/ac9e5la02-how-to-move-beyond-making-bare-assertions-by-taking-account/index.html",
+      "previousTitle": "Year 5 English: Evaluative Language and Shades of Meaning | AC9E5LA02",
+      "title": "Year 5 English: Supporting Opinions with Evidence and Other Viewpoints | AC9E5LA02",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Evaluative Language and Shades of Meaning",
+      "topic": "Supporting Opinions with Evidence and Other Viewpoints"
+    },
+    {
+      "path": "year5/english/ac9e5la04-how-texts-can-be-made-cohesive-by-using-the-starting/index.html",
+      "previousTitle": "Year 5 English: Paragraph Cohesion and Reference | AC9E5LA04",
+      "title": "Year 5 English: Sentence Starting Points and Text Cohesion | AC9E5LA04",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Paragraph Cohesion and Reference",
+      "topic": "Sentence Starting Points and Text Cohesion"
+    },
+    {
+      "path": "year5/english/ac9e5la05-that-the-structure-of-a-complex-sentence-includes-a-main/index.html",
+      "previousTitle": "Year 5: Sentence Starting Points and Information Flow | AC9E5LA05",
+      "title": "Year 5 English: Main and Dependent Clauses in Complex Sentences | AC9E5LA05",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Sentence Starting Points and Information Flow",
+      "topic": "Main and Dependent Clauses in Complex Sentences"
+    },
+    {
+      "path": "year5/english/ac9e5la06-how-noun-groups-can-be-expanded-in-a-variety-of/index.html",
+      "previousTitle": "Year 5: Complex Sentences and Logical Relationships | AC9E5LA06",
+      "title": "Year 5 English: Expanding Noun Groups | AC9E5LA06",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Complex Sentences and Logical Relationships",
+      "topic": "Expanding Noun Groups"
+    },
+    {
+      "path": "year5/english/ac9e5la07-explain-how-the-sequence-of-images-in-print-digital-and/index.html",
+      "previousTitle": "Year 5 English: Expanding Noun Groups | AC9E5LA07",
+      "title": "Year 5 English: Image Sequences and Meaning | AC9E5LA07",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Expanding Noun Groups",
+      "topic": "Image Sequences and Meaning"
+    },
+    {
+      "path": "year5/english/ac9e5la08-how-vocabulary-is-used-to-express-greater-precision-of-meaning/index.html",
+      "previousTitle": "Year 5 English: Adverb Groups and Prepositional Phrases | AC9E5LA08",
+      "title": "Year 5 English: Precise Vocabulary and Word Histories | AC9E5LA08",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Adverb Groups and Prepositional Phrases",
+      "topic": "Precise Vocabulary and Word Histories"
+    },
+    {
+      "path": "year5/english/ac9e5la09-commas-to-indicate-prepositional-phrases-and-apostrophes-where/index.html",
+      "previousTitle": "Year 5: Subjective Language, Certainty and Obligation | AC9E5LA09",
+      "title": "Year 5 English: Commas and Apostrophes for Multiple Possession | AC9E5LA09",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Subjective Language, Certainty and Obligation",
+      "topic": "Commas and Apostrophes for Multiple Possession"
+    },
+    {
+      "path": "year5/english/ac9e5le01-aspects-of-literary-texts-that-represent-details-or-information/index.html",
+      "previousTitle": "Year 5 English: Literary Enjoyment and Preferences | AC9E5LE01",
+      "title": "Year 5 English: Historical, Social and Cultural Contexts in Literature | AC9E5LE01",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Literary Enjoyment and Preferences",
+      "topic": "Historical, Social and Cultural Contexts in Literature"
+    },
+    {
+      "path": "year5/english/ac9e5le02-present-an-opinion-on-a-literary-text-using-specific-terms/index.html",
+      "previousTitle": "Year 5 English: Sound, Imagery and Visual Features | AC9E5LE02",
+      "title": "Year 5 English: Opinions and Viewpoints about Literary Texts | AC9E5LE02",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Sound, Imagery and Visual Features",
+      "topic": "Opinions and Viewpoints about Literary Texts"
+    },
+    {
+      "path": "year5/english/ac9e5le03-that-the-point-of-view-in-a-literary-text-influences/index.html",
+      "previousTitle": "Year 5: Representation of Characters, Settings and Events | AC9E5LE03",
+      "title": "Year 5 English: Point of View in Literary Texts | AC9E5LE03",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Representation of Characters, Settings and Events",
+      "topic": "Point of View in Literary Texts"
+    },
+    {
+      "path": "year5/english/ac9e5le05-and-edit-literary-texts-experimenting-with-figurative-language/index.html",
+      "previousTitle": "Year 5: Experimenting with Literary Text Structures | AC9E5LE05",
+      "title": "Year 5 English: Creating Literary Texts with Figurative Language | AC9E5LE05",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Experimenting with Literary Text Structures",
+      "topic": "Creating Literary Texts with Figurative Language"
+    },
+    {
+      "path": "year5/english/ac9e5ly01-the-ways-in-which-a-text-reflects-the-time-and/index.html",
+      "previousTitle": "Year 5 English: How Text Features Shape Meaning | AC9E5LY01",
+      "title": "Year 5 English: How Texts Reflect Time and Place | AC9E5LY01",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "How Text Features Shape Meaning",
+      "topic": "How Texts Reflect Time and Place"
+    },
+    {
+      "path": "year5/english/ac9e5ly08-phonic-morphemic-and-vocabulary-knowledge-to-read-and-spell/index.html",
+      "previousTitle": "Year 5 English: Fluent Joined Handwriting | AC9E5LY08",
+      "title": "Year 5 English: Letter Patterns with Different Pronunciations | AC9E5LY08",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Fluent Joined Handwriting",
+      "topic": "Letter Patterns with Different Pronunciations"
+    },
+    {
+      "path": "year5/english/ac9e5ly10-less-common-plurals-and-understand-how-a-suffix-changes-the/index.html",
+      "previousTitle": "Year 5 English: Word Origins, Morphology and Spelling | AC9E5LY10",
+      "title": "Year 5 English: Less Common Plurals and Suffixes | AC9E5LY10",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Word Origins, Morphology and Spelling",
+      "topic": "Less Common Plurals and Suffixes"
+    },
+    {
+      "path": "year5/maths/ac9m5sp02-construct-a-grid-coordinate-system-that-uses-coordinates-to/index.html",
+      "previousTitle": "Year 5 Maths: Transformations of Shapes | AC9M5SP02",
+      "title": "Year 5 Maths: Grid Coordinates and Movement | AC9M5SP02",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Transformations of Shapes",
+      "topic": "Grid Coordinates and Movement"
+    },
+    {
+      "path": "year5/maths/ac9m5sp03-and-perform-translations-reflections-and-rotations-of-shapes/index.html",
+      "previousTitle": "Year 5 Maths: Grid Coordinates and Movement | AC9M5SP03",
+      "title": "Year 5 Maths: Translations, Reflections and Rotations | AC9M5SP03",
+      "reason": "Title described a different curriculum skill",
+      "previousTopic": "Grid Coordinates and Movement",
+      "topic": "Translations, Reflections and Rotations"
+    },
+    {
+      "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+      "previousTitle": "Numbers to 120 | AC9M1N01 | Related CCSS 1.NBT.A.1",
+      "title": "Year 1 Numbers to 120 | AC9M1N01",
+      "reason": "Remove secondary mapping clutter and add year"
+    },
+    {
+      "path": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+      "previousTitle": "Tens and ones | AC9M1N02 | Related CCSS 1.NBT.B.2",
+      "title": "Year 1 Partitioning Tens and Ones | AC9M1N02",
+      "reason": "Remove secondary mapping clutter and add year"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfa01/worksheet/index.html",
+      "previousTitle": "AC9MFA01 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Repeating Patterns Worksheet | AC9MFA01",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfm01/worksheet/index.html",
+      "previousTitle": "AC9MFM01 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Comparing Length, Mass, Capacity and Duration Worksheet | AC9MFM01",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfm02/worksheet/index.html",
+      "previousTitle": "AC9MFM02 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Days and Times of Day Worksheet | AC9MFM02",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn01/worksheet/index.html",
+      "previousTitle": "AC9MFN01 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Numbers to 20 Worksheet | AC9MFN01",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn02/worksheet/index.html",
+      "previousTitle": "AC9MFN02 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Subitising to 5 Worksheet | AC9MFN02",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn03/worksheet/index.html",
+      "previousTitle": "AC9MFN03 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Counting and Comparing Collections Worksheet | AC9MFN03",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn04/worksheet/index.html",
+      "previousTitle": "AC9MFN04 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Parts and Wholes to 10 Worksheet | AC9MFN04",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn05/worksheet/index.html",
+      "previousTitle": "AC9MFN05 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Joining and Taking Away Worksheet | AC9MFN05",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfn06/worksheet/index.html",
+      "previousTitle": "AC9MFN06 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Equal Sharing and Grouping Worksheet | AC9MFN06",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfsp01/worksheet/index.html",
+      "previousTitle": "AC9MFSP01 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Familiar Shapes Worksheet | AC9MFSP01",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfsp02/worksheet/index.html",
+      "previousTitle": "AC9MFSP02 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Position and Location Worksheet | AC9MFSP02",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/math/ac9mfst01/worksheet/index.html",
+      "previousTitle": "AC9MFST01 Foundation Maths Worksheet | SkillrHub",
+      "title": "Foundation Collecting, Sorting and Comparing Data Worksheet | AC9MFST01",
+      "reason": "Generic title omitted the skill"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efla02/worksheet/index.html",
+      "previousTitle": "AC9EFLA02 language for preferences, likes… Topic Practice Sheets",
+      "title": "Foundation Likes, Dislikes and Preferences Practice Sheets | AC9EFLA02",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efla06/worksheet/index.html",
+      "previousTitle": "AC9EFLA06 word groups make meaning in sentences… Topic Practice Sheets",
+      "title": "Foundation Word Groups in Sentences Practice Sheets | AC9EFLA06",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efle04/worksheet/index.html",
+      "previousTitle": "AC9EFLE04 rhythms and sound patterns… Topic Practice Sheets",
+      "title": "Foundation Rhythms and Sound Patterns Practice Sheets | AC9EFLE04",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efle05/worksheet/index.html",
+      "previousTitle": "AC9EFLE05 retell and adapt familiar literary… Topic Practice Sheets",
+      "title": "Foundation Retelling and Adapting Stories Practice Sheets | AC9EFLE05",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efly04/worksheet/index.html",
+      "previousTitle": "AC9EFLY04 reading decodable and authentic texts… Topic Practice Sheets",
+      "title": "Foundation Decodable Text Reading Practice Sheets | AC9EFLY04",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efly06/worksheet/index.html",
+      "previousTitle": "AC9EFLY06 shared editing of short written texts… Topic Practice Sheets",
+      "title": "Foundation Shared Writing and Editing Practice Sheets | AC9EFLY06",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efly09/worksheet/index.html",
+      "previousTitle": "AC9EFLY09 rhyme, alliteration, syllables… Topic Practice Sheets",
+      "title": "Foundation Rhyme, Alliteration and Syllables Practice Sheets | AC9EFLY09",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "quiz/grade-k/english/ac9efly10/worksheet/index.html",
+      "previousTitle": "AC9EFLY10 words in sentences and sounds… Topic Practice Sheets",
+      "title": "Foundation Blending and Segmenting Sounds Practice Sheets | AC9EFLY10",
+      "reason": "Replace truncated title with a complete skill label"
+    },
+    {
+      "path": "blogs/foundation-english-curriculum-australia-guide.html",
+      "previousTitle": "Foundation English Curriculum Australia | 29 Codes, Topics… Worksheets",
+      "title": "Foundation English Curriculum Australia: Topics and Worksheets",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "blogs/free-cbse-style-maths-english-science-practice-k-10.html",
+      "previousTitle": "Free CBSE-Style Maths, English and Science Practice: K-10 Topic…",
+      "title": "Free CBSE-Style K–10 Maths, English and Science Practice",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "blogs/free-k-10-worksheets-worldwide-australian-curriculum.html",
+      "previousTitle": "Free K-10 Worksheets Worldwide, with Australia as the Main Curriculum…",
+      "title": "Free K–10 Worksheets Worldwide | Australian Curriculum Focus",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "blogs/free-maths-english-science-worksheets-for-indian-students-k-10.html",
+      "previousTitle": "Free Maths, English and Science Worksheets for Indian… Practice",
+      "title": "Free K–10 Maths, English and Science Worksheets for Indian Students",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "blogs/how-skillrhub-homeschooling-materials-are-different.html",
+      "previousTitle": "How SkillrHub Homeschooling Materials Are Different | Term-by-Term…",
+      "title": "How SkillrHub Homeschooling Materials Are Different",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/index.html",
+      "previousTitle": "Free Printable Australian Foundation Worksheets, Topic Guides…",
+      "title": "Foundation Worksheets, Topic Guides and Free Practice | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/maths/foundation-counting-and-comparing-collections-to-20-activities.html",
+      "previousTitle": "Foundation Counting and Comparing Collections to 20… (AC9MFN03)",
+      "title": "Foundation Counting and Comparing to 20 Worksheets | AC9MFN03",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/maths/foundation-part-part-whole-to-10-activities.html",
+      "previousTitle": "Foundation Part-Part-Whole and Number Bonds to 10… (AC9MFN04)",
+      "title": "Foundation Part-Part-Whole and Number Bonds to 10 | AC9MFN04",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/maths/foundation-position-location-and-spatial-language-activities.html",
+      "previousTitle": "Foundation Position, Location and Spatial Language… (AC9MFSP02)",
+      "title": "Foundation Position, Location and Spatial Language | AC9MFSP02",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/science/foundation-comparing-predictions-and-observations-ac9sfi04.html",
+      "previousTitle": "Foundation Comparing Predictions and Observations… (AC9SFI04)",
+      "title": "Foundation Comparing Predictions and Observations | AC9SFI04",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "foundation/science/foundation-science-sorting-patterns-and-observations-ac9sfi03.html",
+      "previousTitle": "Foundation Science Sorting, Patterns and Observations… (AC9SFI03)",
+      "title": "Foundation Sorting, Patterns and Observations | AC9SFI03",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/tpt-17593227/index.html",
+      "previousTitle": "Year 3 Time Bundle | Telling Time & Duration Slides + Worksheets | Australian v9 | SkillrHub",
+      "title": "Year 3 Time Slides and Worksheets | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/tpt-17840189/index.html",
+      "previousTitle": "Foundation Materials and Properties Slides | AC9SFU03 | Australian Curriculum v9 | SkillrHub",
+      "title": "Foundation Materials and Properties Slides | AC9SFU03 | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/tpt-17954204/index.html",
+      "previousTitle": "Kindergarten Measurement Worksheets | Length, Mass, Capacity & Duration | AC9MFM01 | SkillrHub",
+      "title": "Kindergarten Measurement Worksheets | AC9MFM01 | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/year-3-fractions-bundle/index.html",
+      "previousTitle": "Year 3 Fractions Bundle | 80-Question Workbook + 30 Teaching Slides |…",
+      "title": "Year 3 Fractions Bundle: Workbook and Teaching Slides | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/year-3-multiplication-division-bundle/index.html",
+      "previousTitle": "Year 3 Multiplication & Division Bundle | Workbook + Teaching Slides…",
+      "title": "Year 3 Multiplication and Division: Workbook and Slides | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "products/year-3-time-bundle/index.html",
+      "previousTitle": "Year 3 Time Bundle | Analogue Clocks, Duration, Teaching… Worksheets",
+      "title": "Year 3 Time Bundle: Clocks and Duration | SkillrHub",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "year1/maths/year-1-data-collection-and-representation-activities-and-worksheets-ac9m1st01.html",
+      "previousTitle": "Year 1 Data Collection and Representation… Worksheets (AC9M1ST01)",
+      "title": "Year 1 Data Collection and Representation Worksheets | AC9M1ST01",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "year1/maths/year-1-data-representation-and-pictographs-activities-and-worksheets-ac9m1st02.html",
+      "previousTitle": "Year 1 Data Representation and Pictographs… Worksheets (AC9M1ST02)",
+      "title": "Year 1 Data Representation and Pictographs Worksheets | AC9M1ST02",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "year1/maths/year-1-measuring-length-with-informal-units-activities-and-worksheets-ac9m1m02.html",
+      "previousTitle": "Year 1 Measuring Length with Informal Units… Worksheets (AC9M1M02)",
+      "title": "Year 1 Measuring Length with Informal Units Worksheets | AC9M1M02",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "year2/maths/year-2-multiplication-and-division-facts-for-twos-activities-and-worksheets-ac9m2a03.html",
+      "previousTitle": "Year 2 Multiplication and Division Facts… Worksheets | AC9M2A03",
+      "title": "Year 2 Twos Multiplication and Division Facts Worksheets | AC9M2A03",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    },
+    {
+      "path": "year2/maths/year-2-multiplication-division-arrays-and-equal-groups-activities-and-worksheets-ac9m2n05.html",
+      "previousTitle": "Free Printable Year 2 Multiplication… Worksheets (AC9M2N05)",
+      "title": "Year 2 Arrays, Equal Groups and Division Worksheets | AC9M2N05",
+      "reason": "Replace truncated or unnecessarily repetitive title"
+    }
+  ]
+}

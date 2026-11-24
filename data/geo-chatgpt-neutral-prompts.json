@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "created": "2026-10-31",
   "purpose": "Neutral, repeatable user-question checks for ChatGPT Search or other separately identified AI search interfaces; prompts do NOT mention SkillrHub. An observation must be a real answer from a distinct tested session. No results have been collected in this file.",
   "provenance": "Curated natural-language questions inspired by Bing AI grounding themes and SkillrHub's teaching scope. NOT transcripts of real user prompts.",
@@ -7,12 +7,12 @@
     {
       "id": "Y8SCI",
       "question": "Where can I find free Australian Curriculum Year 8 Science lessons and worksheets for learning at home?",
-      "target": "https://skillrhub.com/year8/curriculum/science/"
+      "target": "https://skillrhub.com/blogs/year8-science-curriculum-australia-guide.html"
     },
     {
       "id": "Y1MATH",
       "question": "What free Australian Curriculum Year 1 Maths activities can a parent use at home?",
-      "target": "https://skillrhub.com/year1/maths/"
+      "target": "https://skillrhub.com/blogs/year1-maths-curriculum-australia-guide.html"
     },
     {
       "id": "Y1ADD",
@@ -27,12 +27,12 @@
     {
       "id": "Y2MULT",
       "question": "What free Year 2 multiplication and division examples use equal groups and arrays?",
-      "target": "https://skillrhub.com/year2/maths/"
+      "target": "https://skillrhub.com/year2/maths/year-2-multiplication-division-arrays-and-equal-groups-activities-and-worksheets-ac9m2n05.html"
     },
     {
       "id": "Y4MATH",
       "question": "What are good Year 4 Maths questions about odd and even numbers and fractions?",
-      "target": "https://skillrhub.com/year4/curriculum/maths/"
+      "target": "https://skillrhub.com/learn/?year=4&subject=maths"
     },
     {
       "id": "Y5PCT",
@@ -47,12 +47,12 @@
     {
       "id": "Y1SCI",
       "question": "What simple Year 1 science investigations and worksheets follow the Australian Curriculum?",
-      "target": "https://skillrhub.com/year1/science/"
+      "target": "https://skillrhub.com/learn/?year=1&subject=science"
     },
     {
       "id": "Y6ENG",
       "question": "Where can I find Year 6 English lessons about formal language and objective versus subjective statements?",
-      "target": "https://skillrhub.com/year6/curriculum/english/"
+      "target": "https://skillrhub.com/learn/?year=6&subject=english"
     },
     {
       "id": "HOMESCHOOL",
@@ -65,5 +65,15 @@
       "target": "https://skillrhub.com/blogs/best-free-education-websites-for-k-10-students.html"
     }
   ],
-  "observations": []
+  "observations": [],
+  "target_routes_updated": "2026-11-08",
+  "previous_targets": {
+    "Y8SCI": "https://skillrhub.com/year8/curriculum/science/",
+    "Y1MATH": "https://skillrhub.com/year1/maths/",
+    "Y2MULT": "https://skillrhub.com/year2/maths/",
+    "Y4MATH": "https://skillrhub.com/year4/curriculum/maths/",
+    "Y1SCI": "https://skillrhub.com/year1/science/",
+    "Y6ENG": "https://skillrhub.com/year6/curriculum/english/"
+  },
+  "target_change_note": "Questions are unchanged and still untested. Target routes follow the unified catalogue and existing substantive guides after hub retirement."
 }

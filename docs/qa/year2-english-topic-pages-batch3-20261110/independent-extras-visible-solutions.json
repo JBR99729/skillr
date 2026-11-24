@@ -1,0 +1,164 @@
+{
+  "reviewer": "/root/content_review independent AI reviewer",
+  "timestamp_utc": "2026-11-10T04:16:34.575177+00:00",
+  "before_full_extra_key_read": true,
+  "blind_input_sha256": "ef97f41401c81051d149c610b3358f4ea60f923b7b48f7f511d30f2d19adeb05",
+  "coverage": "31 unique visible extra-stimulus packets; concealed native adult-card prompts removed with bodies are explicitly pending and not guessed.",
+  "packets": [
+    {
+      "packet_index": 1,
+      "heading": "Three complete original text models",
+      "independent_criteria_or_model_verification": "Three distinct coherent texts: story has note-loss/problem/help/return resolution; information organises shelf facts and return method; persuasion has polite request and relevant room-access/quiet-reading reason. No single purpose forced by format."
+    },
+    {
+      "packet_index": 2,
+      "heading": "Sentences and word choices",
+      "independent_criteria_or_model_verification": "Simple seed-tray sentence has one clause; noun group contains determiner/adjective/compound noun; was resting is whole verb group. Soil-dry so Mila-water has two independent clauses and valid cause/result. Seeds and soil is noun coordination. Basket/garden/paper are common two-syllable examples in ordinary local speech."
+    },
+    {
+      "packet_index": 3,
+      "heading": "An edit you can explain",
+      "independent_criteria_or_model_verification": "Revision must capitalise Mila, replace thing with seed tray, remove duplicated it and add final full stop; actions carrying tray to garden then shelving remain coherent; it refers clearly to tray."
+    },
+    {
+      "packet_index": 4,
+      "heading": "Create and edit a simple digital text",
+      "independent_criteria_or_model_verification": "Actual digital product should contain matching carrying-before-placing panels and captions; learner must make a meaningful edit/reorder if needed and check resulting text/art. Save with adult assistance. Paper analogue cannot alone certify actual digital creation."
+    },
+    {
+      "packet_index": 5,
+      "heading": "Planning cards to sort and use",
+      "independent_criteria_or_model_verification": "A maps to imaginative/entertain with coherent hat problem and resolution; B informative with facts grouped by tray location and materials; C persuasive with request/reason/polite trial action. Multiple valid headings/reasons accepted if they fit intended reader/facts."
+    },
+    {
+      "packet_index": 6,
+      "heading": "A fresh written check",
+      "independent_criteria_or_model_verification": "Accept heading such as Our craft tray and short information text retaining craft-tray/door/red-brush-pot/paper-box facts. Require meaningful order and accurate word choice/edit explanation; no unrelated facts. Example: Our craft tray is beside the door. Put clean brushes in the red pot. Put paper scraps in the paper box."
+    },
+    {
+      "packet_index": 7,
+      "heading": "Show what you can create",
+      "independent_criteria_or_model_verification": "Observed texts: a new story linking hat loss/help/recovery/ending, plus separate polite quiet-drawing-corner request supported by a fitting benefit; learner rereads and explains a meaning/sentence edit."
+    },
+    {
+      "packet_index": 8,
+      "heading": "Complete original presentation and useful cue",
+      "independent_criteria_or_model_verification": "Opening identifies reading-box explanation; choose and return directions and purpose/close form coherent short talk. Three-box cue choose/read/return supports actual delivery; printed cue itself does not evidence speaking. Box facts are invented model givens."
+    },
+    {
+      "packet_index": 9,
+      "heading": "Rehearse, listen and improve",
+      "independent_criteria_or_model_verification": "Listener should understand returning book to box with cover facing front. Observe rehearsal, genuine feedback, one purposeful revision and redelivery; evaluate structure, topic words, accessible audibility and pauses rather than assumed universal voice norms."
+    },
+    {
+      "packet_index": 10,
+      "heading": "Two purposes; purposeful delivery",
+      "independent_criteria_or_model_verification": "Welcome inviting visiting class and care reminder can appropriately differ in tone/context. Same words may convey invitation/reminder through delivery/context, but intended effect must be checked against actual listener response. No fixed pitch objectively required."
+    },
+    {
+      "packet_index": 11,
+      "heading": "A different presentation to prepare",
+      "independent_criteria_or_model_verification": "Paper folding explanation should start with purpose/material, sequence flat paper -> short edge to other short edge -> press fold -> open/show inside, then close naming card. A visual/action cue should match sequence. Listener can follow the correct steps; real rehearsal/revision/delivery needed."
+    },
+    {
+      "packet_index": 12,
+      "heading": "A fresh presentation check",
+      "independent_criteria_or_model_verification": "Accept art-tray explanatory talk retaining blue-pot clean pencils, paper scraps in paper box, tray by window; purposeful opening/ordered points/cue/ending, observed rehearsal with specific clarity question and revised actual delivery. Distinct from reading-box model."
+    },
+    {
+      "packet_index": 13,
+      "heading": "A useful reflection",
+      "independent_criteria_or_model_verification": "Reflection must cite actual listener understanding/feedback, a specific change with reason and next attempt target; the written reflection supports but cannot replace delivery evidence."
+    },
+    {
+      "packet_index": 14,
+      "heading": "Prepare a real handwriting model",
+      "independent_criteria_or_model_verification": "Real local taught unjoined model must be present and adult demonstrate actual movements; learner copies beside model without tracing using comfortable preferred-hand/adapted setup. No unique mandatory grip; typed targets not stroke-order proof."
+    },
+    {
+      "packet_index": 15,
+      "heading": "Complete handwriting targets",
+      "independent_criteria_or_model_verification": "Mia capital M contrasts mia lower-case; Sam/bag/paper/garden retain supplied case/order. Sentence copies require correct unjoined actual written forms, recognisability and word spaces. Spelling supplied to reduce unrelated composition load."
+    },
+    {
+      "packet_index": 16,
+      "heading": "Check relative size and placement",
+      "independent_criteria_or_model_verification": "Compare short a body/tall b/descending g/capital B from actual local script; a big bag has three words and two visible word gaps. Descenders may extend below baseline, not entire letters forced above it."
+    },
+    {
+      "packet_index": 17,
+      "heading": "Compare actual attempts over time",
+      "independent_criteria_or_model_verification": "Compare dated similar-condition actual samples; keep readable forms/gaps while ease grows. A short improvement target should be observed and applied, not a universal timed threshold. Record modelling/support/conditions and stop if painful."
+    },
+    {
+      "packet_index": 18,
+      "heading": "A fresh actual handwriting check",
+      "independent_criteria_or_model_verification": "Tom put a bag on the shelf. should be actually written unjoined from nearby adult model, with capital T, recognisable letters, word gaps and sentence ending. Identify one real strength and specific improvement; process/grasp assessed only through observation."
+    },
+    {
+      "packet_index": 19,
+      "heading": "Make one useful next step",
+      "independent_criteria_or_model_verification": "Choose actual writing feature evidenced in sample, compare with actual nearby model, practise in another word and check comfort/readability. Avoid judging typed aesthetics or rushing."
+    },
+    {
+      "packet_index": 20,
+      "heading": "Complete sound-card routine",
+      "independent_criteria_or_model_verification": "Fresh maps f/r/short-e/sh -> four phonemes; cloudy has two syllables/five phonemes k/l/cloud-vowel/d/happy-vowel. Counters/finger taps one per sound; adult hidden-card prompts absent in blind file and remain pending."
+    },
+    {
+      "packet_index": 21,
+      "heading": "Build, improve and explain a word chain",
+      "independent_criteria_or_model_verification": "Slam -> slim substitutes medial vowel; slim -> swim substitutes l with w; each has four phonemes and preserves other positions. Print/encoding only follows oral task. Displayed chain practice cannot show independent hearing manipulation."
+    },
+    {
+      "packet_index": 22,
+      "heading": "Quick-answer checks and fresh oral transfer",
+      "independent_criteria_or_model_verification": "Retained phoneme checks have saved independent criteria. Fresh adult card instruction missing from blind body, so cannot solve hidden operation yet."
+    },
+    {
+      "packet_index": 23,
+      "heading": "Complete reading and sorting cards",
+      "independent_criteria_or_model_verification": "Vowel examples ee green, oo moon/book contrast, ai rain/raincoat, ay play, ea beach/bread contrast, igh night. Clusters frog f/r and crisp k/r (also final s/p); silent initial k in knee, final b in thumb. Compounds raincoat/sunset; rabbit not compound. Multiple memberships valid. Adult/models may support actual reading."
+    },
+    {
+      "packet_index": 24,
+      "heading": "Map, write and reread",
+      "independent_criteria_or_model_verification": "Rain r/ai/n three sounds; thumb th/u/mb three sounds (b not separately pronounced); robot two syllables. Phoneme/grapheme grouping accurately conveys these chosen examples without universal rule. Dictation target/body absent, pending."
+    },
+    {
+      "packet_index": 25,
+      "heading": "Quick-answer checks and transfer",
+      "independent_criteria_or_model_verification": "Bright: b/r/igh/t four phonemes; igh long i. Sunhat = sun + hat, six phonemes in typical speech and two complete words. Actual reading obtained before adult target read; covered writing dictation prompt pending."
+    },
+    {
+      "packet_index": 26,
+      "heading": "Complete word-analysis cards",
+      "independent_criteria_or_model_verification": "Said ai and friend ie encode short-e; come/have final e not making long vowel here. One/once begin /w/ without written w; only/lone contain long o. Compare complete conventional spellings, not false one+ly=only algorithm."
+    },
+    {
+      "packet_index": 27,
+      "heading": "Complete related-word and context tasks",
+      "independent_criteria_or_model_verification": "Jumped ed pronounced t, played ed pronounced d, wanted ed adds syllable; all past time. Helpful/played/jumping valid base+suffix words used in meaningful sentences. Wind-weather short-i versus wind-toy long-i chosen from letters plus contextual meaning."
+    },
+    {
+      "packet_index": 28,
+      "heading": "Quick answers and a covered spelling turn",
+      "independent_criteria_or_model_verification": "Retained quick checks covered in separate criteria. Paint known base; fresh dictation target absent from blind card, cannot infer intended derived word merely from base."
+    },
+    {
+      "packet_index": 29,
+      "heading": "Complete base and affix cards",
+      "independent_criteria_or_model_verification": "Examples help/helper/helpful/helping, kind/unkind/kindness, friend/friendly/friendship, cover/covering/uncover have meaningful shared base. re/un prefix cards go before; er/ful/ing/ed/ness/ly/ship suffix cards after. Conventional combinations only; semantics must be explained."
+    },
+    {
+      "packet_index": 30,
+      "heading": "Family boundary check",
+      "independent_criteria_or_model_verification": "Replay/player have base play; day rhymes without same base. Unkind has base kind; nice is a synonym relationship only, no kind base. Meaning+spelling family distinguished from rhyme and synonymy."
+    },
+    {
+      "packet_index": 31,
+      "heading": "Quick answers and a new family",
+      "independent_criteria_or_model_verification": "Pack known base supplied; fresh-family task body is absent, so no unique new target/meaning can be inferred. Retained quick checks already independently recomputed."
+    }
+  ]
+}

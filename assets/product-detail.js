@@ -12,12 +12,18 @@
     const detail = el('div', '', 'product-detail');
     const image = el('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 637; image.height = 900;
     const copy = el('div'); copy.append(el('p', product.yearLabel + ' · ' + product.subjectLabel, 'eyebrow'), el('h1', product.title), el('p', product.description));
-    if (product.curriculumCodes && product.curriculumCodes.length) copy.append(el('p', 'Australian Curriculum: ' + product.curriculumCodes.join(' · '), 'small'));
+    if (product.curriculumCodes && product.curriculumCodes.length) copy.append(el('p', (product.market === 'us' ? 'US Common Core: ' : 'Australian Curriculum: ') + product.curriculumCodes.join(' · '), 'small'));
     if (product.curriculumPlanningNote) { const planning = el('section', '', 'curriculum-planning'); planning.setAttribute('aria-label', 'Australian curriculum planning'); planning.append(el('h2', 'Australian curriculum planning'), el('p', product.curriculumPlanningNote)); copy.append(planning); }
-    const price = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'FREE' : 'US$' + Number(product.price).toFixed(2);
-    copy.append(el('p', price, 'price'));
+    const factLabels = {pages: 'Pages', slides: 'Slides', practiceQuestions: 'Practice questions', testQuestions: 'Separate test questions', answers: 'Answers', fileFormat: 'File format'};
+    const facts = Object.entries(product.verifiedListingFacts || {}).filter(([key]) => factLabels[key]);
+    if (facts.length) {
+      copy.append(el('h2', 'Inside this resource'));
+      const list = el('dl', '', 'product-facts');
+      facts.forEach(([key, value]) => { const row = el('div'); row.append(el('dt', factLabels[key]), el('dd', String(value))); list.append(row); });
+      copy.append(list);
+    }
     if (product.includes && product.includes.length) { copy.append(el('h2', 'What’s included')); const list = el('ul'); product.includes.forEach(item => list.append(el('li', item))); copy.append(list); }
-    const action = el('a', product.free || Number(product.price) === 0 ? 'Download free on TPT' : 'Purchase on TPT', 'button'); action.href = product.tptUrl; action.target = '_blank'; action.rel = 'noopener noreferrer';
+    const action = el('a', product.free ? 'View free sample on TpT' : 'View price on TpT', 'button'); action.href = product.tptUrl; action.target = '_blank'; action.rel = 'noopener noreferrer';
     copy.append(action, el('p', 'Checkout and file delivery are securely handled by Teachers Pay Teachers.', 'small'));
     detail.append(image, copy); root.replaceChildren(detail);
   }).catch(() => { root.replaceChildren(el('h1', 'Product not found'), el('p', 'This product may no longer be live. Please return to the current catalogue.')); });

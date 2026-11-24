@@ -1,0 +1,397 @@
+[
+  {
+    "code": "AC9EFLY07",
+    "official_descriptor": "create and deliver short spoken texts to report ideas and events to peers, using features of voice such as appropriate volume",
+    "elaborations": [
+      {
+        "code": "AC9EFLY07_E1",
+        "number": "E1",
+        "text": "sharing a personal experience, interest or discovery with peers in a semi-formal situation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY07_E2",
+        "number": "E2",
+        "text": "sharing personal responses to ideas and events experienced through texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY07_E3",
+        "number": "E3",
+        "text": "using visual prompts to practise staying on topic or to sequence ideas",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Choose a topic and relevant details",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Topic: our classroom snail. Possible details: it left a shiny trail; it has a shell; my shoes are blue.",
+        "response_criteria": "The shiny trail and shell describe the snail. Blue shoes do not explain this topic. An opening could be “We watched our classroom snail.”"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Put the ideas in order",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: draw three simple cards now: an empty pot, a hand planting a seed, a pot with a shoot. Display them in that order. Say the names of the pictures together.",
+        "response_criteria": "For example: “First we had an empty pot. Next we planted a seed. Later a shoot grew.” Accept another accurate connected report. The actual drawings are memory cues; the child supplies the spoken sentences."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Rehearse for your listeners",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Mina whispers her report and a partner cannot hear the last detail. The topic and order are clear.",
+        "response_criteria": "Rehearse the final detail with a comfortably stronger voice while facing the listeners. Pause between ideas and check whether the group can hear. Keep the same relevant ideas."
+      }
+    ],
+    "boundary": "Use speech, sign or AAC with suitable support. Record topic and order separately from actual voice volume; a written answer cannot demonstrate spoken delivery. Do not require a child to share private experiences.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY08",
+    "official_descriptor": "form most lower-case and upper-case letters using learnt letter formations",
+    "elaborations": [
+      {
+        "code": "AC9EFLY08_E1",
+        "number": "E1",
+        "text": "following clear demonstrations of how to construct each letter; for example, where to start and in which direction to write",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY08_E2",
+        "number": "E2",
+        "text": "developing a functional pencil grip/grasp",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Watch the starting point and direction",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: draw the school-approved lower-case c with a start dot and direction arrow. Demonstrate the movement aloud. Provide blank paper beside this actual model.",
+        "response_criteria": "Check the learner against the supplied school model: the same starting point and direction, a recognisable curved shape and an open right side. Demonstrate again if the movement is uncertain."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Place each form on writing guides",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: draw the school’s writing guides and model lower-case t and upper-case T on them, with their taught starts and stroke order. Leave a blank pair of guides.",
+        "response_criteria": "Compare each letter with its own model for start, movement, height, placement and orientation. Do not enlarge lower-case t and call it the capital; use the taught T form."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Write and check with a comfortable hand",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: demonstrate the school-approved n, then cover the model after a supported trace. Invite one fresh n on paper. Ask about hand comfort.",
+        "response_criteria": "Uncover the model and compare the start, direction and recognisable form. Ask whether the hand feels comfortable. Adjust paper angle, tool or support if needed; do not force one identical grip for every learner."
+      }
+    ],
+    "boundary": "Provide accessible tools and short turns. Stop if writing hurts and seek suitable school support. A typed answer, selected glyph or static sample does not demonstrate pencil movement.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY09",
+    "official_descriptor": "recognise and generate rhyming words, alliteration patterns, syllables and sounds (phonemes) in spoken words (phonological awareness)",
+    "elaborations": [
+      {
+        "code": "AC9EFLY09_E1",
+        "number": "E1",
+        "text": "recognising and producing rhyming words when listening to rhyming stories or rhymes; for example, “funny” and “money”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY09_E2",
+        "number": "E2",
+        "text": "identifying patterns of alliteration in spoken words; for example, “helpful Henry”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY09_E3",
+        "number": "E3",
+        "text": "identifying syllables in spoken words; for example, clapping the rhythm of “Mon-day”, “Ja-cob” or “Si-en-na”",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Hear and make a rhyme",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “hen, pen, dog”. Repeat each whole word. Keep the written words out of the child’s view.",
+        "response_criteria": "Dog is different. Hen and pen rhyme; ten or another matching spoken rhyme can join them. Accept a valid rhyme in the child’s variety of English."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Repeat the beginning sound",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “Sam sees seals” and “Sam likes jam”. Repeat the beginning of each word gently.",
+        "response_criteria": "Sam sees seals repeats the hissing beginning sound. “Silly snake” is another possible pair. Sam and jam rhyme, but their first sounds differ."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Hear beats, then isolate one sound",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “sun”, then “rabbit”. Clap their beats. Say “sun” again and model its first hissing sound without an extra “uh”.",
+        "response_criteria": "Sun has one syllable; rabbit usually has two. Sun begins with the hissing sound /s/. Its one syllable contains three phonemes. The child imitates the heard sound; reading this notation is not required."
+      }
+    ],
+    "boundary": "Use familiar words and the child’s natural pronunciation. Adults supply real speech; silent print is not an audio test. Accept a pointed choice for recognition while separately observing spoken generation if that is the goal.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY10",
+    "official_descriptor": "segment sentences into individual words; orally blend and segment single-syllable spoken words; isolate, blend and manipulate phonemes in single-syllable words (phonological awareness)",
+    "elaborations": [
+      {
+        "code": "AC9EFLY10_E1",
+        "number": "E1",
+        "text": "saying the sounds when given a word; for example, “can” (“c-a-n”) or “ship” (“sh-i-p”)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY10_E2",
+        "number": "E2",
+        "text": "saying the word when given the sounds; for example, “l-i-p” (“lip”) or “m-u-n-ch” (“munch”)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY10_E3",
+        "number": "E3",
+        "text": "saying the new word when the beginning phoneme/medial/end phoneme in a word is replaced with a different phoneme; for example, “run” becomes “fun”, or “fun” becomes “fan”",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Separate a sentence into words",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “My raincoat is wet.” Repeat naturally, then slowly.",
+        "response_criteria": "Four: My | raincoat | is | wet. Raincoat has two syllables but is one word in this sentence. Say the whole sentence again after counting."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Blend and segment a single-syllable word",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: supply /s/ /ʌ/ /n/ using sun, up and nest as cues. Then say “ship” as a whole word. Keep printed spellings hidden from the child.",
+        "response_criteria": "The first sequence makes sun. Ship has three sounds: /ʃ/ /ɪ/ /p/. The sh sound uses one counter even though adults spell it with two letters. These are sound tasks, not letter counting."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Change just the named sound",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “lip”; add the beginning sound of sun at the start. Say “best”; remove its /s/. Say “pin”; replace its middle vowel with the vowel in pen.",
+        "response_criteria": "Slip adds initial /s/; bet removes /s/ from best; pen replaces the middle vowel in pin. The other sounds remain in the same order. Work on one operation at a time before mixing them."
+      }
+    ],
+    "boundary": "Use familiar words and local pronunciation; teacher sound notation is not child reading material. Work orally with real adult speech. A counter diagram cannot certify hearing or pronunciation. Separate speech-production support from sound-awareness observations.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY11",
+    "official_descriptor": "recognise and name all upper- and lower-case letters (graphs) and know the most common sound that each letter represents",
+    "elaborations": [
+      {
+        "code": "AC9EFLY11_E1",
+        "number": "E1",
+        "text": "recognising letters in own name",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY11_E2",
+        "number": "E2",
+        "text": "matching upper- and lower-case letters",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY11_E3",
+        "number": "E3",
+        "text": "identifying sounds for upper- and lower-case letters",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Match and name the two forms",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed choices: B, d, D, b.",
+        "response_criteria": "B pairs with b, named bee. D pairs with d, named dee. Case changes the form, not the letter identity. Trace a distinguishing shape feature if b and d are confused."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Separate a name from a common sound",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed P p. Name: pee. Cue: pet. Printed C c. Name: see. Cue: cup.",
+        "response_criteria": "P/p represents the first sound /p/ in pet; C/c represents /k/ in cup. Neither answer is the letter name. Do not add an extra vowel after the consonant or claim c always represents /k/."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Find a known letter inside a word",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed word: mat. Adult: model /m/ /æ/ /t/ and blend mat. Point to m, then show M.",
+        "response_criteria": "Both forms are em; /m/, the humming beginning of moon, helps read mat. Say the sounds and blend them, rather than blending the alphabet names em, ay, tee."
+      }
+    ],
+    "boundary": "Accept conventional local letter-name variants. A selected answer may show recognition but does not demonstrate oral naming. Ask the child to say or communicate each name and sound separately, with suitable access support.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY12",
+    "official_descriptor": "write consonant-vowel-consonant (CVC) words by representing sounds with the appropriate letters, and blend sounds associated with letters when reading CVC words",
+    "elaborations": [],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Blend the printed word",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed word: map. Taught cues: moon beginning for m, apple beginning for a, pig beginning for p.",
+        "response_criteria": "/m/ /æ/ /p/ blend to map. Touch each printed letter in order. The word names something that shows places; meaning confirms the blended reading."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Map a spoken word into letters",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “bed” without displaying it. Supply blank paper and taught letter cards b, e, d, a, t.",
+        "response_criteria": "Bed: b, e, d in order. Use three counters if needed. If a sound is missing, say the word again and locate the empty sound position before choosing its letter."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Change one position and reread",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed word: sit. Replace i with a to make sat. Then replace s with m.",
+        "response_criteria": "The last word is mat. Sit to sat changes the middle vowel; sat to mat changes the first consonant. The other two positions stay fixed at each step. Read all three letters after each change."
+      }
+    ],
+    "boundary": "Use previously taught correspondences and familiar vocabulary. An adult supplies actual dictated speech. Copying a visible spelling is supported practice, not independent spelling from sound.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY13",
+    "official_descriptor": "use knowledge of letters and sounds to spell words",
+    "elaborations": [
+      {
+        "code": "AC9EFLY13_E1",
+        "number": "E1",
+        "text": "making plausible spelling choices using letter-sound correspondences and morphemic knowledge",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Hear the whole word in order",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “bag”, meaning a container for carrying things. Keep its spelling hidden.",
+        "response_criteria": "Bag uses b, a, g for the beginning, short middle vowel and final sound. A first-letter response alone does not spell the whole word."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Represent the vowel and any taught team",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: say “shop” without showing it. The learner already knows sh, o and p. Provide blank paper.",
+        "response_criteria": "Shop: sh | o | p. The initial sh is one sound represented by two letters; the middle vowel is o. Read back the complete sequence to check."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Read back and keep meaningful parts",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult says “dogs”, meaning more than one dog. The learner writes dog. Show base dog and ending s after the attempt.",
+        "response_criteria": "Add s to make dogs. The base dog keeps the animal meaning; the ending shows more than one here. In ordinary speech this s is voiced /z/. Check both the sounds represented and the familiar meaning part."
+      }
+    ],
+    "boundary": "Dictate real speech and record which spellings have been taught. A plausible attempt is evidence of developing knowledge; distinguish it from fully conventional spelling and from copying a displayed answer.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY14",
+    "official_descriptor": "read and write some high-frequency words and other familiar words",
+    "elaborations": [
+      {
+        "code": "AC9EFLY14_E1",
+        "number": "E1",
+        "text": "knowing how to read and write some high-frequency words recognised in shared texts and texts being read independently; for example, “and”, “my”, “is”, “the” and “go”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY14_E2",
+        "number": "E2",
+        "text": "knowing how to read and write some familiar words; for example, their name, the name of a character or the name of their school",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Read a taught common word",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed choices: and, my, is. Adult: read the sentence “The dog is here”, pointing to is, then revisit the word alone.",
+        "response_criteria": "Is is i-s. Notice its vowel and the voiced final /z/ sound represented by s here. Compare the complete word with and and my, rather than choosing by its length alone."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Check the word in a sentence",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed sentence: The cat is on my mat. Target cards: my / me.",
+        "response_criteria": "My matches the printed m-y and tells whose mat it is. Me has a different final letter and does not fit this sentence position."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Write and compare a familiar word",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed model: go. Adult: read it, explain g and the o pronounced like its name here, then cover the model. Provide blank paper.",
+        "response_criteria": "The word is g-o. Check both letters in order and reread it. Record whether the learner wrote from memory, copied or needed a prompt; those show different levels of support."
+      }
+    ],
+    "boundary": "Use only some taught words at a time; no speed gate or exhaustive list is required. Names may have spellings from many languages. Check the preferred spelling with the learner or family rather than inventing a pronunciation rule.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  },
+  {
+    "code": "AC9EFLY15",
+    "official_descriptor": "understand that words are units of meaning and can be made of more than one meaningful part",
+    "elaborations": [
+      {
+        "code": "AC9EFLY15_E1",
+        "number": "E1",
+        "text": "learning that words are made up of meaningful parts; for example, “dogs” has 2 meaningful parts: “dog” and “s” meaning more than one",
+        "questionEligible": true
+      }
+    ],
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "1. Begin with the whole word’s meaning",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: place one cup on the table. Show the word cup and say it.",
+        "response_criteria": "Cup names the object used for drinking. The letters c, u and p help spell the word; they do not each name a separate part of its meaning."
+      },
+      {
+        "id": "F2",
+        "learning_intention": "2. Keep the base and add more-than-one",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Adult: place one cup on one side and three cups on the other. Show cup and cups.",
+        "response_criteria": "Cup matches one; cups matches three. Cup keeps the object meaning and s adds more than one. In cups it is /s/; in dogs it is /z/. Do not use sound alone to decide whether a part carries meaning."
+      },
+      {
+        "id": "F3",
+        "learning_intention": "3. Join two familiar word meanings",
+        "source_status": "SUFFICIENT",
+        "original_transfer": "Printed parts: rain + coat → raincoat. Adult: show or draw a coat worn in rain and name it.",
+        "response_criteria": "Rain tells the weather it is used for; coat names the clothing. Raincoat is one printed word built from two meaningful words. Do not confuse its two syllables with a general rule for meaning parts."
+      }
+    ],
+    "boundary": "An adult may read all words aloud; independent decoding is not required to explain meaning parts here. Use familiar objects or actual prepared pictures. Do not turn this introduction into a formal suffix taxonomy.",
+    "scope": "Public static Topic Guide only; linked products and app banks not rebuilt or certified.",
+    "research_plan_review": "Independent current evidence preflight in research-plan-independent-review.md; final authored content review pending."
+  }
+]

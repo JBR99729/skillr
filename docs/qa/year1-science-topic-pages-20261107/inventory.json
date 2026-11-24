@@ -1,0 +1,82 @@
+[
+  {
+    "code": "AC9S1U01",
+    "path": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+    "title": "What do living things need?",
+    "sha256": "76cb97c191665f1c1545b5633596c202a794da84a918f3b9052640e3c8fcd4c3",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1U02",
+    "path": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+    "title": "What changed outside?",
+    "sha256": "f560202f837f9eddf54451e2709effc4fb17d5d0752bec40401d3b94e1efb790",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1U03",
+    "path": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1u03-pushes-and-pulls/",
+    "title": "Push, pull and predict",
+    "sha256": "a9da19dac1ea9447ac904a438bb4f8cc96fd0b425dd67bbd102189ec6d3408a9",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1H01",
+    "path": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1h01-science-in-daily-life/",
+    "title": "Use science in everyday life",
+    "sha256": "ed9b206c9965928a755ebb5d4905b209344da03dcae11b2815307a867e314faa",
+    "retained_focus_count": 6
+  },
+  {
+    "code": "AC9S1I01",
+    "path": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i01-questions-patterns-and-predictions/",
+    "title": "Notice, wonder, predict",
+    "sha256": "7d4a8a5b83b09e0fe3a1ab90ec58bdc17406605341779e0ddf90e3d7e7c76dd8",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1I02",
+    "path": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i02-safe-investigation-procedures/",
+    "title": "Plan a safe investigation",
+    "sha256": "2276d0f3d4c0799d6ae06686e3a0deae0302ac432bfbea8e85485cae4045acda",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1I03",
+    "path": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i03-making-and-recording-observations/",
+    "title": "Observe, measure and record",
+    "sha256": "e132efb1c3348c54b7afa13976fe6cfee167e6bd3e93c01b3b73f9b5f72c7dea",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1I04",
+    "path": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i04-sorting-data-and-representing-patterns/",
+    "title": "Sort the evidence. Show the pattern.",
+    "sha256": "de83b1456a45028659ebf80a4e26616f74c7f2bfef4183967c636e16890d3607",
+    "retained_focus_count": 6
+  },
+  {
+    "code": "AC9S1I05",
+    "path": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i05-comparing-observations-and-predictions/",
+    "title": "Did the result match?",
+    "sha256": "43f30701e8803052657f8d9a86d076287ca9c0dd139ea4708976cdc37a5638f8",
+    "retained_focus_count": 5
+  },
+  {
+    "code": "AC9S1I06",
+    "path": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+    "canonical": "https://skillrhub.com/year1/science/ac9s1i06-communicating-scientific-ideas/",
+    "title": "Make your science message clear",
+    "sha256": "0e9cac614bb593108ec04c1d21aacbdd5517349169614e97417e085e9f5e2ff4",
+    "retained_focus_count": 6
+  }
+]

@@ -1,0 +1,69 @@
+/* Foundation English pages: exact models remain semantic HTML/SVG. */
+#skillr-topic-variants .retained-teaching .y7-subject-board{max-width:100%;overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching table{table-layout:fixed;overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching svg{max-width:100%;height:auto}
+#skillr-topic-variants .retained-teaching .curriculum-detail-body{min-width:0}
+#skillr-topic-variants .concept-figure svg{max-width:100%;height:auto}
+#skillr-topic-variants .evidence{overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching .y7-subject-flow{display:flex;gap:8px;flex-wrap:wrap}
+#skillr-topic-variants .retained-teaching .y7-subject-compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:12px}
+/* Keep evidence tables readable on tablets rather than squeezing three lessons. */
+@media(max-width:1000px){#skillr-topic-variants .steps{grid-template-columns:1fr;gap:4px}}
+#skillr-topic-variants .history-trail{display:grid;gap:12px;margin:14px 0;padding-left:24px}
+/* Keep scientific labels readable on phones; each figure scrolls independently. */
+@media(max-width:600px){
+ #skillr-topic-variants .concept-figure,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"]){max-width:100%;min-width:0;overflow-x:auto;text-align:left}
+ #skillr-topic-variants .concept-figure svg{width:600px;min-width:600px;max-width:none}
+ #skillr-topic-variants .retained-teaching .science-premium-diagram img[src$="-corrected.svg"]{width:640px;min-width:640px;max-width:none}
+ #skillr-topic-variants .concept-figure::after,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"])::after{content:"Swipe sideways to see the full diagram.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+}
+#skillr-topic-variants figure[tabindex="0"]:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+/* Readable evidence and retained diagrams for Foundation English guides. */
+#skillr-topic-variants .report-model{padding:12px 16px;margin:12px 0;background:#f7faf4;border:1px solid #d6e2df;border-radius:8px}
+#skillr-topic-variants .report-model h3{margin-top:0}
+#skillr-topic-variants .steps:has(th:nth-child(4)){grid-template-columns:1fr}
+#skillr-topic-variants .wide-evidence{min-width:0;max-width:100%;overflow-x:auto}
+#skillr-topic-variants .wide-evidence:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+#skillr-topic-variants .retained-teaching .diagram{max-width:100%;min-width:0}
+#skillr-topic-variants .retained-teaching .concept-figure svg{display:block}
+@media(max-width:600px){
+ #skillr-topic-variants .wide-evidence table{min-width:520px}
+ #skillr-topic-variants .wide-evidence::after{content:"Swipe sideways to see all columns.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+ #skillr-topic-variants .retained-teaching .retained-model{max-width:100%;min-width:0;overflow-x:auto}
+ #skillr-topic-variants .retained-teaching .retained-model svg{width:800px;min-width:800px;max-width:none}
+}
+#skillr-topic-variants .retained-teaching svg text{font-family:Arial,sans-serif}
+
+#skillr-topic-variants .topic-code{font-size:14px;white-space:nowrap;color:#425c78;font-weight:500}
+#skillr-topic-variants .topic-report-issue{min-height:44px;padding:8px 10px;background:white;border:1px solid #d6e2ef;border-radius:7px;color:#1952ae;cursor:pointer}
+/* Keep the shared mobile navigation rules from expanding this compact trail. */
+#skillr-topic-variants .crumb{display:block;margin:4px 0 10px;padding:0;line-height:1.5}
+#skillr-topic-variants .crumb a{display:inline-flex;align-items:center;min-height:44px;width:auto;max-width:100%;margin:0;padding:5px 6px;vertical-align:middle}
+#skillr-topic-variants .shortcuts{flex-direction:row}
+#skillr-topic-variants .shortcuts a{width:auto;flex:0 1 auto}
+
+/* The illustrated outer shell supplies its own width and page padding. */
+body.foundation-english-topic{max-width:none;margin:0;padding:0}
+#skillr-topic-variants .retained-teaching .science-flow{max-width:100%;overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching .science-flow>span{max-width:100%;box-sizing:border-box}
+
+#skillr-topic-variants .retained-teaching .retained-model svg{max-height:none}
+
+#skillr-topic-variants .foundation-english-concept-model{margin:12px 0;padding:12px;background:#f7faff;border:1px solid #d6e2ef;border-radius:9px;max-width:100%;overflow-wrap:anywhere}
+#skillr-topic-variants .foundation-english-concept-model figcaption{margin-bottom:8px;font-weight:600}
+#skillr-topic-variants .foundation-english-concept-model .fe-model-grid{display:flex;gap:8px;flex-wrap:wrap}
+#skillr-topic-variants .foundation-english-concept-model .fe-model-card{flex:1 1 140px;min-width:0;padding:10px;border:1px solid #b8cce5;border-radius:8px;background:#fff}
+#skillr-topic-variants .word-cards{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:12px 0}
+#skillr-topic-variants .word-cards span{padding:10px 14px;background:white;border:1px solid #9bb9d9;border-radius:8px;font-size:20px;line-height:1.5}
+#skillr-topic-variants .read-aloud{border-left:4px solid #91aed9;padding-left:12px}
+#skillr-topic-variants .book-illustration{max-width:390px;width:100%;height:auto;display:block;margin:8px auto}
+#skillr-topic-variants .retained-teaching .curriculum-explanation-grid{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr))}
+#skillr-topic-variants .retained-teaching [style]{max-width:100%}
+#skillr-topic-variants .english-card-row{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+#skillr-topic-variants .english-card-row>span{flex:1 1 150px;min-width:0;border:1px solid #9cb7d2;background:#fff;padding:9px 12px;border-radius:7px}
+#skillr-topic-variants .topic-code{display:block;margin-top:8px}
+#skillr-topic-variants .reading-packet article{margin:16px 0}
+#skillr-topic-variants .reading-packet h4{font-size:18px;margin:10px 0}
+#skillr-topic-variants blockquote{margin:12px 0;padding:10px 16px;border-left:3px solid #819fc3;background:#fff}

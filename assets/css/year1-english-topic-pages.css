@@ -1,0 +1,21 @@
+/* Preserve the existing Year 1 teaching models inside the compact topic shell. */
+#skillr-topic-variants .picture-evidence img,#skillr-topic-variants .retained-teaching img{display:block;max-width:100%;height:auto;margin:12px auto}
+#skillr-topic-variants .picture-evidence{margin:12px 0;padding:10px;background:#fff;border:1px solid #b8cce5;border-radius:9px}
+#skillr-topic-variants .picture-evidence figcaption{font-size:15px;line-height:1.5;margin-top:8px}
+#skillr-topic-variants .steps:has(.picture-evidence){grid-template-columns:1fr}
+#skillr-topic-variants .steps .picture-evidence img{max-height:460px;width:auto;object-fit:contain}
+#skillr-topic-variants .topic-worked-visual,#skillr-topic-variants .retained-teaching .topic-model{margin:14px 0;padding:12px;background:white;border:1px solid #b8cce5;border-radius:9px}
+#skillr-topic-variants .topic-worked-visual img{width:100%;max-width:800px;height:auto}
+#skillr-topic-variants .retained-teaching .topic-worked-card{border-left:3px solid #91aed9;padding:8px 12px;margin:12px 0;background:#f7faff}
+#skillr-topic-variants .retained-teaching .topic-kicker{font-weight:700;font-size:13px;letter-spacing:.04em;color:#425c78}
+#skillr-topic-variants .retained-teaching figcaption{font-size:15px;line-height:1.5;margin-top:8px}
+#skillr-topic-variants .paid-resource{padding:14px;border:1px solid #b8cce5;border-radius:9px;background:white}
+#skillr-topic-variants .paid-resource img{width:150px;max-width:100%;height:auto}
+#skillr-topic-variants .earlier-vocabulary{padding:0 6px 12px}
+#skillr-topic-variants .wide-picture{max-width:100%;min-width:0}
+#skillr-topic-variants .wide-picture:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+@media(max-width:600px){
+ #skillr-topic-variants .wide-picture{overflow-x:auto;text-align:left}
+ #skillr-topic-variants .wide-picture img{width:720px!important;min-width:720px;max-width:none!important;max-height:none!important;height:auto!important}
+ #skillr-topic-variants .wide-picture::after{content:"Swipe sideways to see the complete image.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+}

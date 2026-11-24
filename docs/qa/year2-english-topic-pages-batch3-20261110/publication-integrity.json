@@ -1,0 +1,14 @@
+{
+  "base_commit": "1eebd0af9ae0cc14fc714f0b3b4f3d1a8ac4cffc",
+  "base_tree": "f6b048ffd97b0ea8d869c7ad097f8937ca8aaa42",
+  "initial_commit": "d18b243cd63e430739b51cacce94e3971c2f2c9a",
+  "complete_candidate_tree": "21a0169dfae28c0df1c3d353f6491d3635195784",
+  "local_and_api_tree_equal": true,
+  "before_files": 20171,
+  "after_files": 20205,
+  "deleted_paths": [],
+  "intended_changed_paths": 41,
+  "core_and_CNAME_preserved": true,
+  "publication": "Draft PR #987 branch created on exact remote main; non-forced update with expected base head. Main unchanged.",
+  "followup": "Evidence/review closure plus actual CTA stylesheet trigger only; all19render dependencies unchanged. Final complete-tree check runs after staging and final exact-head CI closure is recorded in PR #987."
+}

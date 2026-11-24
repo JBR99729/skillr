@@ -1,0 +1,1238 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4U01",
+    "title": "Explain the roles and interactions of consumers, producers and decomposers...",
+    "unitSlug": "ac9s4u01-explain-the-roles-and-interactions-of-consumers-producers-and",
+    "sourceOrder": 566,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "explain the roles and interactions of consumers, producers and decomposers within a habitat and how food chains represent feeding relationships",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4U01_E1",
+        "number": "E1",
+        "text": "describing how animals, including humans, obtain their food from plants and other animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E2",
+        "number": "E2",
+        "text": "observing living things in a local habitat and categorising them as producers, consumers or decomposers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E3",
+        "number": "E3",
+        "text": "researching the different types of decomposers and their importance within a habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E4",
+        "number": "E4",
+        "text": "representing feeding relationships of producers and consumers as a food chain and comparing food chains across different habitats",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E5",
+        "number": "E5",
+        "text": "recognising how First Nations Australians perceive themselves as being an integral part of the environment",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U01_E6",
+        "number": "E6",
+        "text": "investigating the impact of introduced predators such as foxes on small mammal species in Australia",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E7",
+        "number": "E7",
+        "text": "researching how the removal of a food source from within a habitat, such as through an insect or rodent infestation, affected other living things within that habitat",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4u01-explain-the-roles-and-interactions-of-consumers-producers-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4U01",
+        "label": "Content description",
+        "text": "explain the roles and interactions of consumers, producers and decomposers within a habitat and how food chains represent feeding relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E1",
+        "number": "E1",
+        "text": "describing how animals, including humans, obtain their food from plants and other animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E2",
+        "number": "E2",
+        "text": "observing living things in a local habitat and categorising them as producers, consumers or decomposers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E3",
+        "number": "E3",
+        "text": "researching the different types of decomposers and their importance within a habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E4",
+        "number": "E4",
+        "text": "representing feeding relationships of producers and consumers as a food chain and comparing food chains across different habitats",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E5",
+        "number": "E5",
+        "text": "recognising how First Nations Australians perceive themselves as being an integral part of the environment",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U01_E6",
+        "number": "E6",
+        "text": "investigating the impact of introduced predators such as foxes on small mammal species in Australia",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U01_E7",
+        "number": "E7",
+        "text": "researching how the removal of a food source from within a habitat, such as through an insect or rodent infestation, affected other living things within that habitat",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4U02",
+    "title": "Sources of water and describe key processes in the water...",
+    "unitSlug": "ac9s4u02-sources-of-water-and-describe-key-processes-in-the-water",
+    "sourceOrder": 567,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "identify sources of water and describe key processes in the water cycle, including movement of water through the sky, landscape and ocean; precipitation; evaporation; and condensation",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4U02_E1",
+        "number": "E1",
+        "text": "identifying everyday examples of precipitation (rain or snow), evaporation (wet washing or paint drying) and condensation of water (water droplets on a cold water bottle)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E2",
+        "number": "E2",
+        "text": "identifying local water sources and exploring how they change over time, such as rain puddles that evaporate or a local creek that flows faster after rain",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E3",
+        "number": "E3",
+        "text": "exploring where tap water comes from and predicting what happens to water that goes down the drain",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E4",
+        "number": "E4",
+        "text": "exploring a game or simulation of the water cycle, identifying key processes and creating their own representation of the water cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E5",
+        "number": "E5",
+        "text": "recognising that clouds are tiny water droplets suspended in air, observing a \u2018cloud in a bottle\u2019 demonstrated by a teacher and discussing what conditions are needed for clouds to form and for rain or snow to fall",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E6",
+        "number": "E6",
+        "text": "exploring First Nations Australians\u2019 connections with and valuing of water and water resource management",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U02_E7",
+        "number": "E7",
+        "text": "recognising First Nations Australians\u2019 knowledges and understandings of evaporation and how the effect of evaporation can be reduced to conserve water, such as by covering surfaces",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U02_E8",
+        "number": "E8",
+        "text": "considering why we are encouraged to save and recycle water, and actions people can take to reduce water consumption and waste",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4u02-sources-of-water-and-describe-key-processes-in-the-water/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4U02",
+        "label": "Content description",
+        "text": "identify sources of water and describe key processes in the water cycle, including movement of water through the sky, landscape and ocean; precipitation; evaporation; and condensation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E1",
+        "number": "E1",
+        "text": "identifying everyday examples of precipitation (rain or snow), evaporation (wet washing or paint drying) and condensation of water (water droplets on a cold water bottle)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E2",
+        "number": "E2",
+        "text": "identifying local water sources and exploring how they change over time, such as rain puddles that evaporate or a local creek that flows faster after rain",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E3",
+        "number": "E3",
+        "text": "exploring where tap water comes from and predicting what happens to water that goes down the drain",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E4",
+        "number": "E4",
+        "text": "exploring a game or simulation of the water cycle, identifying key processes and creating their own representation of the water cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E5",
+        "number": "E5",
+        "text": "recognising that clouds are tiny water droplets suspended in air, observing a \u2018cloud in a bottle\u2019 demonstrated by a teacher and discussing what conditions are needed for clouds to form and for rain or snow to fall",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U02_E6",
+        "number": "E6",
+        "text": "exploring First Nations Australians\u2019 connections with and valuing of water and water resource management",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U02_E7",
+        "number": "E7",
+        "text": "recognising First Nations Australians\u2019 knowledges and understandings of evaporation and how the effect of evaporation can be reduced to conserve water, such as by covering surfaces",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U02_E8",
+        "number": "E8",
+        "text": "considering why we are encouraged to save and recycle water, and actions people can take to reduce water consumption and waste",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4U03",
+    "title": "How forces can be exerted by one object on another...",
+    "unitSlug": "ac9s4u03-how-forces-can-be-exerted-by-one-object-on-another",
+    "sourceOrder": 568,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "identify how forces can be exerted by one object on another and investigate the effect of frictional, gravitational and magnetic forces on the motion of objects",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4U03_E1",
+        "number": "E1",
+        "text": "exploring the effect of magnets on other magnets and how magnetic forces can pull objects from a distance",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E2",
+        "number": "E2",
+        "text": "exploring the positive and negative effects of friction on their everyday experiences, such as how friction causes objects to slow down and stop",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E3",
+        "number": "E3",
+        "text": "recognising that gravity is the force that pulls all objects to towards the centre of Earth and that gravitational force acts on an object regardless of whether it is moving or not moving",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E4",
+        "number": "E4",
+        "text": "observing how the pushing force of a liquid enables an object to float",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E5",
+        "number": "E5",
+        "text": "investigating the effect of forces on the movement of objects in traditional First Nations Australians\u2019 children\u2019s instructive toys and games",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U03_E6",
+        "number": "E6",
+        "text": "examining shoe sole design and identifying patterns in sole design and use related to friction",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E7",
+        "number": "E7",
+        "text": "watching a video of astronauts walking on the moon or dropping objects on its surface, and discussing the force they are observing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E8",
+        "number": "E8",
+        "text": "exploring how force arrows can be used to represent the direction and magnitude of forces acting on an object",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4u03-how-forces-can-be-exerted-by-one-object-on-another/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4U03",
+        "label": "Content description",
+        "text": "identify how forces can be exerted by one object on another and investigate the effect of frictional, gravitational and magnetic forces on the motion of objects",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E1",
+        "number": "E1",
+        "text": "exploring the effect of magnets on other magnets and how magnetic forces can pull objects from a distance",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E2",
+        "number": "E2",
+        "text": "exploring the positive and negative effects of friction on their everyday experiences, such as how friction causes objects to slow down and stop",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E3",
+        "number": "E3",
+        "text": "recognising that gravity is the force that pulls all objects to towards the centre of Earth and that gravitational force acts on an object regardless of whether it is moving or not moving",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E4",
+        "number": "E4",
+        "text": "observing how the pushing force of a liquid enables an object to float",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E5",
+        "number": "E5",
+        "text": "investigating the effect of forces on the movement of objects in traditional First Nations Australians\u2019 children\u2019s instructive toys and games",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U03_E6",
+        "number": "E6",
+        "text": "examining shoe sole design and identifying patterns in sole design and use related to friction",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E7",
+        "number": "E7",
+        "text": "watching a video of astronauts walking on the moon or dropping objects on its surface, and discussing the force they are observing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U03_E8",
+        "number": "E8",
+        "text": "exploring how force arrows can be used to represent the direction and magnitude of forces acting on an object",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4U04",
+    "title": "Examine the properties of natural and made materials including fibres...",
+    "unitSlug": "ac9s4u04-examine-the-properties-of-natural-and-made-materials-including",
+    "sourceOrder": 569,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "examine the properties of natural and made materials including fibres, metals, glass and plastics and consider how these properties influence their use",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4U04_E1",
+        "number": "E1",
+        "text": "identifying and naming materials in the classroom, and grouping objects made of similar materials or combinations of materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E2",
+        "number": "E2",
+        "text": "exploring vocabulary for describing properties; observing different fibres, metals, glass and plastics; and using appropriate terms to describe, compare and contrast their properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E3",
+        "number": "E3",
+        "text": "investigating familiar objects, such as shoes, drink containers or backpacks, examining the combination of materials from which they are made and suggesting reasons for those combinations based on properties of materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E4",
+        "number": "E4",
+        "text": "considering how First Nations Australians use materials for different purposes, such as tools, clothing and shelter, based on their properties",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U04_E5",
+        "number": "E5",
+        "text": "designing, building and testing an object or structure for a specific purpose, such as a tent, lunchbox or bird feeder",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E6",
+        "number": "E6",
+        "text": "investigating which materials can be recycled and researching alternatives for materials such as single use plastics",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4u04-examine-the-properties-of-natural-and-made-materials-including/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4U04",
+        "label": "Content description",
+        "text": "examine the properties of natural and made materials including fibres, metals, glass and plastics and consider how these properties influence their use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E1",
+        "number": "E1",
+        "text": "identifying and naming materials in the classroom, and grouping objects made of similar materials or combinations of materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E2",
+        "number": "E2",
+        "text": "exploring vocabulary for describing properties; observing different fibres, metals, glass and plastics; and using appropriate terms to describe, compare and contrast their properties",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E3",
+        "number": "E3",
+        "text": "investigating familiar objects, such as shoes, drink containers or backpacks, examining the combination of materials from which they are made and suggesting reasons for those combinations based on properties of materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E4",
+        "number": "E4",
+        "text": "considering how First Nations Australians use materials for different purposes, such as tools, clothing and shelter, based on their properties",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4U04_E5",
+        "number": "E5",
+        "text": "designing, building and testing an object or structure for a specific purpose, such as a tent, lunchbox or bird feeder",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4U04_E6",
+        "number": "E6",
+        "text": "investigating which materials can be recycled and researching alternatives for materials such as single use plastics",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4H01",
+    "title": "Examine how people use data to develop scientific explanations",
+    "unitSlug": "ac9s4h01-examine-how-people-use-data-to-develop-scientific-explanations",
+    "sourceOrder": 570,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "examine how people use data to develop scientific explanations",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4H01_E1",
+        "number": "E1",
+        "text": "examining age-appropriate scientific journal articles, identifying common text features and exploring why the scientific community might have conventions for sharing information about data and explanations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E2",
+        "number": "E2",
+        "text": "viewing or listening to documentaries or news reports that feature researchers and identifying how they talk about their area of research, particularly references to observations, data and evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E3",
+        "number": "E3",
+        "text": "investigating how ecologists use food chain data to develop explanations for population decline of native species such as the Richmond birdwing butterfly, and to develop strategies to increase their population",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E4",
+        "number": "E4",
+        "text": "explore how hydrologists use rainfall and water use data to explain the amount of water flowing in rivers and why this changes over time",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians test predictions and gather data in the development of technologies and processes",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year4/science/ac9s4h01-examine-how-people-use-data-to-develop-scientific-explanations/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4H01",
+        "label": "Content description",
+        "text": "examine how people use data to develop scientific explanations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E1",
+        "number": "E1",
+        "text": "examining age-appropriate scientific journal articles, identifying common text features and exploring why the scientific community might have conventions for sharing information about data and explanations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E2",
+        "number": "E2",
+        "text": "viewing or listening to documentaries or news reports that feature researchers and identifying how they talk about their area of research, particularly references to observations, data and evidence",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E3",
+        "number": "E3",
+        "text": "investigating how ecologists use food chain data to develop explanations for population decline of native species such as the Richmond birdwing butterfly, and to develop strategies to increase their population",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E4",
+        "number": "E4",
+        "text": "explore how hydrologists use rainfall and water use data to explain the amount of water flowing in rivers and why this changes over time",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H01_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians test predictions and gather data in the development of technologies and processes",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4H02",
+    "title": "Consider how people use scientific explanations to meet a need...",
+    "unitSlug": "ac9s4h02-consider-how-people-use-scientific-explanations-to-meet-a-need",
+    "sourceOrder": 571,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "consider how people use scientific explanations to meet a need or solve a problem",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4H02_E1",
+        "number": "E1",
+        "text": "investigating how knowledge of the role of decomposers has helped people design industrial composting systems to manage plant and animal waste",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E2",
+        "number": "E2",
+        "text": "investigating how First Nations Australians of arid regions of Australia use scientific knowledge to manage precious water resources",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4H02_E3",
+        "number": "E3",
+        "text": "considering how knowledges of plant biology enable First Nations Australians to sustainably harvest and use plants to make tools and weapons, musical instruments, clothing, cosmetics and artworks",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4H02_E4",
+        "number": "E4",
+        "text": "exploring how knowledge of the properties of plastic has influenced people to change how they purchase, use and dispose of plastic products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E5",
+        "number": "E5",
+        "text": "examining how people use knowledge of friction to improve car or bicycle safety on slippery surfaces such as wet or icy roads",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E6",
+        "number": "E6",
+        "text": "investigating how knowledge of magnetic force is used to sort metals in recycling, mining and food processing",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4h02-consider-how-people-use-scientific-explanations-to-meet-a-need/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4H02",
+        "label": "Content description",
+        "text": "consider how people use scientific explanations to meet a need or solve a problem",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E1",
+        "number": "E1",
+        "text": "investigating how knowledge of the role of decomposers has helped people design industrial composting systems to manage plant and animal waste",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E2",
+        "number": "E2",
+        "text": "investigating how First Nations Australians of arid regions of Australia use scientific knowledge to manage precious water resources",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4H02_E3",
+        "number": "E3",
+        "text": "considering how knowledges of plant biology enable First Nations Australians to sustainably harvest and use plants to make tools and weapons, musical instruments, clothing, cosmetics and artworks",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4H02_E4",
+        "number": "E4",
+        "text": "exploring how knowledge of the properties of plastic has influenced people to change how they purchase, use and dispose of plastic products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E5",
+        "number": "E5",
+        "text": "examining how people use knowledge of friction to improve car or bicycle safety on slippery surfaces such as wet or icy roads",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4H02_E6",
+        "number": "E6",
+        "text": "investigating how knowledge of magnetic force is used to sort metals in recycling, mining and food processing",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I01",
+    "title": "Questions to explore observed patterns and relationships and make predictions...",
+    "unitSlug": "ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and",
+    "sourceOrder": 572,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "pose questions to explore observed patterns and relationships and make predictions based on observations",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I01_E1",
+        "number": "E1",
+        "text": "posing questions about why some materials are used more often than others for particular products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I01_E2",
+        "number": "E2",
+        "text": "predicting the effect on food chains when living things are removed from or die out in an area",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I01_E3",
+        "number": "E3",
+        "text": "consulting with First Nations Australians about how to predict the location of water sources from observation of landscape features",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4I01_E4",
+        "number": "E4",
+        "text": "making predictions about the distances over which magnets will attract or repel each other",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I01",
+        "label": "Content description",
+        "text": "pose questions to explore observed patterns and relationships and make predictions based on observations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I01_E1",
+        "number": "E1",
+        "text": "posing questions about why some materials are used more often than others for particular products",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I01_E2",
+        "number": "E2",
+        "text": "predicting the effect on food chains when living things are removed from or die out in an area",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I01_E3",
+        "number": "E3",
+        "text": "consulting with First Nations Australians about how to predict the location of water sources from observation of landscape features",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4I01_E4",
+        "number": "E4",
+        "text": "making predictions about the distances over which magnets will attract or repel each other",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I02",
+    "title": "Provided scaffolds to plan and conduct investigations to answer questions...",
+    "unitSlug": "ac9s4i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer",
+    "sourceOrder": 573,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "use provided scaffolds to plan and conduct investigations to answer questions or test predictions, including identifying the elements of fair tests, and considering the safe use of materials and equipment",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I02_E1",
+        "number": "E1",
+        "text": "using an investigation scaffold to design a fair test to identify which shoe provides the greatest or least friction or which materials are attracted to a magnet",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E2",
+        "number": "E2",
+        "text": "predicting the interactions of forces in a game or toy design, and building and testing a prototype",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E3",
+        "number": "E3",
+        "text": "predicting effects of changing numbers of producers or consumers, and using a virtual or roleplay food chain simulation to explore possible outcomes by running the simulation multiple times",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E4",
+        "number": "E4",
+        "text": "following safety rules when conducting investigations, such as wearing personal safety gear correctly, using equipment according to guidelines and demonstrating safe behaviours in field sites or when interacting with biological specimens",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I02",
+        "label": "Content description",
+        "text": "use provided scaffolds to plan and conduct investigations to answer questions or test predictions, including identifying the elements of fair tests, and considering the safe use of materials and equipment",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E1",
+        "number": "E1",
+        "text": "using an investigation scaffold to design a fair test to identify which shoe provides the greatest or least friction or which materials are attracted to a magnet",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E2",
+        "number": "E2",
+        "text": "predicting the interactions of forces in a game or toy design, and building and testing a prototype",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E3",
+        "number": "E3",
+        "text": "predicting effects of changing numbers of producers or consumers, and using a virtual or roleplay food chain simulation to explore possible outcomes by running the simulation multiple times",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I02_E4",
+        "number": "E4",
+        "text": "following safety rules when conducting investigations, such as wearing personal safety gear correctly, using equipment according to guidelines and demonstrating safe behaviours in field sites or when interacting with biological specimens",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I03",
+    "title": "Follow procedures to make and record observations, including making formal...",
+    "unitSlug": "ac9s4i03-follow-procedures-to-make-and-record-observations-including",
+    "sourceOrder": 574,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "follow procedures to make and record observations, including making formal measurements using familiar scaled instruments and using digital tools as appropriate",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I03_E1",
+        "number": "E1",
+        "text": "identifying animals in field locations using procedures such as direct or virtual observation, call or scat identification or pitfall traps",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E2",
+        "number": "E2",
+        "text": "using appropriate equipment to make and record observations, such as digital cameras, video, voice recorders and familiar scaled instruments with appropriate increments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E3",
+        "number": "E3",
+        "text": "describing how to use rounding up or down when reading scaled instruments, and the effect of the scale size on the accuracy of the measurement",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E4",
+        "number": "E4",
+        "text": "constructing tables or graphic organisers to record observations",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i03-follow-procedures-to-make-and-record-observations-including/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I03",
+        "label": "Content description",
+        "text": "follow procedures to make and record observations, including making formal measurements using familiar scaled instruments and using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E1",
+        "number": "E1",
+        "text": "identifying animals in field locations using procedures such as direct or virtual observation, call or scat identification or pitfall traps",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E2",
+        "number": "E2",
+        "text": "using appropriate equipment to make and record observations, such as digital cameras, video, voice recorders and familiar scaled instruments with appropriate increments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E3",
+        "number": "E3",
+        "text": "describing how to use rounding up or down when reading scaled instruments, and the effect of the scale size on the accuracy of the measurement",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I03_E4",
+        "number": "E4",
+        "text": "constructing tables or graphic organisers to record observations",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I04",
+    "title": "Construct and use representations, including tables, simple column graphs and...",
+    "unitSlug": "ac9s4i04-construct-and-use-representations-including-tables-simple",
+    "sourceOrder": 575,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "construct and use representations, including tables, simple column graphs and visual or physical models, to organise data and information, show simple relationships and identify patterns",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I04_E1",
+        "number": "E1",
+        "text": "using virtual or role-play food chain simulations to explore effects of changing numbers of producers or consumers in a habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E2",
+        "number": "E2",
+        "text": "using maps to locate water sources in the local area, or constructing maps to show sites of water wastage in the school grounds",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E3",
+        "number": "E3",
+        "text": "constructing column graphs to compare numbers of objects made of particular materials or distances moved by objects experiencing frictional forces",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E4",
+        "number": "E4",
+        "text": "using force arrows to show forces operating on objects",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i04-construct-and-use-representations-including-tables-simple/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I04",
+        "label": "Content description",
+        "text": "construct and use representations, including tables, simple column graphs and visual or physical models, to organise data and information, show simple relationships and identify patterns",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E1",
+        "number": "E1",
+        "text": "using virtual or role-play food chain simulations to explore effects of changing numbers of producers or consumers in a habitat",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E2",
+        "number": "E2",
+        "text": "using maps to locate water sources in the local area, or constructing maps to show sites of water wastage in the school grounds",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E3",
+        "number": "E3",
+        "text": "constructing column graphs to compare numbers of objects made of particular materials or distances moved by objects experiencing frictional forces",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I04_E4",
+        "number": "E4",
+        "text": "using force arrows to show forces operating on objects",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I05",
+    "title": "Findings with those of others, consider if investigations were fair...",
+    "unitSlug": "ac9s4i05-findings-with-those-of-others-consider-if-investigations-were",
+    "sourceOrder": 576,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "compare findings with those of others, consider if investigations were fair, identify questions for further investigation and draw conclusions",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I05_E1",
+        "number": "E1",
+        "text": "identifying instances during investigations where elements may have been changed in error, resulting in an unfair test",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E2",
+        "number": "E2",
+        "text": "comparing findings of water use surveys and discussing differences between home and school, or between each other\u2019s homes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E3",
+        "number": "E3",
+        "text": "comparing designed solutions, such as toys, lunchboxes or structures, to determine fitness for purpose of selected materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E4",
+        "number": "E4",
+        "text": "comparing findings from investigations with peers and asking questions about factors that may have led to any differences in findings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E5",
+        "number": "E5",
+        "text": "identifying unexpected findings and posing questions for further investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E6",
+        "number": "E6",
+        "text": "drawing conclusions that reflect their data and information",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I05",
+        "label": "Content description",
+        "text": "compare findings with those of others, consider if investigations were fair, identify questions for further investigation and draw conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E1",
+        "number": "E1",
+        "text": "identifying instances during investigations where elements may have been changed in error, resulting in an unfair test",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E2",
+        "number": "E2",
+        "text": "comparing findings of water use surveys and discussing differences between home and school, or between each other\u2019s homes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E3",
+        "number": "E3",
+        "text": "comparing designed solutions, such as toys, lunchboxes or structures, to determine fitness for purpose of selected materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E4",
+        "number": "E4",
+        "text": "comparing findings from investigations with peers and asking questions about factors that may have led to any differences in findings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E5",
+        "number": "E5",
+        "text": "identifying unexpected findings and posing questions for further investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I05_E6",
+        "number": "E6",
+        "text": "drawing conclusions that reflect their data and information",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 4",
+    "levelLabel": "Year 4",
+    "yearNumber": 4,
+    "yearFolder": "year4",
+    "quizYearSegment": "year-4",
+    "code": "AC9S4I06",
+    "title": "And create texts to communicate findings and ideas for identified...",
+    "unitSlug": "ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for",
+    "sourceOrder": 577,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate findings and ideas for identified purposes and audiences, using scientific vocabulary and digital tools as appropriate",
+    "levelDescription": "In Year 4 students extend their understanding of systems as interactions between related components and analyse patterns to identify that these interactions can occur in predictable ways. They classify system components and create simple models of system interactions, such as food chains and representations of the water cycle. They learn that these models can be used to predict the effect of missing or malfunctioning components. They explore the relationship between form and function by investigating different materials and their properties and learn that classification can enable prediction. They investigate forces that operate from a distance and learn that some interactions result from phenomena that cannot be seen with the naked eye. Students use fair testing to explore relationships between system components. They appreciate the value of using standard units of measurement to measure and compare attributes of systems and the importance of fair methods for drawing conclusions. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: How can we keep food fresh and safe to eat without using plastic? Why do we measure things? What would happen if there were no ants in a local habitat? How does friction help or hinder motion? What\u2019s the big deal about the water cycle?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S4I06_E1",
+        "number": "E1",
+        "text": "discussing the purpose of a text and identifying vocabulary appropriate to the topic and audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E2",
+        "number": "E2",
+        "text": "acknowledging and learning about First Nations Australians\u2019 ways of representing and sharing information about water sources",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4I06_E3",
+        "number": "E3",
+        "text": "sharing ideas about ways to represent feeding relationships including using drawings, labels, images or models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E4",
+        "number": "E4",
+        "text": "producing an informative text using scientific vocabulary to explain the impact of introduced predators on food chains",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E5",
+        "number": "E5",
+        "text": "constructing a report using scientific vocabulary to explain which materials are best suited to be used for making particular products, such as nylon for tents, rubber for shoes or wool for warm clothing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E6",
+        "number": "E6",
+        "text": "creating posters, a song, slideshow or performance to encourage the school community to save water",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-4/science/ac9s4i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year4/science/teacher-slides/ac9s4i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S4I06",
+        "label": "Content description",
+        "text": "write and create texts to communicate findings and ideas for identified purposes and audiences, using scientific vocabulary and digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E1",
+        "number": "E1",
+        "text": "discussing the purpose of a text and identifying vocabulary appropriate to the topic and audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E2",
+        "number": "E2",
+        "text": "acknowledging and learning about First Nations Australians\u2019 ways of representing and sharing information about water sources",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S4I06_E3",
+        "number": "E3",
+        "text": "sharing ideas about ways to represent feeding relationships including using drawings, labels, images or models",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E4",
+        "number": "E4",
+        "text": "producing an informative text using scientific vocabulary to explain the impact of introduced predators on food chains",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E5",
+        "number": "E5",
+        "text": "constructing a report using scientific vocabulary to explain which materials are best suited to be used for making particular products, such as nylon for tents, rubber for shoes or wool for warm clothing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S4I06_E6",
+        "number": "E6",
+        "text": "creating posters, a song, slideshow or performance to encourage the school community to save water",
+        "questionEligible": true
+      }
+    ]
+  }
+]

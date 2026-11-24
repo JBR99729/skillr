@@ -1,0 +1,221 @@
+{
+  "reviewer": "/root/year1_english_batch3_final_review",
+  "files": [
+    {
+      "path": ".github/workflows/year1-english-topic-pages-batch3-browser-qa.yml",
+      "bytes": 1522,
+      "sha256": "c3ba9fa94639aafce3824621cd767c28dbe87fb375ce8bf4c343e4b8254b4386"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "bytes": 6178,
+      "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346"
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "bytes": 209,
+      "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c"
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "bytes": 532,
+      "sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc"
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages-batch3.css",
+      "bytes": 1272,
+      "sha256": "f9f7fbdb9882a889f42f54992e9a287e18881f53dc286ac0ed6dc9c27e57202f"
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "bytes": 2145,
+      "sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2"
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "bytes": 8721,
+      "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480"
+    },
+    {
+      "path": "assets/curriculum.css",
+      "bytes": 25387,
+      "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2"
+    },
+    {
+      "path": "assets/learning-navigation.css",
+      "bytes": 633,
+      "sha256": "8699e77709981df35966ae8b52811722db55a387aad933e2d1e687d103a0cc62"
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "bytes": 3721,
+      "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8"
+    },
+    {
+      "path": "assets/report-issue.js",
+      "bytes": 3484,
+      "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly09.svg",
+      "bytes": 1398,
+      "sha256": "0fc16639fcbd2c1dea98d524dbb5625ecd5a81e22411a9ec5b332c7367c1cb97"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly10.svg",
+      "bytes": 1455,
+      "sha256": "83f109cbec49166dea7b9d82704eef56916bed02be02133491634f37bce94d2b"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly11.svg",
+      "bytes": 1394,
+      "sha256": "4a4f12d49eba9507dc88b6726513fa36a7c84268aeec0159b54c23e5bb387e98"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly12.svg",
+      "bytes": 1446,
+      "sha256": "c6ebb127dceda9354e64f79195ad99c4e976e90002e8a9e3b11ad8dea8c82a1b"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly13.svg",
+      "bytes": 1487,
+      "sha256": "190a2694b486f5aa9d1f5b3fbe7a8d09a3011070b53fd3b85e55cef787fe4ef7"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly14.svg",
+      "bytes": 1405,
+      "sha256": "b3bd96effe4d209274e968cbee49a3075f9a128a4790dc5f3fae9cc7180b093f"
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly15.svg",
+      "bytes": 1496,
+      "sha256": "db87ec6ae6c05582fe95d584d83236a41d4eae8d9a4cb0082d5a6391836b223d"
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "bytes": 1912,
+      "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+    },
+    {
+      "path": "assets/topic-visuals/ac9e1ly07/fan.png",
+      "bytes": 194773,
+      "sha256": "5bf97fc395f1c9f9a45828a86aceb7497f8bc364fc97eaf4f9b046d1abf75459"
+    },
+    {
+      "path": "assets/topic-visuals/ac9e1ly07/gesture-high.png",
+      "bytes": 187972,
+      "sha256": "d005bf5d65987581498c055c378e1f43963d83d6778d205e70d7cb66903f7fbf"
+    },
+    {
+      "path": "assets/topic-visuals/ac9e1ly07/gesture-small.png",
+      "bytes": 199767,
+      "sha256": "14c94467c2a483bfa4d8ab04cb718ca9e16876e489bf35d20e7271971f9de891"
+    },
+    {
+      "path": "assets/topic-visuals/ac9e1ly07/gesture-two.png",
+      "bytes": 179849,
+      "sha256": "2821a0b7d6ab01a185d6ea2ca5c2ccfae2918adbecb64892c7cded81b9157c79"
+    },
+    {
+      "path": "assets/topic-visuals/ac9e1ly07/paintbrush.png",
+      "bytes": 155401,
+      "sha256": "569f5ca9eb3c2910721f6bd0a202c4708838dd59fe567832b62ef3506586b6f4"
+    },
+    {
+      "path": "assets/topic-visuals/reused/rabbit-long-ears.webp",
+      "bytes": 27284,
+      "sha256": "4cad968c3bdbeabbaf467563557ccb4fa28c230b2ee92c059a1121710b4f9b83"
+    },
+    {
+      "path": "assets/tpt-17913803-cover.png",
+      "bytes": 205062,
+      "sha256": "7dc140c16ddf254aa9a53f0b8219a8fdea3cbff606882fe6f923b76f09372d95"
+    },
+    {
+      "path": "data/app-question-banks.json",
+      "bytes": 40242,
+      "sha256": "15982e0351265a2590c02a134b24052dad3586d92fb902fe02f19a196eba6e60"
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/inventory.json",
+      "bytes": 6509,
+      "sha256": "32692732a639238a6b2f722da9d933160ce09d41f2e2a5d982b3d969413286db"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 2965,
+      "sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780"
+    },
+    {
+      "path": "package.json",
+      "bytes": 627,
+      "sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2"
+    },
+    {
+      "path": "pwa-register.js",
+      "bytes": 6198,
+      "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d"
+    },
+    {
+      "path": "scripts/qa_year1_english_topic_pages_batch3_browser.cjs",
+      "bytes": 12636,
+      "sha256": "5ba524cfe516c94e403a10f938e97096ac1b784e0e3858e02124ffce85223bc9"
+    },
+    {
+      "path": "style.css",
+      "bytes": 105418,
+      "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae"
+    },
+    {
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "bytes": 28266,
+      "sha256": "1bd93762b25bb308cfe773d1872a03770b729a011cadb209364b04163d62503c"
+    },
+    {
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "bytes": 33707,
+      "sha256": "eb7c70098f03f24916d2c0adaa6a747b3229d74127dc315c54d017e1dc4cda09"
+    },
+    {
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "bytes": 36463,
+      "sha256": "6c0876ccf47b6179f6e6b71d6d874bc82e84a708476593c508900ac118ea7a0b"
+    },
+    {
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "bytes": 27428,
+      "sha256": "f0c139144de7ec29eb20c015bf12129d29f9d86bc62c53b864c308bb61f0adcd"
+    },
+    {
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "bytes": 28252,
+      "sha256": "c903e5367abaf4d1d76502ebc692975ef36385f02cb4dd41f21f7e6adda8d0aa"
+    },
+    {
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "bytes": 28500,
+      "sha256": "3f862db6d630920ff4e18e2db42fa23b081fbdd9b724eda705c4d011748f9603"
+    },
+    {
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "bytes": 27504,
+      "sha256": "4ffb3ed7973acf3abbfd8bcd2a8026ce4a4b28e4c5872e3f2b9b9d4bb06f61d6"
+    },
+    {
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "bytes": 26858,
+      "sha256": "dd165c10d027d8f9458dca230d4903217af8b8ebb2920a0de2c4ec375dc62871"
+    },
+    {
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "bytes": 27315,
+      "sha256": "b72a94d9cef0919263480c6be253f804b93e57be1ce88d6483de880a2556d5fc"
+    },
+    {
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "bytes": 27788,
+      "sha256": "7060da998588d934be4f9e96518e763c4fb6d4ed2a4bcd6f0370275c2ef86017"
+    }
+  ],
+  "scope": "Direct pages/styles/scripts/images +recursiveCSS +conservativeunchangedutility/package/browser-test/inventory dependencies. ExactcurrentbytesafterindependentlyprovenLY15paragraphdeletion;notunconditionalreapprovaloffuturechanges."
+}

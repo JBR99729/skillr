@@ -1,0 +1,742 @@
+{
+  "baseline": "309dfaed2ade55de7e45dbd2f98ff37e6a6a3b85",
+  "approved_reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "codes": [
+    {
+      "code": "AC9E1LE01",
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "baseline_sha256": "1b4c66b53c0f4760c42676e5062799e7eb4617f1d87b5e57574b7a553022e641",
+      "front_focus_intents": [
+        "Connect actual word/image clues",
+        "Explain character and setting choices",
+        "Compare actual attributed literature"
+      ],
+      "retained_sections": [
+        "1. Words and pictures introduce story meaning",
+        "2. Character clues and story animals",
+        "3. Setting: where and when",
+        "4. Events and story sequence",
+        "5. Picture clues add to the words",
+        "6. Compare stories and illustrators respectfully",
+        "See the idea: Use story details to explain a character",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/topic-visuals/year1/le01-reading-library.png",
+        "/assets/topic-visuals/year1/le01-sharing-crayons.png",
+        "/assets/topic-visuals/year1/le01-beach-night.png",
+        "/assets/topic-visuals/year1/le01-reading-library.png",
+        "/assets/teaching-models/year1/ac9e1le01.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Story-Elements-Worksheets-Characters-Settings-Events-AC9E1LE01-17893030",
+          "label": "View worksheet pack on TpT \u2197"
+        }
+      ],
+      "scope": "discuss how language and images are used to create characters, settings and events in literature by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+      "elaborations": [
+        {
+          "code": "AC9E1LE01_E1",
+          "number": "E1",
+          "text": "discussing how animal characters reflect human characteristics; for example, the creation of animal characters and their human qualities in fables by wide-ranging world authors",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE01_E2",
+          "number": "E2",
+          "text": "discussing how characters, settings and events are described or depicted in literature by First Nations Australian authors and illustrators",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E1LE01_E3",
+          "number": "E3",
+          "text": "discussing the events associated with Australian animal characters and what is learnt about their characters in picture books from wide-ranging Australian authors",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": true,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LE02",
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "baseline_sha256": "facfd0ac7e1ba4be7dbf1e7c3350683cb2f6795b2cc4ad12e7acea8caa41fe81",
+      "front_focus_intents": [
+        "Anchor a personal response in text",
+        "Explain a safe own-experience connection",
+        "Exchange different supported responses"
+      ],
+      "retained_sections": [
+        "1. Make a relevant connection",
+        "2. Notice story details first",
+        "3. Compare with care",
+        "4. Use a connection to understand",
+        "5. Keep the response relevant",
+        "6. Share responses respectfully",
+        "See the idea: Explain your connection to a story",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1le02.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-English-Story-Connections-Worksheets-AC9E1LE02-VC2E1LE02-17893389",
+          "label": "View worksheet pack on TpT \u2197"
+        }
+      ],
+      "scope": "discuss literary texts and share responses by making connections with students\u2019 own experiences",
+      "elaborations": [
+        {
+          "code": "AC9E1LE02_E1",
+          "number": "E1",
+          "text": "generating questions about characters, settings and events from books and sharing responses",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E2",
+          "number": "E2",
+          "text": "discussing different texts and offering opinions about how they reflect their own experiences",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E3",
+          "number": "E3",
+          "text": "expressing responses to characters and events in stories using drawing and role-play",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E4",
+          "number": "E4",
+          "text": "identifying who is telling the story in different texts",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LE03",
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "baseline_sha256": "bbf5e49be53c081f16fb453c0326b1ec0c8b6457f482ed0c90aac7a12d0bf10b",
+      "front_focus_intents": [
+        "Separate character/setting/events",
+        "Connect a problem with its solution",
+        "Compare story features and realistic/imagined settings"
+      ],
+      "retained_sections": [
+        "1. Find the setting",
+        "2. Know story features",
+        "3. Find the problem",
+        "4. Follow plot order",
+        "5. Notice character choices",
+        "6. Link story features",
+        "Teaching help: model, support and check",
+        "Quick check: discuss a fresh story",
+        "See the idea: Separate who, where and what happens",
+        "Use this guide with your worksheet pack",
+        "Key concept",
+        "See it, then try it",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1le03.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Setting-Plot-Worksheets-AC9E1LE03-VC2E1LE03-17901544",
+          "label": "View worksheet pack on TpT \u2197"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Settings-Plot-Slides-AC9E1LE03-Curriculum-v9-17744721",
+          "label": "Characters, settings and plot"
+        }
+      ],
+      "scope": "discuss plot, character and setting, which are features of stories",
+      "elaborations": [
+        {
+          "code": "AC9E1LE03_E1",
+          "number": "E1",
+          "text": "recognising similar characters and settings in different types of literary texts; for example, traditional tales, narrative poems and fables",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE03_E2",
+          "number": "E2",
+          "text": "discussing whether features of settings including time (year, season) and place (country or city) are realistic or imagined",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE03_E3",
+          "number": "E3",
+          "text": "discussing how plots develop, including beginnings (orientation), how the problem (complication) is introduced and solved (resolution)",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LE04",
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "baseline_sha256": "b93b99e1ac504031671f925d2e5723fb3e9b0d28f0d1968c143a483a570a3229",
+      "front_focus_intents": [
+        "Hear and distinguish sound patterns",
+        "Imitate with deliberate delivery",
+        "Invent and discuss meaningful new patterns"
+      ],
+      "retained_sections": [
+        "1. Hear alliteration",
+        "2. Hear rhyme",
+        "3. Hear sound words",
+        "4. Hear repetition",
+        "5. Perform for effect",
+        "6. Invent sound patterns",
+        "Teaching help: listen, echo, change and discuss",
+        "Quick check: hear it, make it, share it",
+        "See the idea: Make a pattern with sounds",
+        "Use this guide with your worksheet pack",
+        "Explore poems and songs from different traditions",
+        "Key concept",
+        "See it, then try it",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1le04.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Alliteration-Worksheets-AC9E1LE04-VC2E1LE04-17901393",
+          "label": "View worksheet pack on TpT \u2197"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-Curriculum-v9-17744877",
+          "label": "Year 1 Rhyme, Rhythm & Alliteration Slides | AC9E1LE04 | Curriculum v9"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-17745214",
+          "label": "Playing with sounds"
+        }
+      ],
+      "scope": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+      "elaborations": [
+        {
+          "code": "AC9E1LE04_E1",
+          "number": "E1",
+          "text": "listening to performance poetry, chants or songs from First Nations Australians",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E1LE04_E2",
+          "number": "E2",
+          "text": "exploring poetry, chants and songs from Asian cultures",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE04_E3",
+          "number": "E3",
+          "text": "listening to haiku poems about familiar topics such as nature and the seasons",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": true,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LE05",
+      "path": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "baseline_sha256": "3e4b0978a27b16d4054e65ae60d348367709b3f1df3c462a5da74c21e42d2009",
+      "front_focus_intents": [
+        "Retell a familiar complete story",
+        "Use story language and a clear order",
+        "Adapt deliberately and keep the links coherent"
+      ],
+      "retained_sections": [
+        "1. Choose key events",
+        "2. Use story structure",
+        "3. Keep events in order",
+        "4. Keep characters and setting clear",
+        "5. Use story language",
+        "6. Adapt without losing sense",
+        "Teaching help: listen to the child tell the story",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Retell first, then change one part",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1le05.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Worksheets-AC9E1LE05-VC2E1LE05-17901926",
+          "label": "See worksheet preview \u00b7 US$6"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-English-Literature-Worksheets-Tests-Bundle-AC9E1LE01LE05-VIC-17902041",
+          "label": "Five worksheet packs \u00b7 US$27.45 \u2192"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Slides-AC9E1LE05-17745451",
+          "label": "Separate story retelling teaching slides"
+        }
+      ],
+      "scope": "orally retell or adapt a familiar story using plot and characters, language features including vocabulary, and structure of a familiar text, through role-play, writing, drawing or digital tools",
+      "elaborations": [
+        {
+          "code": "AC9E1LE05_E1",
+          "number": "E1",
+          "text": "writing character descriptions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE05_E2",
+          "number": "E2",
+          "text": "imitating a characteristic piece of speech or dialogue, or the attitudes or expressions of favourite characters in texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE05_E3",
+          "number": "E3",
+          "text": "retelling key events in stories using oral language, visual arts, digital tools or performance",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LY01",
+      "path": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "baseline_sha256": "3db88f308e699da0342ca66cba662f3b60f97c9f3728cc1d628fc488937455cb",
+      "front_focus_intents": [
+        "Identify the message job using content",
+        "Explain useful structure/features",
+        "Compare evidence and choose a text for a task"
+      ],
+      "retained_sections": [
+        "1. Find a text purpose",
+        "2. Use instruction clues",
+        "3. Use information clues",
+        "4. Use persuasion clues",
+        "5. Use invitation clues",
+        "6. Explain with evidence",
+        "Teaching help: discuss the text and its clues",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Use features to work out a text\u2019s job",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/topic-visuals/year1/worksheet-magpie.png",
+        "/assets/teaching-models/year1/ac9e1ly01.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Worksheets-AC9E1LY01-Australian-Curriculum-v9-17902653",
+          "label": "See worksheet preview \u00b7 US$6.50"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Slides-AC9E1LY01-Australian-Curriculum-v9-17745803",
+          "label": "What is this text for?"
+        }
+      ],
+      "scope": "discuss different texts and identify some features that indicate their purposes",
+      "elaborations": [
+        {
+          "code": "AC9E1LY01_E1",
+          "number": "E1",
+          "text": "discussing a range of texts encountered in school and in the community, and identifying their purpose",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY01_E2",
+          "number": "E2",
+          "text": "recognising that types of texts with similar purposes usually have predictable structures",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LY02",
+      "path": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "baseline_sha256": "18a710d5ef8b51213e2c088f4e8e97fcd7281e15131e76fd9db568343cc7bbdd",
+      "front_focus_intents": [
+        "Take an accessible fair turn and listen",
+        "Make clear messages and relevant replies",
+        "Ask useful follow-ups and include participants"
+      ],
+      "retained_sections": [
+        "1. Take turns",
+        "2. Speak clearly",
+        "3. Listen actively",
+        "4. Respond to an idea",
+        "5. Add a relevant idea or question",
+        "6. Make discussion fair",
+        "Teaching help: observe the child in conversation",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Show that you heard the other person\u2019s idea",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1ly02.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Worksheets-AC9E1LY02-Turn-Taking-Discussion-17903608",
+          "label": "See worksheet preview \u00b7 US$6.50"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962",
+          "label": "Listen, take turns, join in"
+        }
+      ],
+      "scope": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+      "elaborations": [
+        {
+          "code": "AC9E1LY02_E1",
+          "number": "E1",
+          "text": "using turn-taking in group and pair work",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E2",
+          "number": "E2",
+          "text": "building a conversation by staying on topic, supporting other speakers, eliciting responses, listening supportively and attentively, asking relevant questions, providing useful feedback and prompting",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E3",
+          "number": "E3",
+          "text": "participating in informal and structured class, group and pair discussions about content area topics, ideas and information",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E4",
+          "number": "E4",
+          "text": "interacting appropriately with peers, teachers and visitors",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E5",
+          "number": "E5",
+          "text": "formulating different types of questions to ask a speaker, such as open and closed questions and \u201cwhen\u201d, \u201cwhy\u201d and \u201chow\u201d questions",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LY03",
+      "path": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "baseline_sha256": "136aa823c8115e51aa2fbe8217c61df85cd9ebc9d3c5e4b264819f854518566c",
+      "front_focus_intents": [
+        "Identify three text purposes from whole messages",
+        "Compare supported similarities/differences",
+        "Choose and justify a text while allowing mixed purpose"
+      ],
+      "retained_sections": [
+        "1. Recognise imaginative texts",
+        "2. Recognise informative texts",
+        "3. Recognise persuasive texts",
+        "4. Find similarities",
+        "5. Explain differences",
+        "6. Use evidence and choose a text",
+        "Teaching help and a quick check",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Compare texts about the same subject",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1ly03-wombats.webp",
+        "/assets/teaching-models/year1/ac9e1ly03.svg"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Compare-Text-Types-Slides-AC9E1LY03-Australian-Curriculum-v9-17746080",
+          "label": "Same or different texts"
+        }
+      ],
+      "scope": "describe some similarities and differences between imaginative, informative and persuasive texts",
+      "elaborations": [
+        {
+          "code": "AC9E1LY03_E1",
+          "number": "E1",
+          "text": "comparing and discussing texts, identifying some features that distinguish those that \u201ctell stories\u201d from those that \u201cgive opinions\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY03_E2",
+          "number": "E2",
+          "text": "selecting texts for a particular purpose or task; for example, a website that will give information about a learning area topic, a book that will tell a story about an animal",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LY04",
+      "path": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "baseline_sha256": "916d867ff13cf462a99ce88a30fbc05c03713904c023f7b06fde4eb9a67a89f4",
+      "front_focus_intents": [
+        "Use taught letter-sound knowledge to decode",
+        "Read meaningful phrases and monitor printed meaning",
+        "Self-correct/ask for help and reread suitable texts"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Check the letters when a word does not fit",
+        "Teach each strand: model, practise and check",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/teaching-models/year1/ac9e1ly04.svg",
+        "/assets/topic-visuals/year1/ac9e1ly04-frog.png",
+        "/assets/topic-visuals/year1/ac9e1ly04-frog.png"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Fluency-Phonics-Worksheets-AC9E1LY04-75-Tasks-17910617",
+          "label": "Year 1 Reading Fluency & Phonics Worksheets | AC9E1LY04"
+        },
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Fluent-Reading-Slides-AC9E1LY04-17746230",
+          "label": "Read it, check it, make it make sense"
+        }
+      ],
+      "scope": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+      "elaborations": [
+        {
+          "code": "AC9E1LY04_E1",
+          "number": "E1",
+          "text": "recognising most high-frequency words when reading a text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY04_E2",
+          "number": "E2",
+          "text": "self-correcting or asking for assistance when meaning breaks down",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    },
+    {
+      "code": "AC9E1LY05",
+      "path": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "baseline_sha256": "e80151dbc3f80f871f4654775011bdf5c3922fd8a4fa3291a97245a9846e9806",
+      "front_focus_intents": [
+        "Visualise/predict and check actual clues",
+        "Connect/infer with vocabulary and uncertainty",
+        "Summarise/question using stated/inferred/missing evidence"
+      ],
+      "retained_sections": [
+        "1. Visualise the details",
+        "2. Predict, then check",
+        "3. Connect and infer",
+        "4. Find the main idea and summarise",
+        "5. Ask questions and find evidence",
+        "Quick check: explain your thinking"
+      ],
+      "remove_outer_prefixes": [
+        "About this resource",
+        "Worksheet pack and",
+        "Free worksheets,",
+        "More free teaching resources",
+        "Curriculum, further examples",
+        "Curriculum Coverage",
+        "Curriculum equivalents",
+        "Resources",
+        "For teachers: curriculum links"
+      ],
+      "existing_inline_models": 1,
+      "images": [
+        "/assets/topic-visuals/year1/ac9e1ly05-library.png",
+        "/assets/topic-visuals/year1/ac9e1ly05-leaves.png",
+        "/assets/topic-visuals/year1/ac9e1ly05-feeder.png"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-AC9E1LY05-50-Practice-15-Test-Task-17911863",
+          "label": "View worksheet preview & pack on TpT \u2197"
+        }
+      ],
+      "scope": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning when listening, viewing and reading to build literal and inferred meaning by drawing on vocabulary and growing knowledge of context and text structures",
+      "elaborations": [
+        {
+          "code": "AC9E1LY05_E1",
+          "number": "E1",
+          "text": "identifying information and details from spoken informative texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E2",
+          "number": "E2",
+          "text": "building topic knowledge and learning new vocabulary before and during reading",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E3",
+          "number": "E3",
+          "text": "making predictions from the cover, from illustrations and at points in the text before reading on, and confirming and adjusting understanding after reading",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E4",
+          "number": "E4",
+          "text": "drawing inferences and explaining inferences using clues from the text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E5",
+          "number": "E5",
+          "text": "making connections with existing knowledge and personal experiences",
+          "questionEligible": true
+        }
+      ],
+      "references_require_actual_materials": false,
+      "prerequisite_boundary": "Adult supports directions and access, but actual reading/listening/retelling/discussion criteria observed separately; no formal later-year analysis or assessment claims."
+    }
+  ],
+  "reference_sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+}

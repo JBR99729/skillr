@@ -1,0 +1,163 @@
+{
+  "files": [
+    {
+      "path": ".github/workflows/year2-english-topic-pages-batch1-browser-qa.yml",
+      "bytes": 1471,
+      "sha256": "dd5f3a371fdf3d3c0bf442b4688ec610b9a70e2b17078c6cee927160c644687a"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "bytes": 6178,
+      "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346"
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "bytes": 209,
+      "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c"
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "bytes": 532,
+      "sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc"
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "bytes": 2145,
+      "sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2"
+    },
+    {
+      "path": "assets/css/year2-english-topic-pages-batch1.css",
+      "bytes": 2512,
+      "sha256": "cf97a61a4850ecfb1a179b8a3ee347eec5ce6fedfbb070e6a6704519ac487977"
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "bytes": 8721,
+      "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480"
+    },
+    {
+      "path": "assets/curriculum.css",
+      "bytes": 25387,
+      "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2"
+    },
+    {
+      "path": "assets/learning-navigation.css",
+      "bytes": 633,
+      "sha256": "8699e77709981df35966ae8b52811722db55a387aad933e2d1e687d103a0cc62"
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "bytes": 3721,
+      "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8"
+    },
+    {
+      "path": "assets/report-issue.js",
+      "bytes": 3484,
+      "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b"
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "bytes": 1912,
+      "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-kitten-under-chair.png",
+      "bytes": 2830756,
+      "sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7"
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-picture-jobs.png",
+      "bytes": 255281,
+      "sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5"
+    },
+    {
+      "path": "data/app-question-banks.json",
+      "bytes": 40242,
+      "sha256": "15982e0351265a2590c02a134b24052dad3586d92fb902fe02f19a196eba6e60"
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch1-20261110/inventory.json",
+      "bytes": 6026,
+      "sha256": "1f79dab68e9c608625c49436877e3261e476cad836478bb0cf9227cafe070e73"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 2965,
+      "sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780"
+    },
+    {
+      "path": "package.json",
+      "bytes": 627,
+      "sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2"
+    },
+    {
+      "path": "pwa-register.js",
+      "bytes": 6198,
+      "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d"
+    },
+    {
+      "path": "scripts/qa_year2_english_topic_pages_batch1_browser.cjs",
+      "bytes": 13864,
+      "sha256": "ff615c34e1433bc7c3fd8e3a70d0f843273e4d8cdc71bd91d865098d79d66c33"
+    },
+    {
+      "path": "style.css",
+      "bytes": 105418,
+      "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae"
+    },
+    {
+      "path": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/index.html",
+      "bytes": 27275,
+      "sha256": "51e2ae94bd5d230b0765d2789ef983972eb47aae782b1c3f198b820cb8e2a410"
+    },
+    {
+      "path": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/index.html",
+      "bytes": 27213,
+      "sha256": "43a40ad6aa7488b734b8b515f55744a9498f0c4bf93e840acb840da6a11b6b04"
+    },
+    {
+      "path": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/index.html",
+      "bytes": 27431,
+      "sha256": "7a461edeb6d0204214362429d9238643a543d0814e12e3d013cbe099813f15ac"
+    },
+    {
+      "path": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
+      "bytes": 26046,
+      "sha256": "0e1cb0676153ad59ccd5c2f2d3c8f93593fb1b5f50028d21e8c6a8a84aa22290"
+    },
+    {
+      "path": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/index.html",
+      "bytes": 34426,
+      "sha256": "875a380548d2f5826e76151bc5ba928e2255fee86f03d46ec6d8c0e796c13bf0"
+    },
+    {
+      "path": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/index.html",
+      "bytes": 28556,
+      "sha256": "592c2bc38bfd71ba7a16f41c000991879288285daade6ddfb9fbd8bdef65bd77"
+    },
+    {
+      "path": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/index.html",
+      "bytes": 26596,
+      "sha256": "b78ca401c9793886a9e1445107073600f81f580802f18f7a79e0e241eb8f4352"
+    },
+    {
+      "path": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/index.html",
+      "bytes": 31320,
+      "sha256": "1da151aea75c1965cd358724315c2ea94d7b5c0be18b6e0034eaabdca25e523c"
+    },
+    {
+      "path": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/index.html",
+      "bytes": 27227,
+      "sha256": "3bfb36b08310bce17a0185503d01bd42664524f86d6131050256a1f661781439"
+    },
+    {
+      "path": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/index.html",
+      "bytes": 25512,
+      "sha256": "7b665a9b6f159d73635c8b222837297f3b862d395c40ddbbe55f1f7ffc64db06"
+    }
+  ],
+  "reviewer": "/root/year1_english_batch3_final_review",
+  "scope": "Exact current direct page, CSS, script and image dependencies, recursive CSS, conservative utilities, browser test, packages and inventory. No blanket approval of future dependency changes.",
+  "reviewer_type": "Fresh independent AI final reviewer, separate from author and first Year 2 content reviewer",
+  "browser_head": "b68be77e75873f884c00b0e4276c412b137ae779"
+}

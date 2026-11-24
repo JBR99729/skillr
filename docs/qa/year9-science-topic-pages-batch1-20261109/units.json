@@ -1,0 +1,1180 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U01",
+    "title": "The role of body systems in regulating and coordinating the...",
+    "unitSlug": "ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the",
+    "sourceOrder": 639,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "compare the role of body systems in regulating and coordinating the body’s response to a stimulus, and describe the operation of a negative feedback mechanism",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U01_E1",
+        "number": "E1",
+        "text": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E2",
+        "number": "E2",
+        "text": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E3",
+        "number": "E3",
+        "text": "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E4",
+        "number": "E4",
+        "text": "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E5",
+        "number": "E5",
+        "text": "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E6",
+        "number": "E6",
+        "text": "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u01-body-systems-homeostasis-coordination/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U01",
+        "label": "Content description",
+        "text": "compare the role of body systems in regulating and coordinating the body’s response to a stimulus, and describe the operation of a negative feedback mechanism",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E1",
+        "number": "E1",
+        "text": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E2",
+        "number": "E2",
+        "text": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E3",
+        "number": "E3",
+        "text": "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E4",
+        "number": "E4",
+        "text": "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E5",
+        "number": "E5",
+        "text": "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U01_E6",
+        "number": "E6",
+        "text": "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U02",
+    "title": "The form and function of reproductive cells and organs in...",
+    "unitSlug": "ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in",
+    "sourceOrder": 640,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "describe the form and function of reproductive cells and organs in animals and plants, and analyse how the processes of sexual and asexual reproduction enable survival of the species",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U02_E1",
+        "number": "E1",
+        "text": "examining how the male and female reproductive organ structures work collectively as a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E2",
+        "number": "E2",
+        "text": "explaining how the forms of male and female gametes relate to their specific function",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E3",
+        "number": "E3",
+        "text": "identifying and comparing sexual and asexual reproductive strategies in plants",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E4",
+        "number": "E4",
+        "text": "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E5",
+        "number": "E5",
+        "text": "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E6",
+        "number": "E6",
+        "text": "examining how the number of offspring produced by animals is related to the amount of parental care",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u02-reproductive-cells-organs-plants-animals/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U02",
+        "label": "Content description",
+        "text": "describe the form and function of reproductive cells and organs in animals and plants, and analyse how the processes of sexual and asexual reproduction enable survival of the species",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E1",
+        "number": "E1",
+        "text": "examining how the male and female reproductive organ structures work collectively as a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E2",
+        "number": "E2",
+        "text": "explaining how the forms of male and female gametes relate to their specific function",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E3",
+        "number": "E3",
+        "text": "identifying and comparing sexual and asexual reproductive strategies in plants",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E4",
+        "number": "E4",
+        "text": "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E5",
+        "number": "E5",
+        "text": "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U02_E6",
+        "number": "E6",
+        "text": "examining how the number of offspring produced by animals is related to the amount of parental care",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U03",
+    "title": "Represent the carbon cycle and examine how key processes including...",
+    "unitSlug": "ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes",
+    "sourceOrder": 641,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "represent the carbon cycle and examine how key processes including combustion, photosynthesis and respiration rely on interactions between Earth’s spheres (the geosphere, biosphere, hydrosphere and atmosphere)",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U03_E1",
+        "number": "E1",
+        "text": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E2",
+        "number": "E2",
+        "text": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E3",
+        "number": "E3",
+        "text": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E4",
+        "number": "E4",
+        "text": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E5",
+        "number": "E5",
+        "text": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E6",
+        "number": "E6",
+        "text": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U03_E7",
+        "number": "E7",
+        "text": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U03_E8",
+        "number": "E8",
+        "text": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E9",
+        "number": "E9",
+        "text": "calculating an individual’s carbon footprint, examining the impact of human activities and suggesting strategies to reduce carbon dioxide emissions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u03-carbon-cycle-processes-human-impacts/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U03",
+        "label": "Content description",
+        "text": "represent the carbon cycle and examine how key processes including combustion, photosynthesis and respiration rely on interactions between Earth’s spheres (the geosphere, biosphere, hydrosphere and atmosphere)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E1",
+        "number": "E1",
+        "text": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E2",
+        "number": "E2",
+        "text": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E3",
+        "number": "E3",
+        "text": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E4",
+        "number": "E4",
+        "text": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E5",
+        "number": "E5",
+        "text": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E6",
+        "number": "E6",
+        "text": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U03_E7",
+        "number": "E7",
+        "text": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U03_E8",
+        "number": "E8",
+        "text": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U03_E9",
+        "number": "E9",
+        "text": "calculating an individual’s carbon footprint, examining the impact of human activities and suggesting strategies to reduce carbon dioxide emissions",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U04",
+    "title": "Wave and particle models to describe energy transfer through different...",
+    "unitSlug": "ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through",
+    "sourceOrder": 642,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "use wave and particle models to describe energy transfer through different mediums and examine the usefulness of each model for explaining phenomena",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U04_E1",
+        "number": "E1",
+        "text": "describing the processes underlying convection and conduction of heat in terms of the particle model",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E2",
+        "number": "E2",
+        "text": "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E3",
+        "number": "E3",
+        "text": "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E4",
+        "number": "E4",
+        "text": "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E5",
+        "number": "E5",
+        "text": "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U04_E6",
+        "number": "E6",
+        "text": "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U04_E7",
+        "number": "E7",
+        "text": "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u04-wave-particle-models-energy-transfer/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U04",
+        "label": "Content description",
+        "text": "use wave and particle models to describe energy transfer through different mediums and examine the usefulness of each model for explaining phenomena",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E1",
+        "number": "E1",
+        "text": "describing the processes underlying convection and conduction of heat in terms of the particle model",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E2",
+        "number": "E2",
+        "text": "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E3",
+        "number": "E3",
+        "text": "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E4",
+        "number": "E4",
+        "text": "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U04_E5",
+        "number": "E5",
+        "text": "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U04_E6",
+        "number": "E6",
+        "text": "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U04_E7",
+        "number": "E7",
+        "text": "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U05",
+    "title": "Apply the law of conservation of energy to analyse system...",
+    "unitSlug": "ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system",
+    "sourceOrder": 643,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "apply the law of conservation of energy to analyse system efficiency in terms of energy inputs, outputs, transfers and transformations",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U05_E1",
+        "number": "E1",
+        "text": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E2",
+        "number": "E2",
+        "text": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E3",
+        "number": "E3",
+        "text": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E4",
+        "number": "E4",
+        "text": "investigating the efficiency of ground ovens used by First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U05_E5",
+        "number": "E5",
+        "text": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E6",
+        "number": "E6",
+        "text": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E7",
+        "number": "E7",
+        "text": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u05-conservation-energy-systems/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U05",
+        "label": "Content description",
+        "text": "apply the law of conservation of energy to analyse system efficiency in terms of energy inputs, outputs, transfers and transformations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E1",
+        "number": "E1",
+        "text": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E2",
+        "number": "E2",
+        "text": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E3",
+        "number": "E3",
+        "text": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E4",
+        "number": "E4",
+        "text": "investigating the efficiency of ground ovens used by First Nations Australians",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9U05_E5",
+        "number": "E5",
+        "text": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E6",
+        "number": "E6",
+        "text": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U05_E7",
+        "number": "E7",
+        "text": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U06",
+    "title": "Explain how the model of the atom changed following the...",
+    "unitSlug": "ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the",
+    "sourceOrder": 644,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "explain how the model of the atom changed following the discovery of electrons, protons and neutrons and describe how natural radioactive decay results in stable atoms",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U06_E1",
+        "number": "E1",
+        "text": "comparing the mass and charge of protons, neutrons and electrons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E2",
+        "number": "E2",
+        "text": "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E3",
+        "number": "E3",
+        "text": "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E4",
+        "number": "E4",
+        "text": "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E5",
+        "number": "E5",
+        "text": "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E6",
+        "number": "E6",
+        "text": "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E7",
+        "number": "E7",
+        "text": "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E8",
+        "number": "E8",
+        "text": "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u06-atomic-model-evidence-history/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U06",
+        "label": "Content description",
+        "text": "explain how the model of the atom changed following the discovery of electrons, protons and neutrons and describe how natural radioactive decay results in stable atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E1",
+        "number": "E1",
+        "text": "comparing the mass and charge of protons, neutrons and electrons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E2",
+        "number": "E2",
+        "text": "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E3",
+        "number": "E3",
+        "text": "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E4",
+        "number": "E4",
+        "text": "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E5",
+        "number": "E5",
+        "text": "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E6",
+        "number": "E6",
+        "text": "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E7",
+        "number": "E7",
+        "text": "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U06_E8",
+        "number": "E8",
+        "text": "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9U07",
+    "title": "Model the rearrangement of atoms in chemical reactions using a...",
+    "unitSlug": "ac9s9u07-model-the-rearrangement-of-atoms-in-chemical-reactions-using-a",
+    "sourceOrder": 645,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "model the rearrangement of atoms in chemical reactions using a range of representations, including word and simple balanced chemical equations, and use these to demonstrate the law of conservation of mass",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9U07_E1",
+        "number": "E1",
+        "text": "identifying reactants and products in chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E2",
+        "number": "E2",
+        "text": "using models and representations to show the rearrangement of atoms in chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E3",
+        "number": "E3",
+        "text": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E4",
+        "number": "E4",
+        "text": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E5",
+        "number": "E5",
+        "text": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E6",
+        "number": "E6",
+        "text": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9u07-atoms-rearrange-chemical-reactions/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9u07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9u07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9U07",
+        "label": "Content description",
+        "text": "model the rearrangement of atoms in chemical reactions using a range of representations, including word and simple balanced chemical equations, and use these to demonstrate the law of conservation of mass",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E1",
+        "number": "E1",
+        "text": "identifying reactants and products in chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E2",
+        "number": "E2",
+        "text": "using models and representations to show the rearrangement of atoms in chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E3",
+        "number": "E3",
+        "text": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E4",
+        "number": "E4",
+        "text": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E5",
+        "number": "E5",
+        "text": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9U07_E6",
+        "number": "E6",
+        "text": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9H01",
+    "title": "Explain how scientific knowledge is validated and refined, including the...",
+    "unitSlug": "ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined",
+    "sourceOrder": 646,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9H01_E1",
+        "number": "E1",
+        "text": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E2",
+        "number": "E2",
+        "text": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H01_E3",
+        "number": "E3",
+        "text": "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E4",
+        "number": "E4",
+        "text": "examining the scientific consensus supporting global warming",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E5",
+        "number": "E5",
+        "text": "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E6",
+        "number": "E6",
+        "text": "examining how Marie and Pierre Curie’s discovery of new elements was validated",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9h01-scientific-validation-peer-review-evidence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9H01",
+        "label": "Content description",
+        "text": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E1",
+        "number": "E1",
+        "text": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E2",
+        "number": "E2",
+        "text": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H01_E3",
+        "number": "E3",
+        "text": "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E4",
+        "number": "E4",
+        "text": "examining the scientific consensus supporting global warming",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E5",
+        "number": "E5",
+        "text": "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H01_E6",
+        "number": "E6",
+        "text": "examining how Marie and Pierre Curie’s discovery of new elements was validated",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9H02",
+    "title": "Investigate how advances in technologies enable advances in science, and...",
+    "unitSlug": "ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in",
+    "sourceOrder": 647,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9H02_E1",
+        "number": "E1",
+        "text": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E2",
+        "number": "E2",
+        "text": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E3",
+        "number": "E3",
+        "text": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E4",
+        "number": "E4",
+        "text": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E5",
+        "number": "E5",
+        "text": "exploring how scientists and engineers make machines more energy efficient",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E6",
+        "number": "E6",
+        "text": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E7",
+        "number": "E7",
+        "text": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9h02-technology-enables-scientific-advances/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9H02",
+        "label": "Content description",
+        "text": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E1",
+        "number": "E1",
+        "text": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E2",
+        "number": "E2",
+        "text": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E3",
+        "number": "E3",
+        "text": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E4",
+        "number": "E4",
+        "text": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E5",
+        "number": "E5",
+        "text": "exploring how scientists and engineers make machines more energy efficient",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E6",
+        "number": "E6",
+        "text": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H02_E7",
+        "number": "E7",
+        "text": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 9",
+    "levelLabel": "Year 9",
+    "yearNumber": 9,
+    "yearFolder": "year9",
+    "quizYearSegment": "year-9",
+    "code": "AC9S9H03",
+    "title": "Analyse the key factors that contribute to science knowledge and...",
+    "unitSlug": "ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and",
+    "sourceOrder": 648,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+    "levelDescription": "In Year 9 students consider the operation of systems at a range of scales and how those systems respond to external changes in order to maintain stability. They explore ways in which the human body system responds to changes in the external environment through physiological feedback mechanisms and the reproductive processes that enable a species to respond to a changing environment over time. They are introduced to the notion of the atom as a system of protons, electrons and neutrons, and how this system can change through nuclear decay. They learn that matter can be rearranged through chemical change and that these changes play an important role in many systems. They are introduced to the concepts of conservation of matter and energy and begin to develop a more sophisticated view of energy transfer. They explore these concepts as they relate to the global carbon cycle. Students begin to consider how well a sample or model represents the phenomena under study and use a range of evidence to support their conclusions. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Why was the discovery of neutrons important? How is scientific consensus established? What if it isn’t? Could synthesised organs make organ donation obsolete? How does the carbon cycle affect life on Earth? How do different technologies help humans to communicate?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S9H03_E1",
+        "number": "E1",
+        "text": "researching citizen science projects related to public health and examining why people would choose to be involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E2",
+        "number": "E2",
+        "text": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E3",
+        "number": "E3",
+        "text": "examining how assisted reproductive technologies have become widely used since their initial development",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E4",
+        "number": "E4",
+        "text": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H03_E6",
+        "number": "E6",
+        "text": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E7",
+        "number": "E7",
+        "text": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year9/science/ac9s9h03-science-adoption-evidence-trust-values/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-9/science/ac9s9h03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year9/science/teacher-slides/ac9s9h03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S9H03",
+        "label": "Content description",
+        "text": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E1",
+        "number": "E1",
+        "text": "researching citizen science projects related to public health and examining why people would choose to be involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E2",
+        "number": "E2",
+        "text": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E3",
+        "number": "E3",
+        "text": "examining how assisted reproductive technologies have become widely used since their initial development",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E4",
+        "number": "E4",
+        "text": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S9H03_E6",
+        "number": "E6",
+        "text": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S9H03_E7",
+        "number": "E7",
+        "text": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
+        "questionEligible": true
+      }
+    ]
+  }
+]

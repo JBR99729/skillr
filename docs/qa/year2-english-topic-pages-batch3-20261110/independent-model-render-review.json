@@ -1,0 +1,235 @@
+{
+  "reviewer": "/root/content_review independent AI complete content reviewer",
+  "scope": "All15 native model PNGs plus all7 retained SVG model PNGs individually opened and visually inspected. Root separately inspects42top/lessonviewportPNGs; no duplicated claim of those42.",
+  "decision": "PASS",
+  "run": 42755195623,
+  "commit": "d18b243cd63e430739b51cacce94e3971c2f2c9a",
+  "artifact_id": 13734967988,
+  "artifact_zip_sha256": "3518aca0b95de6b3bba48e319fa18dc67fecfbb4f966ede34843dcd67154e209",
+  "results_sha256": "fdc81df183e276f5f5dd7887f8b15ab36294a4a06c324976d47ac43f94dbf31a",
+  "results_summary": {
+    "pages": 7,
+    "javascript_disabled_visits": 21,
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "javascript_smokes": 7,
+    "problems": []
+  },
+  "inspection_notes": [
+    "LY06 original draft/revision and purpose sequence match teaching; retained five-part story planning accurately labelled.",
+    "LY07 reading sequence,cue and retained bee topic-opening model are readable and support the same intended presentation.",
+    "LY08 font models clearly identified as typed spacing only; actual school-style writing staged explicitly. Retained three-word spacing model legible.",
+    "LY09 clamp/camp and fresh/flesh change exactly one specified phoneme; retained f/r/o/g cue table retains first/first/middle/last positions.",
+    "LY10 igh vowel with separate t and kn/cluster/compound table correct; retained ai grouping and caption accurate.",
+    "LY11 said/friend unexpected vowel spellings and jumped ending correct; retained said mapping accurately places first/middle/last sounds.",
+    "LY12 prefix/suffix/base table and family examples match meanings and sentence uses; retained helper segmentation correct."
+  ],
+  "models": [
+    {
+      "file": "AC9E2LY06-1440-native-1.png",
+      "sha256": "7cbbc402946ca2d282315a1ce2341a798c521931040c4ed02b8449665051aa23",
+      "dimensions": [
+        1042,
+        77
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY06-1440-native-2.png",
+      "sha256": "f915fe47ff37030124c604dda48e6cffa3b5da42e5af3f03a1f345f2b347ff8e",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY06-1440-retained-1.png",
+      "sha256": "6ddc1688061c26a575089c2914fe88d5fe30ec34753cce65f76e1ec00f0f4e3d",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY07-1440-native-1.png",
+      "sha256": "111e5e754c613a285a2bac90c5f0a0cd71c7b8831283975606f612db2925c7fe",
+      "dimensions": [
+        1042,
+        125
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY07-1440-native-2.png",
+      "sha256": "77bf510b23029f2c49c12f15cfa8d1e399dccd5b50c34014688c433017029669",
+      "dimensions": [
+        1042,
+        145
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY07-1440-retained-1.png",
+      "sha256": "9c49d2a1dc86b914ead6a3f098e9623fcdc2dfc3ee9ba09d62b5f059ccfc0686",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY08-1440-native-1.png",
+      "sha256": "c7fade3f25a93a3cb9bb86b2e6c87c26c438112ac3a965de6f3481fad4f3d645",
+      "dimensions": [
+        1042,
+        105
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY08-1440-native-2.png",
+      "sha256": "b37bdae52027b8c355cd3ead8de90074ef140d5c87acbd612eee9a6b3bbbf296",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY08-1440-retained-1.png",
+      "sha256": "b93b2cb5d6db3e5515e0d36b950208892ce50e235828e796e10743494e0ce81d",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY09-1440-native-1.png",
+      "sha256": "cd9237ab606e993c795c0a329e50d564985646a720d100ddfe903a13c8d14835",
+      "dimensions": [
+        1042,
+        175
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY09-1440-native-2.png",
+      "sha256": "6382a523904ef1d534d932079dff9a31f48face56fd72bc28a833e78f721c49f",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY09-1440-retained-1.png",
+      "sha256": "d6806bd5a402e20f605da9ead1d8600344f3d37663a646c9d6884aaee3cc5b3c",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY10-1440-native-1.png",
+      "sha256": "452ec479381aac30e8a6bc6eec0185e698f255ccf1d02bcf978e4cd1fd243ac0",
+      "dimensions": [
+        1042,
+        258
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY10-1440-native-2.png",
+      "sha256": "89eed3cdfb1b04aeb410d99b8bada1332f1bed5e30ccabac62997ebe48d9b16f",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY10-1440-retained-1.png",
+      "sha256": "360be2b7ffc3f0a6e4e2989eb222df8ba9fa72f94570a8a9b5aad2f0cb7e973e",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY11-1440-native-1.png",
+      "sha256": "48aa2c9c1556a76e7428c403d419515ff35ab02e25b4224c1a52e0c67e1026c8",
+      "dimensions": [
+        1042,
+        217
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY11-1440-native-2.png",
+      "sha256": "1d8d93f5e6391225502e69e9864893fe748243e78c10583c8c0a56a9bde2c438",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY11-1440-retained-1.png",
+      "sha256": "de42e5c51f9c36608248df751820979b52505a3a7feef55a0925ddebc10ef8c8",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY12-1440-native-1.png",
+      "sha256": "31bf84f99aae0f406222bcccec8cefce11f0a7f779e8ff9c10d6521c25dc55d2",
+      "dimensions": [
+        1042,
+        216
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY12-1440-native-2.png",
+      "sha256": "0af9d321ee506a561b0248882e15baf0633b54ec891148d09a3566573827af00",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY12-1440-native-3.png",
+      "sha256": "81d46a642f04632ee8a776ba76d2f951f615ffb63d29dad55395d1417380ef8b",
+      "dimensions": [
+        1010,
+        301
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    },
+    {
+      "file": "AC9E2LY12-1440-retained-1.png",
+      "sha256": "222e77e4cbc7f7b9ca40927434ea99e2d55dffd68854c931a9227174b0ce5135",
+      "dimensions": [
+        720,
+        297
+      ],
+      "inspection": "Individually opened with view_image and inspected by /root/content_review; PASS readable content, accurate relationships and no clipping/overlap/broken glyph."
+    }
+  ],
+  "limitations": [
+    "Native-model element captures are at1440px; actual browser harness separately exercises21pagevisits and expandedretainedoverflow/phoneSVGpanning at1440/768/390.",
+    "This reviewer did not operate the hosted controls interactively; inspected actual stored harness/results and screenshots.",
+    "No heard source audio,child performance,full screen-reader interaction,appgameplay/progress or linkedproductcertification."
+  ]
+}

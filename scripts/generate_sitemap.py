@@ -37,7 +37,7 @@ HUMAN_LINK_LABELS={
  "/teach/":"Teach by year",
  "/products/":"Products and downloads",
  "/homeschooling-australia/":"Homeschooling Australia planner and progress record",
- "/worksheets/":"Free worksheets and homework",
+ "/worksheets/":"Paid worksheets",
  "/blogs/":"Australian Curriculum guides and learning articles",
  "/updates.html":"Latest SkillrHub updates",
  "/why-skillrhub.html":"Why SkillrHub",
@@ -146,6 +146,8 @@ def is_functional(path):
 
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
+ # Two repaired year overviews are genuine entry pages, not retired hub aliases.
+ if url in {"/year5/", "/year6/"}:return True
  parts=[p for p in url.strip("/").split("/") if p]
  if url in HUMAN_SITE_LINKS|HUMAN_HELP_LINKS|HUMAN_MAPPING_LINKS:return True
  if parts[0] in {"learn","teach"}:
@@ -246,6 +248,13 @@ def main():
  for item in pages:
   if human_sitemap_page(item[0]):
    sections[human_sitemap_key(item[0])].append((item[0],human_sitemap_label(item[0],item[1]),item[2],item[3]))
+ # Human navigation retains year/subject choices; XML submits only /learn/.
+ for year in range(11):
+  key='foundation' if year==0 else f'year{year}'
+  label=SECTION_LABELS[key]
+  sections[key].append((f'/learn/?year={year}',f'{label} Australian Curriculum','',''))
+  for subject in ('maths','science','english'):
+   sections[key].append((f'/learn/?year={year}&subject={subject}',f'{label} {subject.title()} curriculum resources','',''))
  html_order=["site","learn","teach","products","homeschooling-australia","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
  blocks=[]
@@ -262,7 +271,7 @@ def main():
 <meta name="robots" content="index,follow"><link rel="canonical" href="{BASE}/sitemap.html">
 <meta property="og:title" content="SkillrHub Australian Curriculum Resources Sitemap"><meta property="og:description" content="Find Foundation to Year 10 Australian Curriculum Maths, Science and English learning resources."><meta property="og:type" content="website"><meta property="og:url" content="{BASE}/sitemap.html">
 <link rel="manifest" href="/manifest.webmanifest"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{schema}</script><meta name="google-adsense-account" content="ca-pub-7734963540104771"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","G-8P22BET45N");</script><!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> --></head>
-<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/updates.html">Updates</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Australian Curriculum learning resources sitemap</h1><p>Jump to a Foundation–Year 10 Maths, Science or English curriculum hub, worksheets, guides or curriculum mappings. Individual topic pages are linked from each subject hub so this directory stays quick to scan.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 SkillrHub. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=7"></script></body></html>'''
+<body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Paid worksheets</a><a href="/updates.html">Updates</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Australian Curriculum learning resources sitemap</h1><p>Jump to a Foundation–Year 10 Maths, Science or English curriculum hub, worksheets, guides or curriculum mappings. Individual topic pages are linked from each subject hub so this directory stays quick to scan.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 SkillrHub. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=7"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
  search_count=write_search_index(pages)
  print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")

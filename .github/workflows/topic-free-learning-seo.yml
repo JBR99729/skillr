@@ -1,0 +1,59 @@
+name: Verify free topic examples and sample worksheet SEO
+on:
+  push:
+    branches: [main, seo/free-topic-examples-practice-20261116]
+    paths:
+      - '**/*.html'
+      - scripts/update_topic_learning_seo.py
+      - scripts/apply_free_sample_topic_seo.py
+      - scripts/normalize_resource_messaging.py
+      - scripts/test_topic_learning_seo.py
+      - scripts/test_free_sample_topic_seo.py
+      - .github/workflows/topic-free-learning-seo.yml
+permissions:
+  contents: write
+concurrency:
+  group: topic-free-learning-seo-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prepare bounded topic metadata on the staging branch
+        if: github.ref_name == 'seo/free-topic-examples-practice-20261116'
+        run: python3 scripts/update_topic_learning_seo.py
+      - name: Verify evidence, canonical metadata and retained lesson content
+        run: |
+          python3 scripts/update_topic_learning_seo.py --check
+          python3 scripts/apply_free_sample_topic_seo.py --check
+          python3 scripts/test_topic_learning_seo.py
+          node scripts/validate_year8_maths_static_v2.mjs
+          node scripts/validate_year8_science_static_v2.mjs
+          python3 scripts/test_free_tpt_samples.py
+          python3 scripts/validate_resource_messaging.py
+          node scripts/audit_search_ai_integrity.mjs
+          python3 scripts/validate_discovery_navigation.py
+          git diff --check
+      - name: Save the complete staged result for reviewed promotion
+        if: github.ref_name == 'seo/free-topic-examples-practice-20261116'
+        run: |
+          set -euo pipefail
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' assets/site-search-index.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Describe free examples and practice on all 676 canonical topics'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin "${GITHUB_REF_NAME}"
+          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
