@@ -108,6 +108,8 @@ jobs:
           node --check pwa-register.js
           node --check quiz/assets/script.js
           node --check quiz/assets/script-runtime-v115.js
+      - name: Preserve price-free resource purchase links
+        run: node --test scripts/tests/resource-links-catalogue.test.mjs
       - name: Verify optional feedback audio loads lazily
         run: node --test scripts/tests/test_quiz_audio_loading.mjs
 

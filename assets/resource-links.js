@@ -17,7 +17,7 @@
   }
 
   function isPaid(product) {
-    return product && product.available && !product.free && Number(product.price || 0) > 0 && /^https:\/\/www\.teacherspayteachers\.com\//i.test(product.tptUrl || '');
+    return product && product.available && product.free === false && /^https:\/\/www\.teacherspayteachers\.com\//i.test(product.tptUrl || '');
   }
 
   function trackedTptUrl(rawUrl, code, placement, productId) {
@@ -63,7 +63,6 @@
         id: product.id + '-bundle',
         title: 'Matching bundle',
         tptUrl: product.bundleTptUrl,
-        price: product.bundlePrice || '',
         description: 'Get this resource together with its matching companion resources.'
       };
     }
@@ -110,7 +109,7 @@
 
     const matches = products
       .filter(p => isPaid(p) && sameCode(p, code))
-      .sort((a, b) => productPriority(a) - productPriority(b) || Number(a.price || 0) - Number(b.price || 0));
+      .sort((a, b) => productPriority(a) - productPriority(b));
 
     if (!matches.length) return;
 
@@ -142,17 +141,16 @@
 
     const actions = document.createElement('div');
     actions.className = 'skillr-tpt-funnel__actions';
-    const price = Number(product.price || 0);
-    actions.appendChild(makeTptLink(product, code, 'topic_resource_panel', 'View full resource on TPT' + (price ? ' · US$' + price.toFixed(2) : '')));
+    actions.appendChild(makeTptLink(product, code, 'topic_resource_panel', 'View price on TpT'));
 
     if (bundle && bundle.tptUrl) {
-      const bundleLink = makeTptLink(bundle, code, 'topic_bundle_upsell', 'See matching bundle' + (bundle.price ? ' · US$' + Number(bundle.price).toFixed(2) : ''));
+      const bundleLink = makeTptLink(bundle, code, 'topic_bundle_upsell', 'See matching bundle on TpT');
       bundleLink.classList.add('skillr-tpt-funnel__button--secondary');
       actions.appendChild(bundleLink);
     }
 
     if (wholeYear && wholeYear.tptUrl && (!bundle || wholeYear.tptUrl !== bundle.tptUrl)) {
-      const yearLink = makeTptLink(wholeYear, code, 'whole_year_bundle_upsell', 'See complete Year 1 ' + (String(product.subject || '').toLowerCase() === 'science' ? 'Science' : 'Maths') + ' bundle' + (wholeYear.price ? ' · US$' + Number(wholeYear.price).toFixed(2) : ''));
+      const yearLink = makeTptLink(wholeYear, code, 'whole_year_bundle_upsell', 'See complete Year ' + product.year + ' ' + (product.subjectLabel || product.subject || '') + ' bundle on TpT');
       yearLink.classList.add('skillr-tpt-funnel__button--secondary');
       actions.appendChild(yearLink);
     }
@@ -246,10 +244,9 @@
           const title = document.createElement('h3'); title.textContent = product.title;
           const description = document.createElement('p'); description.textContent = product.description;
           const details = document.createElement('p'); details.className = 'small'; details.textContent = product.curriculumCodes.join(' · ') + ' · ' + product.yearLabel + ' ' + product.subjectLabel;
-          const price = document.createElement('p'); price.className = 'price'; price.textContent = product.price == null || product.price === '' || !Number.isFinite(Number(product.price)) ? 'See current price on TPT' : 'US$' + Number(product.price).toFixed(2);
-          const action = makeTptLink(product, (product.curriculumCodes || [])[0] || '', 'teach_catalogue', 'View on TPT');
+          const action = makeTptLink(product, (product.curriculumCodes || [])[0] || '', 'teach_catalogue', product.free ? 'View free sample on TpT' : 'View price on TpT');
           action.classList.add('button');
-          card.append(title, description, details, price, action); grid.appendChild(card);
+          card.append(title, description, details, action); grid.appendChild(card);
         });
         section.append(heading, grid);
         const support = document.querySelector('main > .support');
