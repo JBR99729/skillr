@@ -4,6 +4,16 @@ on:
     branches: [main]
     paths:
       - scripts/sync_topic_bank_links.py
+      - scripts/topic_practice_journey.py
+      - scripts/test_topic_practice_journey.py
+      - scripts/validate_topic_app_buttons.py
+      - assets/topic-practice-link.css
+      - .github/workflows/topic-app-buttons.yml
+  pull_request:
+    paths:
+      - scripts/sync_topic_bank_links.py
+      - scripts/topic_practice_journey.py
+      - scripts/test_topic_practice_journey.py
       - scripts/validate_topic_app_buttons.py
       - assets/topic-practice-link.css
       - .github/workflows/topic-app-buttons.yml
@@ -11,10 +21,30 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: topic-app-buttons
+  group: topic-app-buttons-${{ github.event_name == 'pull_request' && github.ref || 'production' }}
   cancel-in-progress: false
 jobs:
+  verify-generated-candidate:
+    if: github.event_name == 'pull_request'
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate and verify the static candidate without publishing
+        run: |
+          python3 scripts/test_topic_practice_journey.py
+          python3 scripts/sync_topic_bank_links.py --all --write
+          python3 scripts/validate_topic_app_buttons.py
+          python3 scripts/test_topic_practice_journey.py --check-rollout
+          git diff --check
+          git add -- foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          candidate=$(git write-tree)
+          node scripts/check_release_integrity.mjs HEAD "$candidate"
   publish:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -35,6 +65,7 @@ jobs:
           python3 scripts/tidy_sitemap_html.py
       - name: Validate every canonical topic and navigation
         run: |
+          python3 scripts/test_topic_practice_journey.py
           python3 scripts/validate_topic_app_buttons.py
           python3 scripts/validate_discovery_navigation.py
           python3 scripts/validate_sitemap_index_quality.py
