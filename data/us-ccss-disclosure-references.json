@@ -208,19 +208,6 @@
       ]
     },
     {
-      "code": "AC9M6N02",
-      "path": "year6/maths/ac9m6n02-and-describe-the-properties-of-prime-composite-and-square/index.html",
-      "disclosure_id": "curriculum-equivalents",
-      "references": [
-        {
-          "code": "4.OA.B.4",
-          "source": "https://www.thecorestandards.org/Math/Content/4/OA/B/4/",
-          "lesson_evidence": "What are the factor pairs of 12?",
-          "overlap": "Factor pairs and prime/composite classification within 1–100; not the entire multiples component."
-        }
-      ]
-    },
-    {
       "code": "AC9M6N03",
       "path": "year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/index.html",
       "disclosure_id": "curriculum-equivalents",
@@ -236,19 +223,6 @@
           "source": "https://www.thecorestandards.org/Math/Content/4/NF/A/2/",
           "lesson_evidence": "compare 1/4 and 2/3 on one line",
           "overlap": "Comparing fractions by position on one number line with the same whole."
-        }
-      ]
-    },
-    {
-      "code": "AC9M6N04",
-      "path": "year6/maths/ac9m6n04-apply-knowledge-of-place-value-to-add-and-subtract-decimals/index.html",
-      "disclosure_id": "curriculum-equivalents",
-      "references": [
-        {
-          "code": "5.NBT.B.7",
-          "source": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/",
-          "lesson_evidence": "Add and subtract decimals",
-          "overlap": "Decimal addition and subtraction to hundredths using place value; not decimal multiplication or division."
         }
       ]
     },

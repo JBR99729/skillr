@@ -9,7 +9,9 @@ const ROOT = path.join(path.dirname(SCRIPT), '..');
 const readJson = (name) => JSON.parse(fs.readFileSync(path.join(ROOT, 'data', name), 'utf8'));
 const { pages } = readJson('us-ccss-disclosure-references.json');
 const population = readJson('us-ccss-experiment-20261123.json').population;
-const protectedCodes = new Set(population.map(({ code }) => code));
+// Also preserve the existing Year 6 no-visual comparison guides.
+const visualComparisonCodes = ['AC9M6N02', 'AC9M6N04'];
+const protectedCodes = new Set([...population.map(({ code }) => code), ...visualComparisonCodes]);
 const protectedPaths = new Set(population.map(({ path }) => path));
 const references = new Map();
 const paths = new Set();
@@ -125,7 +127,7 @@ function checkScope(base) {
   ]);
   for (const changed of git(['diff', '--name-status', base, '--']).trim().split('\n').filter(Boolean)) {
     const [type, file] = changed.split('\t');
-    if (!['A', 'M'].includes(type) || !(paths.has(file) || bootstrapFiles.has(file)) || protectedPaths.has(file))
+    if (!['A', 'M'].includes(type) || !(paths.has(file) || bootstrapFiles.has(file)) || protectedPaths.has(file) || visualComparisonCodes.some((code) => file.includes('/' + code.toLowerCase() + '-')))
       throw new Error(`Unexpected scope change: ${changed}`);
   }
   for (const page of pages) {
@@ -133,7 +135,7 @@ function checkScope(base) {
     const after = fs.readFileSync(path.join(ROOT, page.path), 'utf8');
     if (swapOriginalRegion(after, before, page) !== before) throw new Error(`${page.code}: changes outside the approved disclosure region`);
   }
-  console.log(`Scope verified against ${base}; all ${population.length} experiment pages unchanged.`);
+  console.log(`Scope verified against ${base}; all ${population.length} CCSS experiment pages and ${visualComparisonCodes.length} Year 6 visual comparisons unchanged.`);
 }
 
 if (process.argv[1] && path.resolve(process.argv[1]) === SCRIPT) {
