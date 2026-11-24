@@ -112,7 +112,8 @@ def product_page(p, units):
 
 
 def card(p):
-    return f'''<article class="rl-product" data-product-id="{pid(p)}"><a class="rl-cover" href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer"><img src="{ESC(p['image'], quote=True)}" alt="{ESC(p['title'], quote=True)} cover" width="525" height="525" loading="lazy"></a><div class="rl-product-copy"><p class="rl-product-meta">{ESC(p['yearLabel'] + ' · ' + p['subjectLabel'])}</p><h3><a href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer">{ESC(p['title'])}</a></h3><a class="rl-product-link" href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer">{'Free sample on TpT' if p.get('free') else 'View price on TpT'} ↗</a></div></article>'''
+    details = '<a class="rl-product-link" href="' + ESC(p['url'], quote=True) + '">Resource details</a> · ' if p['url'].startswith('/') and p['url'].endswith('/') else ''
+    return f'''<article class="rl-product" data-product-id="{pid(p)}"><a class="rl-cover" href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer"><img src="{ESC(p['image'], quote=True)}" alt="{ESC(p['title'], quote=True)} cover" width="525" height="525" loading="lazy"></a><div class="rl-product-copy"><p class="rl-product-meta">{ESC(p['yearLabel'] + ' · ' + p['subjectLabel'])}</p><h3><a href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer">{ESC(p['title'])}</a></h3>{details}<a class="rl-product-link" href="{ESC(p['tptUrl'], quote=True)}" target="_blank" rel="noopener noreferrer">{'Free sample on TpT' if p.get('free') else 'View price on TpT'} ↗</a></div></article>'''
 
 
 def native_folders(products, market='', format=''):

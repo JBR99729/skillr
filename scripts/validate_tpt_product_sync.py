@@ -24,6 +24,8 @@ class Cards(HTMLParser):
 
 
 def main():
+    from validate_tpt_catalogue import validate
+    assert validate(), 'Current complete-store reconciliation failed'
     observed = json.loads(sync.SNAPSHOT.read_text()); products = json.loads(sync.CATALOGUE.read_text())
     ids = [sync.pid(p) for p in products]; by_id = dict(zip(ids, products))
     assert len(ids) == len(set(ids)), 'Duplicate listing ID'
@@ -32,7 +34,6 @@ def main():
     units = {u['code']: u for u in json.loads((ROOT / 'data/curriculum-units.json').read_text())['units']}
     for pid in report['addedIds']:
         p = by_id[pid]; row = next(x for x in observed['products'] if x['productId'] == pid)
-        assert p['price'] == sync.price(row) and p['title'] == row['title']
         assert p['market'] in ('au', 'us') and p['subject'] in ('maths', 'english', 'science')
         assert p['hasSlides'] or p['hasPrintables']
         page = (ROOT / p['url'].lstrip('/') / 'index.html').read_text()
@@ -55,7 +56,7 @@ def main():
         assert set(parser.ids) == expected, ('Static folder catalogue differs from live folder data', name)
     print(json.dumps({'store_listings_covered': len(observed['products']), 'new_products_checked': len(report['addedIds']),
                       'duplicate_listing_ids': 0, 'duplicate_visible_cards': 0, 'reciprocal_topic_links': 'passed',
-                      'folder_and_format_assignments': 'passed', 'observed_prices': 'passed'}))
+                      'folder_and_format_assignments': 'passed', 'price_link_policy': 'passed'}))
 
 
 if __name__ == '__main__':

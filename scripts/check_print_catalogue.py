@@ -68,13 +68,17 @@ for product in products:
     if not product.get('available'):
         continue
     parsed = urlsplit(product['url'])
+    if parsed.netloc == 'www.teacherspayteachers.com':
+        assert product['url'] == product['tptUrl']
+        continue
     if parsed.path == '/product.html':
         assert (ROOT / 'product.html').exists(), product['url']
         assert parsed.query == f"id={product['id']}", product['url']
         continue
     target = ROOT / parsed.path.lstrip('/') / 'index.html'
-    graph = Page(target.read_text()).schemas[0]['@graph']
-    schema = next(item for item in graph if item['@type'] == 'Product')
-    assert schema['offers'].get('price') == product.get('price')
-    assert schema['offers']['url'] == product['tptUrl']
-print(f'Checked {len(PAGES)} catalogue pages: links, canonicals, breadcrumbs, sitemap and product offers.')
+    from validate_tpt_catalogue import nodes, PRICE_KEYS
+    graph = [node for value in Page(target.read_text()).schemas for node in nodes(value)]
+    schema = next(item for item in graph if item.get('@type') == 'LearningResource' and item.get('url') == 'https://skillrhub.com'+product['url'])
+    assert schema['sameAs'] == product['tptUrl']
+    assert all(not (PRICE_KEYS & item.keys()) and 'offers' not in item for item in graph)
+print(f'Checked {len(PAGES)} catalogue pages: links, canonicals, breadcrumbs, sitemap and price-free resource metadata.')

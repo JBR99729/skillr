@@ -304,3 +304,9 @@ The owner further clarified the three existing public offerings: detailed topic 
 ## 17. Genuine free TpT resource discovery — 16 November 2026
 
 The owner authorised using the complete verified collection of genuinely free TpT resources to increase useful public resource value. Present these as a distinct, year-and-subject directory on the existing worksheet hub, with exact TpT listing links and matching learning guides where available. Separate printable worksheet resources from teaching-slide and reading PowerPoint resources, and distinguish Australian and US resources. Verify the full live Free-filter inventory before changing the collection; do not rely on stale catalogue free flags. TpT download requirements must be clear. Paid complete packs remain separately purchased, and withdrawn website PDF/player routes remain noindex. Keep llms.txt, llms-full.txt and ai-index.json aligned with the current verified collection.
+
+## 18. TpT catalogue prices and curriculum metadata — 24 November 2026
+
+The owner requires SkillrHub to show no numerical TpT prices or savings. Use a direct **View price on TpT** link; TpT is the source for the current price. Keep genuine free samples labelled separately. Omit numerical prices from current public catalogue data and structured data as well as visible product and resource-directory pages. Use LearningResource metadata for teaching resources without publishing incomplete Product offers. Preserve historical evidence and existing routes.
+
+Use natural, specific long-tail phrases in product titles and descriptions, grounded in the actual listing: year/grade, topic, resource type and verified curriculum identifier. US products use US grade labels and verified US/Common Core references; Australian products use Australian year labels and verified Australian Curriculum references. Do not invent cross-curriculum equivalence or publish meta-keywords tags as a Google SEO measure.
