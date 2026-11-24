@@ -15,8 +15,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-HOME_DESCRIPTION = ('Australian Curriculum learning resources, examples and free practice questions. '
-                    'Save progress with a free account. Optional paid worksheets.')
+HOME_DESCRIPTION = 'Free Australian Curriculum topic guides and examples, online practice and topic assessments where available. Free printable samples; optional paid packs.'
 REVIEW_BLOCK = re.compile(r'<!-- resource-review:start -->[\s\S]*?<!-- resource-review:end -->\n?')
 
 

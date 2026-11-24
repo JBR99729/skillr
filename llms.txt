@@ -4,9 +4,9 @@
 
 ## Learning offer and access
 
-Australian Curriculum learning resources, clear explanations, learning examples and free practice questions. Save progress with a free account. Optional paid worksheet packs are separate.
+Free Australian Curriculum topic guides and worked examples for students, parents and teachers. Practise online, then take a free assessment on the same topic where available. Free printable samples are available for selected topics; complete paid worksheet packs on Teachers Pay Teachers (TpT) are optional.
 
-Public topic guides and learning examples are free without login. Free practice is available only for published banks: supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, including guest questions already used. Confirm the email address and select a learner profile to save progress. Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. Do not describe every topic as having a published practice bank or promise unlimited free practice.
+Topic guides are free without signing in. Online practice and assessments are available only for published banks. On supported skills, guests can try up to 20 practice questions a day. Use a free account to save progress. To take a topic assessment, sign in with a free account, select a learner profile and accept the test rules. Start at https://skillrhub.com/free-k-10-question-bank.html#available-banks and choose the same curriculum code. Check https://skillrhub.com/faq.html#free-practice for access details and https://skillrhub.com/worksheets/#free-tpt-samples for printable samples. TpT requires an account to download its samples; no worksheet purchase is needed for online practice or assessment.
 
 
 <!-- free-tpt-resources:start -->
@@ -63,7 +63,7 @@ For parent-guided activities, an adult can use a public topic guide or worked ex
 
 For teachers, tutors and home educators seeking easy-to-follow teaching resources, the curriculum-code structure connects public explanations to available Teacher Slides, worksheets, practice and assessments. Open the matching topic guide and check which resources are published.
 
-Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
+Guests can try up to 20 practice questions a day on supported skills. A free account saves progress. Practise a skill first, then take the free assessment on the same topic where available. For an assessment, sign in, select the learner profile and accept the test rules.
 
 As checked on 1 November 2026, the homepage advertises a coming-soon introductory membership at A$24.99 per year per student profile. Payments are not enabled yet. A$24.99 is an introductory price. Prices will increase in future; check the current price and applicable terms before purchase. Free registration does not reserve the rate. Check https://skillrhub.com/ for current price, launch status and terms.
 
@@ -135,7 +135,7 @@ The app provides original, research-informed questions mapped to individual curr
 
 366 curriculum-code banks have published Practice and separate Assessment activities, verified 14 November 2026. Guest practice is available for 310 codes; 56 require a free account for practice. Availability and access vary by code and subject. Published Maths banks span Foundation–Year 8, with selected English banks from Foundation–Year 5 and Science banks from Foundation–Year 4. The code list shows exact availability; the F–10 topic-guide directory is broader than the app bank. Use https://skillrhub.com/data/app-question-banks.json for current published Practice, Assessment and guest-access flags.
 
-Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
+Guests can try up to 20 practice questions a day on supported skills. A free account saves progress. Practise a skill first, then take the free assessment on the same topic where available. For an assessment, sign in, select the learner profile and accept the test rules.
 
 - Free practice for a curriculum code: `https://app.skillrhub.com/?try=1&skill=CODE` (guest-supported banks).
 - Free-account practice: `https://app.skillrhub.com/?login=1&skill=CODE` (account-required banks).
