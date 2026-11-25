@@ -78,7 +78,7 @@ def nav(current: str = "Homeschool") -> str:
 
 def footer() -> str:
     return """<footer>
-  <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Home</a><a href="/homeschooling-australia/">Homeschooling</a><a href="/homeschooling-australia/foundation/">Foundation pack</a><a href="/homeschooling-australia/year-1/">Year 1 pack</a><a href="/homeschooling-australia/year-2/">Year 2 pack</a><a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/worksheets/">Worksheets</a></nav>
+  <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Home</a><a href="/homeschooling-australia/">Homeschooling</a><a href="/homeschooling-australia/foundation/">Foundation pack</a><a href="/homeschooling-australia/year-1/">Year 1 sample</a><a href="/homeschooling-australia/year-2/">Year 2 sample</a><a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/worksheets/">Worksheets</a></nav>
   <p>© 2026 SkillrHub. All rights reserved.</p>
 </footer>"""
 
@@ -108,7 +108,7 @@ def subject_summary_cards(year_folder: str, grouped: dict[str, list[dict]]) -> s
         cards.append(
             f"""<a class="homeschool-pack-card" href="#{esc(slug)}">
   <strong>{esc(label)}</strong>
-  <span>{count} mapped skills with topic pages, quizzes, tests and worksheets</span>
+  <span>{count} mapped skills with topic guides, practice and worksheet links</span>
 </a>"""
         )
     cards.append(
@@ -136,7 +136,6 @@ def skill_rows(units: list[dict]) -> str:
   <td><a href="{esc(teach_url(unit))}">Teach</a></td>
   <td><a href="{esc(unit["worksheetUrl"])}">Worksheet</a></td>
   <td><a href="{esc(unit["practiceUrl"])}">Practice</a></td>
-  <td><a href="{esc(unit["testUrl"])}">Test</a></td>
   <td class="print-check">□ Planned<br>□ Taught<br>□ Practised<br>□ Checked</td>
 </tr>"""
         )
@@ -155,7 +154,7 @@ def subject_sections(grouped: dict[str, list[dict]]) -> str:
   </div>
   <div class="homeschool-table-wrap">
     <table class="homeschool-table homeschool-pack-table">
-      <thead><tr><th>Curriculum skill</th><th>Learn</th><th>Teach</th><th>Worksheet</th><th>Practice</th><th>Test</th><th>Record</th></tr></thead>
+      <thead><tr><th>Curriculum skill</th><th>Learn</th><th>Teach</th><th>Worksheet</th><th>Practice</th><th>Record</th></tr></thead>
       <tbody>{skill_rows(units)}</tbody>
     </table>
   </div>
@@ -172,7 +171,7 @@ def year_page(year_folder: str, label: str, path_segment: str, units: list[dict]
     total = sum(len(items) for items in grouped.values())
     path = f"/homeschooling-australia/{path_segment}/"
     quiz_url = f"/homeschooling-australia/{path_segment}/"
-    description = f"Free {label} homeschool planner pack with Australian Curriculum skill links, worksheets, online practice, tests and printable progress records."
+    description = f"Free printable {label} homeschool planning sample with Australian Curriculum skill links, online practice and progress checklists. Personal planning is in the SkillrHub app."
     subject_links = " ".join(f'<a href="/{year_folder}/curriculum/{slug}/">{name}</a>' for slug, name in SUBJECTS)
     return f"""<!DOCTYPE html>
 <html lang="en-AU">
@@ -183,14 +182,14 @@ def year_page(year_folder: str, label: str, path_segment: str, units: list[dict]
   <nav class="breadcrumb" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/homeschooling-australia/">Homeschooling Australia</a></li><li aria-current="page">{esc(label)} planner pack</li></ol></nav>
   <section class="homeschool-hero">
     <p class="ux-eyebrow">{esc(label)} homeschool pack</p>
-    <h1>{esc(label)} homeschool planner, quizzes and printable progress record</h1>
-    <p>This pack organises {total} mapped {esc(label)} Maths, Science and English skills into a parent-friendly homeschool pathway. Use the links to teach, practise, test and keep printable records without a learner login.</p>
-    <div class="homeschool-actions"><button class="ux-primary" type="button" onclick="window.print()">Print this pack</button><a class="ux-secondary" href="/learn/{'foundation' if year_folder == 'foundation' else year_folder.replace('year', 'year-')}/">Open Learn hub</a><a class="ux-secondary" href="/teach/{'foundation' if year_folder == 'foundation' else year_folder.replace('year', 'year-')}/">Open Teach hub</a></div>
+    <h1>{esc(label)} homeschool planning sample and printable checklist</h1>
+    <p>This sample covers {total} mapped {esc(label)} Maths, Science and English skills. Browse and print this sample without signing in. For your child’s own plan or a free topic test, sign in to the app and choose a learner.</p>
+    <div class="homeschool-actions"><a class="ux-primary" href="https://app.skillrhub.com/?login=1">Open your planner in SkillrHub</a><button class="ux-secondary" type="button" onclick="window.print()">Print this checklist</button><a class="ux-secondary" href="/learn/{'foundation' if year_folder == 'foundation' else year_folder.replace('year', 'year-')}/">Open Learn hub</a><a class="ux-secondary" href="/teach/{'foundation' if year_folder == 'foundation' else year_folder.replace('year', 'year-')}/">Open Teach hub</a></div>
   </section>
   <section class="homeschool-router"><h2>Start here</h2><div class="homeschool-link-grid">{subject_summary_cards(year_folder, grouped)}</div><p class="homeschool-inline-links">Subject hubs: {subject_links}</p></section>
-  {qr_card(f"Scan for {label} online quizzes", quiz_url, "Print this page for your folder, then scan the QR code to return to the live SkillrHub pack with practice quizzes, tests and worksheets.")}
+  {qr_card(f"Scan for {label} online quizzes", quiz_url, "Print this sample for your folder. Scan the QR code to return here for the topic guides, practice and worksheet links.")}
   <section class="homeschool-grid">
-    <article><h2>Suggested weekly rhythm</h2><ul><li>Choose 1 Maths skill, 1 English skill and 1 Science skill.</li><li>Read the topic guide or classroom view with your child.</li><li>Complete a worksheet or short practice quiz.</li><li>Use the test link as a quick check when ready.</li><li>Print or save this pack with notes beside work samples.</li></ul></article>
+    <article><h2>Suggested weekly rhythm</h2><ul><li>Choose 1 Maths skill, 1 English skill and 1 Science skill.</li><li>Read the topic guide or classroom view with your child.</li><li>Complete a worksheet or short practice quiz.</li><li>When ready, open the app to take a free topic test where available.</li><li>Print or save this pack with notes beside work samples.</li></ul></article>
     <article><h2>Evidence ideas</h2><ul><li>Keep one early and one later work sample for a skill.</li><li>Add a short note: independent, supported, needs review or extended.</li><li>Record practical activities, reading, discussion and projects.</li><li>Use SkillrHub test results as one evidence source, not the only source.</li><li>Check your state or territory authority for official requirements.</li></ul></article>
   </section>
   {subject_sections(grouped)}
@@ -207,12 +206,12 @@ def index_page(units: list[dict]) -> str:
     cards = "".join(
         f"""<a class="homeschool-pack-card" href="/homeschooling-australia/{segment}/">
   <strong>{esc(label)} planner pack</strong>
-  <span>{totals[folder]} mapped skills with Learn, Teach, Worksheet, Practice and Test links</span>
+  <span>{totals[folder]} mapped skills with Learn, Teach, Worksheet and Practice links</span>
 </a>"""
         for folder, label, segment in YEARS
     )
     path = "/homeschooling-australia/foundation-year-2-planner-pack/"
-    description = "Free Foundation to Year 2 homeschool planner packs with curriculum links, online quizzes, worksheets, tests and printable progress records."
+    description = "Free printable Foundation to Year 2 homeschool planning samples, topic guides and checklists. Open the SkillrHub app for a personalised plan."
     return f"""<!DOCTYPE html>
 <html lang="en-AU">
 {head("Foundation to Year 2 Homeschool Planner Pack | SkillrHub", description, path)}
@@ -222,13 +221,13 @@ def index_page(units: list[dict]) -> str:
   <nav class="breadcrumb" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/homeschooling-australia/">Homeschooling Australia</a></li><li aria-current="page">Foundation-Year 2 planner pack</li></ol></nav>
   <section class="homeschool-hero">
     <p class="ux-eyebrow">Ready for tomorrow</p>
-    <h1>Foundation to Year 2 homeschool planner packs</h1>
-    <p>Start with the early years: free curriculum-mapped SkillrHub pages, online quizzes, worksheets, tests and printable progress records for Foundation, Year 1 and Year 2.</p>
-    <div class="homeschool-actions"><a class="ux-primary" href="/homeschooling-australia/foundation/">Foundation pack</a><a class="ux-secondary" href="/homeschooling-australia/year-1/">Year 1 pack</a><a class="ux-secondary" href="/homeschooling-australia/year-2/">Year 2 pack</a></div>
+    <h1>Foundation to Year 2 homeschool planning samples</h1>
+    <p>Browse and print these free planning samples without signing in. For your child’s own plan or a free topic test, sign in to the app and choose a learner. Paid worksheet packs are optional.</p>
+    <div class="homeschool-actions"><a class="ux-primary" href="https://app.skillrhub.com/?login=1">Open your planner in SkillrHub</a><a class="ux-secondary" href="/homeschooling-australia/foundation/">Foundation sample</a><a class="ux-secondary" href="/homeschooling-australia/year-1/">Year 1 sample</a><a class="ux-secondary" href="/homeschooling-australia/year-2/">Year 2 sample</a></div>
   </section>
   <section class="homeschool-router"><h2>Choose a pack</h2><div class="homeschool-link-grid">{cards}</div></section>
-  {qr_card("Scan for F-2 web quiz support", path, "Add this QR code to the TPT preview or printed cover so families can open the live SkillrHub quiz, test and worksheet pathways.")}
-  <section class="homeschool-grid"><article><h2>What families get</h2><ul><li>Mapped Maths, Science and English skill lists.</li><li>Direct links to free topic guides, practice quizzes, tests and worksheets.</li><li>Printable checklists for homeschool records.</li><li>Simple weekly rhythm for planning.</li></ul></article><article><h2>How SkillrHub helps</h2><ul><li>No learner login or subscription is required.</li><li>Families can print progress instead of uploading private work.</li><li>Parents can use free resources even if they also use another homeschool provider.</li><li>Optional premium products can sit beside the free pathway later.</li></ul></article></section>
+  {qr_card("Scan for F-2 web quiz support", path, "Scan this QR code to return to the free printable samples.")}
+  <section class="homeschool-grid"><article><h2>What families get</h2><ul><li>Mapped Maths, Science and English skill lists.</li><li>Direct links to topic guides, practice and optional worksheets.</li><li>Printable checklists for homeschool records.</li><li>Simple weekly rhythm for planning.</li></ul></article><article><h2>How SkillrHub helps</h2><ul><li>No sign-in is needed to view or print these samples.</li><li>Families can print progress instead of uploading private work.</li><li>Parents can use free resources even if they also use another homeschool provider.</li><li>The personalised planner and free topic tests are in the app.</li></ul></article></section>
 </main>
 {footer()}
 <script src="/assets/vendor/qrcode.min.js" defer></script>
